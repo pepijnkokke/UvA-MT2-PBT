@@ -1,0 +1,11 @@
+0 1 program storage
+1 2 storage unit
+2 3 unit 107
+3 4 107 is
+4 5 is formed
+5 6 formed of
+6 7 of a
+7 8 a volatile
+8 9 volatile memory
+9 10 memory .
+10

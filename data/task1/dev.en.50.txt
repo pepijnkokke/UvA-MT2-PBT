@@ -1,0 +1,16 @@
+0 1 the processing
+1 2 processing procedure
+2 3 procedure of
+3 4 of this
+4 5 this step
+5 6 step s4
+6 7 s4 for
+7 8 for correction
+8 9 correction is
+9 10 is shown
+10 11 shown in
+11 12 in fig
+12 13 fig .
+13 14 . 4
+14 15 4 .
+15

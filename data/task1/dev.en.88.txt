@@ -1,0 +1,14 @@
+0 1 a power
+1 2 power is
+2 3 is supplied
+3 4 supplied from
+4 5 from a
+5 6 a power
+6 7 power source
+7 8 source 91
+8 9 91 to
+9 10 to the
+10 11 the coil
+11 12 coil 92
+12 13 92 .
+13

@@ -1,0 +1,14 @@
+0 1 this brings
+1 2 brings about
+2 3 about electrical
+3 4 electrical connection
+4 5 connection between
+5 6 between the
+6 7 the bumps
+7 8 bumps 21
+8 9 21 and
+9 10 and the
+10 11 the pads
+11 12 pads 22
+12 13 22 .
+13

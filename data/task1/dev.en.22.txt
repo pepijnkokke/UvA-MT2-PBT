@@ -1,0 +1,17 @@
+0 1 comparison unit
+1 2 unit 235
+2 3 235 compares
+3 4 compares the
+4 5 the count
+5 6 count value
+6 7 value sent
+7 8 sent from
+8 9 from counter
+9 10 counter unit
+10 11 unit 233
+11 12 233 and
+12 13 and the
+13 14 the address
+14 15 address number
+15 16 number .
+16

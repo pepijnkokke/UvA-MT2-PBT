@@ -1,0 +1,14 @@
+0 1 dc current
+1 2 current i
+2 3 i flowing
+3 4 flowing through
+4 5 through the
+5 6 the feeding
+6 7 feeding conductor
+7 8 conductor 3
+8 9 3 produces
+9 10 produces magnetic
+10 11 magnetic field
+11 12 field b1
+12 13 b1 .
+13

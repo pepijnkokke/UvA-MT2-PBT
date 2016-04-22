@@ -1,0 +1,17 @@
+0 1 the present
+1 2 present invention
+2 3 invention relates
+3 4 relates to
+4 5 to an
+5 6 an image
+6 7 image recording
+7 8 recording apparatus
+8 9 apparatus used
+9 10 used in
+10 11 in a
+11 12 a copy
+12 13 copy machine
+13 14 machine or
+14 15 or printer
+15 16 printer .
+16

@@ -1,0 +1,16 @@
+0 1 the display
+1 2 display may
+2 3 may be
+3 4 be ,
+4 5 , for
+5 6 for example
+6 7 example ,
+7 8 , a
+8 9 a crt
+9 10 crt (
+10 11 ( cathode
+11 12 cathode ray
+12 13 ray tube
+13 14 tube )
+14 15 ) .
+15

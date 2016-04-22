@@ -1,0 +1,16 @@
+0 1 fig .
+1 2 . 5
+2 3 5 shows
+3 4 shows an
+4 5 an outline
+5 6 outline of
+6 7 of the
+7 8 the clock
+8 9 clock switch
+9 10 switch circuit
+10 11 circuit of
+11 12 of the
+12 13 the present
+13 14 present invention
+14 15 invention .
+15

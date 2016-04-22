@@ -1,0 +1,17 @@
+0 1 thereby the
+1 2 the second
+2 3 second parallel
+3 4 parallel link
+4 5 link 60
+5 6 60 rotates
+6 7 rotates upwardly
+7 8 upwardly using
+8 9 using the
+9 10 the shafts
+10 11 shafts 64
+11 12 64 and
+12 13 and 66
+13 14 66 as
+14 15 as axes
+15 16 axes .
+16

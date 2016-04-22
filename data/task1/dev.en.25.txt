@@ -1,0 +1,12 @@
+0 1 these clock
+1 2 clock signals
+2 3 signals are
+3 4 are both
+4 5 both clocks
+5 6 clocks vibrating
+6 7 vibrating about
+7 8 about 1
+8 9 1 /
+9 10 / 2vdd
+10 11 2vdd .
+11

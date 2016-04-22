@@ -1,0 +1,15 @@
+0 1 the radio
+1 2 radio section
+2 3 section 14
+3 4 14 uses
+4 5 uses the
+5 6 the frequency
+6 7 frequency synthesizer
+7 8 synthesizer 22
+8 9 22 for
+9 10 for transmission
+10 11 transmission along
+11 12 along with
+12 13 with reception
+13 14 reception .
+14
