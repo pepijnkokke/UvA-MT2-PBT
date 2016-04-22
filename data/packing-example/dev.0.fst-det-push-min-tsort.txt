@@ -1,0 +1,77 @@
+0	1	0	then	0.357421875
+1	2	1	,
+2	3	3	step
+3	4	4	s5
+4	16	2	in
+4	5	5	,	4.61230469
+5	6	2	in
+6	7	17	the
+7	8	18	engine
+8	9	19	1
+9	10	16	of
+10	27	15	state
+10	11	6	a
+11	12	7	target
+12	13	8	engine
+13	14	9	speed
+14	15	10	nt
+15	58	13	the
+15	44	15	state	1.38671875
+16	22	5	,
+16	17	6	a	5.99902344
+17	18	5	,
+18	19	17	the
+19	20	18	engine
+20	21	19	1
+21	28	16	of
+22	29	6	a
+22	23	17	the	1.31640625
+23	24	18	engine
+24	25	19	1
+25	26	16	of
+26	28	6	a	0.810546875
+26	27	15	state
+27	34	6	a
+28	35	7	target
+29	36	7	target
+29	30	17	the	5.30566406
+30	31	18	engine
+31	32	19	1
+32	33	16	of
+33	35	7	target
+33	34	15	state	0.693359375
+34	41	7	target
+35	50	8	engine
+36	46	8	engine
+36	37	17	the	5.99902344
+37	38	18	engine
+38	39	19	1
+39	40	16	of
+40	50	8	engine
+40	41	15	state
+41	42	8	engine
+42	43	9	speed
+43	44	10	nt
+44	45	13	the
+45	60	14	operation
+46	52	9	speed
+46	47	17	the	5.30566406
+47	48	18	engine
+48	49	19	1
+49	50	16	of
+50	51	9	speed
+51	57	10	nt
+52	53	10	nt
+53	54	17	the
+54	55	18	engine
+55	56	19	1
+56	57	16	of
+57	58	13	the
+58	59	14	operation
+59	60	15	state
+60	61	12	to
+61	62	11	corresponding
+62	63	20	is
+63	64	21	computed
+64	65	22	.
+65
