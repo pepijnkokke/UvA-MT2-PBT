@@ -1,0 +1,17 @@
+<eps> 0
+the 1
+cylindrical 2
+portion 3
+of 4
+the 5
+second 6
+drum 7
+32 8
+includes 9
+a 10
+plurality 11
+of 12
+outer 13
+teeth 14
+32a 15
+. 16

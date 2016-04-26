@@ -1,0 +1,16 @@
+<eps> 0
+a 1
+power 2
+supply 3
+apparatus 4
+for 5
+use 6
+in 7
+mig 8
+welding 9
+has 10
+a 11
+constant-voltage 12
+supplying 13
+characteristic 14
+. 15

@@ -1,0 +1,12 @@
+<eps> 0
+a 1
+tool 2
+magazine 3
+7 4
+is 5
+disposed 6
+beside 7
+the 8
+column 9
+3 10
+. 11

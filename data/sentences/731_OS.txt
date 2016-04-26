@@ -1,0 +1,16 @@
+<eps> 0
+demultiplexing 1
+of 2
+data 3
+from 4
+the 5
+transmission 6
+line 7
+to 8
+the 9
+terminal 10
+will 11
+be 12
+explained 13
+below 14
+. 15

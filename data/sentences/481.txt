@@ -1,0 +1,17 @@
+0 1 1 the
+1 2 2 extracted
+2 3 3 &quot;
+3 4 4 message
+4 5 5 id
+5 6 6 &quot;
+6 7 7 is
+7 8 8 handed
+8 9 9 over
+9 10 10 to
+10 11 11 reply
+11 12 12 message
+12 13 13 creation
+13 14 14 section
+14 15 15 7
+15 16 16 .
+15

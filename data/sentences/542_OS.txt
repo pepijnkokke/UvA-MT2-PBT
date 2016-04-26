@@ -1,0 +1,16 @@
+<eps> 0
+an 1
+output 2
+from 3
+the 4
+and 5
+gate 6
+10 7
+is 8
+furnished 9
+to 10
+a 11
+replacing 12
+circuit 13
+4 14
+. 15

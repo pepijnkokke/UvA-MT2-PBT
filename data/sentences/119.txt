@@ -1,0 +1,15 @@
+0 1 1 the
+1 2 2 processor
+2 3 3 monitors
+3 4 4 this
+4 5 5 state
+5 6 6 and
+6 7 7 determines
+7 8 8 that
+8 9 9 valid
+9 10 10 data
+10 11 11 is
+11 12 12 not
+12 13 13 output
+13 14 14 .
+13

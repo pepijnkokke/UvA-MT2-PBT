@@ -1,0 +1,12 @@
+<eps> 0
+the 1
+speed 2
+dial 3
+26 4
+is 5
+used 6
+to 7
+edit 8
+speed 9
+values 10
+. 11

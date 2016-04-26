@@ -1,0 +1,15 @@
+<eps> 0
+at 1
+this 2
+time 3
+, 4
+the 5
+selected 6
+page 7
+is 8
+displayed 9
+on 10
+the 11
+lcd 12
+61 13
+. 14

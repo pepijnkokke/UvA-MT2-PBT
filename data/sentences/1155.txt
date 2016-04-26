@@ -1,0 +1,15 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 6
+3 4 4 presents
+4 5 5 bias
+5 6 6 conditions
+6 7 7 as
+7 8 8 the
+8 9 9 voltage
+9 10 10 conditions
+10 11 11 of
+11 12 12 those
+12 13 13 operations
+13 14 14 .
+13

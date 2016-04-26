@@ -1,0 +1,14 @@
+<eps> 0
+a 1
+simple 2
+construction 3
+using 4
+a 5
+one-dimensional 6
+photoelectric 7
+element 8
+array 9
+is 10
+shown 11
+below 12
+. 13

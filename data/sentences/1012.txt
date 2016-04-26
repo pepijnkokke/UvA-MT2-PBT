@@ -1,0 +1,15 @@
+0 1 1 in
+1 2 2 the
+2 3 3 embodiment
+3 4 4 6
+4 5 5 ,
+5 6 6 all
+6 7 7 these
+7 8 8 synchronization
+8 9 9 control
+9 10 10 parameters
+10 11 11 are
+11 12 12 concurrently
+12 13 13 set
+13 14 14 .
+13

@@ -1,0 +1,15 @@
+<eps> 0
+the 1
+number 2
+of 3
+bits 4
+per 5
+word 6
+is 7
+set 8
+to 9
+24 10
+bits 11
+at 12
+maximum 13
+. 14

@@ -1,0 +1,10 @@
+0 1 1 thus
+1 2 2 ,
+2 3 3 one
+3 4 4 step
+4 5 5 tracking
+5 6 6 operation
+6 7 7 is
+7 8 8 completed
+8 9 9 .
+8

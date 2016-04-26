@@ -1,0 +1,13 @@
+<eps> 0
+fig 1
+. 2
+7 3
+shows 4
+building-up 5
+characteristics 6
+of 7
+the 8
+air 9
+pump 10
+15 11
+. 12

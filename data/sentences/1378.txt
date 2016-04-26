@@ -1,0 +1,17 @@
+0 1 1 the
+1 2 2 surface
+2 3 3 of
+3 4 4 the
+4 5 5 control
+5 6 6 gate
+6 7 7 6
+7 8 8 is
+8 9 9 covered
+9 10 10 by
+10 11 11 a
+11 12 12 silicon
+12 13 13 oxide
+13 14 14 film
+14 15 15 7
+15 16 16 .
+15

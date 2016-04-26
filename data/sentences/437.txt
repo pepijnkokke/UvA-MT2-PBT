@@ -1,0 +1,16 @@
+0 1 1 in
+1 2 2 this
+2 3 3 example
+3 4 4 ,
+4 5 5 a
+5 6 6 reverse-staggered
+6 7 7 type
+7 8 8 thin-film
+8 9 9 transistor
+9 10 10 is
+10 11 11 taken
+11 12 12 as
+12 13 13 the
+13 14 14 subject
+14 15 15 .
+14

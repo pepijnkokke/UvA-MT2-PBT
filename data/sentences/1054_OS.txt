@@ -1,0 +1,17 @@
+<eps> 0
+estimation 1
+picture 2
+data 3
+outputted 4
+by 5
+the 6
+motion 7
+compensator 8
+64 9
+is 10
+provided 11
+to 12
+a 13
+calculator 14
+53a 15
+. 16

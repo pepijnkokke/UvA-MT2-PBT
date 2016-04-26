@@ -1,0 +1,16 @@
+<eps> 0
+reference 1
+numerals 2
+44 3
+and 4
+45 5
+respectively 6
+denote 7
+capacitors 8
+, 9
+each 10
+comprising 11
+a 12
+mos 13
+transistor 14
+. 15

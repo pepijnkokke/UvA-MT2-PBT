@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 cd
+2 3 3 3
+3 4 4 is
+4 5 5 provided
+5 6 6 with
+6 7 7 data
+7 8 8 recording
+8 9 9 tracks
+9 10 10 arranged
+10 11 11 at
+11 12 12 fixed
+12 13 13 radial
+13 14 14 intervals
+14 15 15 .
+14

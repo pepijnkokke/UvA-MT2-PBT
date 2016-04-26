@@ -1,0 +1,12 @@
+<eps> 0
+the 1
+surface 2
+impurity 3
+concentration 4
+of 5
+the 6
+region 7
+is 8
+about 9
+1.times.10.sup.16 10
+cm.sup.-2. 11

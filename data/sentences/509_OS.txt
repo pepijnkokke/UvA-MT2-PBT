@@ -1,0 +1,17 @@
+<eps> 0
+at 1
+the 2
+same 3
+time 4
+, 5
+the 6
+phase 7
+difference 8
+signal 9
+.phi.r 10
+is 11
+at 12
+a 13
+high 14
+level 15
+. 16

@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 spindle
+2 3 3 motor
+3 4 4 12
+4 5 5 rotates
+5 6 6 the
+6 7 7 checked
+7 8 8 disc
+8 9 9 10
+9 10 10 at
+10 11 11 a
+11 12 12 constant
+12 13 13 linear
+13 14 14 velocity
+14 15 15 .
+14

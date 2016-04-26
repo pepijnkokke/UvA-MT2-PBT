@@ -1,0 +1,16 @@
+<eps> 0
+the 1
+reproduced 2
+data 3
+is 4
+transferred 5
+from 6
+the 7
+processor 8
+21 9
+to 10
+the 11
+external 12
+apparatus 13
+10 14
+. 15

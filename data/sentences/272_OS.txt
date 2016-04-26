@@ -1,0 +1,17 @@
+<eps> 0
+numeral 1
+11 2
+indicates 3
+a 4
+stopper 5
+for 6
+restricting 7
+the 8
+range 9
+of 10
+rotation 11
+of 12
+the 13
+lever 14
+7 15
+. 16

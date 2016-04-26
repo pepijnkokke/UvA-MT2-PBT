@@ -1,0 +1,17 @@
+<eps> 0
+informations 1
+on 2
+the 3
+memory 4
+access 5
+and 6
+load 7
+register 8
+are 9
+transferred 10
+to 11
+the 12
+m 13
+stage 14
+404 15
+. 16

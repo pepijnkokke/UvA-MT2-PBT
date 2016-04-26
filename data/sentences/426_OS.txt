@@ -1,0 +1,13 @@
+<eps> 0
+thus 1
+, 2
+the 3
+left 4
+input 5
+data 6
+of 7
+node 8
+nd15 9
+is 10
+obtained 11
+. 12

@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 operations
+2 3 3 of
+3 4 4 the
+4 5 5 above
+5 6 6 steps
+6 7 7 s9-s13
+7 8 8 correspond
+8 9 9 to
+9 10 10 the
+10 11 11 phrase
+11 12 12 skeleton
+12 13 13 generating
+13 14 14 operation
+14 15 15 .
+14

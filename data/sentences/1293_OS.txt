@@ -1,0 +1,16 @@
+<eps> 0
+in 1
+addition 2
+, 3
+binary 4
+&quot; 5
+0 6
+&quot; 7
+pulses 8
+must 9
+be 10
+alternately 11
+changed 12
+in 13
+polarity 14
+. 15

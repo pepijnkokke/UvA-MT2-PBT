@@ -1,0 +1,16 @@
+<eps> 0
+the 1
+delay 2
+circuit 3
+170a 4
+delays 5
+this 6
+preamplifier 7
+enable 8
+signal 9
+pae 10
+by 11
+a 12
+prescribed 13
+time 14
+. 15

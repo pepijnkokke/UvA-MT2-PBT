@@ -1,0 +1,12 @@
+<eps> 0
+this 1
+management 2
+information 3
+is 4
+held 5
+in 6
+the 7
+temporary 8
+buffer 9
+13 10
+. 11

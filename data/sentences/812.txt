@@ -1,0 +1,17 @@
+0 1 1 the
+1 2 2 polyimide
+2 3 3 resin
+3 4 4 is
+4 5 5 implemented
+5 6 6 by
+6 7 7 photosensitive
+7 8 8 polyimide
+8 9 9 having
+9 10 10 a
+10 11 11 small
+11 12 12 coefficient
+12 13 13 of
+13 14 14 thermal
+14 15 15 expansion
+15 16 16 .
+15

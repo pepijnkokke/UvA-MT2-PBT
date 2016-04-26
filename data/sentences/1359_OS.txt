@@ -1,0 +1,8 @@
+<eps> 0
+the 1
+shielding 2
+plate 3
+50 4
+is 5
+grounded 6
+. 7

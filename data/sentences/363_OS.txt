@@ -1,0 +1,14 @@
+<eps> 0
+this 1
+is 2
+the 3
+same 4
+as 5
+the 6
+configuration 7
+shown 8
+in 9
+fig 10
+. 11
+22 12
+. 13

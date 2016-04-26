@@ -1,0 +1,16 @@
+0 1 1 furthermore
+1 2 2 ,
+2 3 3 the
+3 4 4 arms
+4 5 5 12a
+5 6 6 do
+6 7 7 not
+7 8 8 have
+8 9 9 projections
+9 10 10 for
+10 11 11 holding
+11 12 12 the
+12 13 13 carrier
+13 14 14 11
+14 15 15 .
+14

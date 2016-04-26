@@ -1,0 +1,12 @@
+0 1 1 this
+1 2 2 management
+2 3 3 information
+3 4 4 is
+4 5 5 held
+5 6 6 in
+6 7 7 the
+7 8 8 temporary
+8 9 9 buffer
+9 10 10 13
+10 11 11 .
+10

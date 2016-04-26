@@ -1,0 +1,15 @@
+<eps> 0
+during 1
+this 2
+period 3
+, 4
+data 5
+q0 6
+is 7
+continuously 8
+output 9
+from 10
+the 11
+output 12
+circuit 13
+. 14

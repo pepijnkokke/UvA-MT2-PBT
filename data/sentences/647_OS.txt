@@ -1,0 +1,16 @@
+<eps> 0
+a 1
+rotary 2
+disk 3
+7 4
+assembly 5
+including 6
+the 7
+rotary 8
+poles 9
+9 10
+constitutes 11
+a 12
+rotor 13
+6 14
+. 15

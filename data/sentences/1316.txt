@@ -1,0 +1,17 @@
+0 1 1 the
+1 2 2 hdd
+2 3 3 pack
+3 4 4 32
+4 5 5 is
+5 6 6 set
+6 7 7 at
+7 8 8 a
+8 9 9 certain
+9 10 10 position
+10 11 11 in
+11 12 12 the
+12 13 13 storing
+13 14 14 section
+14 15 15 34
+15 16 16 .
+15

@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 reproduced
+2 3 3 data
+3 4 4 is
+4 5 5 transferred
+5 6 6 from
+6 7 7 the
+7 8 8 processor
+8 9 9 21
+9 10 10 to
+10 11 11 the
+11 12 12 external
+12 13 13 apparatus
+13 14 14 10
+14 15 15 .
+14

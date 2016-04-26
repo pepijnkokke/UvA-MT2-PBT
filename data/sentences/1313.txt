@@ -1,0 +1,13 @@
+0 1 1 the
+1 2 2 portions
+2 3 3 601
+3 4 4 ,
+4 5 5 602
+5 6 6 and
+6 7 7 603
+7 8 8 are
+8 9 9 similar
+9 10 10 in
+10 11 11 construction
+11 12 12 .
+11

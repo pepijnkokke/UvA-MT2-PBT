@@ -1,0 +1,10 @@
+<eps> 0
+reference 1
+numeral 2
+14 3
+denotes 4
+a 5
+gain 6
+analyzing 7
+section 8
+. 9

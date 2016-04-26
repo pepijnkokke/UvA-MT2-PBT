@@ -1,0 +1,17 @@
+<eps> 0
+register 1
+35 2
+has 3
+a 4
+function 5
+of 6
+delaying 7
+the 8
+signal 9
+not 10
+taken 11
+for 12
+1 13
+clock 14
+cycle 15
+. 16

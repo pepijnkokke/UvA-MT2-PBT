@@ -1,0 +1,17 @@
+<eps> 0
+at 1
+time 2
+t5 3
+, 4
+internal 5
+write 6
+instructing 7
+signal 8
+/ 9
+wde 10
+is 11
+raised 12
+to 13
+&quot; 14
+h. 15
+&quot; 16

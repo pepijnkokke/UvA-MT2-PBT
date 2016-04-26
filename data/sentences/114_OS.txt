@@ -1,0 +1,15 @@
+<eps> 0
+a 1
+moving 2
+ring 3
+13 4
+is 5
+arranged 6
+to 7
+hold 8
+the 9
+movable 10
+lens 11
+group 12
+26 13
+. 14

@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 conventional
+2 3 3 drawbacks
+3 4 4 describe
+4 5 5 above
+5 6 6 are
+6 7 7 caused
+7 8 8 in
+8 9 9 a
+9 10 10 general
+10 11 11 memory
+11 12 12 of
+12 13 13 one
+13 14 14 port
+14 15 15 .
+14

@@ -1,0 +1,15 @@
+<eps> 0
+dc 1
+current 2
+i 3
+flowing 4
+through 5
+the 6
+feeding 7
+conductor 8
+3 9
+produces 10
+magnetic 11
+field 12
+b1 13
+. 14

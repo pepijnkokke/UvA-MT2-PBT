@@ -1,0 +1,12 @@
+<eps> 0
+the 1
+configuration 2
+of 3
+the 4
+peripheral 5
+circuitry 6
+will 7
+now 8
+be 9
+described 10
+. 11

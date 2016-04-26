@@ -1,0 +1,13 @@
+<eps> 0
+therefore 1
+, 2
+impurity 3
+uniformly 4
+diffuses 5
+also 6
+into 7
+polycrystalline 8
+silicon 9
+layer 10
+10a 11
+. 12

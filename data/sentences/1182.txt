@@ -1,0 +1,17 @@
+0 1 1 at
+1 2 2 time
+2 3 3 t5
+3 4 4 ,
+4 5 5 internal
+5 6 6 write
+6 7 7 instructing
+7 8 8 signal
+8 9 9 /
+9 10 10 wde
+10 11 11 is
+11 12 12 raised
+12 13 13 to
+13 14 14 &quot;
+14 15 15 h.
+15 16 16 &quot;
+15
