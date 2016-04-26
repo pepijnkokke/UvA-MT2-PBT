@@ -1,8 +1,8 @@
-0 1 a reference
-1 2 reference numeral
-2 3 numeral 49
-3 4 49 represents
-4 5 represents a
-5 6 a shutter
-6 7 shutter .
+0 1 0 a
+1 2 1 reference
+2 3 2 numeral
+3 4 3 49
+4 5 4 represents
+5 6 5 a
+6 7 6 shutter
 7

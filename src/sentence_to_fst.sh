@@ -12,7 +12,7 @@ function sentence_to_fst() {
     for i in "${!sentence[@]}"; do
         if (( i < last_index )); then
             local j=`expr $i + 1`
-            printf "%s %s %s %s\n" "$i" "$j" "${sentence[$i]}" "${sentence[$j]}"
+            printf "%s %s %s %s\n" "$i" "$j" "$i" "${sentence[$i]}"
         else
             printf "%s\n" "$i"
         fi
