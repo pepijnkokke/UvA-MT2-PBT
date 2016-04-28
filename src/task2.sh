@@ -14,10 +14,11 @@ DATA_DIR=${DATA_DIR:-"$SRC_DIR/../data"}
 # Set the path to the dev.en file.
 #
 DEV_EN=${DEV_EN:-"$DATA_DIR/dev.en"}
+RULES_MONOTONE_DEV=${RULES_MONOTONE_DEV:-"$DATA_DIR/rules.monotone.dev"}
 
 # Set the path to the output/ directory.
 #
-OUT_DIR=${OUT_DIR:-"$DATA_DIR/task1"}
+OUT_DIR=${OUT_DIR:-"$DATA_DIR/task2"}
 
 mkdir -p "$OUT_DIR"
 
@@ -27,18 +28,7 @@ N=${N:-"100"}
 
 # Import dependencies.
 #
-source "$SRC_DIR/sentence_to_fst.sh"
-source "$SRC_DIR/sentence_to_osyms.sh"
+source "$SRC_DIR/phrasetable_to_fst.sh"
 
-# Convert the first $N sentences in $DEV_EN to FSTs.
-#
-IFS=$'\n'
-sentences=(`head -n $N $DEV_EN`)
-for i in "${!sentences[@]}"; do
-    printf "\r$(expr $i + 1)/$N"
-    FST_FILE="$OUT_DIR/dev.en.$i.fst"
-    OUT_FILE="$OUT_DIR/dev.en.$i.osyms"
-    sentence_to_fst   "${sentences[$i]}" > $FST_FILE
-    sentence_to_osyms "${sentences[$i]}" > $OUT_FILE
-done
-printf "\r"
+k=4
+phrasetable_to_fst "$RULES_MONOTONE_DEV/grammar.$k"
