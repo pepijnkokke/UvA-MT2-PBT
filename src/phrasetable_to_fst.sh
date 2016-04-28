@@ -14,7 +14,9 @@ function phrasetable_to_fst() {
 
     for rule in "${rules[@]}"; do
 
-        local IFS=$'|'
+        # WARN: this will FAIL if there are any |'s present in the remainder of
+        # the line, since IFS separates by CHARACTER
+        local IFS=$'|||'
         local rule=($rule)
 
         local IFS=$' '
