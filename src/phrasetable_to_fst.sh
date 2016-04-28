@@ -3,7 +3,7 @@
 # Convert a phrase-table to an equivalent FST in the AT&T FSM format.
 
 function strip_space() {
-    echo `sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]+/ /' -e 's/[[:space:]]*$//' <<< "$1"`
+    echo `sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]+/ /g' -e 's/[[:space:]]*$//' <<< "$1"`
 }
 
 function phrasetable_to_fst() {
@@ -16,13 +16,13 @@ function phrasetable_to_fst() {
 
         # WARN: this will FAIL if there are any |'s present in the remainder of
         # the line, since IFS separates by CHARACTER
-        local IFS=$'|||'
-        local rule=($rule)
+        local IFS=$'\n'
+        local rule=(`gsed -e $'s/|||/\\\n/g' <<< $rule`)
 
-        local IFS=$' '
-        local source=(`strip_space "${rule[3]}"`)
-        local target=(`strip_space "${rule[6]}"`)
-        local feature_map=(`strip_space "${rule[9]}"`)
+        local IFS=' '
+        local source=(`strip_space "${rule[1]}"`)
+        local target=(`strip_space "${rule[2]}"`)
+        local feature_map=(`strip_space "${rule[3]}"`)
         local last_index=`expr ${#target[@]} - 1`
 
         if (( ${#source[@]} == 1 )) && (( ${#target[@]} == 1 )); then
