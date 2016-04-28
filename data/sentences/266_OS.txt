@@ -1,0 +1,17 @@
+<eps> 0
+fig 1
+. 2
+18 3
+shows 4
+a 5
+configuration 6
+of 7
+the 8
+status 9
+register 10
+19 11
+of 12
+fig 13
+. 14
+17 15
+. 16

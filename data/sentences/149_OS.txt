@@ -1,0 +1,12 @@
+<eps> 0
+( 1
+5 2
+) 3
+the 4
+halt 5
+process 6
+is 7
+performed 8
+as 9
+follows 10
+. 11

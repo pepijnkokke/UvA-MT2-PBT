@@ -1,0 +1,17 @@
+0 1 1 in
+1 2 2 this
+2 3 3 step
+3 4 4 ,
+4 5 5 impurity
+5 6 6 ions
+6 7 7 were
+7 8 8 implanted
+8 9 9 for
+9 10 10 forming
+10 11 11 the
+11 12 12 source
+12 13 13 and
+13 14 14 drain
+14 15 15 regions
+15 16 16 .
+15

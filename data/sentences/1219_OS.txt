@@ -1,0 +1,14 @@
+<eps> 0
+the 1
+demodulator 2
+65 3
+demodulates 4
+the 5
+modulated 6
+signal 7
+with 8
+the 9
+signal 10
+sent 11
+thereto 12
+. 13

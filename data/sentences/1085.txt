@@ -1,0 +1,16 @@
+0 1 1 furthermore
+1 2 2 ,
+2 3 3 execution
+3 4 4 control
+4 5 5 of
+5 6 6 user
+6 7 7 programs
+7 8 8 is
+8 9 9 performed
+9 10 10 by
+10 11 11 using
+11 12 12 software
+12 13 13 break
+13 14 14 instructions
+14 15 15 .
+14

@@ -1,0 +1,10 @@
+<eps> 0
+the 1
+breaker 2
+device 3
+10 4
+is 5
+switched 6
+as 7
+follows 8
+. 9

@@ -1,0 +1,15 @@
+<eps> 0
+figs 1
+. 2
+1a 3
+and 4
+1b 5
+show 6
+an 7
+embodiment 8
+according 9
+to 10
+the 11
+present 12
+invention 13
+. 14

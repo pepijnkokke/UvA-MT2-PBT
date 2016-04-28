@@ -1,0 +1,10 @@
+<eps> 0
+now 1
+, 2
+the 3
+microcomputer 4
+11 5
+is 6
+started 7
+again 8
+. 9

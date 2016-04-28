@@ -1,0 +1,11 @@
+<eps> 0
+the 1
+user 2
+designates 3
+which 4
+rules 5
+are 6
+to 7
+be 8
+learned 9
+. 10

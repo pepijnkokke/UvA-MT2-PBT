@@ -1,0 +1,13 @@
+<eps> 0
+the 1
+specified 2
+opposing 3
+voltage 4
+v.sub.com 5
+is 6
+applied 7
+to 8
+the 9
+opposing 10
+electrode 11
+. 12

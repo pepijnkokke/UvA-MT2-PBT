@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 delay
+2 3 3 circuit
+3 4 4 170a
+4 5 5 delays
+5 6 6 this
+6 7 7 preamplifier
+7 8 8 enable
+8 9 9 signal
+9 10 10 pae
+10 11 11 by
+11 12 12 a
+12 13 13 prescribed
+13 14 14 time
+14 15 15 .
+14

@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 present
+2 3 3 invention
+3 4 4 relates
+4 5 5 to
+5 6 6 a
+6 7 7 controller
+7 8 8 for
+8 9 9 a
+9 10 10 current-controlled
+10 11 11 type
+11 12 12 power
+12 13 13 bipolar
+13 14 14 transistor
+14 15 15 .
+14

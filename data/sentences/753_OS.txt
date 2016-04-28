@@ -1,0 +1,17 @@
+<eps> 0
+the 1
+reactor 2
+11 3
+is 4
+provided 5
+with 6
+a 7
+water-cooling 8
+passage 9
+20 10
+for 11
+suppressing 12
+a 13
+temperature 14
+rise 15
+. 16

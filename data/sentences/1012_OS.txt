@@ -1,0 +1,15 @@
+<eps> 0
+in 1
+the 2
+embodiment 3
+6 4
+, 5
+all 6
+these 7
+synchronization 8
+control 9
+parameters 10
+are 11
+concurrently 12
+set 13
+. 14

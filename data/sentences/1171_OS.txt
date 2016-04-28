@@ -1,0 +1,14 @@
+<eps> 0
+furthermore 1
+, 2
+second 3
+roller 4
+87 5
+is 6
+set 7
+to 8
+second 9
+socket 10
+pusher 11
+73 12
+. 13

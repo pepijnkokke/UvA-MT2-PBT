@@ -1,0 +1,14 @@
+0 1 1 the
+1 2 2 erasing
+2 3 3 verify
+3 4 4 operation
+4 5 5 determines
+5 6 6 whether
+6 7 7 all
+7 8 8 memory
+8 9 9 cells
+9 10 10 are
+10 11 11 turned
+11 12 12 on
+12 13 13 .
+12

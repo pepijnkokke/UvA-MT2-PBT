@@ -1,0 +1,16 @@
+<eps> 0
+if 1
+the 2
+designated 3
+file 4
+is 5
+in 6
+communicating 7
+, 8
+the 9
+flow 10
+advances 11
+to 12
+step 13
+s56-8 14
+. 15

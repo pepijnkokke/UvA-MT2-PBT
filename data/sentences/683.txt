@@ -1,0 +1,17 @@
+0 1 1 the
+1 2 2 second
+2 3 3 furnace
+3 4 4 door
+4 5 5 26
+5 6 6 is
+6 7 7 opened
+7 8 8 ,
+8 9 9 and
+9 10 10 fire
+10 11 11 is
+11 12 12 set
+12 13 13 to
+13 14 14 the
+14 15 15 waste
+15 16 16 .
+15

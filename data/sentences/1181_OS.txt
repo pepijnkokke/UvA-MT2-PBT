@@ -1,0 +1,17 @@
+<eps> 0
+now 1
+, 2
+a 3
+description 4
+of 5
+a 6
+structure 7
+in 8
+accordance 9
+with 10
+this 11
+branch 12
+prediction 13
+method 14
+follows 15
+. 16

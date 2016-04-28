@@ -1,0 +1,17 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 8
+3 4 4 shows
+4 5 5 the
+5 6 6 relationship
+6 7 7 between
+7 8 8 the
+8 9 9 wind
+9 10 10 speed
+10 11 11 q
+11 12 12 and
+12 13 13 the
+13 14 14 pressure
+14 15 15 loss
+15 16 16 .delta.p.
+15

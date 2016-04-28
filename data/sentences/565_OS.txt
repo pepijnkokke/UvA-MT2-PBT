@@ -1,0 +1,11 @@
+<eps> 0
+this 1
+shifts 2
+the 3
+operation 4
+into 5
+the 6
+second 7
+period 8
+tm2 9
+. 10

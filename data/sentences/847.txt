@@ -1,0 +1,16 @@
+0 1 1 receiving
+1 2 2 the
+2 3 3 command
+3 4 4 ,
+4 5 5 the
+5 6 6 laser
+6 7 7 oscillator
+7 8 8 6
+8 9 9 again
+9 10 10 starts
+10 11 11 the
+11 12 12 laser
+12 13 13 beam
+13 14 14 irradiation
+14 15 15 .
+14

@@ -1,0 +1,16 @@
+<eps> 0
+next 1
+, 2
+the 3
+flag 4
+f.sub.a 5
+is 6
+set 7
+to 8
+&quot; 9
+1 10
+&quot; 11
+at 12
+step 13
+12 14
+. 15

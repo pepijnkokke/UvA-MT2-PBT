@@ -1,0 +1,14 @@
+<eps> 0
+in 1
+other 2
+words 3
+, 4
+the 5
+charging 6
+to 7
+the 8
+main 9
+condenser 10
+c4 11
+stops 12
+. 13

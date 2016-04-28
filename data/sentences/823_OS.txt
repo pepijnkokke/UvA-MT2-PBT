@@ -1,0 +1,16 @@
+<eps> 0
+step 1
+s5-66 2
+: 3
+it 4
+is 5
+decided 6
+whether 7
+or 8
+not 9
+the 10
+flag 11
+fc 12
+is 13
+0 14
+. 15

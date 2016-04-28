@@ -1,0 +1,14 @@
+<eps> 0
+next 1
+, 2
+a 3
+method 4
+for 5
+manufacturing 6
+the 7
+above 8
+npn 9
+transistor 10
+is 11
+explained 12
+. 13

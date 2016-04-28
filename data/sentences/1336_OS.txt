@@ -1,0 +1,13 @@
+<eps> 0
+fig 1
+. 2
+8 3
+is 4
+a 5
+flowchart 6
+showing 7
+the 8
+overall 9
+control 10
+procedure 11
+. 12

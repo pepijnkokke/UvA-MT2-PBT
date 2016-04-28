@@ -1,0 +1,17 @@
+<eps> 0
+one 1
+example 2
+of 3
+the 4
+circuit 5
+constant 6
+of 7
+the 8
+bicmos 9
+logical 10
+gate 11
+circuit 12
+will 13
+be 14
+described 15
+. 16

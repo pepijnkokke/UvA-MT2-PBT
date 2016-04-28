@@ -1,0 +1,12 @@
+<eps> 0
+gate 1
+electrode 2
+208 3
+is 4
+covered 5
+with 6
+an 7
+oxide 8
+film 9
+209a 10
+. 11

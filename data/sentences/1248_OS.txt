@@ -1,0 +1,15 @@
+<eps> 0
+a 1
+semiconductor 2
+device 3
+for 4
+solving 5
+the 6
+above 7
+described 8
+problems 9
+will 10
+be 11
+described 12
+below 13
+. 14

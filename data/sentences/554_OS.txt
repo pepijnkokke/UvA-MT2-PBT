@@ -1,0 +1,17 @@
+<eps> 0
+in 1
+this 2
+way 3
+, 4
+the 5
+normally-closed 6
+type 7
+electromagnetic 8
+valve 9
+20 10
+is 11
+recovered 12
+to 13
+be 14
+closed 15
+. 16

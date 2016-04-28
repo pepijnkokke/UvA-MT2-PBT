@@ -1,0 +1,12 @@
+0 1 1 rdp
+1 2 2 indicates
+2 3 3 an
+3 4 4 address
+4 5 5 to
+5 6 6 which
+6 7 7 a
+7 8 8 cpu
+8 9 9 accesses
+9 10 10 presently
+10 11 11 .
+10

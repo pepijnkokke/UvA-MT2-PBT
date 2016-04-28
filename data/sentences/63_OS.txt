@@ -1,0 +1,16 @@
+<eps> 0
+the 1
+radio 2
+section 3
+14 4
+uses 5
+the 6
+frequency 7
+synthesizer 8
+22 9
+for 10
+transmission 11
+along 12
+with 13
+reception 14
+. 15

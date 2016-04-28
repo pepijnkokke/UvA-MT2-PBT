@@ -1,0 +1,16 @@
+<eps> 0
+the 1
+power-feed 2
+terminal 3
+15a 4
+is 5
+used 6
+for 7
+applying 8
+a 9
+voltage 10
+to 11
+the 12
+conductor 13
+14a 14
+. 15

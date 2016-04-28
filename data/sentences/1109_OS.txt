@@ -1,0 +1,14 @@
+<eps> 0
+peripheral 1
+circuit 2
+708 3
+includes 4
+an 5
+address 6
+decoder 7
+( 8
+x 9
+and 10
+y 11
+) 12
+. 13

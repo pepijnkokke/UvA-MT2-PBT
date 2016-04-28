@@ -1,0 +1,13 @@
+0 1 1 thus
+1 2 2 ,
+2 3 3 the
+3 4 4 left
+4 5 5 input
+5 6 6 data
+6 7 7 of
+7 8 8 node
+8 9 9 nd15
+9 10 10 is
+10 11 11 obtained
+11 12 12 .
+11

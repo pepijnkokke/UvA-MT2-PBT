@@ -1,0 +1,17 @@
+<eps> 0
+the 1
+surface 2
+of 3
+the 4
+control 5
+gate 6
+6 7
+is 8
+covered 9
+by 10
+a 11
+silicon 12
+oxide 13
+film 14
+7 15
+. 16

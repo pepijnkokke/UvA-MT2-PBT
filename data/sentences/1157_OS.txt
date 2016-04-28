@@ -1,0 +1,16 @@
+<eps> 0
+the 1
+present 2
+invention 3
+relates 4
+to 5
+a 6
+controller 7
+for 8
+a 9
+current-controlled 10
+type 11
+power 12
+bipolar 13
+transistor 14
+. 15

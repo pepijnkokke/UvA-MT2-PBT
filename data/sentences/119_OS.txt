@@ -1,0 +1,15 @@
+<eps> 0
+the 1
+processor 2
+monitors 3
+this 4
+state 5
+and 6
+determines 7
+that 8
+valid 9
+data 10
+is 11
+not 12
+output 13
+. 14

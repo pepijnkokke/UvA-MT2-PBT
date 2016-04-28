@@ -1,0 +1,14 @@
+<eps> 0
+fig 1
+. 2
+14 3
+is 4
+a 5
+system 6
+architecture 7
+diagram 8
+for 9
+automatically 10
+dealing 11
+stocks 12
+. 13

@@ -1,0 +1,17 @@
+<eps> 0
+in 1
+this 2
+example 3
+, 4
+both 5
+of 6
+the 7
+contacts 8
+angles 9
+.theta.1 10
+and 11
+.theta.2 12
+are 13
+approximately 14
+15.degree 15
+.. 16

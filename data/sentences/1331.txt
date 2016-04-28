@@ -1,0 +1,17 @@
+0 1 1 light
+1 2 2 receiving
+2 3 3 portion
+3 4 4 50
+4 5 5 is
+5 6 6 also
+6 7 7 provided
+7 8 8 with
+8 9 9 a
+9 10 10 stopper
+10 11 11 mechanism
+11 12 12 in
+12 13 13 a
+13 14 14 similar
+14 15 15 manner
+15 16 16 .
+15

@@ -1,0 +1,15 @@
+0 1 1 the
+1 2 2 other
+2 3 3 components
+3 4 4 are
+4 5 5 the
+5 6 6 same
+6 7 7 as
+7 8 8 those
+8 9 9 shown
+9 10 10 in
+10 11 11 fig
+11 12 12 .
+12 13 13 10
+13 14 14 .
+13

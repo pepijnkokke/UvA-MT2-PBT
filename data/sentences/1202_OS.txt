@@ -1,0 +1,15 @@
+<eps> 0
+the 1
+ceramic 2
+block 3
+52 4
+is 5
+fixed 6
+to 7
+a 8
+metal 9
+stem 10
+6 11
+by 12
+brazing 13
+. 14

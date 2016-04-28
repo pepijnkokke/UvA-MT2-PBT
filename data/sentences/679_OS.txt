@@ -1,0 +1,16 @@
+<eps> 0
+this 1
+processing 2
+is 3
+repeated 4
+at 5
+intervals 6
+of 7
+the 8
+predetermined 9
+time 10
+t 11
+to 12
+output 13
+data 14
+. 15

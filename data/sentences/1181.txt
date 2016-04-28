@@ -1,0 +1,17 @@
+0 1 1 now
+1 2 2 ,
+2 3 3 a
+3 4 4 description
+4 5 5 of
+5 6 6 a
+6 7 7 structure
+7 8 8 in
+8 9 9 accordance
+9 10 10 with
+10 11 11 this
+11 12 12 branch
+12 13 13 prediction
+13 14 14 method
+14 15 15 follows
+15 16 16 .
+15

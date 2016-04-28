@@ -1,0 +1,15 @@
+<eps> 0
+the 1
+operand 2
+data 3
+stored 4
+in 5
+data 6
+field 7
+f3b 8
+is 9
+called 10
+right 11
+operand 12
+data 13
+. 14
