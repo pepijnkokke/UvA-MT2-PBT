@@ -8,7 +8,7 @@ import os
 import sys
 
 
-def phrasetable_to_fst(phrasetable, os = sys.stdout):
+def phrasetable_to_fst(phrasetable, weight_map, os = sys.stdout):
     """ Convert a phrase-table to an FST in the AT&T format. """
 
     curr_state = 0
@@ -80,11 +80,20 @@ if __name__ == "__main__":
     mkdir_p(out_dir)
 
     # Set the path to the input file (dev.en).
+    weights_monotone   = os.getenv('WEIGHTS_MONOTONE',
+                                   os.path.join(data_dir,'weights.monotone'))
     rules_monotone_dev = os.getenv('RULES_MONOTONE_DEV',
                                    os.path.join(data_dir,'rules.monotone.dev'))
 
     # Set the number of sentences to convert to FSTs.
     n = os.getenv('N',100)
+
+    # Read the weights.
+    with open(weights_monotone, 'r') as f: weight_list = f.readlines()
+    weight_map = dict()
+    for weight in weight_list:
+        weight = weight.split()
+        weight_map[weight[0]] = float(weight[1])
 
     for i in range(0,n):
 
@@ -95,7 +104,7 @@ if __name__ == "__main__":
         with open(inp_file, 'r') as f: phrasetable = f.readlines()
 
         out_file = os.path.join(out_dir,'grammar.{}'.format(i))
-        with open(out_file, 'w') as f: phrasetable_to_fst(phrasetable, f)
+        with open(out_file, 'w') as f: phrasetable_to_fst(phrasetable, weight_map, f)
 
     sys.stdout.write("\r")
     sys.stdout.flush()
