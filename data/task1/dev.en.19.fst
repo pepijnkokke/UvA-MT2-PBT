@@ -20,4 +20,5 @@
 19 20 20 output
 20 21 21 terminal
 21 22 22 vibrates
-22
+22 23 23 .
+23

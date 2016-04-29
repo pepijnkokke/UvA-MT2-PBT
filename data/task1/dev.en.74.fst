@@ -18,4 +18,5 @@
 17 18 18 corresponding
 18 19 19 photosensitive
 19 20 20 drums
-20
+20 21 21 .
+21

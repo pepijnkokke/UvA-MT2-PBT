@@ -24,4 +24,5 @@
 23 24 24 the
 24 25 25 aforementioned
 25 26 26 conditions
-26
+26 27 27 .
+27

@@ -17,4 +17,5 @@
 16 17 17 and
 17 18 18 latching
 18 19 19 operations
-19
+19 20 20 .
+20

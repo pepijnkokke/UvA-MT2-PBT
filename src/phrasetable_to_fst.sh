@@ -25,6 +25,8 @@ function phrasetable_to_fst() {
         local feature_map=(`strip_space "${rule[3]}"`)
         local last_index=`expr ${#target[@]} - 1`
 
+        echo ${feature_map[@]}
+
         if (( ${#source[@]} == 1 )) && (( ${#target[@]} == 1 )); then
 
             printf "0 0 %s %s\n" "${source[@]}" "${target[@]}"

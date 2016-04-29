@@ -5,4 +5,5 @@
 4 5 5 represents
 5 6 6 a
 6 7 7 shutter
-7
+7 8 8 .
+8
