@@ -1,6 +1,14 @@
 #!/usr/bin/env python
 #
 # Convert the first 100 sentence in data/dev.en to FSTs.
+#
+# Options:
+#
+#  * DATA_DIR - the data/ directory
+#  * OUT_DIR  - the output directory (defaults to data/task1/)
+#  * DEV_EN   - the dev.en input file (defaults to data/dev.en)
+#  * N        - the number of sentences to convert (defaults to 100)
+
 
 import errno
 import itertools
@@ -48,7 +56,7 @@ def mkdir_p(path):
 if __name__ == "__main__":
 
     # Set the path to the src/, data/ and out/ directories.
-    src_dir  = os.getenv('SRC_DIR',os.path.dirname(os.path.abspath(__file__)))
+    src_dir  = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.getenv('DATA_DIR',os.path.join(os.path.join(src_dir,'..'),'data'))
     out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'task1'))
 
