@@ -64,10 +64,10 @@ if __name__ == "__main__":
     mkdir_p(out_dir)
 
     # Set the path to the input file (dev.en).
-    dev_en   = os.getenv('DEV_EN',os.path.join(data_dir,'dev.en'))
+    dev_en = os.getenv('DEV_EN',os.path.join(data_dir,'dev.en'))
 
     # Set the number of sentences to convert to FSTs.
-    n        = os.getenv('N',100)
+    n = os.getenv('N',100)
 
     with open(dev_en, 'r') as f:
         sentences = list(itertools.islice(f, n))
