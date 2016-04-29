@@ -9,6 +9,7 @@ import sys
 
 
 def phrasetable_to_fst(phrasetable, os = sys.stdout):
+    """ Convert a phrase-table to an FST in the AT&T format. """
 
     curr_state = 0
 
@@ -18,6 +19,16 @@ def phrasetable_to_fst(phrasetable, os = sys.stdout):
         source = source.split()
         target = target.split()
 
+        # Example FeatureMap:
+        #
+        #   SampleCountF    : 2.47856649559,
+        #   MaxLexEgivenF   : 0.811988173389,
+        #   IsSingletonF    : 0.0,
+        #   IsSingletonFE   : 0.0,
+        #   MaxLexFgivenE   : 0.984836531508,
+        #   EgivenFCoherent : 0.769551078622,
+        #   CountEF         : 1.71600334363
+        #
         feature_map = dict()
         for feature in feature_list.split():
             feature = feature.split('=')
