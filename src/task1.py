@@ -30,6 +30,18 @@ def sentence_to_fst(sentence, os = sys.stdout):
     os.write("{}\n".format(i + 1))
 
 
+def sentence_to_isyms(sentence, os = sys.stdout):
+    """ Convert a sentence to a list of input symbols. """
+
+    state = 0
+    words = sentence.split()
+
+    os.write("0 <eps>\n")
+
+    for i, w in enumerate(words):
+        os.write("{} {}\n".format(i + 1, w))
+
+
 def sentence_to_osyms(sentence, os = sys.stdout):
     """ Convert a sentence to a list of output symbols. """
 
@@ -60,7 +72,7 @@ if __name__ == "__main__":
     src_dir  = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.realpath(os.getenv('DATA_DIR',
                    os.path.join(os.path.join(src_dir,'..'),'data')))
-    out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'task1'))
+    out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'out'))
 
     # Make sure the out/ directory exists.
     mkdir_p(out_dir)
@@ -71,6 +83,7 @@ if __name__ == "__main__":
     # Set the number of sentences to convert to FSTs.
     n = os.getenv('N',100)
 
+    # Convert English sentences to FSTs.
     with open(dev_en, 'r') as f:
         sentences = list(itertools.islice(f, n))
 
@@ -86,9 +99,14 @@ if __name__ == "__main__":
         with open(osyms_file, 'w') as f: sentence_to_osyms(sentence, f)
 
         fst_file = os.path.join(out_dir,'dev.en.{}.fst'.format(i))
-        subprocess.call(['fstcompile','--osymbols={}'.format(osyms_file),
-                         fst_txt_file,fst_file])
-        subprocess.call(['fstarcsort','--sort_type=olabel',fst_file,fst_file])
+        subprocess.call([
+            'fstcompile',
+            '--osymbols={}'.format(osyms_file),
+            fst_txt_file,fst_file])
+        subprocess.call([
+            'fstarcsort',
+            '--sort_type=olabel',
+            fst_file,fst_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()

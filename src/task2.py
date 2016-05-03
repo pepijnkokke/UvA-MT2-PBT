@@ -4,10 +4,42 @@
 
 from task1 import mkdir_p
 
+
 import itertools
 import math
 import os
+import subprocess
 import sys
+
+
+def phrasetable_to_ovv(sentence, phrasetable):
+    """ Convert a phrase-table to a list of all OVV words. """
+
+    words_with_rules = [
+        rule.split('|||')[1].strip()
+        for rule in phrasetable]
+
+    words_without_rules = [
+        word for word in sentence.split()
+        if not (word in words_with_rules)]
+
+    return set(words_without_rules)
+
+
+def phrasetable_to_osyms(sentence, phrasetable, os = sys.stdout):
+    """ Convert a phrase-table to a symbol table for its output labels. """
+
+    words_with_rules = set(itertools.chain(*[
+        rule.split('|||')[2].split()
+        for rule in phrasetable]))
+
+    words_with_rules |= phrasetable_to_ovv(sentence, phrasetable)
+
+    os.write("<eps> 0\n")
+
+    for i, w in enumerate(words_with_rules):
+        os.write("{} {}\n".format(w, i + 1))
+
 
 
 def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
@@ -69,13 +101,7 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
 
 
     # Generate OVV rules.
-    words_with_rules = [
-        rule.split('|||')[1].strip()
-        for rule in phrasetable]
-
-    words_without_rules = [
-        word for word in sentence.split()
-        if not (word in words_with_rules)]
+    words_without_rules = phrasetable_to_ovv(sentence, phrasetable)
 
     for word in words_without_rules:
         os.write("0 0 {0} {0} {1}\n".format(word, weight_map['PassThrough']))
@@ -86,7 +112,7 @@ if __name__ == "__main__":
     # Set the path to the src/, data/ and out/ directories.
     src_dir  = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.getenv('DATA_DIR',os.path.join(os.path.join(src_dir,'..'),'data'))
-    out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'task2'))
+    out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'out'))
 
     # Make sure the out/ directory exists.
     mkdir_p(out_dir)
@@ -120,13 +146,29 @@ if __name__ == "__main__":
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        inp_file = os.path.join(rules_monotone_dev,'grammar.{}'.format(i))
-        with open(inp_file, 'r') as f:
+        grammar_file = os.path.join(rules_monotone_dev,'grammar.{}'.format(i))
+        with open(grammar_file, 'r') as f:
             phrasetable = f.readlines()
 
-        out_file = os.path.join(out_dir,'grammar.{}.fst.txt'.format(i))
-        with open(out_file, 'w') as f:
+        osyms_file = os.path.join(out_dir,'dev.ja.{}.osyms'.format(i))
+        with open(osyms_file, 'w') as f:
+            phrasetable_to_osyms(sentence, phrasetable, f)
+
+        fst_txt_file = os.path.join(out_dir,'grammar.{}.fst.txt'.format(i))
+        with open(fst_txt_file, 'w') as f:
             phrasetable_to_fst(sentence, phrasetable, weight_map, f)
+
+        fst_file = os.path.join(out_dir,'grammar.{}.fst'.format(i))
+        isyms_file = os.path.join(out_dir,'dev.en.{}.osyms'.format(i))
+        subprocess.call([
+            'fstcompile',
+            '--isymbols={}'.format(isyms_file),
+            '--osymbols={}'.format(osyms_file),
+            fst_txt_file,fst_file])
+        #subprocess.call([
+        #    'fstarcsort',
+        #    '--sort_type=ilabel',
+        #    fst_file,fst_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()
