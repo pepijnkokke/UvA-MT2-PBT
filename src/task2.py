@@ -21,16 +21,7 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
         source = source.split()
         target = target.split()
 
-        # Example FeatureMap:3
-        #
-        #   SampleCountF    : 2.47856649559,
-        #   MaxLexEgivenF   : 0.811988173389,
-        #   IsSingletonF    : 0.0,
-        #   IsSingletonFE   : 0.0,
-        #   MaxLexFgivenE   : 0.984836531508,
-        #   EgivenFCoherent : 0.769551078622,
-        #   CountEF         : 1.71600334363
-        #
+        # Compute the feature map.
         feature_map = dict()
         for feature in feature_list.split():
             key, value = feature.split('=')
@@ -39,6 +30,7 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
         feature_map['Glue'] = weight_map['Glue']
         feature_map['WordPenalty'] = -1/math.log(10) * len(target) * weight_map['WordPenalty']
 
+        # Sum all features to compute the weight.
         weight = sum(feature_map.values())
 
         last_index = len(target) - 1
@@ -132,7 +124,7 @@ if __name__ == "__main__":
         with open(inp_file, 'r') as f:
             phrasetable = f.readlines()
 
-        out_file = os.path.join(out_dir,'grammar.{}'.format(i))
+        out_file = os.path.join(out_dir,'grammar.{}.fst.txt'.format(i))
         with open(out_file, 'w') as f:
             phrasetable_to_fst(sentence, phrasetable, weight_map, f)
 

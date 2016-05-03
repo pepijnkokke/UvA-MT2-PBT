@@ -13,6 +13,7 @@
 import errno
 import itertools
 import os
+import subprocess
 import sys
 
 
@@ -57,7 +58,8 @@ if __name__ == "__main__":
 
     # Set the path to the src/, data/ and out/ directories.
     src_dir  = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.getenv('DATA_DIR',os.path.join(os.path.join(src_dir,'..'),'data'))
+    data_dir = os.path.realpath(os.getenv('DATA_DIR',
+                   os.path.join(os.path.join(src_dir,'..'),'data')))
     out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'task1'))
 
     # Make sure the out/ directory exists.
@@ -77,11 +79,15 @@ if __name__ == "__main__":
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        fst_file = os.path.join(out_dir,'dev.en.{}.fst'.format(i))
-        with open(fst_file, 'w') as f: sentence_to_fst(sentence, f)
+        fst_txt_file = os.path.join(out_dir,'dev.en.{}.fst.txt'.format(i))
+        with open(fst_txt_file, 'w') as f: sentence_to_fst(sentence, f)
 
         osyms_file = os.path.join(out_dir,'dev.en.{}.osyms'.format(i))
         with open(osyms_file, 'w') as f: sentence_to_osyms(sentence, f)
+
+        fst_file = os.path.join(out_dir,'dev.en.{}.fst'.format(i))
+        subprocess.call(['fstcompile','--osymbols={}'.format(osyms_file),
+                         fst_txt_file,fst_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()
