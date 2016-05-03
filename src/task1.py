@@ -99,14 +99,20 @@ if __name__ == "__main__":
         with open(osyms_file, 'w') as f: sentence_to_osyms(sentence, f)
 
         fst_file = os.path.join(out_dir,'dev.en.{}.fst'.format(i))
-        subprocess.call([
-            'fstcompile',
-            '--osymbols={}'.format(osyms_file),
-            fst_txt_file,fst_file])
-        subprocess.call([
-            'fstarcsort',
-            '--sort_type=olabel',
-            fst_file,fst_file])
+        subprocess.call(['fstcompile',
+                         '--osymbols={}'.format(osyms_file),
+                         fst_txt_file,fst_file])
+        subprocess.call(['fstarcsort',
+                         '--sort_type=olabel',
+                         fst_file,fst_file])
+
+        dot_file = os.path.join(out_dir,'dev.en.{}.dot'.format(i))
+        subprocess.call(['fstdraw',
+                         '--osymbols={}'.format(osyms_file),
+                         fst_file,dot_file])
+
+        png_file = os.path.join(out_dir,'dev.en.{}.png'.format(i))
+        subprocess.call(['dot',dot_file,'-o',png_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()

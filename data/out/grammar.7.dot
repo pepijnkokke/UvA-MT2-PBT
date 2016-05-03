@@ -1,0 +1,1720 @@
+digraph FST {
+rankdir = LR;
+size = "8.5,11";
+label = "";
+center = 1;
+orientation = Landscape;
+ranksep = "0.4";
+nodesep = "0.25";
+0 [label = "0", shape = circle, style = bold, fontsize = 14]
+	0 -> 0 [label = "the:、/-0.56087", fontsize = 14];
+	0 -> 0 [label = "the:た/-0.31363", fontsize = 14];
+	0 -> 0 [label = "the:（/-0.22286", fontsize = 14];
+	0 -> 0 [label = "the:その/-0.31193", fontsize = 14];
+	0 -> 0 [label = "the:の/-0.46103", fontsize = 14];
+	0 -> 0 [label = "the:は/-0.3999", fontsize = 14];
+	0 -> 1 [label = "the:<eps>/-0.3569", fontsize = 14];
+	0 -> 4 [label = "the:<eps>/-0.31222", fontsize = 14];
+	0 -> 7 [label = "the:<eps>/-0.43285", fontsize = 14];
+	0 -> 10 [label = "the:<eps>/-0.38489", fontsize = 14];
+	0 -> 0 [label = "the:この/-0.36216", fontsize = 14];
+	0 -> 0 [label = "the:前記/-0.39973", fontsize = 14];
+	0 -> 0 [label = "the:する/-0.24789", fontsize = 14];
+	0 -> 0 [label = "the:ア/-0.21137", fontsize = 14];
+	0 -> 0 [label = "the:本/-0.2343", fontsize = 14];
+	0 -> 0 [label = "the:各/-0.23004", fontsize = 14];
+	0 -> 0 [label = "the:尚/-0.22102", fontsize = 14];
+	0 -> 202 [label = "the:<eps>/-0.40886", fontsize = 14];
+	0 -> 206 [label = "the:<eps>/-0.34467", fontsize = 14];
+	0 -> 210 [label = "the:<eps>/-0.15568", fontsize = 14];
+	0 -> 214 [label = "the:<eps>/0.076754", fontsize = 14];
+	0 -> 218 [label = "the:<eps>/-0.32288", fontsize = 14];
+	0 -> 222 [label = "the:<eps>/-0.26205", fontsize = 14];
+	0 -> 227 [label = "the:<eps>/-0.25644", fontsize = 14];
+	0 -> 232 [label = "the:<eps>/-0.095372", fontsize = 14];
+	0 -> 236 [label = "the:<eps>/0.52793", fontsize = 14];
+	0 -> 239 [label = "the:<eps>/-0.23898", fontsize = 14];
+	0 -> 244 [label = "the:<eps>/-0.26954", fontsize = 14];
+	0 -> 248 [label = "the:<eps>/-0.21071", fontsize = 14];
+	0 -> 606 [label = "the:<eps>/0.10132", fontsize = 14];
+	0 -> 611 [label = "the:<eps>/-0.37123", fontsize = 14];
+	0 -> 616 [label = "the:<eps>/-0.24724", fontsize = 14];
+	0 -> 622 [label = "the:<eps>/-0.13849", fontsize = 14];
+	0 -> 627 [label = "the:<eps>/-0.35183", fontsize = 14];
+	0 -> 632 [label = "the:<eps>/-0.27895", fontsize = 14];
+	0 -> 638 [label = "the:<eps>/0.29554", fontsize = 14];
+	0 -> 643 [label = "the:<eps>/0.38016", fontsize = 14];
+	0 -> 198 [label = "the:<eps>/-0.055631", fontsize = 14];
+	0 -> 665 [label = "the:<eps>/0.10132", fontsize = 14];
+	0 -> 659 [label = "the:<eps>/0.019198", fontsize = 14];
+	0 -> 653 [label = "the:<eps>/0.030611", fontsize = 14];
+	0 -> 648 [label = "the:<eps>/0.12647", fontsize = 14];
+	0 -> 0 [label = "movement:移行/0.11944", fontsize = 14];
+	0 -> 0 [label = "movement:揺動/-0.081542", fontsize = 14];
+	0 -> 0 [label = "movement:可動体/-0.31669", fontsize = 14];
+	0 -> 0 [label = "movement:自在/0.015806", fontsize = 14];
+	0 -> 0 [label = "movement:ムーブメント/-0.31347", fontsize = 14];
+	0 -> 0 [label = "movement:ずれ/0.20632", fontsize = 14];
+	0 -> 0 [label = "movement:地点/0.14347", fontsize = 14];
+	0 -> 25 [label = "movement:<eps>/-0.1211", fontsize = 14];
+	0 -> 301 [label = "movement:<eps>/-0.10617", fontsize = 14];
+	0 -> 297 [label = "movement:<eps>/-0.16384", fontsize = 14];
+	0 -> 293 [label = "movement:<eps>/-0.021151", fontsize = 14];
+	0 -> 287 [label = "movement:<eps>/-0.057567", fontsize = 14];
+	0 -> 283 [label = "movement:<eps>/-0.18887", fontsize = 14];
+	0 -> 279 [label = "movement:<eps>/-0.12837", fontsize = 14];
+	0 -> 275 [label = "movement:<eps>/-0.01069", fontsize = 14];
+	0 -> 270 [label = "movement:<eps>/0.083929", fontsize = 14];
+	0 -> 266 [label = "movement:<eps>/-0.37514", fontsize = 14];
+	0 -> 261 [label = "movement:<eps>/-0.31205", fontsize = 14];
+	0 -> 257 [label = "movement:<eps>/-0.43033", fontsize = 14];
+	0 -> 252 [label = "movement:<eps>/-0.014562", fontsize = 14];
+	0 -> 22 [label = "movement:<eps>/-0.12188", fontsize = 14];
+	0 -> 0 [label = "movement:動/-0.19057", fontsize = 14];
+	0 -> 0 [label = "movement:動き/-0.45786", fontsize = 14];
+	0 -> 0 [label = "movement:せ/0.17971", fontsize = 14];
+	0 -> 0 [label = "movement:運動/-0.41358", fontsize = 14];
+	0 -> 19 [label = "movement:<eps>/-0.27314", fontsize = 14];
+	0 -> 16 [label = "movement:<eps>/-0.30472", fontsize = 14];
+	0 -> 13 [label = "movement:<eps>/-0.26018", fontsize = 14];
+	0 -> 0 [label = "movement:移動/-0.58275", fontsize = 14];
+	0 -> 0 [label = "movement:動作/-0.18951", fontsize = 14];
+	0 -> 0 [label = "movement:へ/0.091876", fontsize = 14];
+	0 -> 0 [label = "movement:こと/0.32831", fontsize = 14];
+	0 -> 0 [label = "movement:変動/0.18799", fontsize = 14];
+	0 -> 784 [label = "of:<eps>/-0.016364", fontsize = 14];
+	0 -> 28 [label = "of:<eps>/-0.19877", fontsize = 14];
+	0 -> 778 [label = "of:<eps>/0.044237", fontsize = 14];
+	0 -> 771 [label = "of:<eps>/-0.1401", fontsize = 14];
+	0 -> 765 [label = "of:<eps>/0.094122", fontsize = 14];
+	0 -> 757 [label = "of:<eps>/0.014148", fontsize = 14];
+	0 -> 0 [label = "of:を/-0.38236", fontsize = 14];
+	0 -> 0 [label = "of:が/-0.23188", fontsize = 14];
+	0 -> 0 [label = "of:も/0.068829", fontsize = 14];
+	0 -> 0 [label = "of:に/-0.19756", fontsize = 14];
+	0 -> 0 [label = "of:は/-0.039741", fontsize = 14];
+	0 -> 0 [label = "of:の/-0.61023", fontsize = 14];
+	0 -> 670 [label = "of:<eps>/-0.2739", fontsize = 14];
+	0 -> 675 [label = "of:<eps>/-0.1948", fontsize = 14];
+	0 -> 680 [label = "of:<eps>/-0.056248", fontsize = 14];
+	0 -> 701 [label = "a:<eps>/-0.38911", fontsize = 14];
+	0 -> 696 [label = "a:<eps>/-0.096721", fontsize = 14];
+	0 -> 691 [label = "a:<eps>/-0.12202", fontsize = 14];
+	0 -> 685 [label = "a:<eps>/-0.39966", fontsize = 14];
+	0 -> 707 [label = "a:<eps>/-0.28308", fontsize = 14];
+	0 -> 713 [label = "a:<eps>/-0.098739", fontsize = 14];
+	0 -> 718 [label = "a:<eps>/-0.29175", fontsize = 14];
+	0 -> 724 [label = "a:<eps>/-0.095101", fontsize = 14];
+	0 -> 730 [label = "a:<eps>/-0.10136", fontsize = 14];
+	0 -> 735 [label = "a:<eps>/-0.11409", fontsize = 14];
+	0 -> 0 [label = "a:半/-0.29268", fontsize = 14];
+	0 -> 740 [label = "a:<eps>/-0.3207", fontsize = 14];
+	0 -> 746 [label = "a:<eps>/-0.26954", fontsize = 14];
+	0 -> 0 [label = "a:ａ/-0.36908", fontsize = 14];
+	0 -> 0 [label = "a:a/-0.27632", fontsize = 14];
+	0 -> 0 [label = "a:、/-0.53146", fontsize = 14];
+	0 -> 31 [label = "a:<eps>/-0.31884", fontsize = 14];
+	0 -> 0 [label = "a:た/-0.4067", fontsize = 14];
+	0 -> 0 [label = "a:その/-0.33499", fontsize = 14];
+	0 -> 0 [label = "a:１/-0.33059", fontsize = 14];
+	0 -> 0 [label = "a:る/-0.33829", fontsize = 14];
+	0 -> 0 [label = "a:する/-0.4215", fontsize = 14];
+	0 -> 0 [label = "a:さらに/-0.27717", fontsize = 14];
+	0 -> 37 [label = "a:<eps>/-0.33191", fontsize = 14];
+	0 -> 0 [label = "a:また/-0.28764", fontsize = 14];
+	0 -> 34 [label = "a:<eps>/-0.39478", fontsize = 14];
+	0 -> 0 [label = "a:は/-0.45571", fontsize = 14];
+	0 -> 305 [label = "a:<eps>/-0.37955", fontsize = 14];
+	0 -> 309 [label = "a:<eps>/-0.33059", fontsize = 14];
+	0 -> 314 [label = "a:<eps>/-0.21136", fontsize = 14];
+	0 -> 318 [label = "a:<eps>/-0.27764", fontsize = 14];
+	0 -> 322 [label = "a:<eps>/-0.32389", fontsize = 14];
+	0 -> 331 [label = "a:<eps>/-0.26739", fontsize = 14];
+	0 -> 327 [label = "a:<eps>/-0.32748", fontsize = 14];
+	0 -> 335 [label = "light:<eps>/-0.13893", fontsize = 14];
+	0 -> 339 [label = "light:<eps>/-0.023861", fontsize = 14];
+	0 -> 343 [label = "light:<eps>/-0.42102", fontsize = 14];
+	0 -> 348 [label = "light:<eps>/-0.18881", fontsize = 14];
+	0 -> 352 [label = "light:<eps>/-0.20155", fontsize = 14];
+	0 -> 356 [label = "light:<eps>/-0.34941", fontsize = 14];
+	0 -> 361 [label = "light:<eps>/-0.36635", fontsize = 14];
+	0 -> 364 [label = "light:<eps>/-0.61322", fontsize = 14];
+	0 -> 368 [label = "light:<eps>/-0.17384", fontsize = 14];
+	0 -> 372 [label = "light:<eps>/-0.099668", fontsize = 14];
+	0 -> 375 [label = "light:<eps>/-0.49043", fontsize = 14];
+	0 -> 379 [label = "light:<eps>/-0.39919", fontsize = 14];
+	0 -> 382 [label = "light:<eps>/-0.37067", fontsize = 14];
+	0 -> 752 [label = "light:<eps>/0.057928", fontsize = 14];
+	0 -> 0 [label = "light:ライト/-0.28086", fontsize = 14];
+	0 -> 0 [label = "light:の/0.093688", fontsize = 14];
+	0 -> 0 [label = "light:せ/0.15854", fontsize = 14];
+	0 -> 0 [label = "light:光/-0.62333", fontsize = 14];
+	0 -> 40 [label = "light:<eps>/-0.30945", fontsize = 14];
+	0 -> 0 [label = "light:うち/0.03114", fontsize = 14];
+	0 -> 0 [label = "light:点灯/-0.17135", fontsize = 14];
+	0 -> 0 [label = "light:入射/-0.096552", fontsize = 14];
+	0 -> 0 [label = "light:軽/-0.31617", fontsize = 14];
+	0 -> 0 [label = "light:受光/-0.26508", fontsize = 14];
+	0 -> 0 [label = "light:透過/-0.043924", fontsize = 14];
+	0 -> 0 [label = "light:光用/-0.26494", fontsize = 14];
+	0 -> 0 [label = "light:光源/-0.30555", fontsize = 14];
+	0 -> 0 [label = "beam:線/-0.22458", fontsize = 14];
+	0 -> 385 [label = "beam:<eps>/-0.0031892", fontsize = 14];
+	0 -> 0 [label = "beam:ビーム/-0.69654", fontsize = 14];
+	0 -> 0 [label = "beam:照射/-0.082435", fontsize = 14];
+	0 -> 0 [label = "beam:光束/-0.27538", fontsize = 14];
+	0 -> 0 [label = "beam:梁/-0.3958", fontsize = 14];
+	0 -> 0 [label = "beam:光線/-0.24661", fontsize = 14];
+	0 -> 0 [label = "beam:棹/-0.20619", fontsize = 14];
+	0 -> 393 [label = "beam:<eps>/-0.094919", fontsize = 14];
+	0 -> 0 [label = "beam:入射/-0.0054022", fontsize = 14];
+	0 -> 397 [label = "beam:<eps>/-0.15445", fontsize = 14];
+	0 -> 401 [label = "beam:<eps>/0.038971", fontsize = 14];
+	0 -> 405 [label = "beam:<eps>/0.02888", fontsize = 14];
+	0 -> 409 [label = "beam:<eps>/-0.030652", fontsize = 14];
+	0 -> 413 [label = "beam:<eps>/-0.24233", fontsize = 14];
+	0 -> 417 [label = "beam:<eps>/-0.42918", fontsize = 14];
+	0 -> 421 [label = "beam:<eps>/-0.43654", fontsize = 14];
+	0 -> 426 [label = "beam:<eps>/-0.33406", fontsize = 14];
+	0 -> 430 [label = "beam:<eps>/-0.34573", fontsize = 14];
+	0 -> 434 [label = "beam:<eps>/-0.34601", fontsize = 14];
+	0 -> 438 [label = "beam:<eps>/-0.14983", fontsize = 14];
+	0 -> 442 [label = "beam:<eps>/-0.087294", fontsize = 14];
+	0 -> 446 [label = "beam:<eps>/-0.16893", fontsize = 14];
+	0 -> 0 [label = "beam:光/-0.40793", fontsize = 14];
+	0 -> 43 [label = "beam:<eps>/-0.39673", fontsize = 14];
+	0 -> 389 [label = "beam:<eps>/-0.20303", fontsize = 14];
+	0 -> 518 [label = "and:<eps>/-0.46951", fontsize = 14];
+	0 -> 514 [label = "and:<eps>/-0.46923", fontsize = 14];
+	0 -> 510 [label = "and:<eps>/-0.32895", fontsize = 14];
+	0 -> 505 [label = "and:<eps>/0.011054", fontsize = 14];
+	0 -> 522 [label = "and:<eps>/-0.039808", fontsize = 14];
+	0 -> 496 [label = "and:<eps>/-0.37533", fontsize = 14];
+	0 -> 492 [label = "and:<eps>/-0.27252", fontsize = 14];
+	0 -> 488 [label = "and:<eps>/-0.16793", fontsize = 14];
+	0 -> 483 [label = "and:<eps>/-0.25229", fontsize = 14];
+	0 -> 479 [label = "and:<eps>/0.047791", fontsize = 14];
+	0 -> 474 [label = "and:<eps>/-0.23212", fontsize = 14];
+	0 -> 470 [label = "and:<eps>/-0.081499", fontsize = 14];
+	0 -> 466 [label = "and:<eps>/-0.49123", fontsize = 14];
+	0 -> 463 [label = "and:<eps>/0.17684", fontsize = 14];
+	0 -> 527 [label = "and:<eps>/0.010402", fontsize = 14];
+	0 -> 0 [label = "and:ａｎｄ/-0.32098", fontsize = 14];
+	0 -> 459 [label = "and:<eps>/-0.20981", fontsize = 14];
+	0 -> 455 [label = "and:<eps>/-0.29538", fontsize = 14];
+	0 -> 450 [label = "and:<eps>/-0.21274", fontsize = 14];
+	0 -> 0 [label = "and:および/-0.59005", fontsize = 14];
+	0 -> 0 [label = "and:とも/-0.22509", fontsize = 14];
+	0 -> 0 [label = "and:及び/-0.5598", fontsize = 14];
+	0 -> 0 [label = "and:／/-0.17653", fontsize = 14];
+	0 -> 0 [label = "and:や/-0.42382", fontsize = 14];
+	0 -> 0 [label = "and:・/-0.23966", fontsize = 14];
+	0 -> 0 [label = "and:，/-0.43971", fontsize = 14];
+	0 -> 53 [label = "and:<eps>/-0.2664", fontsize = 14];
+	0 -> 0 [label = "and:り/-0.37128", fontsize = 14];
+	0 -> 0 [label = "and:し/-0.19941", fontsize = 14];
+	0 -> 50 [label = "and:<eps>/-0.37709", fontsize = 14];
+	0 -> 46 [label = "and:<eps>/-0.36289", fontsize = 14];
+	0 -> 0 [label = "and:と/-0.55896", fontsize = 14];
+	0 -> 0 [label = "and:、/-0.41499", fontsize = 14];
+	0 -> 501 [label = "and:<eps>/0.11804", fontsize = 14];
+	0 -> 531 [label = "each:<eps>/0.22834", fontsize = 14];
+	0 -> 0 [label = "each:、/0.0057194", fontsize = 14];
+	0 -> 56 [label = "each:<eps>/-0.39009", fontsize = 14];
+	0 -> 59 [label = "each:<eps>/-0.33345", fontsize = 14];
+	0 -> 63 [label = "each:<eps>/-0.33145", fontsize = 14];
+	0 -> 66 [label = "each:<eps>/-0.029131", fontsize = 14];
+	0 -> 69 [label = "each:<eps>/-0.36561", fontsize = 14];
+	0 -> 73 [label = "each:<eps>/-0.37286", fontsize = 14];
+	0 -> 0 [label = "each:この/-0.031056", fontsize = 14];
+	0 -> 78 [label = "each:<eps>/-0.33113", fontsize = 14];
+	0 -> 81 [label = "each:<eps>/-0.3239", fontsize = 14];
+	0 -> 0 [label = "each:毎/-0.26392", fontsize = 14];
+	0 -> 0 [label = "each:両/-0.071089", fontsize = 14];
+	0 -> 0 [label = "each:個別/-0.10992", fontsize = 14];
+	0 -> 0 [label = "each:夫々/-0.1906", fontsize = 14];
+	0 -> 0 [label = "each:各々/-0.4354", fontsize = 14];
+	0 -> 0 [label = "each:間/0.0045647", fontsize = 14];
+	0 -> 0 [label = "each:複数/0.0091501", fontsize = 14];
+	0 -> 0 [label = "each:それぞれ/-0.41888", fontsize = 14];
+	0 -> 0 [label = "each:つ/0.016574", fontsize = 14];
+	0 -> 0 [label = "each:１/0.015566", fontsize = 14];
+	0 -> 0 [label = "each:一/0.022218", fontsize = 14];
+	0 -> 0 [label = "each:ごと/-0.29399", fontsize = 14];
+	0 -> 0 [label = "each:各/-0.60744", fontsize = 14];
+	0 -> 84 [label = "each:<eps>/-0.36011", fontsize = 14];
+	0 -> 535 [label = "each:<eps>/0.14536", fontsize = 14];
+	0 -> 0 [label = "each:これ/0.00053508", fontsize = 14];
+	0 -> 0 [label = "structural:組織/0.10934", fontsize = 14];
+	0 -> 101 [label = "structural:<eps>/0.15083", fontsize = 14];
+	0 -> 0 [label = "structural:構体/-0.15102", fontsize = 14];
+	0 -> 0 [label = "structural:部品/0.24601", fontsize = 14];
+	0 -> 98 [label = "structural:<eps>/-0.27439", fontsize = 14];
+	0 -> 95 [label = "structural:<eps>/-0.21128", fontsize = 14];
+	0 -> 0 [label = "structural:構造/-0.41524", fontsize = 14];
+	0 -> 0 [label = "structural:形状/0.095616", fontsize = 14];
+	0 -> 92 [label = "structural:<eps>/-0.086209", fontsize = 14];
+	0 -> 0 [label = "structural:構成/-0.34026", fontsize = 14];
+	0 -> 539 [label = "structural:<eps>/0.22014", fontsize = 14];
+	0 -> 545 [label = "structural:<eps>/0.45932", fontsize = 14];
+	0 -> 549 [label = "structural:<eps>/0.27773", fontsize = 14];
+	0 -> 88 [label = "structural:<eps>/-0.065406", fontsize = 14];
+	0 -> 557 [label = "element:<eps>/-0.22682", fontsize = 14];
+	0 -> 561 [label = "element:<eps>/-0.13029", fontsize = 14];
+	0 -> 566 [label = "element:<eps>/-0.22875", fontsize = 14];
+	0 -> 570 [label = "element:<eps>/-0.20729", fontsize = 14];
+	0 -> 574 [label = "element:<eps>/-0.21511", fontsize = 14];
+	0 -> 579 [label = "element:<eps>/0.2384", fontsize = 14];
+	0 -> 583 [label = "element:<eps>/-0.13868", fontsize = 14];
+	0 -> 587 [label = "element:<eps>/-0.084092", fontsize = 14];
+	0 -> 0 [label = "element:部/0.12369", fontsize = 14];
+	0 -> 553 [label = "element:<eps>/0.18921", fontsize = 14];
+	0 -> 0 [label = "element:部分/0.093155", fontsize = 14];
+	0 -> 0 [label = "element:子/-0.14149", fontsize = 14];
+	0 -> 0 [label = "element:エレメント/-0.39256", fontsize = 14];
+	0 -> 0 [label = "element:素/-0.16628", fontsize = 14];
+	0 -> 0 [label = "element:要素/-0.3868", fontsize = 14];
+	0 -> 0 [label = "element:素子/-0.70203", fontsize = 14];
+	0 -> 0 [label = "element:器/0.1688", fontsize = 14];
+	0 -> 0 [label = "element:体/-0.20015", fontsize = 14];
+	0 -> 0 [label = "element:部材/-0.059407", fontsize = 14];
+	0 -> 0 [label = "element:元素/-0.47473", fontsize = 14];
+	0 -> 110 [label = "are:<eps>/-0.23128", fontsize = 14];
+	0 -> 0 [label = "are:は/-0.45172", fontsize = 14];
+	0 -> 0 [label = "are:を/-0.39481", fontsize = 14];
+	0 -> 104 [label = "are:<eps>/-0.24562", fontsize = 14];
+	0 -> 107 [label = "are:<eps>/-0.29514", fontsize = 14];
+	0 -> 0 [label = "are:て/0.12694", fontsize = 14];
+	0 -> 0 [label = "are:に/0.1993", fontsize = 14];
+	0 -> 0 [label = "are:が/-0.48233", fontsize = 14];
+	0 -> 0 [label = "are:れ/-0.11985", fontsize = 14];
+	0 -> 0 [label = "are:それぞれ/-0.23583", fontsize = 14];
+	0 -> 113 [label = "are:<eps>/-0.20142", fontsize = 14];
+	0 -> 591 [label = "are:<eps>/-0.06764", fontsize = 14];
+	0 -> 122 [label = "next:<eps>/-0.28017", fontsize = 14];
+	0 -> 0 [label = "next:ｎｅｘｔ/-0.26954", fontsize = 14];
+	0 -> 0 [label = "next:次/-0.50534", fontsize = 14];
+	0 -> 116 [label = "next:<eps>/-0.6247", fontsize = 14];
+	0 -> 119 [label = "next:<eps>/-0.30222", fontsize = 14];
+	0 -> 0 [label = "next:そして/-0.019407", fontsize = 14];
+	0 -> 125 [label = "next:<eps>/-0.41122", fontsize = 14];
+	0 -> 0 [label = "next:次いで/-0.45255", fontsize = 14];
+	0 -> 0 [label = "next:つい/-0.27838", fontsize = 14];
+	0 -> 0 [label = "next:に/-0.09699", fontsize = 14];
+	0 -> 130 [label = "next:<eps>/-0.40275", fontsize = 14];
+	0 -> 133 [label = "next:<eps>/-0.33128", fontsize = 14];
+	0 -> 0 [label = "next:ついで/-0.34427", fontsize = 14];
+	0 -> 0 [label = "next:以下/-0.048024", fontsize = 14];
+	0 -> 136 [label = "next:<eps>/-0.32908", fontsize = 14];
+	0 -> 0 [label = "described:記載/-0.23681", fontsize = 14];
+	0 -> 148 [label = "described:<eps>/-0.28042", fontsize = 14];
+	0 -> 142 [label = "described:<eps>/-0.41015", fontsize = 14];
+	0 -> 139 [label = "described:<eps>/-0.2905", fontsize = 14];
+	0 -> 155 [label = "described:<eps>/-0.4446", fontsize = 14];
+	0 -> 151 [label = "described:<eps>/-0.3205", fontsize = 14];
+	0 -> 596 [label = "described:<eps>/-0.42108", fontsize = 14];
+	0 -> 161 [label = "described:<eps>/-0.28997", fontsize = 14];
+	0 -> 0 [label = "described:説明/-0.24367", fontsize = 14];
+	0 -> 164 [label = "described:<eps>/-0.37548", fontsize = 14];
+	0 -> 167 [label = "described:<eps>/-0.026439", fontsize = 14];
+	0 -> 601 [label = "described:<eps>/-0.31496", fontsize = 14];
+	0 -> 174 [label = ".:<eps>/-0.56222", fontsize = 14];
+	0 -> 0 [label = ".:。/-0.62093", fontsize = 14];
+	0 -> 177 [label = ".:<eps>/-0.5232", fontsize = 14];
+	0 -> 180 [label = ".:<eps>/-0.67686", fontsize = 14];
+	0 -> 171 [label = ".:<eps>/-0.37591", fontsize = 14];
+	0 -> 184 [label = ".:<eps>/-0.40936", fontsize = 14];
+	0 -> 188 [label = ".:<eps>/-0.70148", fontsize = 14];
+	0 -> 191 [label = ".:<eps>/-0.38263", fontsize = 14];
+	0 -> 194 [label = ".:<eps>/-0.60702", fontsize = 14];
+	0 -> 0 [label = ".:る/-0.36042", fontsize = 14];
+1 [label = "1", shape = circle, style = solid, fontsize = 14]
+2 [label = "2", shape = circle, style = solid, fontsize = 14]
+	2 -> 3 [label = "<eps>:は", fontsize = 14];
+3 [label = "3", shape = circle, style = solid, fontsize = 14]
+	3 -> 0 [label = "<eps>:、", fontsize = 14];
+4 [label = "4", shape = circle, style = solid, fontsize = 14]
+5 [label = "5", shape = circle, style = solid, fontsize = 14]
+	5 -> 6 [label = "<eps>:は", fontsize = 14];
+6 [label = "6", shape = circle, style = solid, fontsize = 14]
+	6 -> 0 [label = "<eps>:この", fontsize = 14];
+7 [label = "7", shape = circle, style = solid, fontsize = 14]
+8 [label = "8", shape = circle, style = solid, fontsize = 14]
+	8 -> 9 [label = "<eps>:また", fontsize = 14];
+9 [label = "9", shape = circle, style = solid, fontsize = 14]
+	9 -> 0 [label = "<eps>:、", fontsize = 14];
+10 [label = "10", shape = circle, style = solid, fontsize = 14]
+11 [label = "11", shape = circle, style = solid, fontsize = 14]
+	11 -> 12 [label = "<eps>:なお", fontsize = 14];
+12 [label = "12", shape = circle, style = solid, fontsize = 14]
+	12 -> 0 [label = "<eps>:、", fontsize = 14];
+13 [label = "13", shape = circle, style = solid, fontsize = 14]
+14 [label = "14", shape = circle, style = solid, fontsize = 14]
+	14 -> 15 [label = "<eps>:移動", fontsize = 14];
+15 [label = "15", shape = circle, style = solid, fontsize = 14]
+	15 -> 0 [label = "<eps>:可能", fontsize = 14];
+16 [label = "16", shape = circle, style = solid, fontsize = 14]
+17 [label = "17", shape = circle, style = solid, fontsize = 14]
+	17 -> 18 [label = "<eps>:移動", fontsize = 14];
+18 [label = "18", shape = circle, style = solid, fontsize = 14]
+	18 -> 0 [label = "<eps>:量", fontsize = 14];
+19 [label = "19", shape = circle, style = solid, fontsize = 14]
+20 [label = "20", shape = circle, style = solid, fontsize = 14]
+	20 -> 21 [label = "<eps>:移動", fontsize = 14];
+21 [label = "21", shape = circle, style = solid, fontsize = 14]
+	21 -> 0 [label = "<eps>:動作", fontsize = 14];
+22 [label = "22", shape = circle, style = solid, fontsize = 14]
+23 [label = "23", shape = circle, style = solid, fontsize = 14]
+	23 -> 24 [label = "<eps>:動", fontsize = 14];
+24 [label = "24", shape = circle, style = solid, fontsize = 14]
+	24 -> 0 [label = "<eps>:可能", fontsize = 14];
+25 [label = "25", shape = circle, style = solid, fontsize = 14]
+26 [label = "26", shape = circle, style = solid, fontsize = 14]
+	26 -> 27 [label = "<eps>:動", fontsize = 14];
+27 [label = "27", shape = circle, style = solid, fontsize = 14]
+	27 -> 0 [label = "<eps>:自在", fontsize = 14];
+28 [label = "28", shape = circle, style = solid, fontsize = 14]
+29 [label = "29", shape = circle, style = solid, fontsize = 14]
+	29 -> 30 [label = "<eps>:に", fontsize = 14];
+30 [label = "30", shape = circle, style = solid, fontsize = 14]
+	30 -> 0 [label = "<eps>:おけ", fontsize = 14];
+31 [label = "31", shape = circle, style = solid, fontsize = 14]
+32 [label = "32", shape = circle, style = solid, fontsize = 14]
+	32 -> 33 [label = "<eps>:、", fontsize = 14];
+33 [label = "33", shape = circle, style = solid, fontsize = 14]
+	33 -> 0 [label = "<eps>:これ", fontsize = 14];
+34 [label = "34", shape = circle, style = solid, fontsize = 14]
+35 [label = "35", shape = circle, style = solid, fontsize = 14]
+	35 -> 36 [label = "<eps>:は", fontsize = 14];
+36 [label = "36", shape = circle, style = solid, fontsize = 14]
+	36 -> 0 [label = "<eps>:、", fontsize = 14];
+37 [label = "37", shape = circle, style = solid, fontsize = 14]
+38 [label = "38", shape = circle, style = solid, fontsize = 14]
+	38 -> 39 [label = "<eps>:また", fontsize = 14];
+39 [label = "39", shape = circle, style = solid, fontsize = 14]
+	39 -> 0 [label = "<eps>:、", fontsize = 14];
+40 [label = "40", shape = circle, style = solid, fontsize = 14]
+41 [label = "41", shape = circle, style = solid, fontsize = 14]
+	41 -> 42 [label = "<eps>:光", fontsize = 14];
+42 [label = "42", shape = circle, style = solid, fontsize = 14]
+	42 -> 0 [label = "<eps>:出", fontsize = 14];
+43 [label = "43", shape = circle, style = solid, fontsize = 14]
+44 [label = "44", shape = circle, style = solid, fontsize = 14]
+	44 -> 45 [label = "<eps>:光", fontsize = 14];
+45 [label = "45", shape = circle, style = solid, fontsize = 14]
+	45 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+46 [label = "46", shape = circle, style = solid, fontsize = 14]
+47 [label = "47", shape = circle, style = solid, fontsize = 14]
+	47 -> 48 [label = "<eps>:と", fontsize = 14];
+48 [label = "48", shape = circle, style = solid, fontsize = 14]
+	48 -> 49 [label = "<eps>:し", fontsize = 14];
+49 [label = "49", shape = circle, style = solid, fontsize = 14]
+	49 -> 0 [label = "<eps>:、", fontsize = 14];
+50 [label = "50", shape = circle, style = solid, fontsize = 14]
+51 [label = "51", shape = circle, style = solid, fontsize = 14]
+	51 -> 52 [label = "<eps>:と", fontsize = 14];
+52 [label = "52", shape = circle, style = solid, fontsize = 14]
+	52 -> 0 [label = "<eps>:とも", fontsize = 14];
+53 [label = "53", shape = circle, style = solid, fontsize = 14]
+54 [label = "54", shape = circle, style = solid, fontsize = 14]
+	54 -> 55 [label = "<eps>:り", fontsize = 14];
+55 [label = "55", shape = circle, style = solid, fontsize = 14]
+	55 -> 0 [label = "<eps>:、", fontsize = 14];
+56 [label = "56", shape = circle, style = solid, fontsize = 14]
+57 [label = "57", shape = circle, style = solid, fontsize = 14]
+	57 -> 58 [label = "<eps>:、", fontsize = 14];
+58 [label = "58", shape = circle, style = solid, fontsize = 14]
+	58 -> 0 [label = "<eps>:各", fontsize = 14];
+59 [label = "59", shape = circle, style = solid, fontsize = 14]
+60 [label = "60", shape = circle, style = solid, fontsize = 14]
+	60 -> 61 [label = "<eps>:、", fontsize = 14];
+61 [label = "61", shape = circle, style = solid, fontsize = 14]
+	61 -> 62 [label = "<eps>:それぞれ", fontsize = 14];
+62 [label = "62", shape = circle, style = solid, fontsize = 14]
+	62 -> 0 [label = "<eps>:互い", fontsize = 14];
+63 [label = "63", shape = circle, style = solid, fontsize = 14]
+64 [label = "64", shape = circle, style = solid, fontsize = 14]
+	64 -> 65 [label = "<eps>:、", fontsize = 14];
+65 [label = "65", shape = circle, style = solid, fontsize = 14]
+	65 -> 0 [label = "<eps>:各々", fontsize = 14];
+66 [label = "66", shape = circle, style = solid, fontsize = 14]
+67 [label = "67", shape = circle, style = solid, fontsize = 14]
+	67 -> 68 [label = "<eps>:は", fontsize = 14];
+68 [label = "68", shape = circle, style = solid, fontsize = 14]
+	68 -> 0 [label = "<eps>:、", fontsize = 14];
+69 [label = "69", shape = circle, style = solid, fontsize = 14]
+70 [label = "70", shape = circle, style = solid, fontsize = 14]
+	70 -> 71 [label = "<eps>:また", fontsize = 14];
+71 [label = "71", shape = circle, style = solid, fontsize = 14]
+	71 -> 72 [label = "<eps>:、", fontsize = 14];
+72 [label = "72", shape = circle, style = solid, fontsize = 14]
+	72 -> 0 [label = "<eps>:各", fontsize = 14];
+73 [label = "73", shape = circle, style = solid, fontsize = 14]
+74 [label = "74", shape = circle, style = solid, fontsize = 14]
+	74 -> 75 [label = "<eps>:さらに", fontsize = 14];
+75 [label = "75", shape = circle, style = solid, fontsize = 14]
+	75 -> 76 [label = "<eps>:また", fontsize = 14];
+76 [label = "76", shape = circle, style = solid, fontsize = 14]
+	76 -> 77 [label = "<eps>:、", fontsize = 14];
+77 [label = "77", shape = circle, style = solid, fontsize = 14]
+	77 -> 0 [label = "<eps>:各", fontsize = 14];
+78 [label = "78", shape = circle, style = solid, fontsize = 14]
+79 [label = "79", shape = circle, style = solid, fontsize = 14]
+	79 -> 80 [label = "<eps>:この", fontsize = 14];
+80 [label = "80", shape = circle, style = solid, fontsize = 14]
+	80 -> 0 [label = "<eps>:各", fontsize = 14];
+81 [label = "81", shape = circle, style = solid, fontsize = 14]
+82 [label = "82", shape = circle, style = solid, fontsize = 14]
+	82 -> 83 [label = "<eps>:前記", fontsize = 14];
+83 [label = "83", shape = circle, style = solid, fontsize = 14]
+	83 -> 0 [label = "<eps>:各", fontsize = 14];
+84 [label = "84", shape = circle, style = solid, fontsize = 14]
+85 [label = "85", shape = circle, style = solid, fontsize = 14]
+	85 -> 86 [label = "<eps>:これ", fontsize = 14];
+86 [label = "86", shape = circle, style = solid, fontsize = 14]
+	86 -> 87 [label = "<eps>:ら", fontsize = 14];
+87 [label = "87", shape = circle, style = solid, fontsize = 14]
+	87 -> 0 [label = "<eps>:各", fontsize = 14];
+88 [label = "88", shape = circle, style = solid, fontsize = 14]
+89 [label = "89", shape = circle, style = solid, fontsize = 14]
+	89 -> 90 [label = "<eps>:ら", fontsize = 14];
+90 [label = "90", shape = circle, style = solid, fontsize = 14]
+	90 -> 91 [label = "<eps>:の", fontsize = 14];
+91 [label = "91", shape = circle, style = solid, fontsize = 14]
+	91 -> 0 [label = "<eps>:構成", fontsize = 14];
+92 [label = "92", shape = circle, style = solid, fontsize = 14]
+93 [label = "93", shape = circle, style = solid, fontsize = 14]
+	93 -> 94 [label = "<eps>:構成", fontsize = 14];
+94 [label = "94", shape = circle, style = solid, fontsize = 14]
+	94 -> 0 [label = "<eps>:上", fontsize = 14];
+95 [label = "95", shape = circle, style = solid, fontsize = 14]
+96 [label = "96", shape = circle, style = solid, fontsize = 14]
+	96 -> 97 [label = "<eps>:構造", fontsize = 14];
+97 [label = "97", shape = circle, style = solid, fontsize = 14]
+	97 -> 0 [label = "<eps>:的", fontsize = 14];
+98 [label = "98", shape = circle, style = solid, fontsize = 14]
+99 [label = "99", shape = circle, style = solid, fontsize = 14]
+	99 -> 100 [label = "<eps>:構造", fontsize = 14];
+100 [label = "100", shape = circle, style = solid, fontsize = 14]
+	100 -> 0 [label = "<eps>:上", fontsize = 14];
+101 [label = "101", shape = circle, style = solid, fontsize = 14]
+102 [label = "102", shape = circle, style = solid, fontsize = 14]
+	102 -> 103 [label = "<eps>:機械", fontsize = 14];
+103 [label = "103", shape = circle, style = solid, fontsize = 14]
+	103 -> 0 [label = "<eps>:的", fontsize = 14];
+104 [label = "104", shape = circle, style = solid, fontsize = 14]
+105 [label = "105", shape = circle, style = solid, fontsize = 14]
+	105 -> 106 [label = "<eps>:は", fontsize = 14];
+106 [label = "106", shape = circle, style = solid, fontsize = 14]
+	106 -> 0 [label = "<eps>:、", fontsize = 14];
+107 [label = "107", shape = circle, style = solid, fontsize = 14]
+108 [label = "108", shape = circle, style = solid, fontsize = 14]
+	108 -> 109 [label = "<eps>:と", fontsize = 14];
+109 [label = "109", shape = circle, style = solid, fontsize = 14]
+	109 -> 0 [label = "<eps>:が", fontsize = 14];
+110 [label = "110", shape = circle, style = solid, fontsize = 14]
+111 [label = "111", shape = circle, style = solid, fontsize = 14]
+	111 -> 112 [label = "<eps>:を", fontsize = 14];
+112 [label = "112", shape = circle, style = solid, fontsize = 14]
+	112 -> 0 [label = "<eps>:それぞれ", fontsize = 14];
+113 [label = "113", shape = circle, style = solid, fontsize = 14]
+114 [label = "114", shape = circle, style = solid, fontsize = 14]
+	114 -> 115 [label = "<eps>:同士", fontsize = 14];
+115 [label = "115", shape = circle, style = solid, fontsize = 14]
+	115 -> 0 [label = "<eps>:が", fontsize = 14];
+116 [label = "116", shape = circle, style = solid, fontsize = 14]
+117 [label = "117", shape = circle, style = solid, fontsize = 14]
+	117 -> 118 [label = "<eps>:次", fontsize = 14];
+118 [label = "118", shape = circle, style = solid, fontsize = 14]
+	118 -> 0 [label = "<eps>:に", fontsize = 14];
+119 [label = "119", shape = circle, style = solid, fontsize = 14]
+120 [label = "120", shape = circle, style = solid, fontsize = 14]
+	120 -> 121 [label = "<eps>:次", fontsize = 14];
+121 [label = "121", shape = circle, style = solid, fontsize = 14]
+	121 -> 0 [label = "<eps>:段", fontsize = 14];
+122 [label = "122", shape = circle, style = solid, fontsize = 14]
+123 [label = "123", shape = circle, style = solid, fontsize = 14]
+	123 -> 124 [label = "<eps>:続", fontsize = 14];
+124 [label = "124", shape = circle, style = solid, fontsize = 14]
+	124 -> 0 [label = "<eps>:い", fontsize = 14];
+125 [label = "125", shape = circle, style = solid, fontsize = 14]
+126 [label = "126", shape = circle, style = solid, fontsize = 14]
+	126 -> 127 [label = "<eps>:続", fontsize = 14];
+127 [label = "127", shape = circle, style = solid, fontsize = 14]
+	127 -> 128 [label = "<eps>:い", fontsize = 14];
+128 [label = "128", shape = circle, style = solid, fontsize = 14]
+	128 -> 129 [label = "<eps>:て", fontsize = 14];
+129 [label = "129", shape = circle, style = solid, fontsize = 14]
+	129 -> 0 [label = "<eps>:次", fontsize = 14];
+130 [label = "130", shape = circle, style = solid, fontsize = 14]
+131 [label = "131", shape = circle, style = solid, fontsize = 14]
+	131 -> 132 [label = "<eps>:に", fontsize = 14];
+132 [label = "132", shape = circle, style = solid, fontsize = 14]
+	132 -> 0 [label = "<eps>:次", fontsize = 14];
+133 [label = "133", shape = circle, style = solid, fontsize = 14]
+134 [label = "134", shape = circle, style = solid, fontsize = 14]
+	134 -> 135 [label = "<eps>:つぎ", fontsize = 14];
+135 [label = "135", shape = circle, style = solid, fontsize = 14]
+	135 -> 0 [label = "<eps>:に", fontsize = 14];
+136 [label = "136", shape = circle, style = solid, fontsize = 14]
+137 [label = "137", shape = circle, style = solid, fontsize = 14]
+	137 -> 138 [label = "<eps>:次回", fontsize = 14];
+138 [label = "138", shape = circle, style = solid, fontsize = 14]
+	138 -> 0 [label = "<eps>:に", fontsize = 14];
+139 [label = "139", shape = circle, style = solid, fontsize = 14]
+140 [label = "140", shape = circle, style = solid, fontsize = 14]
+	140 -> 141 [label = "<eps>:て", fontsize = 14];
+141 [label = "141", shape = circle, style = solid, fontsize = 14]
+	141 -> 0 [label = "<eps>:説明", fontsize = 14];
+142 [label = "142", shape = circle, style = solid, fontsize = 14]
+143 [label = "143", shape = circle, style = solid, fontsize = 14]
+	143 -> 144 [label = "<eps>:に", fontsize = 14];
+144 [label = "144", shape = circle, style = solid, fontsize = 14]
+	144 -> 145 [label = "<eps>:つ", fontsize = 14];
+145 [label = "145", shape = circle, style = solid, fontsize = 14]
+	145 -> 146 [label = "<eps>:い", fontsize = 14];
+146 [label = "146", shape = circle, style = solid, fontsize = 14]
+	146 -> 147 [label = "<eps>:て", fontsize = 14];
+147 [label = "147", shape = circle, style = solid, fontsize = 14]
+	147 -> 0 [label = "<eps>:述べ", fontsize = 14];
+148 [label = "148", shape = circle, style = solid, fontsize = 14]
+149 [label = "149", shape = circle, style = solid, fontsize = 14]
+	149 -> 150 [label = "<eps>:に", fontsize = 14];
+150 [label = "150", shape = circle, style = solid, fontsize = 14]
+	150 -> 0 [label = "<eps>:説明", fontsize = 14];
+151 [label = "151", shape = circle, style = solid, fontsize = 14]
+152 [label = "152", shape = circle, style = solid, fontsize = 14]
+	152 -> 153 [label = "<eps>:記載", fontsize = 14];
+153 [label = "153", shape = circle, style = solid, fontsize = 14]
+	153 -> 154 [label = "<eps>:し", fontsize = 14];
+154 [label = "154", shape = circle, style = solid, fontsize = 14]
+	154 -> 0 [label = "<eps>:て", fontsize = 14];
+155 [label = "155", shape = circle, style = solid, fontsize = 14]
+156 [label = "156", shape = circle, style = solid, fontsize = 14]
+	156 -> 157 [label = "<eps>:つ", fontsize = 14];
+157 [label = "157", shape = circle, style = solid, fontsize = 14]
+	157 -> 158 [label = "<eps>:い", fontsize = 14];
+158 [label = "158", shape = circle, style = solid, fontsize = 14]
+	158 -> 159 [label = "<eps>:て", fontsize = 14];
+159 [label = "159", shape = circle, style = solid, fontsize = 14]
+	159 -> 160 [label = "<eps>:説明", fontsize = 14];
+160 [label = "160", shape = circle, style = solid, fontsize = 14]
+	160 -> 0 [label = "<eps>:する", fontsize = 14];
+161 [label = "161", shape = circle, style = solid, fontsize = 14]
+162 [label = "162", shape = circle, style = solid, fontsize = 14]
+	162 -> 163 [label = "<eps>:述べ", fontsize = 14];
+163 [label = "163", shape = circle, style = solid, fontsize = 14]
+	163 -> 0 [label = "<eps>:た", fontsize = 14];
+164 [label = "164", shape = circle, style = solid, fontsize = 14]
+165 [label = "165", shape = circle, style = solid, fontsize = 14]
+	165 -> 166 [label = "<eps>:説明", fontsize = 14];
+166 [label = "166", shape = circle, style = solid, fontsize = 14]
+	166 -> 0 [label = "<eps>:する", fontsize = 14];
+167 [label = "167", shape = circle, style = solid, fontsize = 14]
+168 [label = "168", shape = circle, style = solid, fontsize = 14]
+	168 -> 169 [label = "<eps>:示", fontsize = 14];
+169 [label = "169", shape = circle, style = solid, fontsize = 14]
+	169 -> 170 [label = "<eps>:し", fontsize = 14];
+170 [label = "170", shape = circle, style = solid, fontsize = 14]
+	170 -> 0 [label = "<eps>:た", fontsize = 14];
+171 [label = "171", shape = circle, style = solid, fontsize = 14]
+172 [label = "172", shape = circle, style = solid, fontsize = 14]
+	172 -> 173 [label = "<eps>:た", fontsize = 14];
+173 [label = "173", shape = circle, style = solid, fontsize = 14]
+	173 -> 0 [label = "<eps>:。", fontsize = 14];
+174 [label = "174", shape = circle, style = solid, fontsize = 14]
+175 [label = "175", shape = circle, style = solid, fontsize = 14]
+	175 -> 176 [label = "<eps>:する", fontsize = 14];
+176 [label = "176", shape = circle, style = solid, fontsize = 14]
+	176 -> 0 [label = "<eps>:。", fontsize = 14];
+177 [label = "177", shape = circle, style = solid, fontsize = 14]
+178 [label = "178", shape = circle, style = solid, fontsize = 14]
+	178 -> 179 [label = "<eps>:い", fontsize = 14];
+179 [label = "179", shape = circle, style = solid, fontsize = 14]
+	179 -> 0 [label = "<eps>:。", fontsize = 14];
+180 [label = "180", shape = circle, style = solid, fontsize = 14]
+181 [label = "181", shape = circle, style = solid, fontsize = 14]
+	181 -> 182 [label = "<eps>:い", fontsize = 14];
+182 [label = "182", shape = circle, style = solid, fontsize = 14]
+	182 -> 183 [label = "<eps>:る", fontsize = 14];
+183 [label = "183", shape = circle, style = solid, fontsize = 14]
+	183 -> 0 [label = "<eps>:。", fontsize = 14];
+184 [label = "184", shape = circle, style = solid, fontsize = 14]
+185 [label = "185", shape = circle, style = solid, fontsize = 14]
+	185 -> 186 [label = "<eps>:い", fontsize = 14];
+186 [label = "186", shape = circle, style = solid, fontsize = 14]
+	186 -> 187 [label = "<eps>:く", fontsize = 14];
+187 [label = "187", shape = circle, style = solid, fontsize = 14]
+	187 -> 0 [label = "<eps>:。", fontsize = 14];
+188 [label = "188", shape = circle, style = solid, fontsize = 14]
+189 [label = "189", shape = circle, style = solid, fontsize = 14]
+	189 -> 190 [label = "<eps>:る", fontsize = 14];
+190 [label = "190", shape = circle, style = solid, fontsize = 14]
+	190 -> 0 [label = "<eps>:。", fontsize = 14];
+191 [label = "191", shape = circle, style = solid, fontsize = 14]
+192 [label = "192", shape = circle, style = solid, fontsize = 14]
+	192 -> 193 [label = "<eps>:う", fontsize = 14];
+193 [label = "193", shape = circle, style = solid, fontsize = 14]
+	193 -> 0 [label = "<eps>:。", fontsize = 14];
+194 [label = "194", shape = circle, style = solid, fontsize = 14]
+195 [label = "195", shape = circle, style = solid, fontsize = 14]
+	195 -> 196 [label = "<eps>:あ", fontsize = 14];
+196 [label = "196", shape = circle, style = solid, fontsize = 14]
+	196 -> 197 [label = "<eps>:る", fontsize = 14];
+197 [label = "197", shape = circle, style = solid, fontsize = 14]
+	197 -> 0 [label = "<eps>:。", fontsize = 14];
+198 [label = "198", shape = circle, style = solid, fontsize = 14]
+199 [label = "199", shape = circle, style = solid, fontsize = 14]
+	199 -> 200 [label = "movement:<eps>", fontsize = 14];
+200 [label = "200", shape = circle, style = solid, fontsize = 14]
+	200 -> 201 [label = "<eps>:、", fontsize = 14];
+201 [label = "201", shape = circle, style = solid, fontsize = 14]
+	201 -> 0 [label = "<eps>:動作", fontsize = 14];
+202 [label = "202", shape = circle, style = solid, fontsize = 14]
+203 [label = "203", shape = circle, style = solid, fontsize = 14]
+	203 -> 204 [label = "movement:<eps>", fontsize = 14];
+204 [label = "204", shape = circle, style = solid, fontsize = 14]
+	204 -> 205 [label = "<eps>:、", fontsize = 14];
+205 [label = "205", shape = circle, style = solid, fontsize = 14]
+	205 -> 0 [label = "<eps>:移動", fontsize = 14];
+206 [label = "206", shape = circle, style = solid, fontsize = 14]
+207 [label = "207", shape = circle, style = solid, fontsize = 14]
+	207 -> 208 [label = "movement:<eps>", fontsize = 14];
+208 [label = "208", shape = circle, style = solid, fontsize = 14]
+	208 -> 209 [label = "<eps>:、", fontsize = 14];
+209 [label = "209", shape = circle, style = solid, fontsize = 14]
+	209 -> 0 [label = "<eps>:可動体", fontsize = 14];
+210 [label = "210", shape = circle, style = solid, fontsize = 14]
+211 [label = "211", shape = circle, style = solid, fontsize = 14]
+	211 -> 212 [label = "movement:<eps>", fontsize = 14];
+212 [label = "212", shape = circle, style = solid, fontsize = 14]
+	212 -> 213 [label = "<eps>:た", fontsize = 14];
+213 [label = "213", shape = circle, style = solid, fontsize = 14]
+	213 -> 0 [label = "<eps>:移動", fontsize = 14];
+214 [label = "214", shape = circle, style = solid, fontsize = 14]
+215 [label = "215", shape = circle, style = solid, fontsize = 14]
+	215 -> 216 [label = "movement:<eps>", fontsize = 14];
+216 [label = "216", shape = circle, style = solid, fontsize = 14]
+	216 -> 217 [label = "<eps>:（", fontsize = 14];
+217 [label = "217", shape = circle, style = solid, fontsize = 14]
+	217 -> 0 [label = "<eps>:変位", fontsize = 14];
+218 [label = "218", shape = circle, style = solid, fontsize = 14]
+219 [label = "219", shape = circle, style = solid, fontsize = 14]
+	219 -> 220 [label = "movement:<eps>", fontsize = 14];
+220 [label = "220", shape = circle, style = solid, fontsize = 14]
+	220 -> 221 [label = "<eps>:の", fontsize = 14];
+221 [label = "221", shape = circle, style = solid, fontsize = 14]
+	221 -> 0 [label = "<eps>:移動", fontsize = 14];
+222 [label = "222", shape = circle, style = solid, fontsize = 14]
+223 [label = "223", shape = circle, style = solid, fontsize = 14]
+	223 -> 224 [label = "movement:<eps>", fontsize = 14];
+224 [label = "224", shape = circle, style = solid, fontsize = 14]
+	224 -> 225 [label = "<eps>:は", fontsize = 14];
+225 [label = "225", shape = circle, style = solid, fontsize = 14]
+	225 -> 226 [label = "<eps>:、", fontsize = 14];
+226 [label = "226", shape = circle, style = solid, fontsize = 14]
+	226 -> 0 [label = "<eps>:運動", fontsize = 14];
+227 [label = "227", shape = circle, style = solid, fontsize = 14]
+228 [label = "228", shape = circle, style = solid, fontsize = 14]
+	228 -> 229 [label = "movement:<eps>", fontsize = 14];
+229 [label = "229", shape = circle, style = solid, fontsize = 14]
+	229 -> 230 [label = "<eps>:また", fontsize = 14];
+230 [label = "230", shape = circle, style = solid, fontsize = 14]
+	230 -> 231 [label = "<eps>:、", fontsize = 14];
+231 [label = "231", shape = circle, style = solid, fontsize = 14]
+	231 -> 0 [label = "<eps>:移動", fontsize = 14];
+232 [label = "232", shape = circle, style = solid, fontsize = 14]
+233 [label = "233", shape = circle, style = solid, fontsize = 14]
+	233 -> 234 [label = "movement:<eps>", fontsize = 14];
+234 [label = "234", shape = circle, style = solid, fontsize = 14]
+	234 -> 235 [label = "<eps>:この", fontsize = 14];
+235 [label = "235", shape = circle, style = solid, fontsize = 14]
+	235 -> 0 [label = "<eps>:遊動", fontsize = 14];
+236 [label = "236", shape = circle, style = solid, fontsize = 14]
+237 [label = "237", shape = circle, style = solid, fontsize = 14]
+	237 -> 238 [label = "movement:<eps>", fontsize = 14];
+238 [label = "238", shape = circle, style = solid, fontsize = 14]
+	238 -> 0 [label = "<eps>:これ", fontsize = 14];
+239 [label = "239", shape = circle, style = solid, fontsize = 14]
+240 [label = "240", shape = circle, style = solid, fontsize = 14]
+	240 -> 241 [label = "movement:<eps>", fontsize = 14];
+241 [label = "241", shape = circle, style = solid, fontsize = 14]
+	241 -> 242 [label = "<eps>:一方", fontsize = 14];
+242 [label = "242", shape = circle, style = solid, fontsize = 14]
+	242 -> 243 [label = "<eps>:、", fontsize = 14];
+243 [label = "243", shape = circle, style = solid, fontsize = 14]
+	243 -> 0 [label = "<eps>:移動", fontsize = 14];
+244 [label = "244", shape = circle, style = solid, fontsize = 14]
+245 [label = "245", shape = circle, style = solid, fontsize = 14]
+	245 -> 246 [label = "movement:<eps>", fontsize = 14];
+246 [label = "246", shape = circle, style = solid, fontsize = 14]
+	246 -> 247 [label = "<eps>:移動", fontsize = 14];
+247 [label = "247", shape = circle, style = solid, fontsize = 14]
+	247 -> 0 [label = "<eps>:は", fontsize = 14];
+248 [label = "248", shape = circle, style = solid, fontsize = 14]
+249 [label = "249", shape = circle, style = solid, fontsize = 14]
+	249 -> 250 [label = "movement:<eps>", fontsize = 14];
+250 [label = "250", shape = circle, style = solid, fontsize = 14]
+	250 -> 251 [label = "<eps>:移動", fontsize = 14];
+251 [label = "251", shape = circle, style = solid, fontsize = 14]
+	251 -> 0 [label = "<eps>:する", fontsize = 14];
+252 [label = "252", shape = circle, style = solid, fontsize = 14]
+253 [label = "253", shape = circle, style = solid, fontsize = 14]
+	253 -> 254 [label = "of:<eps>", fontsize = 14];
+254 [label = "254", shape = circle, style = solid, fontsize = 14]
+	254 -> 255 [label = "<eps>:の", fontsize = 14];
+255 [label = "255", shape = circle, style = solid, fontsize = 14]
+	255 -> 256 [label = "<eps>:動作", fontsize = 14];
+256 [label = "256", shape = circle, style = solid, fontsize = 14]
+	256 -> 0 [label = "<eps>:を", fontsize = 14];
+257 [label = "257", shape = circle, style = solid, fontsize = 14]
+258 [label = "258", shape = circle, style = solid, fontsize = 14]
+	258 -> 259 [label = "of:<eps>", fontsize = 14];
+259 [label = "259", shape = circle, style = solid, fontsize = 14]
+	259 -> 260 [label = "<eps>:の", fontsize = 14];
+260 [label = "260", shape = circle, style = solid, fontsize = 14]
+	260 -> 0 [label = "<eps>:移動", fontsize = 14];
+261 [label = "261", shape = circle, style = solid, fontsize = 14]
+262 [label = "262", shape = circle, style = solid, fontsize = 14]
+	262 -> 263 [label = "of:<eps>", fontsize = 14];
+263 [label = "263", shape = circle, style = solid, fontsize = 14]
+	263 -> 264 [label = "<eps>:の", fontsize = 14];
+264 [label = "264", shape = circle, style = solid, fontsize = 14]
+	264 -> 265 [label = "<eps>:移動", fontsize = 14];
+265 [label = "265", shape = circle, style = solid, fontsize = 14]
+	265 -> 0 [label = "<eps>:を", fontsize = 14];
+266 [label = "266", shape = circle, style = solid, fontsize = 14]
+267 [label = "267", shape = circle, style = solid, fontsize = 14]
+	267 -> 268 [label = "of:<eps>", fontsize = 14];
+268 [label = "268", shape = circle, style = solid, fontsize = 14]
+	268 -> 269 [label = "<eps>:の", fontsize = 14];
+269 [label = "269", shape = circle, style = solid, fontsize = 14]
+	269 -> 0 [label = "<eps>:動き", fontsize = 14];
+270 [label = "270", shape = circle, style = solid, fontsize = 14]
+271 [label = "271", shape = circle, style = solid, fontsize = 14]
+	271 -> 272 [label = "of:<eps>", fontsize = 14];
+272 [label = "272", shape = circle, style = solid, fontsize = 14]
+	272 -> 273 [label = "<eps>:の", fontsize = 14];
+273 [label = "273", shape = circle, style = solid, fontsize = 14]
+	273 -> 274 [label = "<eps>:作動", fontsize = 14];
+274 [label = "274", shape = circle, style = solid, fontsize = 14]
+	274 -> 0 [label = "<eps>:を", fontsize = 14];
+275 [label = "275", shape = circle, style = solid, fontsize = 14]
+276 [label = "276", shape = circle, style = solid, fontsize = 14]
+	276 -> 277 [label = "of:<eps>", fontsize = 14];
+277 [label = "277", shape = circle, style = solid, fontsize = 14]
+	277 -> 278 [label = "<eps>:の", fontsize = 14];
+278 [label = "278", shape = circle, style = solid, fontsize = 14]
+	278 -> 0 [label = "<eps>:変位", fontsize = 14];
+279 [label = "279", shape = circle, style = solid, fontsize = 14]
+280 [label = "280", shape = circle, style = solid, fontsize = 14]
+	280 -> 281 [label = "of:<eps>", fontsize = 14];
+281 [label = "281", shape = circle, style = solid, fontsize = 14]
+	281 -> 282 [label = "<eps>:が", fontsize = 14];
+282 [label = "282", shape = circle, style = solid, fontsize = 14]
+	282 -> 0 [label = "<eps>:移動", fontsize = 14];
+283 [label = "283", shape = circle, style = solid, fontsize = 14]
+284 [label = "284", shape = circle, style = solid, fontsize = 14]
+	284 -> 285 [label = "of:<eps>", fontsize = 14];
+285 [label = "285", shape = circle, style = solid, fontsize = 14]
+	285 -> 286 [label = "<eps>:を", fontsize = 14];
+286 [label = "286", shape = circle, style = solid, fontsize = 14]
+	286 -> 0 [label = "<eps>:移動", fontsize = 14];
+287 [label = "287", shape = circle, style = solid, fontsize = 14]
+288 [label = "288", shape = circle, style = solid, fontsize = 14]
+	288 -> 289 [label = "of:<eps>", fontsize = 14];
+289 [label = "289", shape = circle, style = solid, fontsize = 14]
+	289 -> 290 [label = "<eps>:へ", fontsize = 14];
+290 [label = "290", shape = circle, style = solid, fontsize = 14]
+	290 -> 291 [label = "<eps>:の", fontsize = 14];
+291 [label = "291", shape = circle, style = solid, fontsize = 14]
+	291 -> 292 [label = "<eps>:変位", fontsize = 14];
+292 [label = "292", shape = circle, style = solid, fontsize = 14]
+	292 -> 0 [label = "<eps>:量", fontsize = 14];
+293 [label = "293", shape = circle, style = solid, fontsize = 14]
+294 [label = "294", shape = circle, style = solid, fontsize = 14]
+	294 -> 295 [label = "of:<eps>", fontsize = 14];
+295 [label = "295", shape = circle, style = solid, fontsize = 14]
+	295 -> 296 [label = "<eps>:移動", fontsize = 14];
+296 [label = "296", shape = circle, style = solid, fontsize = 14]
+	296 -> 0 [label = "<eps>:に", fontsize = 14];
+297 [label = "297", shape = circle, style = solid, fontsize = 14]
+298 [label = "298", shape = circle, style = solid, fontsize = 14]
+	298 -> 299 [label = "of:<eps>", fontsize = 14];
+299 [label = "299", shape = circle, style = solid, fontsize = 14]
+	299 -> 300 [label = "<eps>:移動", fontsize = 14];
+300 [label = "300", shape = circle, style = solid, fontsize = 14]
+	300 -> 0 [label = "<eps>:を", fontsize = 14];
+301 [label = "301", shape = circle, style = solid, fontsize = 14]
+302 [label = "302", shape = circle, style = solid, fontsize = 14]
+	302 -> 303 [label = "of:<eps>", fontsize = 14];
+303 [label = "303", shape = circle, style = solid, fontsize = 14]
+	303 -> 304 [label = "<eps>:運動", fontsize = 14];
+304 [label = "304", shape = circle, style = solid, fontsize = 14]
+	304 -> 0 [label = "<eps>:を", fontsize = 14];
+305 [label = "305", shape = circle, style = solid, fontsize = 14]
+306 [label = "306", shape = circle, style = solid, fontsize = 14]
+	306 -> 307 [label = "light:<eps>", fontsize = 14];
+307 [label = "307", shape = circle, style = solid, fontsize = 14]
+	307 -> 308 [label = "<eps>:、", fontsize = 14];
+308 [label = "308", shape = circle, style = solid, fontsize = 14]
+	308 -> 0 [label = "<eps>:光", fontsize = 14];
+309 [label = "309", shape = circle, style = solid, fontsize = 14]
+310 [label = "310", shape = circle, style = solid, fontsize = 14]
+	310 -> 311 [label = "light:<eps>", fontsize = 14];
+311 [label = "311", shape = circle, style = solid, fontsize = 14]
+	311 -> 312 [label = "<eps>:、", fontsize = 14];
+312 [label = "312", shape = circle, style = solid, fontsize = 14]
+	312 -> 313 [label = "<eps>:光", fontsize = 14];
+313 [label = "313", shape = circle, style = solid, fontsize = 14]
+	313 -> 0 [label = "<eps>:の", fontsize = 14];
+314 [label = "314", shape = circle, style = solid, fontsize = 14]
+315 [label = "315", shape = circle, style = solid, fontsize = 14]
+	315 -> 316 [label = "light:<eps>", fontsize = 14];
+316 [label = "316", shape = circle, style = solid, fontsize = 14]
+	316 -> 317 [label = "<eps>:、", fontsize = 14];
+317 [label = "317", shape = circle, style = solid, fontsize = 14]
+	317 -> 0 [label = "<eps>:ライト", fontsize = 14];
+318 [label = "318", shape = circle, style = solid, fontsize = 14]
+319 [label = "319", shape = circle, style = solid, fontsize = 14]
+	319 -> 320 [label = "light:<eps>", fontsize = 14];
+320 [label = "320", shape = circle, style = solid, fontsize = 14]
+	320 -> 321 [label = "<eps>:た", fontsize = 14];
+321 [label = "321", shape = circle, style = solid, fontsize = 14]
+	321 -> 0 [label = "<eps>:光", fontsize = 14];
+322 [label = "322", shape = circle, style = solid, fontsize = 14]
+323 [label = "323", shape = circle, style = solid, fontsize = 14]
+	323 -> 324 [label = "light:<eps>", fontsize = 14];
+324 [label = "324", shape = circle, style = solid, fontsize = 14]
+	324 -> 325 [label = "<eps>:は", fontsize = 14];
+325 [label = "325", shape = circle, style = solid, fontsize = 14]
+	325 -> 326 [label = "<eps>:、", fontsize = 14];
+326 [label = "326", shape = circle, style = solid, fontsize = 14]
+	326 -> 0 [label = "<eps>:光", fontsize = 14];
+327 [label = "327", shape = circle, style = solid, fontsize = 14]
+328 [label = "328", shape = circle, style = solid, fontsize = 14]
+	328 -> 329 [label = "light:<eps>", fontsize = 14];
+329 [label = "329", shape = circle, style = solid, fontsize = 14]
+	329 -> 330 [label = "<eps>:は", fontsize = 14];
+330 [label = "330", shape = circle, style = solid, fontsize = 14]
+	330 -> 0 [label = "<eps>:光", fontsize = 14];
+331 [label = "331", shape = circle, style = solid, fontsize = 14]
+332 [label = "332", shape = circle, style = solid, fontsize = 14]
+	332 -> 333 [label = "light:<eps>", fontsize = 14];
+333 [label = "333", shape = circle, style = solid, fontsize = 14]
+	333 -> 334 [label = "<eps>:る", fontsize = 14];
+334 [label = "334", shape = circle, style = solid, fontsize = 14]
+	334 -> 0 [label = "<eps>:光", fontsize = 14];
+335 [label = "335", shape = circle, style = solid, fontsize = 14]
+336 [label = "336", shape = circle, style = solid, fontsize = 14]
+	336 -> 337 [label = "beam:<eps>", fontsize = 14];
+337 [label = "337", shape = circle, style = solid, fontsize = 14]
+	337 -> 338 [label = "<eps>:の", fontsize = 14];
+338 [label = "338", shape = circle, style = solid, fontsize = 14]
+	338 -> 0 [label = "<eps>:光", fontsize = 14];
+339 [label = "339", shape = circle, style = solid, fontsize = 14]
+340 [label = "340", shape = circle, style = solid, fontsize = 14]
+	340 -> 341 [label = "beam:<eps>", fontsize = 14];
+341 [label = "341", shape = circle, style = solid, fontsize = 14]
+	341 -> 342 [label = "<eps>:の", fontsize = 14];
+342 [label = "342", shape = circle, style = solid, fontsize = 14]
+	342 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+343 [label = "343", shape = circle, style = solid, fontsize = 14]
+344 [label = "344", shape = circle, style = solid, fontsize = 14]
+	344 -> 345 [label = "beam:<eps>", fontsize = 14];
+345 [label = "345", shape = circle, style = solid, fontsize = 14]
+	345 -> 346 [label = "<eps>:の", fontsize = 14];
+346 [label = "346", shape = circle, style = solid, fontsize = 14]
+	346 -> 347 [label = "<eps>:ビーム", fontsize = 14];
+347 [label = "347", shape = circle, style = solid, fontsize = 14]
+	347 -> 0 [label = "<eps>:光", fontsize = 14];
+348 [label = "348", shape = circle, style = solid, fontsize = 14]
+349 [label = "349", shape = circle, style = solid, fontsize = 14]
+	349 -> 350 [label = "beam:<eps>", fontsize = 14];
+350 [label = "350", shape = circle, style = solid, fontsize = 14]
+	350 -> 351 [label = "<eps>:の", fontsize = 14];
+351 [label = "351", shape = circle, style = solid, fontsize = 14]
+	351 -> 0 [label = "<eps>:光束", fontsize = 14];
+352 [label = "352", shape = circle, style = solid, fontsize = 14]
+353 [label = "353", shape = circle, style = solid, fontsize = 14]
+	353 -> 354 [label = "beam:<eps>", fontsize = 14];
+354 [label = "354", shape = circle, style = solid, fontsize = 14]
+	354 -> 355 [label = "<eps>:の", fontsize = 14];
+355 [label = "355", shape = circle, style = solid, fontsize = 14]
+	355 -> 0 [label = "<eps>:光線", fontsize = 14];
+356 [label = "356", shape = circle, style = solid, fontsize = 14]
+357 [label = "357", shape = circle, style = solid, fontsize = 14]
+	357 -> 358 [label = "beam:<eps>", fontsize = 14];
+358 [label = "358", shape = circle, style = solid, fontsize = 14]
+	358 -> 359 [label = "<eps>:用", fontsize = 14];
+359 [label = "359", shape = circle, style = solid, fontsize = 14]
+	359 -> 360 [label = "<eps>:光", fontsize = 14];
+360 [label = "360", shape = circle, style = solid, fontsize = 14]
+	360 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+361 [label = "361", shape = circle, style = solid, fontsize = 14]
+362 [label = "362", shape = circle, style = solid, fontsize = 14]
+	362 -> 363 [label = "beam:<eps>", fontsize = 14];
+363 [label = "363", shape = circle, style = solid, fontsize = 14]
+	363 -> 0 [label = "<eps>:光", fontsize = 14];
+364 [label = "364", shape = circle, style = solid, fontsize = 14]
+365 [label = "365", shape = circle, style = solid, fontsize = 14]
+	365 -> 366 [label = "beam:<eps>", fontsize = 14];
+366 [label = "366", shape = circle, style = solid, fontsize = 14]
+	366 -> 367 [label = "<eps>:光", fontsize = 14];
+367 [label = "367", shape = circle, style = solid, fontsize = 14]
+	367 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+368 [label = "368", shape = circle, style = solid, fontsize = 14]
+369 [label = "369", shape = circle, style = solid, fontsize = 14]
+	369 -> 370 [label = "beam:<eps>", fontsize = 14];
+370 [label = "370", shape = circle, style = solid, fontsize = 14]
+	370 -> 371 [label = "<eps>:レーザ", fontsize = 14];
+371 [label = "371", shape = circle, style = solid, fontsize = 14]
+	371 -> 0 [label = "<eps>:光", fontsize = 14];
+372 [label = "372", shape = circle, style = solid, fontsize = 14]
+373 [label = "373", shape = circle, style = solid, fontsize = 14]
+	373 -> 374 [label = "beam:<eps>", fontsize = 14];
+374 [label = "374", shape = circle, style = solid, fontsize = 14]
+	374 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+375 [label = "375", shape = circle, style = solid, fontsize = 14]
+376 [label = "376", shape = circle, style = solid, fontsize = 14]
+	376 -> 377 [label = "beam:<eps>", fontsize = 14];
+377 [label = "377", shape = circle, style = solid, fontsize = 14]
+	377 -> 378 [label = "<eps>:ビーム", fontsize = 14];
+378 [label = "378", shape = circle, style = solid, fontsize = 14]
+	378 -> 0 [label = "<eps>:光", fontsize = 14];
+379 [label = "379", shape = circle, style = solid, fontsize = 14]
+380 [label = "380", shape = circle, style = solid, fontsize = 14]
+	380 -> 381 [label = "beam:<eps>", fontsize = 14];
+381 [label = "381", shape = circle, style = solid, fontsize = 14]
+	381 -> 0 [label = "<eps>:光束", fontsize = 14];
+382 [label = "382", shape = circle, style = solid, fontsize = 14]
+383 [label = "383", shape = circle, style = solid, fontsize = 14]
+	383 -> 384 [label = "beam:<eps>", fontsize = 14];
+384 [label = "384", shape = circle, style = solid, fontsize = 14]
+	384 -> 0 [label = "<eps>:光線", fontsize = 14];
+385 [label = "385", shape = circle, style = solid, fontsize = 14]
+386 [label = "386", shape = circle, style = solid, fontsize = 14]
+	386 -> 387 [label = "and:<eps>", fontsize = 14];
+387 [label = "387", shape = circle, style = solid, fontsize = 14]
+	387 -> 388 [label = "<eps>:光", fontsize = 14];
+388 [label = "388", shape = circle, style = solid, fontsize = 14]
+	388 -> 0 [label = "<eps>:、", fontsize = 14];
+389 [label = "389", shape = circle, style = solid, fontsize = 14]
+390 [label = "390", shape = circle, style = solid, fontsize = 14]
+	390 -> 391 [label = "and:<eps>", fontsize = 14];
+391 [label = "391", shape = circle, style = solid, fontsize = 14]
+	391 -> 392 [label = "<eps>:光", fontsize = 14];
+392 [label = "392", shape = circle, style = solid, fontsize = 14]
+	392 -> 0 [label = "<eps>:と", fontsize = 14];
+393 [label = "393", shape = circle, style = solid, fontsize = 14]
+394 [label = "394", shape = circle, style = solid, fontsize = 14]
+	394 -> 395 [label = "and:<eps>", fontsize = 14];
+395 [label = "395", shape = circle, style = solid, fontsize = 14]
+	395 -> 396 [label = "<eps>:光", fontsize = 14];
+396 [label = "396", shape = circle, style = solid, fontsize = 14]
+	396 -> 0 [label = "<eps>:や", fontsize = 14];
+397 [label = "397", shape = circle, style = solid, fontsize = 14]
+398 [label = "398", shape = circle, style = solid, fontsize = 14]
+	398 -> 399 [label = "and:<eps>", fontsize = 14];
+399 [label = "399", shape = circle, style = solid, fontsize = 14]
+	399 -> 400 [label = "<eps>:光", fontsize = 14];
+400 [label = "400", shape = circle, style = solid, fontsize = 14]
+	400 -> 0 [label = "<eps>:及び", fontsize = 14];
+401 [label = "401", shape = circle, style = solid, fontsize = 14]
+402 [label = "402", shape = circle, style = solid, fontsize = 14]
+	402 -> 403 [label = "and:<eps>", fontsize = 14];
+403 [label = "403", shape = circle, style = solid, fontsize = 14]
+	403 -> 404 [label = "<eps>:線", fontsize = 14];
+404 [label = "404", shape = circle, style = solid, fontsize = 14]
+	404 -> 0 [label = "<eps>:と", fontsize = 14];
+405 [label = "405", shape = circle, style = solid, fontsize = 14]
+406 [label = "406", shape = circle, style = solid, fontsize = 14]
+	406 -> 407 [label = "and:<eps>", fontsize = 14];
+407 [label = "407", shape = circle, style = solid, fontsize = 14]
+	407 -> 408 [label = "<eps>:線", fontsize = 14];
+408 [label = "408", shape = circle, style = solid, fontsize = 14]
+	408 -> 0 [label = "<eps>:や", fontsize = 14];
+409 [label = "409", shape = circle, style = solid, fontsize = 14]
+410 [label = "410", shape = circle, style = solid, fontsize = 14]
+	410 -> 411 [label = "and:<eps>", fontsize = 14];
+411 [label = "411", shape = circle, style = solid, fontsize = 14]
+	411 -> 412 [label = "<eps>:線", fontsize = 14];
+412 [label = "412", shape = circle, style = solid, fontsize = 14]
+	412 -> 0 [label = "<eps>:及び", fontsize = 14];
+413 [label = "413", shape = circle, style = solid, fontsize = 14]
+414 [label = "414", shape = circle, style = solid, fontsize = 14]
+	414 -> 415 [label = "and:<eps>", fontsize = 14];
+415 [label = "415", shape = circle, style = solid, fontsize = 14]
+	415 -> 416 [label = "<eps>:ビーム", fontsize = 14];
+416 [label = "416", shape = circle, style = solid, fontsize = 14]
+	416 -> 0 [label = "<eps>:、", fontsize = 14];
+417 [label = "417", shape = circle, style = solid, fontsize = 14]
+418 [label = "418", shape = circle, style = solid, fontsize = 14]
+	418 -> 419 [label = "and:<eps>", fontsize = 14];
+419 [label = "419", shape = circle, style = solid, fontsize = 14]
+	419 -> 420 [label = "<eps>:ビーム", fontsize = 14];
+420 [label = "420", shape = circle, style = solid, fontsize = 14]
+	420 -> 0 [label = "<eps>:と", fontsize = 14];
+421 [label = "421", shape = circle, style = solid, fontsize = 14]
+422 [label = "422", shape = circle, style = solid, fontsize = 14]
+	422 -> 423 [label = "and:<eps>", fontsize = 14];
+423 [label = "423", shape = circle, style = solid, fontsize = 14]
+	423 -> 424 [label = "<eps>:ビーム", fontsize = 14];
+424 [label = "424", shape = circle, style = solid, fontsize = 14]
+	424 -> 425 [label = "<eps>:光", fontsize = 14];
+425 [label = "425", shape = circle, style = solid, fontsize = 14]
+	425 -> 0 [label = "<eps>:及び", fontsize = 14];
+426 [label = "426", shape = circle, style = solid, fontsize = 14]
+427 [label = "427", shape = circle, style = solid, fontsize = 14]
+	427 -> 428 [label = "and:<eps>", fontsize = 14];
+428 [label = "428", shape = circle, style = solid, fontsize = 14]
+	428 -> 429 [label = "<eps>:ビーム", fontsize = 14];
+429 [label = "429", shape = circle, style = solid, fontsize = 14]
+	429 -> 0 [label = "<eps>:や", fontsize = 14];
+430 [label = "430", shape = circle, style = solid, fontsize = 14]
+431 [label = "431", shape = circle, style = solid, fontsize = 14]
+	431 -> 432 [label = "and:<eps>", fontsize = 14];
+432 [label = "432", shape = circle, style = solid, fontsize = 14]
+	432 -> 433 [label = "<eps>:ビーム", fontsize = 14];
+433 [label = "433", shape = circle, style = solid, fontsize = 14]
+	433 -> 0 [label = "<eps>:及び", fontsize = 14];
+434 [label = "434", shape = circle, style = solid, fontsize = 14]
+435 [label = "435", shape = circle, style = solid, fontsize = 14]
+	435 -> 436 [label = "and:<eps>", fontsize = 14];
+436 [label = "436", shape = circle, style = solid, fontsize = 14]
+	436 -> 437 [label = "<eps>:ビーム", fontsize = 14];
+437 [label = "437", shape = circle, style = solid, fontsize = 14]
+	437 -> 0 [label = "<eps>:および", fontsize = 14];
+438 [label = "438", shape = circle, style = solid, fontsize = 14]
+439 [label = "439", shape = circle, style = solid, fontsize = 14]
+	439 -> 440 [label = "and:<eps>", fontsize = 14];
+440 [label = "440", shape = circle, style = solid, fontsize = 14]
+	440 -> 441 [label = "<eps>:光束", fontsize = 14];
+441 [label = "441", shape = circle, style = solid, fontsize = 14]
+	441 -> 0 [label = "<eps>:と", fontsize = 14];
+442 [label = "442", shape = circle, style = solid, fontsize = 14]
+443 [label = "443", shape = circle, style = solid, fontsize = 14]
+	443 -> 444 [label = "and:<eps>", fontsize = 14];
+444 [label = "444", shape = circle, style = solid, fontsize = 14]
+	444 -> 445 [label = "<eps>:光線", fontsize = 14];
+445 [label = "445", shape = circle, style = solid, fontsize = 14]
+	445 -> 0 [label = "<eps>:、", fontsize = 14];
+446 [label = "446", shape = circle, style = solid, fontsize = 14]
+447 [label = "447", shape = circle, style = solid, fontsize = 14]
+	447 -> 448 [label = "and:<eps>", fontsize = 14];
+448 [label = "448", shape = circle, style = solid, fontsize = 14]
+	448 -> 449 [label = "<eps>:光線", fontsize = 14];
+449 [label = "449", shape = circle, style = solid, fontsize = 14]
+	449 -> 0 [label = "<eps>:と", fontsize = 14];
+450 [label = "450", shape = circle, style = solid, fontsize = 14]
+451 [label = "451", shape = circle, style = solid, fontsize = 14]
+	451 -> 452 [label = "each:<eps>", fontsize = 14];
+452 [label = "452", shape = circle, style = solid, fontsize = 14]
+	452 -> 453 [label = "<eps>:、", fontsize = 14];
+453 [label = "453", shape = circle, style = solid, fontsize = 14]
+	453 -> 454 [label = "<eps>:また", fontsize = 14];
+454 [label = "454", shape = circle, style = solid, fontsize = 14]
+	454 -> 0 [label = "<eps>:各", fontsize = 14];
+455 [label = "455", shape = circle, style = solid, fontsize = 14]
+456 [label = "456", shape = circle, style = solid, fontsize = 14]
+	456 -> 457 [label = "each:<eps>", fontsize = 14];
+457 [label = "457", shape = circle, style = solid, fontsize = 14]
+	457 -> 458 [label = "<eps>:、", fontsize = 14];
+458 [label = "458", shape = circle, style = solid, fontsize = 14]
+	458 -> 0 [label = "<eps>:各", fontsize = 14];
+459 [label = "459", shape = circle, style = solid, fontsize = 14]
+460 [label = "460", shape = circle, style = solid, fontsize = 14]
+	460 -> 461 [label = "each:<eps>", fontsize = 14];
+461 [label = "461", shape = circle, style = solid, fontsize = 14]
+	461 -> 462 [label = "<eps>:、", fontsize = 14];
+462 [label = "462", shape = circle, style = solid, fontsize = 14]
+	462 -> 0 [label = "<eps>:それぞれ", fontsize = 14];
+463 [label = "463", shape = circle, style = solid, fontsize = 14]
+464 [label = "464", shape = circle, style = solid, fontsize = 14]
+	464 -> 465 [label = "each:<eps>", fontsize = 14];
+465 [label = "465", shape = circle, style = solid, fontsize = 14]
+	465 -> 0 [label = "<eps>:その", fontsize = 14];
+466 [label = "466", shape = circle, style = solid, fontsize = 14]
+467 [label = "467", shape = circle, style = solid, fontsize = 14]
+	467 -> 468 [label = "each:<eps>", fontsize = 14];
+468 [label = "468", shape = circle, style = solid, fontsize = 14]
+	468 -> 469 [label = "<eps>:と", fontsize = 14];
+469 [label = "469", shape = circle, style = solid, fontsize = 14]
+	469 -> 0 [label = "<eps>:各", fontsize = 14];
+470 [label = "470", shape = circle, style = solid, fontsize = 14]
+471 [label = "471", shape = circle, style = solid, fontsize = 14]
+	471 -> 472 [label = "each:<eps>", fontsize = 14];
+472 [label = "472", shape = circle, style = solid, fontsize = 14]
+	472 -> 473 [label = "<eps>:と", fontsize = 14];
+473 [label = "473", shape = circle, style = solid, fontsize = 14]
+	473 -> 0 [label = "<eps>:両", fontsize = 14];
+474 [label = "474", shape = circle, style = solid, fontsize = 14]
+475 [label = "475", shape = circle, style = solid, fontsize = 14]
+	475 -> 476 [label = "each:<eps>", fontsize = 14];
+476 [label = "476", shape = circle, style = solid, fontsize = 14]
+	476 -> 477 [label = "<eps>:し", fontsize = 14];
+477 [label = "477", shape = circle, style = solid, fontsize = 14]
+	477 -> 478 [label = "<eps>:て", fontsize = 14];
+478 [label = "478", shape = circle, style = solid, fontsize = 14]
+	478 -> 0 [label = "<eps>:各", fontsize = 14];
+479 [label = "479", shape = circle, style = solid, fontsize = 14]
+480 [label = "480", shape = circle, style = solid, fontsize = 14]
+	480 -> 481 [label = "each:<eps>", fontsize = 14];
+481 [label = "481", shape = circle, style = solid, fontsize = 14]
+	481 -> 482 [label = "<eps>:り", fontsize = 14];
+482 [label = "482", shape = circle, style = solid, fontsize = 14]
+	482 -> 0 [label = "<eps>:、", fontsize = 14];
+483 [label = "483", shape = circle, style = solid, fontsize = 14]
+484 [label = "484", shape = circle, style = solid, fontsize = 14]
+	484 -> 485 [label = "each:<eps>", fontsize = 14];
+485 [label = "485", shape = circle, style = solid, fontsize = 14]
+	485 -> 486 [label = "<eps>:り", fontsize = 14];
+486 [label = "486", shape = circle, style = solid, fontsize = 14]
+	486 -> 487 [label = "<eps>:、", fontsize = 14];
+487 [label = "487", shape = circle, style = solid, fontsize = 14]
+	487 -> 0 [label = "<eps>:各", fontsize = 14];
+488 [label = "488", shape = circle, style = solid, fontsize = 14]
+489 [label = "489", shape = circle, style = solid, fontsize = 14]
+	489 -> 490 [label = "each:<eps>", fontsize = 14];
+490 [label = "490", shape = circle, style = solid, fontsize = 14]
+	490 -> 491 [label = "<eps>:から", fontsize = 14];
+491 [label = "491", shape = circle, style = solid, fontsize = 14]
+	491 -> 0 [label = "<eps>:各", fontsize = 14];
+492 [label = "492", shape = circle, style = solid, fontsize = 14]
+493 [label = "493", shape = circle, style = solid, fontsize = 14]
+	493 -> 494 [label = "each:<eps>", fontsize = 14];
+494 [label = "494", shape = circle, style = solid, fontsize = 14]
+	494 -> 495 [label = "<eps>:，", fontsize = 14];
+495 [label = "495", shape = circle, style = solid, fontsize = 14]
+	495 -> 0 [label = "<eps>:各", fontsize = 14];
+496 [label = "496", shape = circle, style = solid, fontsize = 14]
+497 [label = "497", shape = circle, style = solid, fontsize = 14]
+	497 -> 498 [label = "each:<eps>", fontsize = 14];
+498 [label = "498", shape = circle, style = solid, fontsize = 14]
+	498 -> 499 [label = "<eps>:，", fontsize = 14];
+499 [label = "499", shape = circle, style = solid, fontsize = 14]
+	499 -> 500 [label = "<eps>:及び", fontsize = 14];
+500 [label = "500", shape = circle, style = solid, fontsize = 14]
+	500 -> 0 [label = "<eps>:各", fontsize = 14];
+501 [label = "501", shape = circle, style = solid, fontsize = 14]
+502 [label = "502", shape = circle, style = solid, fontsize = 14]
+	502 -> 503 [label = "each:<eps>", fontsize = 14];
+503 [label = "503", shape = circle, style = solid, fontsize = 14]
+	503 -> 504 [label = "<eps>:お", fontsize = 14];
+504 [label = "504", shape = circle, style = solid, fontsize = 14]
+	504 -> 0 [label = "<eps>:り", fontsize = 14];
+505 [label = "505", shape = circle, style = solid, fontsize = 14]
+506 [label = "506", shape = circle, style = solid, fontsize = 14]
+	506 -> 507 [label = "each:<eps>", fontsize = 14];
+507 [label = "507", shape = circle, style = solid, fontsize = 14]
+	507 -> 508 [label = "<eps>:かつ", fontsize = 14];
+508 [label = "508", shape = circle, style = solid, fontsize = 14]
+	508 -> 509 [label = "<eps>:１", fontsize = 14];
+509 [label = "509", shape = circle, style = solid, fontsize = 14]
+	509 -> 0 [label = "<eps>:つ", fontsize = 14];
+510 [label = "510", shape = circle, style = solid, fontsize = 14]
+511 [label = "511", shape = circle, style = solid, fontsize = 14]
+	511 -> 512 [label = "each:<eps>", fontsize = 14];
+512 [label = "512", shape = circle, style = solid, fontsize = 14]
+	512 -> 513 [label = "<eps>:や", fontsize = 14];
+513 [label = "513", shape = circle, style = solid, fontsize = 14]
+	513 -> 0 [label = "<eps>:各", fontsize = 14];
+514 [label = "514", shape = circle, style = solid, fontsize = 14]
+515 [label = "515", shape = circle, style = solid, fontsize = 14]
+	515 -> 516 [label = "each:<eps>", fontsize = 14];
+516 [label = "516", shape = circle, style = solid, fontsize = 14]
+	516 -> 517 [label = "<eps>:及び", fontsize = 14];
+517 [label = "517", shape = circle, style = solid, fontsize = 14]
+	517 -> 0 [label = "<eps>:各", fontsize = 14];
+518 [label = "518", shape = circle, style = solid, fontsize = 14]
+519 [label = "519", shape = circle, style = solid, fontsize = 14]
+	519 -> 520 [label = "each:<eps>", fontsize = 14];
+520 [label = "520", shape = circle, style = solid, fontsize = 14]
+	520 -> 521 [label = "<eps>:および", fontsize = 14];
+521 [label = "521", shape = circle, style = solid, fontsize = 14]
+	521 -> 0 [label = "<eps>:各", fontsize = 14];
+522 [label = "522", shape = circle, style = solid, fontsize = 14]
+523 [label = "523", shape = circle, style = solid, fontsize = 14]
+	523 -> 524 [label = "each:<eps>", fontsize = 14];
+524 [label = "524", shape = circle, style = solid, fontsize = 14]
+	524 -> 525 [label = "<eps>:および", fontsize = 14];
+525 [label = "525", shape = circle, style = solid, fontsize = 14]
+	525 -> 526 [label = "<eps>:１", fontsize = 14];
+526 [label = "526", shape = circle, style = solid, fontsize = 14]
+	526 -> 0 [label = "<eps>:つ", fontsize = 14];
+527 [label = "527", shape = circle, style = solid, fontsize = 14]
+528 [label = "528", shape = circle, style = solid, fontsize = 14]
+	528 -> 529 [label = "each:<eps>", fontsize = 14];
+529 [label = "529", shape = circle, style = solid, fontsize = 14]
+	529 -> 530 [label = "<eps>:および", fontsize = 14];
+530 [label = "530", shape = circle, style = solid, fontsize = 14]
+	530 -> 0 [label = "<eps>:サイド", fontsize = 14];
+531 [label = "531", shape = circle, style = solid, fontsize = 14]
+532 [label = "532", shape = circle, style = solid, fontsize = 14]
+	532 -> 533 [label = "structural:<eps>", fontsize = 14];
+533 [label = "533", shape = circle, style = solid, fontsize = 14]
+	533 -> 534 [label = "<eps>:各", fontsize = 14];
+534 [label = "534", shape = circle, style = solid, fontsize = 14]
+	534 -> 0 [label = "<eps>:構成", fontsize = 14];
+535 [label = "535", shape = circle, style = solid, fontsize = 14]
+536 [label = "536", shape = circle, style = solid, fontsize = 14]
+	536 -> 537 [label = "structural:<eps>", fontsize = 14];
+537 [label = "537", shape = circle, style = solid, fontsize = 14]
+	537 -> 538 [label = "<eps>:各", fontsize = 14];
+538 [label = "538", shape = circle, style = solid, fontsize = 14]
+	538 -> 0 [label = "<eps>:構造", fontsize = 14];
+539 [label = "539", shape = circle, style = solid, fontsize = 14]
+540 [label = "540", shape = circle, style = solid, fontsize = 14]
+	540 -> 541 [label = "element:<eps>", fontsize = 14];
+541 [label = "541", shape = circle, style = solid, fontsize = 14]
+	541 -> 542 [label = "<eps>:ら", fontsize = 14];
+542 [label = "542", shape = circle, style = solid, fontsize = 14]
+	542 -> 543 [label = "<eps>:の", fontsize = 14];
+543 [label = "543", shape = circle, style = solid, fontsize = 14]
+	543 -> 544 [label = "<eps>:構成", fontsize = 14];
+544 [label = "544", shape = circle, style = solid, fontsize = 14]
+	544 -> 0 [label = "<eps>:要素", fontsize = 14];
+545 [label = "545", shape = circle, style = solid, fontsize = 14]
+546 [label = "546", shape = circle, style = solid, fontsize = 14]
+	546 -> 547 [label = "element:<eps>", fontsize = 14];
+547 [label = "547", shape = circle, style = solid, fontsize = 14]
+	547 -> 548 [label = "<eps>:構成", fontsize = 14];
+548 [label = "548", shape = circle, style = solid, fontsize = 14]
+	548 -> 0 [label = "<eps>:部材", fontsize = 14];
+549 [label = "549", shape = circle, style = solid, fontsize = 14]
+550 [label = "550", shape = circle, style = solid, fontsize = 14]
+	550 -> 551 [label = "element:<eps>", fontsize = 14];
+551 [label = "551", shape = circle, style = solid, fontsize = 14]
+	551 -> 552 [label = "<eps>:構成", fontsize = 14];
+552 [label = "552", shape = circle, style = solid, fontsize = 14]
+	552 -> 0 [label = "<eps>:要素", fontsize = 14];
+553 [label = "553", shape = circle, style = solid, fontsize = 14]
+554 [label = "554", shape = circle, style = solid, fontsize = 14]
+	554 -> 555 [label = "are:<eps>", fontsize = 14];
+555 [label = "555", shape = circle, style = solid, fontsize = 14]
+	555 -> 556 [label = "<eps>:素子", fontsize = 14];
+556 [label = "556", shape = circle, style = solid, fontsize = 14]
+	556 -> 0 [label = "<eps>:の", fontsize = 14];
+557 [label = "557", shape = circle, style = solid, fontsize = 14]
+558 [label = "558", shape = circle, style = solid, fontsize = 14]
+	558 -> 559 [label = "are:<eps>", fontsize = 14];
+559 [label = "559", shape = circle, style = solid, fontsize = 14]
+	559 -> 560 [label = "<eps>:素子", fontsize = 14];
+560 [label = "560", shape = circle, style = solid, fontsize = 14]
+	560 -> 0 [label = "<eps>:は", fontsize = 14];
+561 [label = "561", shape = circle, style = solid, fontsize = 14]
+562 [label = "562", shape = circle, style = solid, fontsize = 14]
+	562 -> 563 [label = "are:<eps>", fontsize = 14];
+563 [label = "563", shape = circle, style = solid, fontsize = 14]
+	563 -> 564 [label = "<eps>:素子", fontsize = 14];
+564 [label = "564", shape = circle, style = solid, fontsize = 14]
+	564 -> 565 [label = "<eps>:と", fontsize = 14];
+565 [label = "565", shape = circle, style = solid, fontsize = 14]
+	565 -> 0 [label = "<eps>:を", fontsize = 14];
+566 [label = "566", shape = circle, style = solid, fontsize = 14]
+567 [label = "567", shape = circle, style = solid, fontsize = 14]
+	567 -> 568 [label = "are:<eps>", fontsize = 14];
+568 [label = "568", shape = circle, style = solid, fontsize = 14]
+	568 -> 569 [label = "<eps>:素子", fontsize = 14];
+569 [label = "569", shape = circle, style = solid, fontsize = 14]
+	569 -> 0 [label = "<eps>:が", fontsize = 14];
+570 [label = "570", shape = circle, style = solid, fontsize = 14]
+571 [label = "571", shape = circle, style = solid, fontsize = 14]
+	571 -> 572 [label = "are:<eps>", fontsize = 14];
+572 [label = "572", shape = circle, style = solid, fontsize = 14]
+	572 -> 573 [label = "<eps>:素子", fontsize = 14];
+573 [label = "573", shape = circle, style = solid, fontsize = 14]
+	573 -> 0 [label = "<eps>:を", fontsize = 14];
+574 [label = "574", shape = circle, style = solid, fontsize = 14]
+575 [label = "575", shape = circle, style = solid, fontsize = 14]
+	575 -> 576 [label = "are:<eps>", fontsize = 14];
+576 [label = "576", shape = circle, style = solid, fontsize = 14]
+	576 -> 577 [label = "<eps>:素子", fontsize = 14];
+577 [label = "577", shape = circle, style = solid, fontsize = 14]
+	577 -> 578 [label = "<eps>:等", fontsize = 14];
+578 [label = "578", shape = circle, style = solid, fontsize = 14]
+	578 -> 0 [label = "<eps>:が", fontsize = 14];
+579 [label = "579", shape = circle, style = solid, fontsize = 14]
+580 [label = "580", shape = circle, style = solid, fontsize = 14]
+	580 -> 581 [label = "are:<eps>", fontsize = 14];
+581 [label = "581", shape = circle, style = solid, fontsize = 14]
+	581 -> 582 [label = "<eps>:部材", fontsize = 14];
+582 [label = "582", shape = circle, style = solid, fontsize = 14]
+	582 -> 0 [label = "<eps>:を", fontsize = 14];
+583 [label = "583", shape = circle, style = solid, fontsize = 14]
+584 [label = "584", shape = circle, style = solid, fontsize = 14]
+	584 -> 585 [label = "are:<eps>", fontsize = 14];
+585 [label = "585", shape = circle, style = solid, fontsize = 14]
+	585 -> 586 [label = "<eps>:元素", fontsize = 14];
+586 [label = "586", shape = circle, style = solid, fontsize = 14]
+	586 -> 0 [label = "<eps>:が", fontsize = 14];
+587 [label = "587", shape = circle, style = solid, fontsize = 14]
+588 [label = "588", shape = circle, style = solid, fontsize = 14]
+	588 -> 589 [label = "are:<eps>", fontsize = 14];
+589 [label = "589", shape = circle, style = solid, fontsize = 14]
+	589 -> 590 [label = "<eps>:元素", fontsize = 14];
+590 [label = "590", shape = circle, style = solid, fontsize = 14]
+	590 -> 0 [label = "<eps>:を", fontsize = 14];
+591 [label = "591", shape = circle, style = solid, fontsize = 14]
+592 [label = "592", shape = circle, style = solid, fontsize = 14]
+	592 -> 593 [label = "next:<eps>", fontsize = 14];
+593 [label = "593", shape = circle, style = solid, fontsize = 14]
+	593 -> 594 [label = "<eps>:に", fontsize = 14];
+594 [label = "594", shape = circle, style = solid, fontsize = 14]
+	594 -> 595 [label = "<eps>:は", fontsize = 14];
+595 [label = "595", shape = circle, style = solid, fontsize = 14]
+	595 -> 0 [label = "<eps>:次", fontsize = 14];
+596 [label = "596", shape = circle, style = solid, fontsize = 14]
+597 [label = "597", shape = circle, style = solid, fontsize = 14]
+	597 -> 598 [label = ".:<eps>", fontsize = 14];
+598 [label = "598", shape = circle, style = solid, fontsize = 14]
+	598 -> 599 [label = "<eps>:説明", fontsize = 14];
+599 [label = "599", shape = circle, style = solid, fontsize = 14]
+	599 -> 600 [label = "<eps>:する", fontsize = 14];
+600 [label = "600", shape = circle, style = solid, fontsize = 14]
+	600 -> 0 [label = "<eps>:。", fontsize = 14];
+601 [label = "601", shape = circle, style = solid, fontsize = 14]
+602 [label = "602", shape = circle, style = solid, fontsize = 14]
+	602 -> 603 [label = ".:<eps>", fontsize = 14];
+603 [label = "603", shape = circle, style = solid, fontsize = 14]
+	603 -> 604 [label = "<eps>:記述", fontsize = 14];
+604 [label = "604", shape = circle, style = solid, fontsize = 14]
+	604 -> 605 [label = "<eps>:する", fontsize = 14];
+605 [label = "605", shape = circle, style = solid, fontsize = 14]
+	605 -> 0 [label = "<eps>:。", fontsize = 14];
+606 [label = "606", shape = circle, style = solid, fontsize = 14]
+607 [label = "607", shape = circle, style = solid, fontsize = 14]
+	607 -> 608 [label = "movement:<eps>", fontsize = 14];
+608 [label = "608", shape = circle, style = solid, fontsize = 14]
+	608 -> 609 [label = "of:<eps>", fontsize = 14];
+609 [label = "609", shape = circle, style = solid, fontsize = 14]
+	609 -> 610 [label = "<eps>:の", fontsize = 14];
+610 [label = "610", shape = circle, style = solid, fontsize = 14]
+	610 -> 0 [label = "<eps>:動作", fontsize = 14];
+611 [label = "611", shape = circle, style = solid, fontsize = 14]
+612 [label = "612", shape = circle, style = solid, fontsize = 14]
+	612 -> 613 [label = "movement:<eps>", fontsize = 14];
+613 [label = "613", shape = circle, style = solid, fontsize = 14]
+	613 -> 614 [label = "of:<eps>", fontsize = 14];
+614 [label = "614", shape = circle, style = solid, fontsize = 14]
+	614 -> 615 [label = "<eps>:の", fontsize = 14];
+615 [label = "615", shape = circle, style = solid, fontsize = 14]
+	615 -> 0 [label = "<eps>:移動", fontsize = 14];
+616 [label = "616", shape = circle, style = solid, fontsize = 14]
+617 [label = "617", shape = circle, style = solid, fontsize = 14]
+	617 -> 618 [label = "movement:<eps>", fontsize = 14];
+618 [label = "618", shape = circle, style = solid, fontsize = 14]
+	618 -> 619 [label = "of:<eps>", fontsize = 14];
+619 [label = "619", shape = circle, style = solid, fontsize = 14]
+	619 -> 620 [label = "<eps>:の", fontsize = 14];
+620 [label = "620", shape = circle, style = solid, fontsize = 14]
+	620 -> 621 [label = "<eps>:移動", fontsize = 14];
+621 [label = "621", shape = circle, style = solid, fontsize = 14]
+	621 -> 0 [label = "<eps>:の", fontsize = 14];
+622 [label = "622", shape = circle, style = solid, fontsize = 14]
+623 [label = "623", shape = circle, style = solid, fontsize = 14]
+	623 -> 624 [label = "movement:<eps>", fontsize = 14];
+624 [label = "624", shape = circle, style = solid, fontsize = 14]
+	624 -> 625 [label = "of:<eps>", fontsize = 14];
+625 [label = "625", shape = circle, style = solid, fontsize = 14]
+	625 -> 626 [label = "<eps>:の", fontsize = 14];
+626 [label = "626", shape = circle, style = solid, fontsize = 14]
+	626 -> 0 [label = "<eps>:運動", fontsize = 14];
+627 [label = "627", shape = circle, style = solid, fontsize = 14]
+628 [label = "628", shape = circle, style = solid, fontsize = 14]
+	628 -> 629 [label = "movement:<eps>", fontsize = 14];
+629 [label = "629", shape = circle, style = solid, fontsize = 14]
+	629 -> 630 [label = "of:<eps>", fontsize = 14];
+630 [label = "630", shape = circle, style = solid, fontsize = 14]
+	630 -> 631 [label = "<eps>:の", fontsize = 14];
+631 [label = "631", shape = circle, style = solid, fontsize = 14]
+	631 -> 0 [label = "<eps>:動き", fontsize = 14];
+632 [label = "632", shape = circle, style = solid, fontsize = 14]
+633 [label = "633", shape = circle, style = solid, fontsize = 14]
+	633 -> 634 [label = "movement:<eps>", fontsize = 14];
+634 [label = "634", shape = circle, style = solid, fontsize = 14]
+	634 -> 635 [label = "of:<eps>", fontsize = 14];
+635 [label = "635", shape = circle, style = solid, fontsize = 14]
+	635 -> 636 [label = "<eps>:の", fontsize = 14];
+636 [label = "636", shape = circle, style = solid, fontsize = 14]
+	636 -> 637 [label = "<eps>:動き", fontsize = 14];
+637 [label = "637", shape = circle, style = solid, fontsize = 14]
+	637 -> 0 [label = "<eps>:を", fontsize = 14];
+638 [label = "638", shape = circle, style = solid, fontsize = 14]
+639 [label = "639", shape = circle, style = solid, fontsize = 14]
+	639 -> 640 [label = "movement:<eps>", fontsize = 14];
+640 [label = "640", shape = circle, style = solid, fontsize = 14]
+	640 -> 641 [label = "of:<eps>", fontsize = 14];
+641 [label = "641", shape = circle, style = solid, fontsize = 14]
+	641 -> 642 [label = "<eps>:の", fontsize = 14];
+642 [label = "642", shape = circle, style = solid, fontsize = 14]
+	642 -> 0 [label = "<eps>:ずれ", fontsize = 14];
+643 [label = "643", shape = circle, style = solid, fontsize = 14]
+644 [label = "644", shape = circle, style = solid, fontsize = 14]
+	644 -> 645 [label = "movement:<eps>", fontsize = 14];
+645 [label = "645", shape = circle, style = solid, fontsize = 14]
+	645 -> 646 [label = "of:<eps>", fontsize = 14];
+646 [label = "646", shape = circle, style = solid, fontsize = 14]
+	646 -> 647 [label = "<eps>:の", fontsize = 14];
+647 [label = "647", shape = circle, style = solid, fontsize = 14]
+	647 -> 0 [label = "<eps>:駆動", fontsize = 14];
+648 [label = "648", shape = circle, style = solid, fontsize = 14]
+649 [label = "649", shape = circle, style = solid, fontsize = 14]
+	649 -> 650 [label = "movement:<eps>", fontsize = 14];
+650 [label = "650", shape = circle, style = solid, fontsize = 14]
+	650 -> 651 [label = "of:<eps>", fontsize = 14];
+651 [label = "651", shape = circle, style = solid, fontsize = 14]
+	651 -> 652 [label = "<eps>:の", fontsize = 14];
+652 [label = "652", shape = circle, style = solid, fontsize = 14]
+	652 -> 0 [label = "<eps>:進行", fontsize = 14];
+653 [label = "653", shape = circle, style = solid, fontsize = 14]
+654 [label = "654", shape = circle, style = solid, fontsize = 14]
+	654 -> 655 [label = "movement:<eps>", fontsize = 14];
+655 [label = "655", shape = circle, style = solid, fontsize = 14]
+	655 -> 656 [label = "of:<eps>", fontsize = 14];
+656 [label = "656", shape = circle, style = solid, fontsize = 14]
+	656 -> 657 [label = "<eps>:この", fontsize = 14];
+657 [label = "657", shape = circle, style = solid, fontsize = 14]
+	657 -> 658 [label = "<eps>:移動", fontsize = 14];
+658 [label = "658", shape = circle, style = solid, fontsize = 14]
+	658 -> 0 [label = "<eps>:に", fontsize = 14];
+659 [label = "659", shape = circle, style = solid, fontsize = 14]
+660 [label = "660", shape = circle, style = solid, fontsize = 14]
+	660 -> 661 [label = "movement:<eps>", fontsize = 14];
+661 [label = "661", shape = circle, style = solid, fontsize = 14]
+	661 -> 662 [label = "of:<eps>", fontsize = 14];
+662 [label = "662", shape = circle, style = solid, fontsize = 14]
+	662 -> 663 [label = "<eps>:が", fontsize = 14];
+663 [label = "663", shape = circle, style = solid, fontsize = 14]
+	663 -> 664 [label = "<eps>:移動", fontsize = 14];
+664 [label = "664", shape = circle, style = solid, fontsize = 14]
+	664 -> 0 [label = "<eps>:する", fontsize = 14];
+665 [label = "665", shape = circle, style = solid, fontsize = 14]
+666 [label = "666", shape = circle, style = solid, fontsize = 14]
+	666 -> 667 [label = "movement:<eps>", fontsize = 14];
+667 [label = "667", shape = circle, style = solid, fontsize = 14]
+	667 -> 668 [label = "of:<eps>", fontsize = 14];
+668 [label = "668", shape = circle, style = solid, fontsize = 14]
+	668 -> 669 [label = "<eps>:動作", fontsize = 14];
+669 [label = "669", shape = circle, style = solid, fontsize = 14]
+	669 -> 0 [label = "<eps>:の", fontsize = 14];
+670 [label = "670", shape = circle, style = solid, fontsize = 14]
+671 [label = "671", shape = circle, style = solid, fontsize = 14]
+	671 -> 672 [label = "a:<eps>", fontsize = 14];
+672 [label = "672", shape = circle, style = solid, fontsize = 14]
+	672 -> 673 [label = "light:<eps>", fontsize = 14];
+673 [label = "673", shape = circle, style = solid, fontsize = 14]
+	673 -> 674 [label = "<eps>:の", fontsize = 14];
+674 [label = "674", shape = circle, style = solid, fontsize = 14]
+	674 -> 0 [label = "<eps>:光", fontsize = 14];
+675 [label = "675", shape = circle, style = solid, fontsize = 14]
+676 [label = "676", shape = circle, style = solid, fontsize = 14]
+	676 -> 677 [label = "a:<eps>", fontsize = 14];
+677 [label = "677", shape = circle, style = solid, fontsize = 14]
+	677 -> 678 [label = "light:<eps>", fontsize = 14];
+678 [label = "678", shape = circle, style = solid, fontsize = 14]
+	678 -> 679 [label = "<eps>:の", fontsize = 14];
+679 [label = "679", shape = circle, style = solid, fontsize = 14]
+	679 -> 0 [label = "<eps>:軽", fontsize = 14];
+680 [label = "680", shape = circle, style = solid, fontsize = 14]
+681 [label = "681", shape = circle, style = solid, fontsize = 14]
+	681 -> 682 [label = "a:<eps>", fontsize = 14];
+682 [label = "682", shape = circle, style = solid, fontsize = 14]
+	682 -> 683 [label = "light:<eps>", fontsize = 14];
+683 [label = "683", shape = circle, style = solid, fontsize = 14]
+	683 -> 684 [label = "<eps>:光", fontsize = 14];
+684 [label = "684", shape = circle, style = solid, fontsize = 14]
+	684 -> 0 [label = "<eps>:が", fontsize = 14];
+685 [label = "685", shape = circle, style = solid, fontsize = 14]
+686 [label = "686", shape = circle, style = solid, fontsize = 14]
+	686 -> 687 [label = "light:<eps>", fontsize = 14];
+687 [label = "687", shape = circle, style = solid, fontsize = 14]
+	687 -> 688 [label = "beam:<eps>", fontsize = 14];
+688 [label = "688", shape = circle, style = solid, fontsize = 14]
+	688 -> 689 [label = "<eps>:、", fontsize = 14];
+689 [label = "689", shape = circle, style = solid, fontsize = 14]
+	689 -> 690 [label = "<eps>:光", fontsize = 14];
+690 [label = "690", shape = circle, style = solid, fontsize = 14]
+	690 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+691 [label = "691", shape = circle, style = solid, fontsize = 14]
+692 [label = "692", shape = circle, style = solid, fontsize = 14]
+	692 -> 693 [label = "light:<eps>", fontsize = 14];
+693 [label = "693", shape = circle, style = solid, fontsize = 14]
+	693 -> 694 [label = "beam:<eps>", fontsize = 14];
+694 [label = "694", shape = circle, style = solid, fontsize = 14]
+	694 -> 695 [label = "<eps>:、", fontsize = 14];
+695 [label = "695", shape = circle, style = solid, fontsize = 14]
+	695 -> 0 [label = "<eps>:光線", fontsize = 14];
+696 [label = "696", shape = circle, style = solid, fontsize = 14]
+697 [label = "697", shape = circle, style = solid, fontsize = 14]
+	697 -> 698 [label = "light:<eps>", fontsize = 14];
+698 [label = "698", shape = circle, style = solid, fontsize = 14]
+	698 -> 699 [label = "beam:<eps>", fontsize = 14];
+699 [label = "699", shape = circle, style = solid, fontsize = 14]
+	699 -> 700 [label = "<eps>:た", fontsize = 14];
+700 [label = "700", shape = circle, style = solid, fontsize = 14]
+	700 -> 0 [label = "<eps>:光", fontsize = 14];
+701 [label = "701", shape = circle, style = solid, fontsize = 14]
+702 [label = "702", shape = circle, style = solid, fontsize = 14]
+	702 -> 703 [label = "light:<eps>", fontsize = 14];
+703 [label = "703", shape = circle, style = solid, fontsize = 14]
+	703 -> 704 [label = "beam:<eps>", fontsize = 14];
+704 [label = "704", shape = circle, style = solid, fontsize = 14]
+	704 -> 705 [label = "<eps>:た", fontsize = 14];
+705 [label = "705", shape = circle, style = solid, fontsize = 14]
+	705 -> 706 [label = "<eps>:光", fontsize = 14];
+706 [label = "706", shape = circle, style = solid, fontsize = 14]
+	706 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+707 [label = "707", shape = circle, style = solid, fontsize = 14]
+708 [label = "708", shape = circle, style = solid, fontsize = 14]
+	708 -> 709 [label = "light:<eps>", fontsize = 14];
+709 [label = "709", shape = circle, style = solid, fontsize = 14]
+	709 -> 710 [label = "beam:<eps>", fontsize = 14];
+710 [label = "710", shape = circle, style = solid, fontsize = 14]
+	710 -> 711 [label = "<eps>:た", fontsize = 14];
+711 [label = "711", shape = circle, style = solid, fontsize = 14]
+	711 -> 712 [label = "<eps>:ビーム", fontsize = 14];
+712 [label = "712", shape = circle, style = solid, fontsize = 14]
+	712 -> 0 [label = "<eps>:光", fontsize = 14];
+713 [label = "713", shape = circle, style = solid, fontsize = 14]
+714 [label = "714", shape = circle, style = solid, fontsize = 14]
+	714 -> 715 [label = "light:<eps>", fontsize = 14];
+715 [label = "715", shape = circle, style = solid, fontsize = 14]
+	715 -> 716 [label = "beam:<eps>", fontsize = 14];
+716 [label = "716", shape = circle, style = solid, fontsize = 14]
+	716 -> 717 [label = "<eps>:た", fontsize = 14];
+717 [label = "717", shape = circle, style = solid, fontsize = 14]
+	717 -> 0 [label = "<eps>:光束", fontsize = 14];
+718 [label = "718", shape = circle, style = solid, fontsize = 14]
+719 [label = "719", shape = circle, style = solid, fontsize = 14]
+	719 -> 720 [label = "light:<eps>", fontsize = 14];
+720 [label = "720", shape = circle, style = solid, fontsize = 14]
+	720 -> 721 [label = "beam:<eps>", fontsize = 14];
+721 [label = "721", shape = circle, style = solid, fontsize = 14]
+	721 -> 722 [label = "<eps>:の", fontsize = 14];
+722 [label = "722", shape = circle, style = solid, fontsize = 14]
+	722 -> 723 [label = "<eps>:光", fontsize = 14];
+723 [label = "723", shape = circle, style = solid, fontsize = 14]
+	723 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+724 [label = "724", shape = circle, style = solid, fontsize = 14]
+725 [label = "725", shape = circle, style = solid, fontsize = 14]
+	725 -> 726 [label = "light:<eps>", fontsize = 14];
+726 [label = "726", shape = circle, style = solid, fontsize = 14]
+	726 -> 727 [label = "beam:<eps>", fontsize = 14];
+727 [label = "727", shape = circle, style = solid, fontsize = 14]
+	727 -> 728 [label = "<eps>:は", fontsize = 14];
+728 [label = "728", shape = circle, style = solid, fontsize = 14]
+	728 -> 729 [label = "<eps>:、", fontsize = 14];
+729 [label = "729", shape = circle, style = solid, fontsize = 14]
+	729 -> 0 [label = "<eps>:光", fontsize = 14];
+730 [label = "730", shape = circle, style = solid, fontsize = 14]
+731 [label = "731", shape = circle, style = solid, fontsize = 14]
+	731 -> 732 [label = "light:<eps>", fontsize = 14];
+732 [label = "732", shape = circle, style = solid, fontsize = 14]
+	732 -> 733 [label = "beam:<eps>", fontsize = 14];
+733 [label = "733", shape = circle, style = solid, fontsize = 14]
+	733 -> 734 [label = "<eps>:する", fontsize = 14];
+734 [label = "734", shape = circle, style = solid, fontsize = 14]
+	734 -> 0 [label = "<eps>:光束", fontsize = 14];
+735 [label = "735", shape = circle, style = solid, fontsize = 14]
+736 [label = "736", shape = circle, style = solid, fontsize = 14]
+	736 -> 737 [label = "light:<eps>", fontsize = 14];
+737 [label = "737", shape = circle, style = solid, fontsize = 14]
+	737 -> 738 [label = "beam:<eps>", fontsize = 14];
+738 [label = "738", shape = circle, style = solid, fontsize = 14]
+	738 -> 739 [label = "<eps>:する", fontsize = 14];
+739 [label = "739", shape = circle, style = solid, fontsize = 14]
+	739 -> 0 [label = "<eps>:光線", fontsize = 14];
+740 [label = "740", shape = circle, style = solid, fontsize = 14]
+741 [label = "741", shape = circle, style = solid, fontsize = 14]
+	741 -> 742 [label = "light:<eps>", fontsize = 14];
+742 [label = "742", shape = circle, style = solid, fontsize = 14]
+	742 -> 743 [label = "beam:<eps>", fontsize = 14];
+743 [label = "743", shape = circle, style = solid, fontsize = 14]
+	743 -> 744 [label = "<eps>:る", fontsize = 14];
+744 [label = "744", shape = circle, style = solid, fontsize = 14]
+	744 -> 745 [label = "<eps>:光", fontsize = 14];
+745 [label = "745", shape = circle, style = solid, fontsize = 14]
+	745 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+746 [label = "746", shape = circle, style = solid, fontsize = 14]
+747 [label = "747", shape = circle, style = solid, fontsize = 14]
+	747 -> 748 [label = "light:<eps>", fontsize = 14];
+748 [label = "748", shape = circle, style = solid, fontsize = 14]
+	748 -> 749 [label = "beam:<eps>", fontsize = 14];
+749 [label = "749", shape = circle, style = solid, fontsize = 14]
+	749 -> 750 [label = "<eps>:を", fontsize = 14];
+750 [label = "750", shape = circle, style = solid, fontsize = 14]
+	750 -> 751 [label = "<eps>:光", fontsize = 14];
+751 [label = "751", shape = circle, style = solid, fontsize = 14]
+	751 -> 0 [label = "<eps>:ビーム", fontsize = 14];
+752 [label = "752", shape = circle, style = solid, fontsize = 14]
+753 [label = "753", shape = circle, style = solid, fontsize = 14]
+	753 -> 754 [label = "beam:<eps>", fontsize = 14];
+754 [label = "754", shape = circle, style = solid, fontsize = 14]
+	754 -> 755 [label = "and:<eps>", fontsize = 14];
+755 [label = "755", shape = circle, style = solid, fontsize = 14]
+	755 -> 756 [label = "<eps>:光束", fontsize = 14];
+756 [label = "756", shape = circle, style = solid, fontsize = 14]
+	756 -> 0 [label = "<eps>:と", fontsize = 14];
+757 [label = "757", shape = circle, style = solid, fontsize = 14]
+758 [label = "758", shape = circle, style = solid, fontsize = 14]
+	758 -> 759 [label = "a:<eps>", fontsize = 14];
+759 [label = "759", shape = circle, style = solid, fontsize = 14]
+	759 -> 760 [label = "light:<eps>", fontsize = 14];
+760 [label = "760", shape = circle, style = solid, fontsize = 14]
+	760 -> 761 [label = "beam:<eps>", fontsize = 14];
+761 [label = "761", shape = circle, style = solid, fontsize = 14]
+	761 -> 762 [label = "<eps>:は", fontsize = 14];
+762 [label = "762", shape = circle, style = solid, fontsize = 14]
+	762 -> 763 [label = "<eps>:、", fontsize = 14];
+763 [label = "763", shape = circle, style = solid, fontsize = 14]
+	763 -> 764 [label = "<eps>:光", fontsize = 14];
+764 [label = "764", shape = circle, style = solid, fontsize = 14]
+	764 -> 0 [label = "<eps>:の", fontsize = 14];
+765 [label = "765", shape = circle, style = solid, fontsize = 14]
+766 [label = "766", shape = circle, style = solid, fontsize = 14]
+	766 -> 767 [label = "a:<eps>", fontsize = 14];
+767 [label = "767", shape = circle, style = solid, fontsize = 14]
+	767 -> 768 [label = "light:<eps>", fontsize = 14];
+768 [label = "768", shape = circle, style = solid, fontsize = 14]
+	768 -> 769 [label = "beam:<eps>", fontsize = 14];
+769 [label = "769", shape = circle, style = solid, fontsize = 14]
+	769 -> 770 [label = "<eps>:光", fontsize = 14];
+770 [label = "770", shape = circle, style = solid, fontsize = 14]
+	770 -> 0 [label = "<eps>:の", fontsize = 14];
+771 [label = "771", shape = circle, style = solid, fontsize = 14]
+772 [label = "772", shape = circle, style = solid, fontsize = 14]
+	772 -> 773 [label = "a:<eps>", fontsize = 14];
+773 [label = "773", shape = circle, style = solid, fontsize = 14]
+	773 -> 774 [label = "light:<eps>", fontsize = 14];
+774 [label = "774", shape = circle, style = solid, fontsize = 14]
+	774 -> 775 [label = "beam:<eps>", fontsize = 14];
+775 [label = "775", shape = circle, style = solid, fontsize = 14]
+	775 -> 776 [label = "<eps>:光", fontsize = 14];
+776 [label = "776", shape = circle, style = solid, fontsize = 14]
+	776 -> 777 [label = "<eps>:ビーム", fontsize = 14];
+777 [label = "777", shape = circle, style = solid, fontsize = 14]
+	777 -> 0 [label = "<eps>:の", fontsize = 14];
+778 [label = "778", shape = circle, style = solid, fontsize = 14]
+779 [label = "779", shape = circle, style = solid, fontsize = 14]
+	779 -> 780 [label = "a:<eps>", fontsize = 14];
+780 [label = "780", shape = circle, style = solid, fontsize = 14]
+	780 -> 781 [label = "light:<eps>", fontsize = 14];
+781 [label = "781", shape = circle, style = solid, fontsize = 14]
+	781 -> 782 [label = "beam:<eps>", fontsize = 14];
+782 [label = "782", shape = circle, style = solid, fontsize = 14]
+	782 -> 783 [label = "<eps>:光束", fontsize = 14];
+783 [label = "783", shape = circle, style = solid, fontsize = 14]
+	783 -> 0 [label = "<eps>:の", fontsize = 14];
+784 [label = "784", shape = circle, style = solid, fontsize = 14]
+785 [label = "785", shape = circle, style = solid, fontsize = 14]
+	785 -> 786 [label = "a:<eps>", fontsize = 14];
+786 [label = "786", shape = circle, style = solid, fontsize = 14]
+	786 -> 787 [label = "light:<eps>", fontsize = 14];
+787 [label = "787", shape = circle, style = solid, fontsize = 14]
+	787 -> 788 [label = "beam:<eps>", fontsize = 14];
+788 [label = "788", shape = circle, style = solid, fontsize = 14]
+	788 -> 789 [label = "<eps>:光線", fontsize = 14];
+789 [label = "789", shape = circle, style = solid, fontsize = 14]
+	789 -> 0 [label = "<eps>:の", fontsize = 14];
+}
