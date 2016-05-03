@@ -21,7 +21,7 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
         source = source.split()
         target = target.split()
 
-        # Example FeatureMap:
+        # Example FeatureMap:3
         #
         #   SampleCountF    : 2.47856649559,
         #   MaxLexEgivenF   : 0.811988173389,
@@ -59,7 +59,7 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
                     os.write("0 {} {} <eps> {}\n".
                              format(curr_state, source[i], weight))
                 else:
-                    os.write("{} {} {} <eps> 1\n".
+                    os.write("{} {} {} <eps> 0\n".
                              format(curr_state, next_state, source[i]))
                 curr_state = next_state
 
@@ -68,21 +68,18 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
 
                 next_state = curr_state + 1
                 if j < last_index:
-                    os.write("{} {} <eps> {} 1\n".
+                    os.write("{} {} <eps> {} 0\n".
                              format(curr_state, next_state, target[j]))
                 else:
-                    os.write("{} 0 <eps> {} 1\n".
+                    os.write("{} 0 <eps> {} 0\n".
                              format(curr_state, target[j]))
                 curr_state = next_state
 
 
     # Generate OVV rules.
-    phrases_with_rules = [
+    words_with_rules = [
         rule.split('|||')[1].strip()
         for rule in phrasetable]
-
-    words_with_rules = set(itertools.chain(*[
-        phrase.split() for phrase in phrases_with_rules]))
 
     words_without_rules = [
         word for word in sentence.split()
