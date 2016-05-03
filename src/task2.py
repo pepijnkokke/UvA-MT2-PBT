@@ -4,11 +4,12 @@
 
 from task1 import mkdir_p
 
+import itertools
 import os
 import sys
 
 
-def phrasetable_to_fst(phrasetable, weight_map, os = sys.stdout):
+def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
     """ Convert a phrase-table to an FST in the AT&T format. """
 
     curr_state = 0
@@ -69,6 +70,22 @@ def phrasetable_to_fst(phrasetable, weight_map, os = sys.stdout):
                 curr_state = next_state
 
 
+    # Generate OVV rules.
+    phrases_with_rules = [
+        rule.split('|||')[1].strip()
+        for rule in phrasetable]
+
+    words_with_rules = set(itertools.chain(*[
+        phrase.split() for phrase in phrases_with_rules]))
+
+    words_without_rules = [
+        word for word in sentence.split()
+        if not (word in words_with_rules)]
+
+    for word in words_without_rules:
+        os.write("0 0 {0} {0} {1}\n".format(word, weight_map['PassThrough']))
+
+
 if __name__ == "__main__":
 
     # Set the path to the src/, data/ and out/ directories.
@@ -80,6 +97,8 @@ if __name__ == "__main__":
     mkdir_p(out_dir)
 
     # Set the path to the input file (dev.en).
+    dev_en             = os.getenv('DEV_EN',
+                                   os.path.join(data_dir,'dev.en'))
     weights_monotone   = os.getenv('WEIGHTS_MONOTONE',
                                    os.path.join(data_dir,'weights.monotone'))
     rules_monotone_dev = os.getenv('RULES_MONOTONE_DEV',
@@ -88,6 +107,10 @@ if __name__ == "__main__":
     # Set the number of sentences to convert to FSTs.
     n = os.getenv('N',100)
 
+    # Read the first N entries from DEV_EN.
+    with open(dev_en, 'r') as f:
+        sentences = list(itertools.islice(f, n))
+
     # Read the weights.
     with open(weights_monotone, 'r') as f: weight_list = f.readlines()
     weight_map = dict()
@@ -95,16 +118,20 @@ if __name__ == "__main__":
         weight = weight.split()
         weight_map[weight[0]] = float(weight[1])
 
-    for i in range(0,n):
+    # Iterate over the sentences, read the appropriate phrase table,
+    # and generate an FST.
+    for i, sentence in enumerate(sentences):
 
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
         inp_file = os.path.join(rules_monotone_dev,'grammar.{}'.format(i))
-        with open(inp_file, 'r') as f: phrasetable = f.readlines()
+        with open(inp_file, 'r') as f:
+            phrasetable = f.readlines()
 
         out_file = os.path.join(out_dir,'grammar.{}'.format(i))
-        with open(out_file, 'w') as f: phrasetable_to_fst(phrasetable, weight_map, f)
+        with open(out_file, 'w') as f:
+            phrasetable_to_fst(sentence, phrasetable, weight_map, f)
 
     sys.stdout.write("\r")
     sys.stdout.flush()
