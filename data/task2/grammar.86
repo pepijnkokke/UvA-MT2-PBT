@@ -1,1638 +1,1638 @@
-0 0 in そして
-0 0 in の
-0 0 in また
-0 0 in で
-0 0 in し
-0 0 in に
-0 1 in <eps>
-2 3 <eps> に
-3 0 <eps> おけ
-0 5 in <eps>
-6 7 <eps> に
-7 8 <eps> お
-8 0 <eps> い
-0 0 in い
-0 0 in を
-0 10 in <eps>
-11 12 <eps> 場合
-12 0 <eps> に
-0 0 in 中
-0 14 in <eps>
-15 16 <eps> 中
-16 0 <eps> に
-0 0 in 内
-0 18 in <eps>
-19 20 <eps> 内
-20 0 <eps> で
-0 22 in <eps>
-23 24 <eps> 内
-24 0 <eps> に
-0 26 in <eps>
-27 28 <eps> お
-28 0 <eps> い
-0 0 in さ
-0 0 in 方向
-0 30 in <eps>
-31 32 <eps> 際
-32 0 <eps> に
-0 0 a a
-0 0 a 、
-0 34 a <eps>
-35 36 <eps> 、
-36 0 <eps> これ
-0 0 a た
-0 0 a その
-0 0 a は
-0 38 a <eps>
-39 40 <eps> は
-40 0 <eps> 、
-0 0 a また
-0 42 a <eps>
-43 44 <eps> また
-44 0 <eps> 、
-0 0 a さらに
-0 0 a する
-0 0 a る
-0 0 a １
-0 0 a ａ
-0 0 a 半
-0 0 charging せ
-0 0 charging 帯電
-0 0 charging 発電
-0 46 charging <eps>
-47 48 <eps> 接触
-48 0 <eps> 充電
-0 0 charging 特性
-0 0 charging 帯
-0 0 charging 充電
-0 50 charging <eps>
-51 52 <eps> 充電
-52 0 <eps> 用
-0 54 charging <eps>
-55 56 <eps> 充電
-56 0 <eps> 末期
-0 0 charging チャージ
-0 0 charging 充填
-0 0 charging 課金
-0 0 charging 仕込
-0 0 pump 機関
-0 0 pump ポンプ
-0 58 pump <eps>
-59 60 <eps> ポンプ
-60 0 <eps> 式
-0 62 pump <eps>
-63 64 <eps> ポンプ
-64 0 <eps> 回路
-0 66 pump <eps>
-67 68 <eps> 送液
-68 0 <eps> ポンプ
-0 0 pump 励起
-0 0 pump アポンプ
-0 0 circuit 部
-0 0 circuit 回路
-0 0 circuit 手段
-0 0 20a 20
-0 70 20a <eps>
-71 72 <eps> ａ
-72 0 <eps> ）
-0 74 20a <eps>
-75 76 <eps> １５
-76 0 <eps> （
-0 78 20a <eps>
-79 80 <eps> １９
-80 81 <eps> （
-81 82 <eps> ａ
-82 0 <eps> ）
-0 0 20a ２０
-0 84 20a <eps>
-85 86 <eps> ２０
-86 87 <eps> （
-87 88 <eps> ａ
-88 0 <eps> ）
-0 90 20a <eps>
-91 92 <eps> ２０
-92 0 <eps> ａ
-0 94 20a <eps>
-95 96 <eps> ２０
-96 0 <eps> ｂ
-0 0 20a ３６
-0 0 , 、
-0 0 , で
-0 0 , と
-0 0 , に
-0 0 , が
-0 0 , ，
-0 98 pumping <eps>
-99 100 <eps> ，
-100 0 <eps> ポンプ
-0 102 pumping <eps>
-103 104 <eps> 用
-104 105 <eps> ポン
-105 0 <eps> ピング
-0 0 pumping 送
-0 0 pumping 圧送
-0 0 pumping 排気
-0 0 pumping ポンプ
-0 107 pumping <eps>
-108 109 <eps> ポンプ
-109 0 <eps> 用
-0 111 pumping <eps>
-112 113 <eps> ポンプ
-113 0 <eps> 方式
-0 115 pumping <eps>
-116 117 <eps> ポンプ
-117 0 <eps> 吸引
-0 0 pumping 送液
-0 0 pumping 励起
-0 119 pumping <eps>
-120 121 <eps> 励起
-121 0 <eps> 方式
-0 123 pumping <eps>
-124 125 <eps> 励起
-125 0 <eps> 出来
-0 127 pumping <eps>
-128 129 <eps> 励起
-129 0 <eps> ｌｄ
-0 0 pumping ポン
-0 131 pumping <eps>
-132 133 <eps> ポン
-133 0 <eps> ピング
-0 135 pumping <eps>
-136 137 <eps> ポン
-137 138 <eps> ピング
-138 0 <eps> 動作
-0 0 pumping 汲み上げ
-0 0 pumping パンプ
-0 140 capacitance <eps>
-141 142 <eps> 静電
-142 0 <eps> 容量
-0 0 capacitance 容量
-0 144 capacitance <eps>
-145 146 <eps> 容量
-146 0 <eps> 値
-0 0 capacitance キャパシタンス
-0 0 capacitance キャパシタ
-0 148 capacitance <eps>
-149 150 <eps> キャパシタ
-150 151 <eps> の
-151 0 <eps> キャパシタンス
-0 153 capacitance <eps>
-154 155 <eps> キャパシタ
-155 0 <eps> 容量
-0 0 capacitance コンデンサ
-0 0 can る
-0 157 can <eps>
-158 159 <eps> る
-159 0 <eps> こと
-0 161 can <eps>
-162 163 <eps> る
-163 164 <eps> こと
-164 165 <eps> も
-165 0 <eps> な
-0 167 can <eps>
-168 169 <eps> る
-169 170 <eps> こと
-170 171 <eps> も
-171 0 <eps> でき
-0 173 can <eps>
-174 175 <eps> る
-175 176 <eps> こと
-176 177 <eps> が
-177 0 <eps> 可能
-0 179 can <eps>
-180 181 <eps> る
-181 182 <eps> こと
-182 183 <eps> が
-183 0 <eps> でき
-0 185 can <eps>
-186 187 <eps> る
-187 0 <eps> が
-0 0 can こと
-0 189 can <eps>
-190 191 <eps> こと
-191 192 <eps> も
-192 0 <eps> でき
-0 194 can <eps>
-195 196 <eps> こと
-196 197 <eps> が
-197 0 <eps> でき
-0 199 can <eps>
-200 201 <eps> こと
-201 202 <eps> が
-202 203 <eps> でき
-203 0 <eps> る
-0 205 can <eps>
-206 207 <eps> こと
-207 208 <eps> が
-208 0 <eps> 出来
-0 0 can が
-0 0 can でき
-0 210 can <eps>
-211 212 <eps> 得
-212 213 <eps> る
-213 214 <eps> こと
-214 215 <eps> が
-215 0 <eps> でき
-0 0 be する
-0 0 be も
-0 0 be こと
-0 0 be を
-0 0 be れ
-0 0 be せ
-0 0 switched っ
-0 0 switched る
-0 0 switched こと
-0 0 switched られ
-0 0 switched 移行
-0 0 switched 切換
-0 0 switched 切り換え
-0 217 switched <eps>
-218 219 <eps> 切り換え
-219 0 <eps> る
-0 221 switched <eps>
-222 223 <eps> 切り換え
-223 0 <eps> られ
-0 225 switched <eps>
-226 227 <eps> 切り換え
-227 228 <eps> られ
-228 0 <eps> る
-0 0 switched 入れ替え
-0 0 switched 切替
-0 230 switched <eps>
-231 232 <eps> 切替
-232 0 <eps> 後
-0 234 switched <eps>
-235 236 <eps> オン
-236 237 <eps> さ
-237 0 <eps> せ
-0 0 switched 切り替え
-0 239 switched <eps>
-240 241 <eps> 切り替え
-241 0 <eps> 後
-0 243 switched <eps>
-244 245 <eps> 切り替え
-245 0 <eps> る
-0 247 switched <eps>
-248 249 <eps> 切り替え
-249 0 <eps> られ
-0 251 switched <eps>
-252 253 <eps> 行な
-253 0 <eps> わ
-0 0 switched 切り換わ
-0 255 switched <eps>
-256 257 <eps> 切り換わ
-257 0 <eps> っ
-0 259 switched <eps>
-260 261 <eps> 切り換わ
-261 0 <eps> る
-0 0 switched 切替え
-0 263 switched <eps>
-264 265 <eps> 切替え
-265 0 <eps> られ
-0 0 switched 反転
-0 267 switched <eps>
-268 269 <eps> 反転
-269 270 <eps> さ
-270 0 <eps> せ
-0 0 switched 切換え
-0 272 switched <eps>
-273 274 <eps> 切換え
-274 0 <eps> る
-0 276 switched <eps>
-277 278 <eps> 切換え
-278 0 <eps> られ
-0 0 switched スイッチ
-0 280 switched <eps>
-281 282 <eps> スイッチ
-282 0 <eps> ト
-0 284 switched <eps>
-285 286 <eps> 切
-286 287 <eps> り
-287 288 <eps> 換
-288 0 <eps> り
-0 0 switched スイッチング
-0 0 switched 開閉
-0 0 switched 閉路
-0 0 switched 切替わ
-0 290 switched <eps>
-291 292 <eps> 切替わ
-292 0 <eps> る
-0 0 switched 切り替わ
-0 294 switched <eps>
-295 296 <eps> 切り替わ
-296 0 <eps> る
-0 0 switched 替え
-0 0 according の
-0 0 according で
-0 0 according よ
-0 298 according <eps>
-299 300 <eps> よ
-300 0 <eps> っ
-0 302 according <eps>
-303 304 <eps> よ
-304 0 <eps> り
-0 306 according <eps>
-307 308 <eps> よ
-308 0 <eps> る
-0 310 according <eps>
-311 312 <eps> よ
-312 313 <eps> れ
-313 0 <eps> ば
-0 0 according る
-0 0 according 本
-0 0 according 従
-0 315 according <eps>
-316 317 <eps> 従
-317 0 <eps> っ
-0 319 according <eps>
-320 321 <eps> 従
-321 0 <eps> う
-0 0 according 用い
-0 0 according おけ
-0 323 according <eps>
-324 325 <eps> おけ
-325 0 <eps> る
-0 0 according かか
-0 327 according <eps>
-328 329 <eps> かか
-329 0 <eps> る
-0 0 according 対応
-0 0 according 構成
-0 331 according <eps>
-332 333 <eps> 構成
-333 0 <eps> の
-0 0 according つ
-0 335 according <eps>
-336 337 <eps> 応
-337 0 <eps> じ
-0 0 according 合わせ
-0 0 according 適用
-0 0 according 基づ
-0 339 according <eps>
-340 341 <eps> 伴
-341 0 <eps> っ
-0 0 according 係
-0 343 according <eps>
-344 345 <eps> 係
-345 0 <eps> る
-0 347 according <eps>
-348 349 <eps> 関わ
-349 0 <eps> る
-0 351 according <eps>
-352 353 <eps> 係わ
-353 0 <eps> る
-0 0 to と
-0 0 to し
-0 0 to する
-0 0 to に
-0 355 to <eps>
-356 357 <eps> に
-357 0 <eps> し
-0 359 to <eps>
-360 361 <eps> に
-361 362 <eps> 対
-362 0 <eps> し
-0 0 to が
-0 0 to を
-0 0 to へ
-0 0 to れ
-0 0 to 項
-0 0 to 対
-0 0 to 〜
-0 0 to 乃至
-0 0 the 、
-0 0 the た
-0 0 the （
-0 0 the その
-0 0 the の
-0 0 the は
-0 364 the <eps>
-365 366 <eps> は
-366 0 <eps> 、
-0 368 the <eps>
-369 370 <eps> は
-370 0 <eps> この
-0 372 the <eps>
-373 374 <eps> また
-374 0 <eps> 、
-0 376 the <eps>
-377 378 <eps> なお
-378 0 <eps> 、
-0 0 the この
-0 0 the 前記
-0 0 the する
-0 0 the ア
-0 0 the 本
-0 0 the 各
-0 0 the 尚
-0 0 start 時
-0 380 start <eps>
-381 382 <eps> 動作
-382 383 <eps> 開始
-383 0 <eps> 時
-0 0 start 始め
-0 0 start 開始
-0 0 start まず
-0 0 start 先頭
-0 0 start 始動
-0 385 start <eps>
-386 387 <eps> 始動
-387 0 <eps> 時
-0 0 start 起動
-0 0 start 出発
-0 0 start スタート
-0 0 start 発進
-0 0 start ｓｔａｒｔ
-0 0 start 立ち上げ
-0 0 start 立ち上がり
-0 0 / /
-0 0 / 又
-0 0 / ・
-0 0 / ／
-0 0 / ：
-0 0 / ＆
-0 0 / −
-0 0 / 及び
-0 0 stop せ
-0 0 stop 休止
-0 0 stop 制御
-0 0 stop 停止
-0 0 stop 位置
-0 0 stop 遮断
-0 0 stop 止
-0 0 stop 当接
-0 0 stop 絞
-0 0 stop 係止
-0 0 stop 絞り
-0 0 stop ストップ
-0 0 stop 止め
-0 0 stop 防止
-0 0 stop ストッパ
-0 0 stop 中断
-0 0 stop 阻止
-0 0 stop 栓
-0 0 signals データ
-0 0 signals 信号
-0 0 signals 波形
-0 389 . <eps>
-390 391 <eps> た
-391 0 <eps> 。
-0 393 . <eps>
-394 395 <eps> する
-395 0 <eps> 。
-0 0 . 。
-0 397 . <eps>
-398 399 <eps> い
-399 0 <eps> 。
-0 401 . <eps>
-402 403 <eps> い
-403 404 <eps> る
-404 0 <eps> 。
-0 406 . <eps>
-407 408 <eps> い
-408 409 <eps> く
-409 0 <eps> 。
-0 0 . る
-0 411 . <eps>
-412 413 <eps> る
-413 0 <eps> 。
-0 415 . <eps>
-416 417 <eps> う
-417 0 <eps> 。
-0 419 . <eps>
-420 421 <eps> あ
-421 422 <eps> る
-422 0 <eps> 。
-0 424 in <eps>
-425 426 a <eps>
-426 427 <eps> で
-427 0 <eps> 、
-0 429 in <eps>
-430 431 a <eps>
-431 432 <eps> で
-432 433 <eps> は
-433 0 <eps> 、
-0 435 in <eps>
-436 437 a <eps>
-437 438 <eps> で
-438 0 <eps> あ
-0 440 in <eps>
-441 442 a <eps>
-442 443 <eps> よう
-443 444 <eps> に
-444 445 <eps> し
-445 0 <eps> た
-0 447 in <eps>
-448 449 a <eps>
-449 450 <eps> し
-450 0 <eps> 、
-0 452 in <eps>
-453 454 a <eps>
-454 455 <eps> に
-455 0 <eps> 、
-0 457 in <eps>
-458 459 a <eps>
-459 460 <eps> に
-460 0 <eps> する
-0 462 in <eps>
-463 464 a <eps>
-464 465 <eps> に
-465 0 <eps> あ
-0 467 in <eps>
-468 469 a <eps>
-469 470 <eps> に
-470 471 <eps> お
-471 472 <eps> い
-472 473 <eps> て
-473 0 <eps> 、
-0 475 in <eps>
-476 477 a <eps>
-477 478 <eps> に
-478 479 <eps> お
-479 480 <eps> い
-480 481 <eps> て
-481 0 <eps> は
-0 483 in <eps>
-484 485 a <eps>
-485 486 <eps> に
-486 0 <eps> 複数
-0 488 in <eps>
-489 490 a <eps>
-490 491 <eps> 一方
-491 0 <eps> 、
-0 493 a <eps>
-494 495 charging <eps>
-495 496 <eps> 、
-496 0 <eps> 帯電
-0 498 a <eps>
-499 500 charging <eps>
-500 501 <eps> 、
-501 0 <eps> 充電
-0 503 a <eps>
-504 505 charging <eps>
-505 506 <eps> 、
-506 0 <eps> 投入
-0 508 a <eps>
-509 510 charging <eps>
-510 511 <eps> 、
-511 0 <eps> 給気
-0 513 a <eps>
-514 515 charging <eps>
-515 516 <eps> た
-516 0 <eps> 帯電
-0 518 a <eps>
-519 520 charging <eps>
-520 521 <eps> た
-521 0 <eps> 充電
-0 523 a <eps>
-524 525 charging <eps>
-525 526 <eps> は
-526 527 <eps> 、
-527 0 <eps> 帯電
-0 529 a <eps>
-530 531 charging <eps>
-531 532 <eps> は
-532 533 <eps> ，
-533 534 <eps> 充電
-534 0 <eps> 用
-0 536 a <eps>
-537 538 charging <eps>
-538 539 <eps> は
-539 0 <eps> 帯電
-0 541 a <eps>
-542 543 charging <eps>
-543 544 <eps> は
-544 0 <eps> 充電
-0 546 a <eps>
-547 548 charging <eps>
-548 549 <eps> は
-549 550 <eps> 充電
-550 0 <eps> 用
-0 552 a <eps>
-553 554 charging <eps>
-554 555 <eps> さらに
-555 0 <eps> 帯電
-0 557 a <eps>
-558 559 charging <eps>
-559 560 <eps> する
-560 0 <eps> 帯電
-0 562 a <eps>
-563 564 charging <eps>
-564 565 <eps> する
-565 0 <eps> 充電
-0 567 a <eps>
-568 569 charging <eps>
-569 570 <eps> る
-570 0 <eps> 帯電
-0 572 a <eps>
-573 574 charging <eps>
-574 575 <eps> る
-575 0 <eps> 充電
-0 577 a <eps>
-578 579 charging <eps>
-579 580 <eps> ，
-580 0 <eps> 充電
-0 582 charging <eps>
-583 584 pump <eps>
-584 585 <eps> チャージ
-585 0 <eps> ポンプ
-0 587 pump <eps>
-588 589 circuit <eps>
-589 590 <eps> ポンプ
-590 0 <eps> 回路
-0 592 pump <eps>
-593 594 circuit <eps>
-594 595 <eps> pump
-595 0 <eps> 回路
-0 597 circuit <eps>
-598 599 20a <eps>
-599 600 <eps> 回路
-600 601 <eps> 部
-601 602 <eps> ２０
-602 0 <eps> ａ
-0 604 circuit <eps>
-605 606 20a <eps>
-606 607 <eps> 回路
-607 608 <eps> ２０
-608 0 <eps> ａ
-0 610 20a <eps>
-611 612 , <eps>
-612 613 <eps> ａ
-613 0 <eps> ，
-0 615 20a <eps>
-616 617 , <eps>
-617 618 <eps> ２０
-618 619 <eps> （
-619 620 <eps> ａ
-620 621 <eps> ）
-621 0 <eps> 、
-0 623 20a <eps>
-624 625 , <eps>
-625 626 <eps> ２０
-626 627 <eps> （
-627 628 <eps> ａ
-628 629 <eps> ）
-629 0 <eps> に
-0 631 20a <eps>
-632 633 , <eps>
-633 634 <eps> ２０
-634 635 <eps> ａ
-635 0 <eps> 、
-0 637 20a <eps>
-638 639 , <eps>
-639 640 <eps> ２０
-640 641 <eps> ａ
-641 0 <eps> と
-0 643 20a <eps>
-644 645 , <eps>
-645 646 <eps> ２０
-646 647 <eps> ａ
-647 0 <eps> に
-0 649 20a <eps>
-650 651 , <eps>
-651 652 <eps> ２０
-652 653 <eps> ａ
-653 0 <eps> ，
-0 655 20a <eps>
-656 657 , <eps>
-657 658 <eps> ２０
-658 659 <eps> ａ
-659 0 <eps> ・
-0 661 20a <eps>
-662 663 , <eps>
-663 664 <eps> ２０
-664 665 <eps> ａ
-665 0 <eps> 及び
-0 667 20a <eps>
-668 669 , <eps>
-669 670 <eps> １２
-670 671 <eps> ａ
-671 672 <eps> ，
-672 0 <eps> ２０
-0 674 , <eps>
-675 676 a <eps>
-676 0 <eps> 、
-0 678 , <eps>
-679 680 a <eps>
-680 681 <eps> 、
-681 0 <eps> 上記
-0 683 , <eps>
-684 685 a <eps>
-685 686 <eps> 、
-686 0 <eps> マイクロ
-0 688 , <eps>
-689 690 a <eps>
-690 691 <eps> は
-691 0 <eps> 、
-0 693 , <eps>
-694 695 a <eps>
-695 696 <eps> で
-696 0 <eps> は
-0 698 , <eps>
-699 700 a <eps>
-700 701 <eps> と
-701 0 <eps> 、
-0 703 , <eps>
-704 705 a <eps>
-705 706 <eps> に
-706 0 <eps> 、
-0 708 , <eps>
-709 710 a <eps>
-710 711 <eps> に
-711 712 <eps> 、
-712 0 <eps> この
-0 714 , <eps>
-715 716 a <eps>
-716 717 <eps> に
-717 0 <eps> は
-0 719 a <eps>
-720 721 pumping <eps>
-721 722 <eps> 、
-722 723 <eps> 一種
-723 724 <eps> の
-724 725 <eps> ポン
-725 0 <eps> ピング
-0 727 a <eps>
-728 729 pumping <eps>
-729 730 <eps> 、
-730 0 <eps> ポンプ
-0 732 a <eps>
-733 734 pumping <eps>
-734 735 <eps> 、
-735 0 <eps> 励起
-0 737 a <eps>
-738 739 pumping <eps>
-739 740 <eps> 、
-740 741 <eps> ポン
-741 0 <eps> ピング
-0 743 a <eps>
-744 745 pumping <eps>
-745 746 <eps> は
-746 747 <eps> 、
-747 0 <eps> 励起
-0 749 a <eps>
-750 751 pumping <eps>
-751 752 <eps> する
-752 0 <eps> 励起
-0 754 a <eps>
-755 756 pumping <eps>
-756 757 <eps> いわゆる
-757 758 <eps> ポン
-758 0 <eps> ピング
-0 760 capacitance <eps>
-761 762 can <eps>
-762 763 <eps> 容量
-763 764 <eps> 値
-764 0 <eps> を
-0 766 can <eps>
-767 768 be <eps>
-768 769 <eps> する
-769 0 <eps> こと
-0 771 can <eps>
-772 773 be <eps>
-773 774 <eps> する
-774 775 <eps> こと
-775 776 <eps> も
-776 0 <eps> でき
-0 778 can <eps>
-779 780 be <eps>
-780 781 <eps> する
-781 782 <eps> こと
-782 783 <eps> が
-783 0 <eps> 可能
-0 785 can <eps>
-786 787 be <eps>
-787 788 <eps> する
-788 789 <eps> こと
-789 790 <eps> が
-790 0 <eps> でき
-0 792 can <eps>
-793 794 be <eps>
-794 795 <eps> する
-795 796 <eps> こと
-796 797 <eps> が
-797 798 <eps> 出来
-798 0 <eps> る
-0 800 can <eps>
-801 802 be <eps>
-802 803 <eps> る
-803 804 <eps> こと
-804 805 <eps> の
-805 806 <eps> でき
-806 0 <eps> る
-0 808 can <eps>
-809 810 be <eps>
-810 811 <eps> る
-811 812 <eps> こと
-812 0 <eps> が
-0 814 can <eps>
-815 816 be <eps>
-816 817 <eps> る
-817 818 <eps> こと
-818 819 <eps> が
-819 0 <eps> 可能
-0 821 can <eps>
-822 823 be <eps>
-823 824 <eps> る
-824 825 <eps> こと
-825 826 <eps> が
-826 0 <eps> でき
-0 828 can <eps>
-829 830 be <eps>
-830 831 <eps> る
-831 832 <eps> こと
-832 833 <eps> が
-833 834 <eps> でき
-834 0 <eps> る
-0 836 can <eps>
-837 838 be <eps>
-838 839 <eps> も
-839 0 <eps> よ
-0 841 can <eps>
-842 843 be <eps>
-843 844 <eps> も
-844 845 <eps> 使用
-845 846 <eps> でき
-846 847 <eps> る
-847 0 <eps> こと
-0 849 can <eps>
-850 851 be <eps>
-851 852 <eps> も
-852 0 <eps> 良
-0 854 can <eps>
-855 856 be <eps>
-856 857 <eps> こと
-857 858 <eps> が
-858 0 <eps> でき
-0 860 can <eps>
-861 862 be <eps>
-862 863 <eps> こと
-863 864 <eps> が
-864 865 <eps> でき
-865 0 <eps> る
-0 867 can <eps>
-868 869 be <eps>
-869 870 <eps> が
-870 0 <eps> 可能
-0 872 can <eps>
-873 874 be <eps>
-874 875 <eps> 用い
-875 876 <eps> る
-876 877 <eps> こと
-877 878 <eps> が
-878 0 <eps> でき
-0 880 can <eps>
-881 882 be <eps>
-882 0 <eps> 可能
-0 884 can <eps>
-885 886 be <eps>
-886 0 <eps> でき
-0 888 can <eps>
-889 890 be <eps>
-890 891 <eps> でき
-891 0 <eps> る
-0 893 can <eps>
-894 895 be <eps>
-895 896 <eps> せ
-896 897 <eps> る
-897 898 <eps> こと
-898 899 <eps> が
-899 0 <eps> でき
-0 901 be <eps>
-902 903 switched <eps>
-903 0 <eps> こと
-0 905 be <eps>
-906 907 switched <eps>
-907 908 <eps> が
-908 909 <eps> 切り換え
-909 0 <eps> られ
-0 911 be <eps>
-912 913 switched <eps>
-913 914 <eps> を
-914 0 <eps> 切換
-0 916 be <eps>
-917 918 switched <eps>
-918 919 <eps> を
-919 0 <eps> 切り換え
-0 921 be <eps>
-922 923 switched <eps>
-923 924 <eps> を
-924 925 <eps> 切り替え
-925 0 <eps> る
-0 927 be <eps>
-928 929 switched <eps>
-929 930 <eps> を
-930 0 <eps> 切替え
-0 932 be <eps>
-933 934 switched <eps>
-934 935 <eps> を
-935 0 <eps> 切換え
-0 937 be <eps>
-938 939 switched <eps>
-939 940 <eps> を
-940 941 <eps> 切換え
-941 0 <eps> る
-0 943 be <eps>
-944 945 switched <eps>
-945 946 <eps> 値
-946 947 <eps> を
-947 948 <eps> 切り替え
-948 0 <eps> れ
-0 950 be <eps>
-951 952 switched <eps>
-952 953 <eps> 変化
-953 954 <eps> する
-954 0 <eps> こと
-0 956 be <eps>
-957 958 switched <eps>
-958 959 <eps> 変更
-959 0 <eps> する
-0 961 be <eps>
-962 963 switched <eps>
-963 964 <eps> 切り換え
-964 965 <eps> る
-965 0 <eps> よう
-0 967 be <eps>
-968 969 switched <eps>
-969 970 <eps> 切り替え
-970 0 <eps> を
-0 972 be <eps>
-973 974 switched <eps>
-974 975 <eps> 切り替え
-975 976 <eps> を
-976 0 <eps> 行
-0 978 switched <eps>
-979 980 according <eps>
-980 981 <eps> よ
-981 982 <eps> っ
-982 983 <eps> て
-983 984 <eps> 切り換え
-984 0 <eps> られ
-0 986 switched <eps>
-987 988 according <eps>
-988 989 <eps> 応
-989 990 <eps> じ
-990 991 <eps> て
-991 992 <eps> 切り換え
-992 0 <eps> る
-0 994 switched <eps>
-995 996 according <eps>
-996 997 <eps> 応
-997 998 <eps> じ
-998 999 <eps> て
-999 0 <eps> 反転
-0 1001 switched <eps>
-1002 1003 according <eps>
-1003 1004 <eps> 応
-1004 1005 <eps> じ
-1005 1006 <eps> て
-1006 0 <eps> スイッチング
-0 1008 switched <eps>
-1009 1010 according <eps>
-1010 1011 <eps> 切り
-1011 0 <eps> 換
-0 1013 according <eps>
-1014 1015 to <eps>
-1015 1016 <eps> に
-1016 1017 <eps> したが
-1017 0 <eps> っ
-0 1019 according <eps>
-1020 1021 to <eps>
-1021 1022 <eps> に
-1022 0 <eps> よ
-0 1024 according <eps>
-1025 1026 to <eps>
-1026 1027 <eps> に
-1027 1028 <eps> よ
-1028 0 <eps> っ
-0 1030 according <eps>
-1031 1032 to <eps>
-1032 1033 <eps> に
-1033 1034 <eps> よ
-1034 0 <eps> り
-0 1036 according <eps>
-1037 1038 to <eps>
-1038 1039 <eps> に
-1039 1040 <eps> よ
-1040 0 <eps> る
-0 1042 according <eps>
-1043 1044 to <eps>
-1044 1045 <eps> に
-1045 1046 <eps> よ
-1046 1047 <eps> れ
-1047 0 <eps> ば
-0 1049 according <eps>
-1050 1051 to <eps>
-1051 1052 <eps> に
-1052 0 <eps> 従
-0 1054 according <eps>
-1055 1056 to <eps>
-1056 1057 <eps> に
-1057 1058 <eps> 従
-1058 0 <eps> っ
-0 1060 according <eps>
-1061 1062 to <eps>
-1062 1063 <eps> に
-1063 1064 <eps> 従
-1064 0 <eps> う
-0 1066 according <eps>
-1067 1068 to <eps>
-1068 1069 <eps> に
-1069 0 <eps> おけ
-0 1071 according <eps>
-1072 1073 to <eps>
-1073 1074 <eps> に
-1074 1075 <eps> おけ
-1075 0 <eps> る
-0 1077 according <eps>
-1078 1079 to <eps>
-1079 1080 <eps> に
-1080 0 <eps> かか
-0 1082 according <eps>
-1083 1084 to <eps>
-1084 1085 <eps> に
-1085 0 <eps> つ
-0 1087 according <eps>
-1088 1089 to <eps>
-1089 1090 <eps> に
-1090 1091 <eps> 応
-1091 0 <eps> じ
-0 1093 according <eps>
-1094 1095 to <eps>
-1095 1096 <eps> に
-1096 0 <eps> 基づ
-0 1098 according <eps>
-1099 1100 to <eps>
-1100 1101 <eps> に
-1101 0 <eps> 係
-0 1103 according <eps>
-1104 1105 to <eps>
-1105 1106 <eps> に
-1106 1107 <eps> 係
-1107 0 <eps> る
-0 1109 according <eps>
-1110 1111 to <eps>
-1111 1112 <eps> に
-1112 0 <eps> 係わ
-0 1114 according <eps>
-1115 1116 to <eps>
-1116 1117 <eps> さ
-1117 1118 <eps> に
-1118 1119 <eps> 応
-1119 0 <eps> じ
-0 1121 according <eps>
-1122 1123 to <eps>
-1123 1124 <eps> 応
-1124 0 <eps> じ
-0 1126 according <eps>
-1127 1128 to <eps>
-1128 1129 <eps> 基づ
-1129 0 <eps> き
-0 1131 according <eps>
-1132 1133 to <eps>
-1133 0 <eps> 係
-0 1135 to <eps>
-1136 1137 the <eps>
-1137 1138 <eps> と
-1138 0 <eps> は
-0 1140 to <eps>
-1141 1142 the <eps>
-1142 1143 <eps> に
-1143 0 <eps> 、
-0 1145 to <eps>
-1146 1147 the <eps>
-1147 1148 <eps> から
-1148 0 <eps> の
-0 1150 to <eps>
-1151 1152 the <eps>
-1152 1153 <eps> を
-1153 0 <eps> 上記
-0 1155 to <eps>
-1156 1157 the <eps>
-1157 1158 <eps> へ
-1158 0 <eps> の
-0 1160 the <eps>
-1161 1162 start <eps>
-1162 1163 <eps> 、
-1163 0 <eps> 開始
-0 1165 the <eps>
-1166 1167 start <eps>
-1167 1168 <eps> 、
-1168 0 <eps> 先頭
-0 1170 the <eps>
-1171 1172 start <eps>
-1172 1173 <eps> 、
-1173 1174 <eps> 始動
-1174 0 <eps> 時
-0 1176 the <eps>
-1177 1178 start <eps>
-1178 1179 <eps> 、
-1179 0 <eps> 起動
-0 1181 the <eps>
-1182 1183 start <eps>
-1183 1184 <eps> 、
-1184 0 <eps> スタート
-0 1186 the <eps>
-1187 1188 start <eps>
-1188 1189 <eps> 、
-1189 0 <eps> 発進
-0 1191 the <eps>
-1192 1193 start <eps>
-1193 1194 <eps> た
-1194 0 <eps> スタート
-0 1196 the <eps>
-1197 1198 start <eps>
-1198 1199 <eps> の
-1199 0 <eps> 開始
-0 1201 the <eps>
-1202 1203 start <eps>
-1203 1204 <eps> は
-1204 1205 <eps> 、
-1205 0 <eps> 始動
-0 1207 the <eps>
-1208 1209 start <eps>
-1209 1210 <eps> は
-1210 0 <eps> 開始
-0 1212 the <eps>
-1213 1214 start <eps>
-1214 1215 <eps> は
-1215 0 <eps> スタート
-0 1217 the <eps>
-1218 1219 start <eps>
-1219 1220 <eps> また
-1220 1221 <eps> 、
-1221 0 <eps> スタート
-0 1223 the <eps>
-1224 1225 start <eps>
-1225 1226 <eps> この
-1226 0 <eps> 始動
-0 1228 the <eps>
-1229 1230 start <eps>
-1230 1231 <eps> 前記
-1231 0 <eps> スタート
-0 1233 the <eps>
-1234 1235 start <eps>
-1235 1236 <eps> 上記
-1236 0 <eps> 開始
-0 1238 the <eps>
-1239 1240 start <eps>
-1240 1241 <eps> 上記
-1241 0 <eps> スタート
-0 1243 the <eps>
-1244 1245 start <eps>
-1245 1246 <eps> 当該
-1246 0 <eps> スタート
-0 1248 the <eps>
-1249 1250 start <eps>
-1250 1251 <eps> 実行
-1251 0 <eps> する
-0 1253 the <eps>
-1254 1255 start <eps>
-1255 1256 <eps> 開始
-1256 0 <eps> する
-0 1258 start <eps>
-1259 1260 / <eps>
-1260 1261 <eps> ・
-1261 1262 <eps> スタート
-1262 0 <eps> ・
-0 1264 start <eps>
-1265 1266 / <eps>
-1266 1267 <eps> 開始
-1267 0 <eps> ・
-0 1269 start <eps>
-1270 1271 / <eps>
-1271 1272 <eps> 開始
-1272 0 <eps> ／
-0 1274 start <eps>
-1275 1276 / <eps>
-1276 1277 <eps> 開始
-1277 1278 <eps> 信号
-1278 0 <eps> また
-0 1280 start <eps>
-1281 1282 / <eps>
-1282 1283 <eps> 開始
-1283 0 <eps> 時刻
-0 1285 start <eps>
-1286 1287 / <eps>
-1287 0 <eps> 始動
-0 1289 start <eps>
-1290 1291 / <eps>
-1291 1292 <eps> 始動
-1292 0 <eps> ・
-0 1294 start <eps>
-1295 1296 / <eps>
-1296 1297 <eps> 起動
-1297 0 <eps> /
-0 1299 start <eps>
-1300 1301 / <eps>
-1301 1302 <eps> 起動
-1302 0 <eps> ・
-0 1304 start <eps>
-1305 1306 / <eps>
-1306 1307 <eps> 起動
-1307 0 <eps> ／
-0 1309 start <eps>
-1310 1311 / <eps>
-1311 1312 <eps> スタート
-1312 0 <eps> ・
-0 1314 start <eps>
-1315 1316 / <eps>
-1316 1317 <eps> スタート
-1317 0 <eps> ／
-0 1319 start <eps>
-1320 1321 / <eps>
-1321 1322 <eps> ｓｔａｒｔ
-1322 0 <eps> ／
-0 1324 / <eps>
-1325 1326 stop <eps>
-1326 1327 <eps> ・
-1327 0 <eps> 固定
-0 1329 / <eps>
-1330 1331 stop <eps>
-1331 1332 <eps> ・
-1332 0 <eps> 停止
-0 1334 / <eps>
-1335 1336 stop <eps>
-1336 1337 <eps> ・
-1337 0 <eps> ストップ
-0 1339 / <eps>
-1340 1341 stop <eps>
-1341 1342 <eps> ／
-1342 0 <eps> 停止
-0 1344 / <eps>
-1345 1346 stop <eps>
-1346 1347 <eps> ／
-1347 0 <eps> ストップ
-0 1349 / <eps>
-1350 1351 stop <eps>
-1351 0 <eps> 停止
-0 1353 stop <eps>
-1354 1355 signals <eps>
-1355 1356 <eps> 停止
-1356 0 <eps> 信号
-0 1358 signals <eps>
-1359 1360 . <eps>
-1360 1361 <eps> 信号
-1361 1362 <eps> で
-1362 1363 <eps> あ
-1363 1364 <eps> る
-1364 0 <eps> 。
-0 1366 in <eps>
-1367 1368 a <eps>
-1368 1369 charging <eps>
-1369 1370 <eps> し
-1370 1371 <eps> 、
-1371 0 <eps> 帯電
-0 1373 charging <eps>
-1374 1375 pump <eps>
-1375 1376 circuit <eps>
-1376 1377 <eps> チャージ
-1377 1378 <eps> ポンプ
-1378 0 <eps> 回路
-0 1380 pump <eps>
-1381 1382 circuit <eps>
-1382 1383 20a <eps>
-1383 1384 <eps> ポンプ
-1384 1385 <eps> 駆動
-1385 1386 <eps> 回路
-1386 1387 <eps> ２０
-1387 0 <eps> ａ
-0 1389 circuit <eps>
-1390 1391 20a <eps>
-1391 1392 , <eps>
-1392 1393 <eps> 回路
-1393 1394 <eps> ２０
-1394 1395 <eps> ａ
-1395 0 <eps> 、
-0 1397 20a <eps>
-1398 1399 , <eps>
-1399 1400 a <eps>
-1400 1401 <eps> 20
-1401 1402 <eps> a
-1402 1403 <eps> に
-1403 0 <eps> は
-0 1405 , <eps>
-1406 1407 a <eps>
-1407 1408 pumping <eps>
-1408 1409 <eps> 、
-1409 1410 <eps> ポンプ
-1410 0 <eps> 用
-0 1412 , <eps>
-1413 1414 a <eps>
-1414 1415 pumping <eps>
-1415 1416 <eps> 、
-1416 0 <eps> 励起
-0 1418 , <eps>
-1419 1420 a <eps>
-1420 1421 pumping <eps>
-1421 1422 <eps> 、
-1422 1423 <eps> ポン
-1423 0 <eps> ピング
-0 1425 can <eps>
-1426 1427 be <eps>
-1427 1428 switched <eps>
-1428 1429 <eps> こと
-1429 1430 <eps> で
-1430 1431 <eps> 行
-1431 1432 <eps> う
-1432 1433 <eps> こと
-1433 1434 <eps> が
-1434 0 <eps> でき
-0 1436 can <eps>
-1437 1438 be <eps>
-1438 1439 switched <eps>
-1439 1440 <eps> が
-1440 1441 <eps> 切り換え
-1441 1442 <eps> られ
-1442 0 <eps> る
-0 1444 can <eps>
-1445 1446 be <eps>
-1446 1447 switched <eps>
-1447 1448 <eps> が
-1448 1449 <eps> 切り替え
-1449 0 <eps> られ
-0 1451 can <eps>
-1452 1453 be <eps>
-1453 1454 switched <eps>
-1454 1455 <eps> を
-1455 1456 <eps> 切換
-1456 1457 <eps> る
-1457 1458 <eps> こと
-1458 1459 <eps> が
-1459 0 <eps> でき
-0 1461 can <eps>
-1462 1463 be <eps>
-1463 1464 switched <eps>
-1464 1465 <eps> を
-1465 1466 <eps> 切り換え
-1466 1467 <eps> る
-1467 1468 <eps> こと
-1468 1469 <eps> が
-1469 0 <eps> 可能
-0 1471 can <eps>
-1472 1473 be <eps>
-1473 1474 switched <eps>
-1474 1475 <eps> を
-1475 1476 <eps> 切り換え
-1476 1477 <eps> る
-1477 1478 <eps> こと
-1478 1479 <eps> が
-1479 0 <eps> でき
-0 1481 can <eps>
-1482 1483 be <eps>
-1483 1484 switched <eps>
-1484 1485 <eps> を
-1485 1486 <eps> 切り替え
-1486 1487 <eps> られ
-1487 1488 <eps> る
-1488 0 <eps> よう
-0 1490 can <eps>
-1491 1492 be <eps>
-1492 1493 switched <eps>
-1493 1494 <eps> を
-1494 1495 <eps> 切替え
-1495 1496 <eps> る
-1496 1497 <eps> こと
-1497 1498 <eps> が
-1498 0 <eps> でき
-0 1500 can <eps>
-1501 1502 be <eps>
-1502 1503 switched <eps>
-1503 1504 <eps> を
-1504 1505 <eps> スイッチング
-1505 0 <eps> 可能
-0 1507 can <eps>
-1508 1509 be <eps>
-1509 1510 switched <eps>
-1510 1511 <eps> 切換
-1511 1512 <eps> が
-1512 0 <eps> 可能
-0 1514 can <eps>
-1515 1516 be <eps>
-1516 1517 switched <eps>
-1517 1518 <eps> 切り換え
-1518 1519 <eps> る
-1519 1520 <eps> こと
-1520 1521 <eps> が
-1521 0 <eps> でき
-0 1523 can <eps>
-1524 1525 be <eps>
-1525 1526 switched <eps>
-1526 1527 <eps> 切り替え
-1527 1528 <eps> る
-1528 1529 <eps> こと
-1529 1530 <eps> が
-1530 0 <eps> でき
-0 1532 can <eps>
-1533 1534 be <eps>
-1534 1535 switched <eps>
-1535 1536 <eps> 切り替え
-1536 1537 <eps> る
-1537 1538 <eps> こと
-1538 1539 <eps> が
-1539 1540 <eps> でき
-1540 0 <eps> る
-0 1542 can <eps>
-1543 1544 be <eps>
-1544 1545 switched <eps>
-1545 1546 <eps> 切り替え
-1546 1547 <eps> る
-1547 1548 <eps> こと
-1548 1549 <eps> が
-1549 1550 <eps> でき
-1550 1551 <eps> る
-1551 0 <eps> よう
-0 1553 can <eps>
-1554 1555 be <eps>
-1555 1556 switched <eps>
-1556 1557 <eps> 切り替え
-1557 1558 <eps> が
-1558 0 <eps> 可能
-0 1560 can <eps>
-1561 1562 be <eps>
-1562 1563 switched <eps>
-1563 1564 <eps> 切り替え
-1564 1565 <eps> が
-1565 0 <eps> でき
-0 1567 can <eps>
-1568 1569 be <eps>
-1569 1570 switched <eps>
-1570 1571 <eps> 切り替え
-1571 1572 <eps> を
-1572 1573 <eps> 行
-1573 1574 <eps> う
-1574 1575 <eps> こと
-1575 1576 <eps> が
-1576 0 <eps> でき
-0 1578 can <eps>
-1579 1580 be <eps>
-1580 1581 switched <eps>
-1581 1582 <eps> 切り替え
-1582 1583 <eps> を
-1583 1584 <eps> 行
-1584 1585 <eps> う
-1585 1586 <eps> こと
-1586 1587 <eps> が
-1587 0 <eps> 出来
-0 1589 can <eps>
-1590 1591 be <eps>
-1591 1592 switched <eps>
-1592 1593 <eps> 切り替え
-1593 0 <eps> られ
-0 1595 can <eps>
-1596 1597 be <eps>
-1597 1598 switched <eps>
-1598 1599 <eps> 切換え
-1599 1600 <eps> る
-1600 1601 <eps> こと
-1601 1602 <eps> が
-1602 0 <eps> でき
-0 1604 be <eps>
-1605 1606 switched <eps>
-1606 1607 according <eps>
-1607 1608 <eps> 応
-1608 1609 <eps> じ
-1609 1610 <eps> て
-1610 1611 <eps> 切り換え
-1611 1612 <eps> る
-1612 0 <eps> よう
-0 1614 switched <eps>
-1615 1616 according <eps>
-1616 1617 to <eps>
-1617 1618 <eps> に
-1618 1619 <eps> よ
-1619 1620 <eps> っ
-1620 1621 <eps> て
-1621 1622 <eps> 切り換え
-1622 0 <eps> られ
-0 1624 switched <eps>
-1625 1626 according <eps>
-1626 1627 to <eps>
-1627 1628 <eps> に
-1628 1629 <eps> 応
-1629 1630 <eps> じ
-1630 1631 <eps> て
-1631 1632 <eps> 切り換え
-1632 0 <eps> る
-0 1634 switched <eps>
-1635 1636 according <eps>
-1636 1637 to <eps>
-1637 1638 <eps> に
-1638 1639 <eps> 応
-1639 1640 <eps> じ
-1640 1641 <eps> て
-1641 1642 <eps> 切り替え
-1642 0 <eps> られ
-0 1644 switched <eps>
-1645 1646 according <eps>
-1646 1647 to <eps>
-1647 1648 <eps> に
-1648 1649 <eps> 応
-1649 1650 <eps> じ
-1650 1651 <eps> て
-1651 1652 <eps> 反転
-1652 0 <eps> さ
-0 1654 switched <eps>
-1655 1656 according <eps>
-1656 1657 to <eps>
-1657 1658 <eps> に
-1658 1659 <eps> 応
-1659 1660 <eps> じ
-1660 1661 <eps> て
-1661 0 <eps> スイッチング
-0 1663 according <eps>
-1664 1665 to <eps>
-1665 1666 the <eps>
-1666 0 <eps> の
-0 1668 according <eps>
-1669 1670 to <eps>
-1670 1671 the <eps>
-1671 1672 <eps> に
-1672 1673 <eps> 構成
-1673 1674 <eps> さ
-1674 1675 <eps> れ
-1675 0 <eps> た
-0 1677 to <eps>
-1678 1679 the <eps>
-1679 1680 start <eps>
-1680 1681 <eps> を
-1681 0 <eps> ｓｔａｒｔ
-0 1683 to <eps>
-1684 1685 the <eps>
-1685 1686 start <eps>
-1686 1687 <eps> 開始
-1687 0 <eps> まで
-0 1689 the <eps>
-1690 1691 start <eps>
-1691 1692 / <eps>
-1692 1693 <eps> 、
-1693 1694 <eps> 起動
-1694 0 <eps> ／
-0 1696 start <eps>
-1697 1698 / <eps>
-1698 1699 stop <eps>
-1699 1700 <eps> ・
-1700 1701 <eps> スタート
-1701 1702 <eps> ・
-1702 0 <eps> ストップ
-0 1704 start <eps>
-1705 1706 / <eps>
-1706 1707 stop <eps>
-1707 1708 <eps> 開始
-1708 1709 <eps> ・
-1709 0 <eps> 停止
-0 1711 start <eps>
-1712 1713 / <eps>
-1713 1714 stop <eps>
-1714 1715 <eps> 始動
-1715 1716 <eps> ・
-1716 0 <eps> 停止
-0 1718 start <eps>
-1719 1720 / <eps>
-1720 1721 stop <eps>
-1721 1722 <eps> 起動
-1722 1723 <eps> ・
-1723 0 <eps> 停止
-0 1725 start <eps>
-1726 1727 / <eps>
-1727 1728 stop <eps>
-1728 1729 <eps> 起動
-1729 1730 <eps> ／
-1730 0 <eps> 停止
-0 1732 start <eps>
-1733 1734 / <eps>
-1734 1735 stop <eps>
-1735 1736 <eps> 起動
-1736 0 <eps> 停止
-0 1738 / <eps>
-1739 1740 stop <eps>
-1740 1741 signals <eps>
-1741 1742 <eps> ／
-1742 1743 <eps> 停止
-1743 0 <eps> 信号
-0 1745 be <eps>
-1746 1747 switched <eps>
-1747 1748 according <eps>
-1748 1749 to <eps>
-1749 1750 <eps> に
-1750 1751 <eps> 応
-1751 1752 <eps> じ
-1752 1753 <eps> て
-1753 1754 <eps> 切り換え
-1754 1755 <eps> る
-1755 0 <eps> よう
-0 1757 the <eps>
-1758 1759 start <eps>
-1759 1760 / <eps>
-1760 1761 stop <eps>
-1761 1762 <eps> 、
-1762 1763 <eps> 起動
-1763 1764 <eps> ／
-1764 0 <eps> 停止
-0 1766 the <eps>
-1767 1768 start <eps>
-1768 1769 / <eps>
-1769 1770 stop <eps>
-1770 1771 <eps> は
-1771 1772 <eps> 起動
-1772 0 <eps> 停止
+0 0 in そして -0.0176563169122
+0 0 in の 0.170328598929
+0 0 in また -0.0838323407317
+0 0 in で -0.29382026666
+0 0 in し -0.000468695842396
+0 0 in に -0.373482393351
+0 1 in -0.272569744943<eps>
+2 3 <eps> に 1
+3 0 <eps> おけ 1
+0 5 in -0.244087382082<eps>
+6 7 <eps> に 1
+7 8 <eps> お 1
+8 0 <eps> い 1
+0 0 in い -0.0948915886033
+0 0 in を 0.210013476726
+0 10 in -0.0455637824681<eps>
+11 12 <eps> 場合 1
+12 0 <eps> に 1
+0 0 in 中 -0.275651644832
+0 14 in -0.17301928118<eps>
+15 16 <eps> 中 1
+16 0 <eps> に 1
+0 0 in 内 -0.242078588657
+0 18 in -0.128777616597<eps>
+19 20 <eps> 内 1
+20 0 <eps> で 1
+0 22 in -0.182941272196<eps>
+23 24 <eps> 内 1
+24 0 <eps> に 1
+0 26 in -0.150153779752<eps>
+27 28 <eps> お 1
+28 0 <eps> い 1
+0 0 in さ -0.106324774727
+0 0 in 方向 -0.0118339154618
+0 30 in -0.031226498239<eps>
+31 32 <eps> 際 1
+32 0 <eps> に 1
+0 0 a a -0.171160971097
+0 0 a 、 -0.42629954057
+0 34 a -0.108517782685<eps>
+35 36 <eps> 、 1
+36 0 <eps> これ 1
+0 0 a た -0.301539687914
+0 0 a その -0.229829512081
+0 0 a は -0.350550958178
+0 38 a -0.18446486215<eps>
+39 40 <eps> は 1
+40 0 <eps> 、 1
+0 0 a また -0.182476643565
+0 42 a -0.121594314377<eps>
+43 44 <eps> また 1
+44 0 <eps> 、 1
+0 0 a さらに -0.172007245766
+0 0 a する -0.316335794723
+0 0 a る -0.233128808283
+0 0 a １ -0.22542884206
+0 0 a ａ -0.263916027377
+0 0 a 半 -0.18752297382
+0 0 charging せ 0.420665726767
+0 0 charging 帯電 -0.507735580792
+0 0 charging 発電 0.322341585087
+0 46 charging -0.107034577329<eps>
+47 48 <eps> 接触 1
+48 0 <eps> 充電 1
+0 0 charging 特性 0.36075694993
+0 0 charging 帯 0.0633628538805
+0 0 charging 充電 -0.533635757911
+0 50 charging -0.172969194931<eps>
+51 52 <eps> 充電 1
+52 0 <eps> 用 1
+0 54 charging -0.10285415941<eps>
+55 56 <eps> 充電 1
+56 0 <eps> 末期 1
+0 0 charging チャージ -0.0614776756513
+0 0 charging 充填 -0.0121671871387
+0 0 charging 課金 -0.278261736564
+0 0 charging 仕込 0.0122344464415
+0 0 pump 機関 0.310551825329
+0 0 pump ポンプ -0.651455804581
+0 58 pump -0.172316693096<eps>
+59 60 <eps> ポンプ 1
+60 0 <eps> 式 1
+0 62 pump -0.174051723295<eps>
+63 64 <eps> ポンプ 1
+64 0 <eps> 回路 1
+0 66 pump -0.161510469538<eps>
+67 68 <eps> 送液 1
+68 0 <eps> ポンプ 1
+0 0 pump 励起 -0.173804052917
+0 0 pump アポンプ -0.201202767634
+0 0 circuit 部 0.0449968175095
+0 0 circuit 回路 -0.646840649964
+0 0 circuit 手段 0.0777224747056
+0 0 20a 20 0.078560184841
+0 70 20a 0.117994915778<eps>
+71 72 <eps> ａ 1
+72 0 <eps> ） 1
+0 74 20a 0.412714224313<eps>
+75 76 <eps> １５ 1
+76 0 <eps> （ 1
+0 78 20a 0.284392584684<eps>
+79 80 <eps> １９ 1
+80 81 <eps> （ 1
+81 82 <eps> ａ 1
+82 0 <eps> ） 1
+0 0 20a ２０ -0.178987512941
+0 84 20a 0.0446910693619<eps>
+85 86 <eps> ２０ 1
+86 87 <eps> （ 1
+87 88 <eps> ａ 1
+88 0 <eps> ） 1
+0 90 20a -0.343313600653<eps>
+91 92 <eps> ２０ 1
+92 0 <eps> ａ 1
+0 94 20a 0.0708931640414<eps>
+95 96 <eps> ２０ 1
+96 0 <eps> ｂ 1
+0 0 20a ３６ 0.444680387227
+0 0 , 、 -0.497848886036
+0 0 , で -0.310489347284
+0 0 , と -0.168412406005
+0 0 , に -0.324324367851
+0 0 , が 0.21318645909
+0 0 , ， -0.306017129731
+0 98 pumping 0.0259982562718<eps>
+99 100 <eps> ， 1
+100 0 <eps> ポンプ 1
+0 102 pumping -0.200191964464<eps>
+103 104 <eps> 用 1
+104 105 <eps> ポン 1
+105 0 <eps> ピング 1
+0 0 pumping 送 0.264864741011
+0 0 pumping 圧送 -0.0939266699819
+0 0 pumping 排気 -0.0723345600017
+0 0 pumping ポンプ -0.268254548405
+0 107 pumping 0.0413203979971<eps>
+108 109 <eps> ポンプ 1
+109 0 <eps> 用 1
+0 111 pumping 0.0971591495626<eps>
+112 113 <eps> ポンプ 1
+113 0 <eps> 方式 1
+0 115 pumping 0.0510270278114<eps>
+116 117 <eps> ポンプ 1
+117 0 <eps> 吸引 1
+0 0 pumping 送液 0.0594902759191
+0 0 pumping 励起 -0.459249837819
+0 119 pumping -0.0482040966121<eps>
+120 121 <eps> 励起 1
+121 0 <eps> 方式 1
+0 123 pumping -0.0398432607744<eps>
+124 125 <eps> 励起 1
+125 0 <eps> 出来 1
+0 127 pumping -0.0398432607744<eps>
+128 129 <eps> 励起 1
+129 0 <eps> ｌｄ 1
+0 0 pumping ポン -0.235851326464
+0 131 pumping -0.408734851746<eps>
+132 133 <eps> ポン 1
+133 0 <eps> ピング 1
+0 135 pumping -0.0861908752393<eps>
+136 137 <eps> ポン 1
+137 138 <eps> ピング 1
+138 0 <eps> 動作 1
+0 0 pumping 汲み上げ 0.0593293860816
+0 0 pumping パンプ -0.264424814833
+0 140 capacitance -0.294039569009<eps>
+141 142 <eps> 静電 1
+142 0 <eps> 容量 1
+0 0 capacitance 容量 -0.568027439189
+0 144 capacitance -0.202736351766<eps>
+145 146 <eps> 容量 1
+146 0 <eps> 値 1
+0 0 capacitance キャパシタンス -0.373654546504
+0 0 capacitance キャパシタ 0.024690366445
+0 148 capacitance -0.0853346585493<eps>
+149 150 <eps> キャパシタ 1
+150 151 <eps> の 1
+151 0 <eps> キャパシタンス 1
+0 153 capacitance -0.107762528845<eps>
+154 155 <eps> キャパシタ 1
+155 0 <eps> 容量 1
+0 0 capacitance コンデンサ 0.143063981955
+0 0 can る 0.00700004432171
+0 157 can -0.101119003131<eps>
+158 159 <eps> る 1
+159 0 <eps> こと 1
+0 161 can 0.0461640703717<eps>
+162 163 <eps> る 1
+163 164 <eps> こと 1
+164 165 <eps> も 1
+165 0 <eps> な 1
+0 167 can 0.00722453515606<eps>
+168 169 <eps> る 1
+169 170 <eps> こと 1
+170 171 <eps> も 1
+171 0 <eps> でき 1
+0 173 can 0.0320643268169<eps>
+174 175 <eps> る 1
+175 176 <eps> こと 1
+176 177 <eps> が 1
+177 0 <eps> 可能 1
+0 179 can -0.195342045518<eps>
+180 181 <eps> る 1
+181 182 <eps> こと 1
+182 183 <eps> が 1
+183 0 <eps> でき 1
+0 185 can -0.0125442786598<eps>
+186 187 <eps> る 1
+187 0 <eps> が 1
+0 0 can こと -0.166904730268
+0 189 can -0.0585611919812<eps>
+190 191 <eps> こと 1
+191 192 <eps> も 1
+192 0 <eps> でき 1
+0 194 can -0.247484566881<eps>
+195 196 <eps> こと 1
+196 197 <eps> が 1
+197 0 <eps> でき 1
+0 199 can -0.0780962949091<eps>
+200 201 <eps> こと 1
+201 202 <eps> が 1
+202 203 <eps> でき 1
+203 0 <eps> る 1
+0 205 can -0.0422531064648<eps>
+206 207 <eps> こと 1
+207 208 <eps> が 1
+208 0 <eps> 出来 1
+0 0 can が -0.196536402279
+0 0 can でき -0.194930642724
+0 210 can 0.0760507576968<eps>
+211 212 <eps> 得 1
+212 213 <eps> る 1
+213 214 <eps> こと 1
+214 215 <eps> が 1
+215 0 <eps> でき 1
+0 0 be する -0.307086137886
+0 0 be も -0.103653975886
+0 0 be こと 0.00696852726637
+0 0 be を -0.160733561523
+0 0 be れ 0.0388506732512
+0 0 be せ -0.00721441436326
+0 0 switched っ 0.351950850891
+0 0 switched る 0.28639924268
+0 0 switched こと 0.331704733192
+0 0 switched られ 0.106627648166
+0 0 switched 移行 0.0619167807384
+0 0 switched 切換 0.0707914359391
+0 0 switched 切り換え -0.280409243952
+0 217 switched -0.152464421591<eps>
+218 219 <eps> 切り換え 1
+219 0 <eps> る 1
+0 221 switched -0.20115533247<eps>
+222 223 <eps> 切り換え 1
+223 0 <eps> られ 1
+0 225 switched 0.0201619517976<eps>
+226 227 <eps> 切り換え 1
+227 228 <eps> られ 1
+228 0 <eps> る 1
+0 0 switched 入れ替え 0.149651610575
+0 0 switched 切替 -0.113658778242
+0 230 switched 0.105836126181<eps>
+231 232 <eps> 切替 1
+232 0 <eps> 後 1
+0 234 switched 0.244527413573<eps>
+235 236 <eps> オン 1
+236 237 <eps> さ 1
+237 0 <eps> せ 1
+0 0 switched 切り替え -0.313252694544
+0 239 switched -0.0243871935981<eps>
+240 241 <eps> 切り替え 1
+241 0 <eps> 後 1
+0 243 switched -0.0948820344281<eps>
+244 245 <eps> 切り替え 1
+245 0 <eps> る 1
+0 247 switched -0.214392310668<eps>
+248 249 <eps> 切り替え 1
+249 0 <eps> られ 1
+0 251 switched 0.304494115015<eps>
+252 253 <eps> 行な 1
+253 0 <eps> わ 1
+0 0 switched 切り換わ -0.19220632468
+0 255 switched -0.114583881601<eps>
+256 257 <eps> 切り換わ 1
+257 0 <eps> っ 1
+0 259 switched -0.123959959203<eps>
+260 261 <eps> 切り換わ 1
+261 0 <eps> る 1
+0 0 switched 切替え -0.182515413172
+0 263 switched -0.0724234822014<eps>
+264 265 <eps> 切替え 1
+265 0 <eps> られ 1
+0 0 switched 反転 0.14120933078
+0 267 switched 0.367786806431<eps>
+268 269 <eps> 反転 1
+269 270 <eps> さ 1
+270 0 <eps> せ 1
+0 0 switched 切換え -0.234149343072
+0 272 switched -0.120592504603<eps>
+273 274 <eps> 切換え 1
+274 0 <eps> る 1
+0 276 switched -0.0493460628108<eps>
+277 278 <eps> 切換え 1
+278 0 <eps> られ 1
+0 0 switched スイッチ -0.00287385817311
+0 280 switched -0.0780525049849<eps>
+281 282 <eps> スイッチ 1
+282 0 <eps> ト 1
+0 284 switched 0.111282495412<eps>
+285 286 <eps> 切 1
+286 287 <eps> り 1
+287 288 <eps> 換 1
+288 0 <eps> り 1
+0 0 switched スイッチング 0.0647000851342
+0 0 switched 開閉 0.262657776613
+0 0 switched 閉路 0.143145794921
+0 0 switched 切替わ -0.113481686826
+0 290 switched -0.0452353213488<eps>
+291 292 <eps> 切替わ 1
+292 0 <eps> る 1
+0 0 switched 切り替わ -0.284367958343
+0 294 switched -0.0784007148534<eps>
+295 296 <eps> 切り替わ 1
+296 0 <eps> る 1
+0 0 switched 替え 0.0912684941539
+0 0 according の -0.0541531681489
+0 0 according で 0.212806249872
+0 0 according よ -0.245730085398
+0 298 according -0.0843957521006<eps>
+299 300 <eps> よ 1
+300 0 <eps> っ 1
+0 302 according -0.0602873090473<eps>
+303 304 <eps> よ 1
+304 0 <eps> り 1
+0 306 according -0.136297177549<eps>
+307 308 <eps> よ 1
+308 0 <eps> る 1
+0 310 according -0.0929389999657<eps>
+311 312 <eps> よ 1
+312 313 <eps> れ 1
+313 0 <eps> ば 1
+0 0 according る 0.121391105488
+0 0 according 本 0.0828717400005
+0 0 according 従 -0.09596212821
+0 315 according -0.130821988729<eps>
+316 317 <eps> 従 1
+317 0 <eps> っ 1
+0 319 according -0.123890687766<eps>
+320 321 <eps> 従 1
+321 0 <eps> う 1
+0 0 according 用い 0.173057050759
+0 0 according おけ -0.145926058037
+0 323 according -0.0791363043848<eps>
+324 325 <eps> おけ 1
+325 0 <eps> る 1
+0 0 according かか -0.127006466942
+0 327 according -0.108083865239<eps>
+328 329 <eps> かか 1
+329 0 <eps> る 1
+0 0 according 対応 0.176946744828
+0 0 according 構成 0.228924945659
+0 331 according 0.229238394055<eps>
+332 333 <eps> 構成 1
+333 0 <eps> の 1
+0 0 according つ 0.197289549111
+0 335 according -0.201141999378<eps>
+336 337 <eps> 応 1
+337 0 <eps> じ 1
+0 0 according 合わせ 0.0695334920923
+0 0 according 適用 0.0730248709625
+0 0 according 基づ -0.0569692303817
+0 339 according 0.145175207753<eps>
+340 341 <eps> 伴 1
+341 0 <eps> っ 1
+0 0 according 係 -0.247162217296
+0 343 according -0.155343692104<eps>
+344 345 <eps> 係 1
+345 0 <eps> る 1
+0 347 according -0.0297205535617<eps>
+348 349 <eps> 関わ 1
+349 0 <eps> る 1
+0 351 according -0.0667742731612<eps>
+352 353 <eps> 係わ 1
+353 0 <eps> る 1
+0 0 to と -0.0605235777998
+0 0 to し -0.195307765466
+0 0 to する -0.134373807377
+0 0 to に -0.454434469281
+0 355 to -0.0853170865458<eps>
+356 357 <eps> に 1
+357 0 <eps> し 1
+0 359 to -0.00284211399734<eps>
+360 361 <eps> に 1
+361 362 <eps> 対 1
+362 0 <eps> し 1
+0 0 to が 0.000253675339586
+0 0 to を -0.292591084177
+0 0 to へ -0.330492127105
+0 0 to れ -0.0548510064898
+0 0 to 項 -0.0240297349562
+0 0 to 対 -0.0883197401063
+0 0 to 〜 -0.380788020972
+0 0 to 乃至 -0.239364960167
+0 0 the 、 -0.45570792646
+0 0 the た -0.208465539212
+0 0 the （ -0.117704129383
+0 0 the その -0.206772512672
+0 0 the の -0.355870618201
+0 0 the は -0.294741992565
+0 364 the -0.146584141045<eps>
+365 366 <eps> は 1
+366 0 <eps> 、 1
+0 368 the -0.101898660074<eps>
+369 370 <eps> は 1
+370 0 <eps> この 1
+0 372 the -0.22253113121<eps>
+373 374 <eps> また 1
+374 0 <eps> 、 1
+0 376 the -0.174570713376<eps>
+377 378 <eps> なお 1
+378 0 <eps> 、 1
+0 0 the この -0.257003566874
+0 0 the 前記 -0.294569102431
+0 0 the する -0.142730056144
+0 0 the ア -0.106215188445
+0 0 the 本 -0.129139414206
+0 0 the 各 -0.1248844912
+0 0 the 尚 -0.115858194859
+0 0 start 時 0.216236144835
+0 380 start -0.00674068520618<eps>
+381 382 <eps> 動作 1
+382 383 <eps> 開始 1
+383 0 <eps> 時 1
+0 0 start 始め -0.204401378067
+0 0 start 開始 -0.512615065785
+0 0 start まず 0.184566131046
+0 0 start 先頭 -0.0731107516309
+0 0 start 始動 -0.361505336127
+0 385 start -0.0618395382686<eps>
+386 387 <eps> 始動 1
+387 0 <eps> 時 1
+0 0 start 起動 -0.29813613287
+0 0 start 出発 -0.0734961230867
+0 0 start スタート -0.506441719775
+0 0 start 発進 -0.239819728834
+0 0 start ｓｔａｒｔ -0.227656794054
+0 0 start 立ち上げ -0.0014355200506
+0 0 start 立ち上がり 0.231958727497
+0 0 / / -0.425811793143
+0 0 / 又 0.176334358979
+0 0 / ・ -0.299514080614
+0 0 / ／ -0.609555223199
+0 0 / ： 0.170544607269
+0 0 / ＆ 0.035256803844
+0 0 / − 0.164979534029
+0 0 / 及び 0.210912898519
+0 0 stop せ 0.300778040414
+0 0 stop 休止 -0.0823017020024
+0 0 stop 制御 0.516462112032
+0 0 stop 停止 -0.533163224215
+0 0 stop 位置 0.465140030623
+0 0 stop 遮断 0.204491846837
+0 0 stop 止 0.14602223497
+0 0 stop 当接 0.343354298877
+0 0 stop 絞 0.00525240475747
+0 0 stop 係止 0.184035084382
+0 0 stop 絞り -0.362358605089
+0 0 stop ストップ -0.46293163736
+0 0 stop 止め -0.163468225019
+0 0 stop 防止 0.330550491855
+0 0 stop ストッパ -0.127104692127
+0 0 stop 中断 0.0491316179647
+0 0 stop 阻止 -0.0368438860611
+0 0 stop 栓 0.0754349351221
+0 0 signals データ 0.513228632072
+0 0 signals 信号 -0.514709624635
+0 0 signals 波形 0.209725763177
+0 389 . -0.165590636545<eps>
+390 391 <eps> た 1
+391 0 <eps> 。 1
+0 393 . -0.351902222045<eps>
+394 395 <eps> する 1
+395 0 <eps> 。 1
+0 0 . 。 -0.515775233638
+0 397 . -0.312883881067<eps>
+398 399 <eps> い 1
+399 0 <eps> 。 1
+0 401 . -0.361382424588<eps>
+402 403 <eps> い 1
+403 404 <eps> る 1
+404 0 <eps> 。 1
+0 406 . -0.093884963298<eps>
+407 408 <eps> い 1
+408 409 <eps> く 1
+409 0 <eps> 。 1
+0 0 . る -0.255255753399
+0 411 . -0.491160770668<eps>
+412 413 <eps> る 1
+413 0 <eps> 。 1
+0 415 . -0.172312421892<eps>
+416 417 <eps> う 1
+417 0 <eps> 。 1
+0 419 . -0.291543170018<eps>
+420 421 <eps> あ 1
+421 422 <eps> る 1
+422 0 <eps> 。 1
+0 424 in -0.0115899190248<eps>
+425 426 a 1<eps>
+426 427 <eps> で 1
+427 0 <eps> 、 1
+0 429 in 0.0578728838005<eps>
+430 431 a 1<eps>
+431 432 <eps> で 1
+432 433 <eps> は 1
+433 0 <eps> 、 1
+0 435 in -0.00189206094211<eps>
+436 437 a 1<eps>
+437 438 <eps> で 1
+438 0 <eps> あ 1
+0 440 in 0.145201060396<eps>
+441 442 a 1<eps>
+442 443 <eps> よう 1
+443 444 <eps> に 1
+444 445 <eps> し 1
+445 0 <eps> た 1
+0 447 in 0.116033705301<eps>
+448 449 a 1<eps>
+449 450 <eps> し 1
+450 0 <eps> 、 1
+0 452 in -0.0634023630869<eps>
+453 454 a 1<eps>
+454 455 <eps> に 1
+455 0 <eps> 、 1
+0 457 in -0.00760409635264<eps>
+458 459 a 1<eps>
+459 460 <eps> に 1
+460 0 <eps> する 1
+0 462 in -0.00583735305414<eps>
+463 464 a 1<eps>
+464 465 <eps> に 1
+465 0 <eps> あ 1
+0 467 in 0.0838215386911<eps>
+468 469 a 1<eps>
+469 470 <eps> に 1
+470 471 <eps> お 1
+471 472 <eps> い 1
+472 473 <eps> て 1
+473 0 <eps> 、 1
+0 475 in 0.0924020123285<eps>
+476 477 a 1<eps>
+477 478 <eps> に 1
+478 479 <eps> お 1
+479 480 <eps> い 1
+480 481 <eps> て 1
+481 0 <eps> は 1
+0 483 in 0.0297236041149<eps>
+484 485 a 1<eps>
+485 486 <eps> に 1
+486 0 <eps> 複数 1
+0 488 in 0.141773010226<eps>
+489 490 a 1<eps>
+490 491 <eps> 一方 1
+491 0 <eps> 、 1
+0 493 a -0.247644707896<eps>
+494 495 charging 1<eps>
+495 496 <eps> 、 1
+496 0 <eps> 帯電 1
+0 498 a -0.177219871411<eps>
+499 500 charging 1<eps>
+500 501 <eps> 、 1
+501 0 <eps> 充電 1
+0 503 a 0.212649302376<eps>
+504 505 charging 1<eps>
+505 506 <eps> 、 1
+506 0 <eps> 投入 1
+0 508 a 0.196873532474<eps>
+509 510 charging 1<eps>
+510 511 <eps> 、 1
+511 0 <eps> 給気 1
+0 513 a -0.0713664466826<eps>
+514 515 charging 1<eps>
+515 516 <eps> た 1
+516 0 <eps> 帯電 1
+0 518 a -0.123174509499<eps>
+519 520 charging 1<eps>
+520 521 <eps> た 1
+521 0 <eps> 充電 1
+0 523 a -0.0124539585777<eps>
+524 525 charging 1<eps>
+525 526 <eps> は 1
+526 527 <eps> 、 1
+527 0 <eps> 帯電 1
+0 529 a 0.0954979740406<eps>
+530 531 charging 1<eps>
+531 532 <eps> は 1
+532 533 <eps> ， 1
+533 534 <eps> 充電 1
+534 0 <eps> 用 1
+0 536 a -0.0733362877657<eps>
+537 538 charging 1<eps>
+538 539 <eps> は 1
+539 0 <eps> 帯電 1
+0 541 a -0.125144350582<eps>
+542 543 charging 1<eps>
+543 544 <eps> は 1
+544 0 <eps> 充電 1
+0 546 a -1.91682005481e-05<eps>
+547 548 charging 1<eps>
+548 549 <eps> は 1
+549 550 <eps> 充電 1
+550 0 <eps> 用 1
+0 552 a -0.047863494144<eps>
+553 554 charging 1<eps>
+554 555 <eps> さらに 1
+555 0 <eps> 帯電 1
+0 557 a -0.073985646619<eps>
+558 559 charging 1<eps>
+559 560 <eps> する 1
+560 0 <eps> 帯電 1
+0 562 a -0.125793709435<eps>
+563 564 charging 1<eps>
+564 565 <eps> する 1
+565 0 <eps> 充電 1
+0 567 a -0.16714739432<eps>
+568 569 charging 1<eps>
+569 570 <eps> る 1
+570 0 <eps> 帯電 1
+0 572 a -0.0650588155767<eps>
+573 574 charging 1<eps>
+574 575 <eps> る 1
+575 0 <eps> 充電 1
+0 577 a -0.0512228592158<eps>
+578 579 charging 1<eps>
+579 580 <eps> ， 1
+580 0 <eps> 充電 1
+0 582 charging 0.166941001528<eps>
+583 584 pump 1<eps>
+584 585 <eps> チャージ 1
+585 0 <eps> ポンプ 1
+0 587 pump -0.585107674661<eps>
+588 589 circuit 1<eps>
+589 590 <eps> ポンプ 1
+590 0 <eps> 回路 1
+0 592 pump -0.18541329663<eps>
+593 594 circuit 1<eps>
+594 595 <eps> pump 1
+595 0 <eps> 回路 1
+0 597 circuit 0.274159683542<eps>
+598 599 20a 1<eps>
+599 600 <eps> 回路 1
+600 601 <eps> 部 1
+601 602 <eps> ２０ 1
+602 0 <eps> ａ 1
+0 604 circuit -0.0696819917474<eps>
+605 606 20a 1<eps>
+606 607 <eps> 回路 1
+607 608 <eps> ２０ 1
+608 0 <eps> ａ 1
+0 610 20a 0.203677718347<eps>
+611 612 , 1<eps>
+612 613 <eps> ａ 1
+613 0 <eps> ， 1
+0 615 20a 0.34468049855<eps>
+616 617 , 1<eps>
+617 618 <eps> ２０ 1
+618 619 <eps> （ 1
+619 620 <eps> ａ 1
+620 621 <eps> ） 1
+621 0 <eps> 、 1
+0 623 20a 0.415674298656<eps>
+624 625 , 1<eps>
+625 626 <eps> ２０ 1
+626 627 <eps> （ 1
+627 628 <eps> ａ 1
+628 629 <eps> ） 1
+629 0 <eps> に 1
+0 631 20a -0.0455281971847<eps>
+632 633 , 1<eps>
+633 634 <eps> ２０ 1
+634 635 <eps> ａ 1
+635 0 <eps> 、 1
+0 637 20a 0.293132652692<eps>
+638 639 , 1<eps>
+639 640 <eps> ２０ 1
+640 641 <eps> ａ 1
+641 0 <eps> と 1
+0 643 20a 0.21697094147<eps>
+644 645 , 1<eps>
+645 646 <eps> ２０ 1
+646 647 <eps> ａ 1
+647 0 <eps> に 1
+0 649 20a -0.0244685191546<eps>
+650 651 , 1<eps>
+651 652 <eps> ２０ 1
+652 653 <eps> ａ 1
+653 0 <eps> ， 1
+0 655 20a 0.392147590108<eps>
+656 657 , 1<eps>
+657 658 <eps> ２０ 1
+658 659 <eps> ａ 1
+659 0 <eps> ・ 1
+0 661 20a 0.38234602178<eps>
+662 663 , 1<eps>
+663 664 <eps> ２０ 1
+664 665 <eps> ａ 1
+665 0 <eps> 及び 1
+0 667 20a 0.237742815655<eps>
+668 669 , 1<eps>
+669 670 <eps> １２ 1
+670 671 <eps> ａ 1
+671 672 <eps> ， 1
+672 0 <eps> ２０ 1
+0 674 , -0.277129308599<eps>
+675 676 a 1<eps>
+676 0 <eps> 、 1
+0 678 , -0.0279118039789<eps>
+679 680 a 1<eps>
+680 681 <eps> 、 1
+681 0 <eps> 上記 1
+0 683 , -0.0366140336323<eps>
+684 685 a 1<eps>
+685 686 <eps> 、 1
+686 0 <eps> マイクロ 1
+0 688 , -0.167893682096<eps>
+689 690 a 1<eps>
+690 691 <eps> は 1
+691 0 <eps> 、 1
+0 693 , -0.100270203321<eps>
+694 695 a 1<eps>
+695 696 <eps> で 1
+696 0 <eps> は 1
+0 698 , -0.0560840922558<eps>
+699 700 a 1<eps>
+700 701 <eps> と 1
+701 0 <eps> 、 1
+0 703 , -0.116218737566<eps>
+704 705 a 1<eps>
+705 706 <eps> に 1
+706 0 <eps> 、 1
+0 708 , 0.0182695518385<eps>
+709 710 a 1<eps>
+710 711 <eps> に 1
+711 712 <eps> 、 1
+712 0 <eps> この 1
+0 714 , 0.00912960761925<eps>
+715 716 a 1<eps>
+716 717 <eps> に 1
+717 0 <eps> は 1
+0 719 a 0.191245422419<eps>
+720 721 pumping 1<eps>
+721 722 <eps> 、 1
+722 723 <eps> 一種 1
+723 724 <eps> の 1
+724 725 <eps> ポン 1
+725 0 <eps> ピング 1
+0 727 a 0.218169555879<eps>
+728 729 pumping 1<eps>
+729 730 <eps> 、 1
+730 0 <eps> ポンプ 1
+0 732 a 0.0728063097045<eps>
+733 734 pumping 1<eps>
+734 735 <eps> 、 1
+735 0 <eps> 励起 1
+0 737 a 0.0348195310767<eps>
+738 739 pumping 1<eps>
+739 740 <eps> 、 1
+740 741 <eps> ポン 1
+741 0 <eps> ピング 1
+0 743 a 0.14226911253<eps>
+744 745 pumping 1<eps>
+745 746 <eps> は 1
+746 747 <eps> 、 1
+747 0 <eps> 励起 1
+0 749 a 0.0807374244886<eps>
+750 751 pumping 1<eps>
+751 752 <eps> する 1
+752 0 <eps> 励起 1
+0 754 a 0.0758443185613<eps>
+755 756 pumping 1<eps>
+756 757 <eps> いわゆる 1
+757 758 <eps> ポン 1
+758 0 <eps> ピング 1
+0 760 capacitance 0.291895022614<eps>
+761 762 can 1<eps>
+762 763 <eps> 容量 1
+763 764 <eps> 値 1
+764 0 <eps> を 1
+0 766 can 0.0334796133261<eps>
+767 768 be 1<eps>
+768 769 <eps> する 1
+769 0 <eps> こと 1
+0 771 can 0.0991645557143<eps>
+772 773 be 1<eps>
+773 774 <eps> する 1
+774 775 <eps> こと 1
+775 776 <eps> も 1
+776 0 <eps> でき 1
+0 778 can 0.152833905412<eps>
+779 780 be 1<eps>
+780 781 <eps> する 1
+781 782 <eps> こと 1
+782 783 <eps> が 1
+783 0 <eps> 可能 1
+0 785 can -0.0534352708227<eps>
+786 787 be 1<eps>
+787 788 <eps> する 1
+788 789 <eps> こと 1
+789 790 <eps> が 1
+790 0 <eps> でき 1
+0 792 can 0.192612665029<eps>
+793 794 be 1<eps>
+794 795 <eps> する 1
+795 796 <eps> こと 1
+796 797 <eps> が 1
+797 798 <eps> 出来 1
+798 0 <eps> る 1
+0 800 can 0.163596979666<eps>
+801 802 be 1<eps>
+802 803 <eps> る 1
+803 804 <eps> こと 1
+804 805 <eps> の 1
+805 806 <eps> でき 1
+806 0 <eps> る 1
+0 808 can 0.214838214236<eps>
+809 810 be 1<eps>
+810 811 <eps> る 1
+811 812 <eps> こと 1
+812 0 <eps> が 1
+0 814 can 0.109387318814<eps>
+815 816 be 1<eps>
+816 817 <eps> る 1
+817 818 <eps> こと 1
+818 819 <eps> が 1
+819 0 <eps> 可能 1
+0 821 can -0.0409332701949<eps>
+822 823 be 1<eps>
+823 824 <eps> る 1
+824 825 <eps> こと 1
+825 826 <eps> が 1
+826 0 <eps> でき 1
+0 828 can 0.114706183004<eps>
+829 830 be 1<eps>
+830 831 <eps> る 1
+831 832 <eps> こと 1
+832 833 <eps> が 1
+833 834 <eps> でき 1
+834 0 <eps> る 1
+0 836 can 0.191400497271<eps>
+837 838 be 1<eps>
+838 839 <eps> も 1
+839 0 <eps> よ 1
+0 841 can 0.200096117608<eps>
+842 843 be 1<eps>
+843 844 <eps> も 1
+844 845 <eps> 使用 1
+845 846 <eps> でき 1
+846 847 <eps> る 1
+847 0 <eps> こと 1
+0 849 can 0.0882323037301<eps>
+850 851 be 1<eps>
+851 852 <eps> も 1
+852 0 <eps> 良 1
+0 854 can -0.0603603184622<eps>
+855 856 be 1<eps>
+856 857 <eps> こと 1
+857 858 <eps> が 1
+858 0 <eps> でき 1
+0 860 can 0.0489204558667<eps>
+861 862 be 1<eps>
+862 863 <eps> こと 1
+863 864 <eps> が 1
+864 865 <eps> でき 1
+865 0 <eps> る 1
+0 867 can -0.0655699616357<eps>
+868 869 be 1<eps>
+869 870 <eps> が 1
+870 0 <eps> 可能 1
+0 872 can 0.183957605773<eps>
+873 874 be 1<eps>
+874 875 <eps> 用い 1
+875 876 <eps> る 1
+876 877 <eps> こと 1
+877 878 <eps> が 1
+878 0 <eps> でき 1
+0 880 can -0.0691442970496<eps>
+881 882 be 1<eps>
+882 0 <eps> 可能 1
+0 884 can -0.198972153097<eps>
+885 886 be 1<eps>
+886 0 <eps> でき 1
+0 888 can -0.13318642596<eps>
+889 890 be 1<eps>
+890 891 <eps> でき 1
+891 0 <eps> る 1
+0 893 can 0.17746733546<eps>
+894 895 be 1<eps>
+895 896 <eps> せ 1
+896 897 <eps> る 1
+897 898 <eps> こと 1
+898 899 <eps> が 1
+899 0 <eps> でき 1
+0 901 be 0.645439985972<eps>
+902 903 switched 1<eps>
+903 0 <eps> こと 1
+0 905 be 0.440691157196<eps>
+906 907 switched 1<eps>
+907 908 <eps> が 1
+908 909 <eps> 切り換え 1
+909 0 <eps> られ 1
+0 911 be 0.429787740013<eps>
+912 913 switched 1<eps>
+913 914 <eps> を 1
+914 0 <eps> 切換 1
+0 916 be 0.152952807472<eps>
+917 918 switched 1<eps>
+918 919 <eps> を 1
+919 0 <eps> 切り換え 1
+0 921 be 0.311981421595<eps>
+922 923 switched 1<eps>
+923 924 <eps> を 1
+924 925 <eps> 切り替え 1
+925 0 <eps> る 1
+0 927 be 0.267843090043<eps>
+928 929 switched 1<eps>
+929 930 <eps> を 1
+930 0 <eps> 切替え 1
+0 932 be 0.243053357484<eps>
+933 934 switched 1<eps>
+934 935 <eps> を 1
+935 0 <eps> 切換え 1
+0 937 be 0.26343257101<eps>
+938 939 switched 1<eps>
+939 940 <eps> を 1
+940 941 <eps> 切換え 1
+941 0 <eps> る 1
+0 943 be 0.406122576107<eps>
+944 945 switched 1<eps>
+945 946 <eps> 値 1
+946 947 <eps> を 1
+947 948 <eps> 切り替え 1
+948 0 <eps> れ 1
+0 950 be 0.609678500775<eps>
+951 952 switched 1<eps>
+952 953 <eps> 変化 1
+953 954 <eps> する 1
+954 0 <eps> こと 1
+0 956 be 0.431405885418<eps>
+957 958 switched 1<eps>
+958 959 <eps> 変更 1
+959 0 <eps> する 1
+0 961 be 0.333186731315<eps>
+962 963 switched 1<eps>
+963 964 <eps> 切り換え 1
+964 965 <eps> る 1
+965 0 <eps> よう 1
+0 967 be 0.243735056118<eps>
+968 969 switched 1<eps>
+969 970 <eps> 切り替え 1
+970 0 <eps> を 1
+0 972 be 0.270409523071<eps>
+973 974 switched 1<eps>
+974 975 <eps> 切り替え 1
+975 976 <eps> を 1
+976 0 <eps> 行 1
+0 978 switched 0.489401359574<eps>
+979 980 according 1<eps>
+980 981 <eps> よ 1
+981 982 <eps> っ 1
+982 983 <eps> て 1
+983 984 <eps> 切り換え 1
+984 0 <eps> られ 1
+0 986 switched 0.414317258322<eps>
+987 988 according 1<eps>
+988 989 <eps> 応 1
+989 990 <eps> じ 1
+990 991 <eps> て 1
+991 992 <eps> 切り換え 1
+992 0 <eps> る 1
+0 994 switched 0.676314056399<eps>
+995 996 according 1<eps>
+996 997 <eps> 応 1
+997 998 <eps> じ 1
+998 999 <eps> て 1
+999 0 <eps> 反転 1
+0 1001 switched 0.574776039212<eps>
+1002 1003 according 1<eps>
+1003 1004 <eps> 応 1
+1004 1005 <eps> じ 1
+1005 1006 <eps> て 1
+1006 0 <eps> スイッチング 1
+0 1008 switched 0.289414518927<eps>
+1009 1010 according 1<eps>
+1010 1011 <eps> 切り 1
+1011 0 <eps> 換 1
+0 1013 according 0.305355704348<eps>
+1014 1015 to 1<eps>
+1015 1016 <eps> に 1
+1016 1017 <eps> したが 1
+1017 0 <eps> っ 1
+0 1019 according -0.0449051768494<eps>
+1020 1021 to 1<eps>
+1021 1022 <eps> に 1
+1022 0 <eps> よ 1
+0 1024 according 0.111400721424<eps>
+1025 1026 to 1<eps>
+1026 1027 <eps> に 1
+1027 1028 <eps> よ 1
+1028 0 <eps> っ 1
+0 1030 according 0.166827304796<eps>
+1031 1032 to 1<eps>
+1032 1033 <eps> に 1
+1033 1034 <eps> よ 1
+1034 0 <eps> り 1
+0 1036 according 0.150515893178<eps>
+1037 1038 to 1<eps>
+1038 1039 <eps> に 1
+1039 1040 <eps> よ 1
+1040 0 <eps> る 1
+0 1042 according 0.130453390363<eps>
+1043 1044 to 1<eps>
+1044 1045 <eps> に 1
+1045 1046 <eps> よ 1
+1046 1047 <eps> れ 1
+1047 0 <eps> ば 1
+0 1049 according 0.0729901479737<eps>
+1050 1051 to 1<eps>
+1051 1052 <eps> に 1
+1052 0 <eps> 従 1
+0 1054 according 0.0259533805821<eps>
+1055 1056 to 1<eps>
+1056 1057 <eps> に 1
+1057 1058 <eps> 従 1
+1058 0 <eps> っ 1
+0 1060 according 0.0224702279613<eps>
+1061 1062 to 1<eps>
+1062 1063 <eps> に 1
+1063 1064 <eps> 従 1
+1064 0 <eps> う 1
+0 1066 according 0.0108493112748<eps>
+1067 1068 to 1<eps>
+1068 1069 <eps> に 1
+1069 0 <eps> おけ 1
+0 1071 according 0.104483262267<eps>
+1072 1073 to 1<eps>
+1073 1074 <eps> に 1
+1074 1075 <eps> おけ 1
+1075 0 <eps> る 1
+0 1077 according -0.00592134270837<eps>
+1078 1079 to 1<eps>
+1079 1080 <eps> に 1
+1080 0 <eps> かか 1
+0 1082 according 0.318374673345<eps>
+1083 1084 to 1<eps>
+1084 1085 <eps> に 1
+1085 0 <eps> つ 1
+0 1087 according -0.0583871521229<eps>
+1088 1089 to 1<eps>
+1089 1090 <eps> に 1
+1090 1091 <eps> 応 1
+1091 0 <eps> じ 1
+0 1093 according 0.184878969291<eps>
+1094 1095 to 1<eps>
+1095 1096 <eps> に 1
+1096 0 <eps> 基づ 1
+0 1098 according -0.268352921502<eps>
+1099 1100 to 1<eps>
+1100 1101 <eps> に 1
+1101 0 <eps> 係 1
+0 1103 according -0.16069460955<eps>
+1104 1105 to 1<eps>
+1105 1106 <eps> に 1
+1106 1107 <eps> 係 1
+1107 0 <eps> る 1
+0 1109 according -0.0744977601526<eps>
+1110 1111 to 1<eps>
+1111 1112 <eps> に 1
+1112 0 <eps> 係わ 1
+0 1114 according 0.196988138036<eps>
+1115 1116 to 1<eps>
+1116 1117 <eps> さ 1
+1117 1118 <eps> に 1
+1118 1119 <eps> 応 1
+1119 0 <eps> じ 1
+0 1121 according 0.0508680189054<eps>
+1122 1123 to 1<eps>
+1123 1124 <eps> 応 1
+1124 0 <eps> じ 1
+0 1126 according 0.309928498458<eps>
+1127 1128 to 1<eps>
+1128 1129 <eps> 基づ 1
+1129 0 <eps> き 1
+0 1131 according -0.138597096739<eps>
+1132 1133 to 1<eps>
+1133 0 <eps> 係 1
+0 1135 to 0.176865939427<eps>
+1136 1137 the 1<eps>
+1137 1138 <eps> と 1
+1138 0 <eps> は 1
+0 1140 to -0.0911633035238<eps>
+1141 1142 the 1<eps>
+1142 1143 <eps> に 1
+1143 0 <eps> 、 1
+0 1145 to 0.122947440336<eps>
+1146 1147 the 1<eps>
+1147 1148 <eps> から 1
+1148 0 <eps> の 1
+0 1150 to 0.0310534622117<eps>
+1151 1152 the 1<eps>
+1152 1153 <eps> を 1
+1153 0 <eps> 上記 1
+0 1155 to -0.146127948859<eps>
+1156 1157 the 1<eps>
+1157 1158 <eps> へ 1
+1158 0 <eps> の 1
+0 1160 the -0.117717432137<eps>
+1161 1162 start 1<eps>
+1162 1163 <eps> 、 1
+1163 0 <eps> 開始 1
+0 1165 the 0.0850708867306<eps>
+1166 1167 start 1<eps>
+1167 1168 <eps> 、 1
+1168 0 <eps> 先頭 1
+0 1170 the 0.0484749481423<eps>
+1171 1172 start 1<eps>
+1172 1173 <eps> 、 1
+1173 1174 <eps> 始動 1
+1174 0 <eps> 時 1
+0 1176 the 0.02054945423<eps>
+1177 1178 start 1<eps>
+1178 1179 <eps> 、 1
+1179 0 <eps> 起動 1
+0 1181 the -0.292032642769<eps>
+1182 1183 start 1<eps>
+1183 1184 <eps> 、 1
+1184 0 <eps> スタート 1
+0 1186 the -0.0381430432812<eps>
+1187 1188 start 1<eps>
+1188 1189 <eps> 、 1
+1189 0 <eps> 発進 1
+0 1191 the -0.049625884241<eps>
+1192 1193 start 1<eps>
+1193 1194 <eps> た 1
+1194 0 <eps> スタート 1
+0 1196 the -0.0421592672222<eps>
+1197 1198 start 1<eps>
+1198 1199 <eps> の 1
+1199 0 <eps> 開始 1
+0 1201 the 0.0347124645399<eps>
+1202 1203 start 1<eps>
+1203 1204 <eps> は 1
+1204 1205 <eps> 、 1
+1205 0 <eps> 始動 1
+0 1207 the -0.0341374485134<eps>
+1208 1209 start 1<eps>
+1209 1210 <eps> は 1
+1210 0 <eps> 開始 1
+0 1212 the -0.0905918646024<eps>
+1213 1214 start 1<eps>
+1214 1215 <eps> は 1
+1215 0 <eps> スタート 1
+0 1217 the -0.0452252005871<eps>
+1218 1219 start 1<eps>
+1219 1220 <eps> また 1
+1220 1221 <eps> 、 1
+1221 0 <eps> スタート 1
+0 1223 the 0.0156552378532<eps>
+1224 1225 start 1<eps>
+1225 1226 <eps> この 1
+1226 0 <eps> 始動 1
+0 1228 the -0.13572944746<eps>
+1229 1230 start 1<eps>
+1230 1231 <eps> 前記 1
+1231 0 <eps> スタート 1
+0 1233 the -0.0506929913818<eps>
+1234 1235 start 1<eps>
+1235 1236 <eps> 上記 1
+1236 0 <eps> 開始 1
+0 1238 the -0.107147407471<eps>
+1239 1240 start 1<eps>
+1240 1241 <eps> 上記 1
+1241 0 <eps> スタート 1
+0 1243 the -0.112721563915<eps>
+1244 1245 start 1<eps>
+1245 1246 <eps> 当該 1
+1246 0 <eps> スタート 1
+0 1248 the 0.489607493039<eps>
+1249 1250 start 1<eps>
+1250 1251 <eps> 実行 1
+1251 0 <eps> する 1
+0 1253 the -0.000331908574434<eps>
+1254 1255 start 1<eps>
+1255 1256 <eps> 開始 1
+1256 0 <eps> する 1
+0 1258 start 0.141514718609<eps>
+1259 1260 / 1<eps>
+1260 1261 <eps> ・ 1
+1261 1262 <eps> スタート 1
+1262 0 <eps> ・ 1
+0 1264 start 0.127917866343<eps>
+1265 1266 / 1<eps>
+1266 1267 <eps> 開始 1
+1267 0 <eps> ・ 1
+0 1269 start -0.181414941444<eps>
+1270 1271 / 1<eps>
+1271 1272 <eps> 開始 1
+1272 0 <eps> ／ 1
+0 1274 start 0.597956985628<eps>
+1275 1276 / 1<eps>
+1276 1277 <eps> 開始 1
+1277 1278 <eps> 信号 1
+1278 0 <eps> また 1
+0 1280 start 0.503874078627<eps>
+1281 1282 / 1<eps>
+1282 1283 <eps> 開始 1
+1283 0 <eps> 時刻 1
+0 1285 start 0.253319166726<eps>
+1286 1287 / 1<eps>
+1287 0 <eps> 始動 1
+0 1289 start 0.166816324357<eps>
+1290 1291 / 1<eps>
+1291 1292 <eps> 始動 1
+1292 0 <eps> ・ 1
+0 1294 start 0.00700561971282<eps>
+1295 1296 / 1<eps>
+1296 1297 <eps> 起動 1
+1297 0 <eps> / 1
+0 1299 start 0.100111204276<eps>
+1300 1301 / 1<eps>
+1301 1302 <eps> 起動 1
+1302 0 <eps> ・ 1
+0 1304 start -0.0910152070273<eps>
+1305 1306 / 1<eps>
+1306 1307 <eps> 起動 1
+1307 0 <eps> ／ 1
+0 1309 start 0.0714634502522<eps>
+1310 1311 / 1<eps>
+1311 1312 <eps> スタート 1
+1312 0 <eps> ・ 1
+0 1314 start -0.190827928352<eps>
+1315 1316 / 1<eps>
+1316 1317 <eps> スタート 1
+1317 0 <eps> ／ 1
+0 1319 start -0.0279688981605<eps>
+1320 1321 / 1<eps>
+1321 1322 <eps> ｓｔａｒｔ 1
+1322 0 <eps> ／ 1
+0 1324 / 0.595201704415<eps>
+1325 1326 stop 1<eps>
+1326 1327 <eps> ・ 1
+1327 0 <eps> 固定 1
+0 1329 / -0.0417037734868<eps>
+1330 1331 stop 1<eps>
+1331 1332 <eps> ・ 1
+1332 0 <eps> 停止 1
+0 1334 / 0.0744409622371<eps>
+1335 1336 stop 1<eps>
+1336 1337 <eps> ・ 1
+1337 0 <eps> ストップ 1
+0 1339 / -0.203150927401<eps>
+1340 1341 stop 1<eps>
+1341 1342 <eps> ／ 1
+1342 0 <eps> 停止 1
+0 1344 / -0.154716850249<eps>
+1345 1346 stop 1<eps>
+1346 1347 <eps> ／ 1
+1347 0 <eps> ストップ 1
+0 1349 / 0.340395080486<eps>
+1350 1351 stop 1<eps>
+1351 0 <eps> 停止 1
+0 1353 stop 0.263508397504<eps>
+1354 1355 signals 1<eps>
+1355 1356 <eps> 停止 1
+1356 0 <eps> 信号 1
+0 1358 signals 0.0375559705<eps>
+1359 1360 . 1<eps>
+1360 1361 <eps> 信号 1
+1361 1362 <eps> で 1
+1362 1363 <eps> あ 1
+1363 1364 <eps> る 1
+1364 0 <eps> 。 1
+0 1366 in 0.390392230876<eps>
+1367 1368 a 1<eps>
+1368 1369 charging 1<eps>
+1369 1370 <eps> し 1
+1370 1371 <eps> 、 1
+1371 0 <eps> 帯電 1
+0 1373 charging 0.320725396985<eps>
+1374 1375 pump 1<eps>
+1375 1376 circuit 1<eps>
+1376 1377 <eps> チャージ 1
+1377 1378 <eps> ポンプ 1
+1378 0 <eps> 回路 1
+0 1380 pump 0.507563455889<eps>
+1381 1382 circuit 1<eps>
+1382 1383 20a 1<eps>
+1383 1384 <eps> ポンプ 1
+1384 1385 <eps> 駆動 1
+1385 1386 <eps> 回路 1
+1386 1387 <eps> ２０ 1
+1387 0 <eps> ａ 1
+0 1389 circuit 0.445334517503<eps>
+1390 1391 20a 1<eps>
+1391 1392 , 1<eps>
+1392 1393 <eps> 回路 1
+1393 1394 <eps> ２０ 1
+1394 1395 <eps> ａ 1
+1395 0 <eps> 、 1
+0 1397 20a 0.697108439861<eps>
+1398 1399 , 1<eps>
+1399 1400 a 1<eps>
+1400 1401 <eps> 20 1
+1401 1402 <eps> a 1
+1402 1403 <eps> に 1
+1403 0 <eps> は 1
+0 1405 , 0.464905273774<eps>
+1406 1407 a 1<eps>
+1407 1408 pumping 1<eps>
+1408 1409 <eps> 、 1
+1409 1410 <eps> ポンプ 1
+1410 0 <eps> 用 1
+0 1412 , 0.194341737545<eps>
+1413 1414 a 1<eps>
+1414 1415 pumping 1<eps>
+1415 1416 <eps> 、 1
+1416 0 <eps> 励起 1
+0 1418 , 0.156354958918<eps>
+1419 1420 a 1<eps>
+1420 1421 pumping 1<eps>
+1421 1422 <eps> 、 1
+1422 1423 <eps> ポン 1
+1423 0 <eps> ピング 1
+0 1425 can 0.847180752843<eps>
+1426 1427 be 1<eps>
+1427 1428 switched 1<eps>
+1428 1429 <eps> こと 1
+1429 1430 <eps> で 1
+1430 1431 <eps> 行 1
+1431 1432 <eps> う 1
+1432 1433 <eps> こと 1
+1433 1434 <eps> が 1
+1434 0 <eps> でき 1
+0 1436 can 0.70204185879<eps>
+1437 1438 be 1<eps>
+1438 1439 switched 1<eps>
+1439 1440 <eps> が 1
+1440 1441 <eps> 切り換え 1
+1441 1442 <eps> られ 1
+1442 0 <eps> る 1
+0 1444 can 0.635676181157<eps>
+1445 1446 be 1<eps>
+1446 1447 switched 1<eps>
+1447 1448 <eps> が 1
+1448 1449 <eps> 切り替え 1
+1449 0 <eps> られ 1
+0 1451 can 0.609500366517<eps>
+1452 1453 be 1<eps>
+1453 1454 switched 1<eps>
+1454 1455 <eps> を 1
+1455 1456 <eps> 切換 1
+1456 1457 <eps> る 1
+1457 1458 <eps> こと 1
+1458 1459 <eps> が 1
+1459 0 <eps> でき 1
+0 1461 can 0.484494496067<eps>
+1462 1463 be 1<eps>
+1463 1464 switched 1<eps>
+1464 1465 <eps> を 1
+1465 1466 <eps> 切り換え 1
+1466 1467 <eps> る 1
+1467 1468 <eps> こと 1
+1468 1469 <eps> が 1
+1469 0 <eps> 可能 1
+0 1471 can 0.376160481168<eps>
+1472 1473 be 1<eps>
+1473 1474 switched 1<eps>
+1474 1475 <eps> を 1
+1475 1476 <eps> 切り換え 1
+1476 1477 <eps> る 1
+1477 1478 <eps> こと 1
+1478 1479 <eps> が 1
+1479 0 <eps> でき 1
+0 1481 can 0.754866412663<eps>
+1482 1483 be 1<eps>
+1483 1484 switched 1<eps>
+1484 1485 <eps> を 1
+1485 1486 <eps> 切り替え 1
+1486 1487 <eps> られ 1
+1487 1488 <eps> る 1
+1488 0 <eps> よう 1
+0 1490 can 0.447555716548<eps>
+1491 1492 be 1<eps>
+1492 1493 switched 1<eps>
+1493 1494 <eps> を 1
+1494 1495 <eps> 切替え 1
+1495 1496 <eps> る 1
+1496 1497 <eps> こと 1
+1497 1498 <eps> が 1
+1498 0 <eps> でき 1
+0 1500 can 0.533211414746<eps>
+1501 1502 be 1<eps>
+1502 1503 switched 1<eps>
+1503 1504 <eps> を 1
+1504 1505 <eps> スイッチング 1
+1505 0 <eps> 可能 1
+0 1507 can 0.487194415702<eps>
+1508 1509 be 1<eps>
+1509 1510 switched 1<eps>
+1510 1511 <eps> 切換 1
+1511 1512 <eps> が 1
+1512 0 <eps> 可能 1
+0 1514 can 0.310182610195<eps>
+1515 1516 be 1<eps>
+1516 1517 switched 1<eps>
+1517 1518 <eps> 切り換え 1
+1518 1519 <eps> る 1
+1519 1520 <eps> こと 1
+1520 1521 <eps> が 1
+1521 0 <eps> でき 1
+0 1523 can 0.266107612509<eps>
+1524 1525 be 1<eps>
+1525 1526 switched 1<eps>
+1526 1527 <eps> 切り替え 1
+1527 1528 <eps> る 1
+1528 1529 <eps> こと 1
+1529 1530 <eps> が 1
+1530 0 <eps> でき 1
+0 1532 can 0.423255538788<eps>
+1533 1534 be 1<eps>
+1534 1535 switched 1<eps>
+1535 1536 <eps> 切り替え 1
+1536 1537 <eps> る 1
+1537 1538 <eps> こと 1
+1538 1539 <eps> が 1
+1539 1540 <eps> でき 1
+1540 0 <eps> る 1
+0 1542 can 0.501337613643<eps>
+1543 1544 be 1<eps>
+1544 1545 switched 1<eps>
+1545 1546 <eps> 切り替え 1
+1546 1547 <eps> る 1
+1547 1548 <eps> こと 1
+1548 1549 <eps> が 1
+1549 1550 <eps> でき 1
+1550 1551 <eps> る 1
+1551 0 <eps> よう 1
+0 1553 can 0.301141731809<eps>
+1554 1555 be 1<eps>
+1555 1556 switched 1<eps>
+1556 1557 <eps> 切り替え 1
+1557 1558 <eps> が 1
+1558 0 <eps> 可能 1
+0 1560 can 0.229476213419<eps>
+1561 1562 be 1<eps>
+1562 1563 switched 1<eps>
+1563 1564 <eps> 切り替え 1
+1564 1565 <eps> が 1
+1565 0 <eps> でき 1
+0 1567 can 0.512073647531<eps>
+1568 1569 be 1<eps>
+1569 1570 switched 1<eps>
+1570 1571 <eps> 切り替え 1
+1571 1572 <eps> を 1
+1572 1573 <eps> 行 1
+1573 1574 <eps> う 1
+1574 1575 <eps> こと 1
+1575 1576 <eps> が 1
+1576 0 <eps> でき 1
+0 1578 can 0.546533542959<eps>
+1579 1580 be 1<eps>
+1580 1581 switched 1<eps>
+1581 1582 <eps> 切り替え 1
+1582 1583 <eps> を 1
+1583 1584 <eps> 行 1
+1584 1585 <eps> う 1
+1585 1586 <eps> こと 1
+1586 1587 <eps> が 1
+1587 0 <eps> 出来 1
+0 1589 can 0.90959807113<eps>
+1590 1591 be 1<eps>
+1591 1592 switched 1<eps>
+1592 1593 <eps> 切り替え 1
+1593 0 <eps> られ 1
+0 1595 can 0.308920961065<eps>
+1596 1597 be 1<eps>
+1597 1598 switched 1<eps>
+1598 1599 <eps> 切換え 1
+1599 1600 <eps> る 1
+1600 1601 <eps> こと 1
+1601 1602 <eps> が 1
+1602 0 <eps> でき 1
+0 1604 be 0.840636425573<eps>
+1605 1606 switched 1<eps>
+1606 1607 according 1<eps>
+1607 1608 <eps> 応 1
+1608 1609 <eps> じ 1
+1609 1610 <eps> て 1
+1610 1611 <eps> 切り換え 1
+1611 1612 <eps> る 1
+1612 0 <eps> よう 1
+0 1614 switched 0.658353635759<eps>
+1615 1616 according 1<eps>
+1616 1617 to 1<eps>
+1617 1618 <eps> に 1
+1618 1619 <eps> よ 1
+1619 1620 <eps> っ 1
+1620 1621 <eps> て 1
+1621 1622 <eps> 切り換え 1
+1622 0 <eps> られ 1
+0 1624 switched 0.583269534505<eps>
+1625 1626 according 1<eps>
+1626 1627 to 1<eps>
+1627 1628 <eps> に 1
+1628 1629 <eps> 応 1
+1629 1630 <eps> じ 1
+1630 1631 <eps> て 1
+1631 1632 <eps> 切り換え 1
+1632 0 <eps> る 1
+0 1634 switched 0.582496714136<eps>
+1635 1636 according 1<eps>
+1636 1637 to 1<eps>
+1637 1638 <eps> に 1
+1638 1639 <eps> 応 1
+1639 1640 <eps> じ 1
+1640 1641 <eps> て 1
+1641 1642 <eps> 切り替え 1
+1642 0 <eps> られ 1
+0 1644 switched 0.91476852118<eps>
+1645 1646 according 1<eps>
+1646 1647 to 1<eps>
+1647 1648 <eps> に 1
+1648 1649 <eps> 応 1
+1649 1650 <eps> じ 1
+1650 1651 <eps> て 1
+1651 1652 <eps> 反転 1
+1652 0 <eps> さ 1
+0 1654 switched 0.695861163445<eps>
+1655 1656 according 1<eps>
+1656 1657 to 1<eps>
+1657 1658 <eps> に 1
+1658 1659 <eps> 応 1
+1659 1660 <eps> じ 1
+1660 1661 <eps> て 1
+1661 0 <eps> スイッチング 1
+0 1663 according 0.501117844439<eps>
+1664 1665 to 1<eps>
+1665 1666 the 1<eps>
+1666 0 <eps> の 1
+0 1668 according 0.727593755882<eps>
+1669 1670 to 1<eps>
+1670 1671 the 1<eps>
+1671 1672 <eps> に 1
+1672 1673 <eps> 構成 1
+1673 1674 <eps> さ 1
+1674 1675 <eps> れ 1
+1675 0 <eps> た 1
+0 1677 to 0.211073755253<eps>
+1678 1679 the 1<eps>
+1679 1680 start 1<eps>
+1680 1681 <eps> を 1
+1681 0 <eps> ｓｔａｒｔ 1
+0 1683 to 0.151566097187<eps>
+1684 1685 the 1<eps>
+1685 1686 start 1<eps>
+1686 1687 <eps> 開始 1
+1687 0 <eps> まで 1
+0 1689 the 0.140732112336<eps>
+1690 1691 start 1<eps>
+1691 1692 / 1<eps>
+1692 1693 <eps> 、 1
+1693 1694 <eps> 起動 1
+1694 0 <eps> ／ 1
+0 1696 start 0.263075159523<eps>
+1697 1698 / 1<eps>
+1698 1699 stop 1<eps>
+1699 1700 <eps> ・ 1
+1700 1701 <eps> スタート 1
+1701 1702 <eps> ・ 1
+1702 0 <eps> ストップ 1
+0 1704 start 0.304646774939<eps>
+1705 1706 / 1<eps>
+1706 1707 stop 1<eps>
+1707 1708 <eps> 開始 1
+1708 1709 <eps> ・ 1
+1709 0 <eps> 停止 1
+0 1711 start 0.343545232954<eps>
+1712 1713 / 1<eps>
+1713 1714 stop 1<eps>
+1714 1715 <eps> 始動 1
+1715 1716 <eps> ・ 1
+1716 0 <eps> 停止 1
+0 1718 start 0.289017019745<eps>
+1719 1720 / 1<eps>
+1720 1721 stop 1<eps>
+1721 1722 <eps> 起動 1
+1722 1723 <eps> ・ 1
+1723 0 <eps> 停止 1
+0 1725 start 0.0857137015687<eps>
+1726 1727 / 1<eps>
+1727 1728 stop 1<eps>
+1728 1729 <eps> 起動 1
+1729 1730 <eps> ／ 1
+1730 0 <eps> 停止 1
+0 1732 start 0.653699311872<eps>
+1733 1734 / 1<eps>
+1734 1735 stop 1<eps>
+1735 1736 <eps> 起動 1
+1736 0 <eps> 停止 1
+0 1738 / 0.328286788651<eps>
+1739 1740 stop 1<eps>
+1740 1741 signals 1<eps>
+1741 1742 <eps> ／ 1
+1742 1743 <eps> 停止 1
+1743 0 <eps> 信号 1
+0 1745 be 1.00958870176<eps>
+1746 1747 switched 1<eps>
+1747 1748 according 1<eps>
+1748 1749 to 1<eps>
+1749 1750 <eps> に 1
+1750 1751 <eps> 応 1
+1751 1752 <eps> じ 1
+1752 1753 <eps> て 1
+1753 1754 <eps> 切り換え 1
+1754 1755 <eps> る 1
+1755 0 <eps> よう 1
+0 1757 the 0.312346854005<eps>
+1758 1759 start 1<eps>
+1759 1760 / 1<eps>
+1760 1761 stop 1<eps>
+1761 1762 <eps> 、 1
+1762 1763 <eps> 起動 1
+1763 1764 <eps> ／ 1
+1764 0 <eps> 停止 1
+0 1766 the 0.835870300683<eps>
+1767 1768 start 1<eps>
+1768 1769 / 1<eps>
+1769 1770 stop 1<eps>
+1770 1771 <eps> は 1
+1771 1772 <eps> 起動 1
+1772 0 <eps> 停止 1

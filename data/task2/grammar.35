@@ -1,347 +1,347 @@
-0 0 a a
-0 0 a 、
-0 1 a <eps>
-2 3 <eps> 、
-3 0 <eps> これ
-0 0 a た
-0 0 a その
-0 0 a は
-0 5 a <eps>
-6 7 <eps> は
-7 0 <eps> 、
-0 0 a また
-0 9 a <eps>
-10 11 <eps> また
-11 0 <eps> 、
-0 0 a さらに
-0 0 a する
-0 0 a る
-0 0 a １
-0 0 a ａ
-0 0 a 半
-0 0 reference 次
-0 0 reference て
-0 0 reference を
-0 13 reference <eps>
-14 15 <eps> を
-15 0 <eps> 用い
-0 17 reference <eps>
-18 19 <eps> を
-19 0 <eps> 基準
-0 21 reference <eps>
-22 23 <eps> を
-23 24 <eps> 参照
-24 0 <eps> し
-0 0 reference 用い
-0 0 reference 基準
-0 0 reference リファレンス
-0 0 reference 基づ
-0 0 reference 参照
-0 0 reference 判定
-0 0 reference 参考
-0 0 reference 指標
-0 0 reference 文献
-0 0 numeral (
-0 0 numeral また
-0 26 numeral <eps>
-27 28 <eps> また
-28 0 <eps> 、
-0 30 numeral <eps>
-31 32 <eps> で
-32 33 <eps> あ
-33 0 <eps> り
-0 0 numeral なお
-0 0 numeral 中
-0 0 numeral 番号
-0 0 numeral 数字
-0 35 numeral <eps>
-36 37 <eps> 引用
-37 0 <eps> 符号
-0 0 numeral 符号
-0 0 numeral 源
-0 0 49 １５
-0 0 49 ４６
-0 0 49 ４３
-0 0 49 49
-0 0 49 ４９
-0 39 49 <eps>
-40 41 <eps> ４９
-41 0 <eps> など
-0 0 49 ４８
-0 0 represents は
-0 43 represents <eps>
-44 45 <eps> で
-45 0 <eps> 示
-0 0 represents し
-0 0 represents が
-0 0 represents を
-0 47 represents <eps>
-48 49 <eps> を
-49 50 <eps> 表
-50 0 <eps> し
-0 52 represents <eps>
-53 54 <eps> を
-54 55 <eps> 表
-55 0 <eps> す
-0 57 represents <eps>
-58 59 <eps> を
-59 60 <eps> 示
-60 0 <eps> す
-0 62 represents <eps>
-63 64 <eps> を
-64 65 <eps> 表わ
-65 0 <eps> す
-0 67 represents <eps>
-68 69 <eps> を
-69 70 <eps> 代表
-70 0 <eps> し
-0 0 represents 表
-0 0 represents 示
-0 72 represents <eps>
-73 74 <eps> 表わ
-74 0 <eps> す
-0 0 shutter 可能
-0 0 shutter 際
-0 76 shutter <eps>
-77 78 <eps> ドラム
-78 0 <eps> シャッター
-0 0 shutter まま
-0 0 shutter ７
-0 0 shutter 遮光
-0 0 shutter シャッター
-0 0 shutter シャッタ
-0 80 shutter <eps>
-81 82 <eps> シャッタ
-82 0 <eps> (
-0 0 shutter ナシャッタ
-0 0 shutter 幕
-0 0 shutter 蓋
-0 84 shutter <eps>
-85 86 <eps> 遮断
-86 0 <eps> リング
-0 88 shutter <eps>
-89 90 <eps> 遮断
-90 0 <eps> 体
-0 92 . <eps>
-93 94 <eps> た
-94 0 <eps> 。
-0 96 . <eps>
-97 98 <eps> する
-98 0 <eps> 。
-0 0 . 。
-0 100 . <eps>
-101 102 <eps> い
-102 0 <eps> 。
-0 104 . <eps>
-105 106 <eps> い
-106 107 <eps> る
-107 0 <eps> 。
-0 109 . <eps>
-110 111 <eps> い
-111 112 <eps> く
-112 0 <eps> 。
-0 0 . る
-0 114 . <eps>
-115 116 <eps> る
-116 0 <eps> 。
-0 118 . <eps>
-119 120 <eps> う
-120 0 <eps> 。
-0 122 . <eps>
-123 124 <eps> あ
-124 125 <eps> る
-125 0 <eps> 。
-0 127 a <eps>
-128 129 reference <eps>
-129 130 <eps> 、
-130 0 <eps> 基準
-0 132 a <eps>
-133 134 reference <eps>
-134 135 <eps> 、
-135 0 <eps> リファレンス
-0 137 a <eps>
-138 139 reference <eps>
-139 140 <eps> 、
-140 0 <eps> 参照
-0 142 a <eps>
-143 144 reference <eps>
-144 145 <eps> た
-145 0 <eps> 基準
-0 147 a <eps>
-148 149 reference <eps>
-149 150 <eps> た
-150 0 <eps> 参照
-0 152 a <eps>
-153 154 reference <eps>
-154 155 <eps> の
-155 0 <eps> 基準
-0 157 a <eps>
-158 159 reference <eps>
-159 160 <eps> は
-160 161 <eps> 、
-161 0 <eps> 基準
-0 163 a <eps>
-164 165 reference <eps>
-165 166 <eps> は
-166 167 <eps> 、
-167 0 <eps> 参照
-0 169 a <eps>
-170 171 reference <eps>
-171 172 <eps> は
-172 0 <eps> 基準
-0 174 a <eps>
-175 176 reference <eps>
-176 177 <eps> は
-177 0 <eps> 参照
-0 179 a <eps>
-180 181 reference <eps>
-181 182 <eps> する
-182 0 <eps> 基準
-0 184 a <eps>
-185 186 reference <eps>
-186 187 <eps> する
-187 0 <eps> リファレンス
-0 189 a <eps>
-190 191 reference <eps>
-191 192 <eps> る
-192 0 <eps> 基準
-0 194 a <eps>
-195 196 reference <eps>
-196 197 <eps> が
-197 0 <eps> 基準
-0 199 reference <eps>
-200 201 numeral <eps>
-201 202 <eps> また
-202 0 <eps> 、
-0 204 reference <eps>
-205 206 numeral <eps>
-206 0 <eps> なお
-0 208 reference <eps>
-209 210 numeral <eps>
-210 211 <eps> て
-211 0 <eps> 符合
-0 213 reference <eps>
-214 215 numeral <eps>
-215 216 <eps> ここ
-216 0 <eps> で
-0 218 reference <eps>
-219 220 numeral <eps>
-220 221 <eps> 又
-221 0 <eps> 符号
-0 223 reference <eps>
-224 225 numeral <eps>
-225 0 <eps> お
-0 227 reference <eps>
-228 229 numeral <eps>
-229 230 <eps> 参照
-230 0 <eps> 符号
-0 232 reference <eps>
-233 234 numeral <eps>
-234 0 <eps> 符号
-0 236 reference <eps>
-237 238 numeral <eps>
-238 239 <eps> 符号
-239 240 <eps> を
-240 241 <eps> 付
-241 242 <eps> し
-242 0 <eps> て
-0 244 represents <eps>
-245 246 a <eps>
-246 247 <eps> は
-247 0 <eps> 、
-0 249 represents <eps>
-250 251 a <eps>
-251 252 <eps> 示
-252 253 <eps> す
-253 254 <eps> もの
-254 0 <eps> は
-0 256 a <eps>
-257 258 shutter <eps>
-258 259 <eps> 、
-259 0 <eps> シャッター
-0 261 a <eps>
-262 263 shutter <eps>
-263 264 <eps> 、
-264 0 <eps> シャッタ
-0 266 a <eps>
-267 268 shutter <eps>
-268 269 <eps> 、
-269 270 <eps> 遮断
-270 0 <eps> 弁
-0 272 a <eps>
-273 274 shutter <eps>
-274 275 <eps> た
-275 0 <eps> シャッター
-0 277 a <eps>
-278 279 shutter <eps>
-279 280 <eps> た
-280 0 <eps> シャッタ
-0 282 a <eps>
-283 284 shutter <eps>
-284 285 <eps> は
-285 286 <eps> 、
-286 0 <eps> シャッタ
-0 288 a <eps>
-289 290 shutter <eps>
-290 291 <eps> は
-291 0 <eps> シャッター
-0 293 a <eps>
-294 295 shutter <eps>
-295 296 <eps> は
-296 0 <eps> シャッタ
-0 298 a <eps>
-299 300 shutter <eps>
-300 301 <eps> する
-301 0 <eps> シャッター
-0 303 a <eps>
-304 305 shutter <eps>
-305 306 <eps> する
-306 0 <eps> シャッタ
-0 308 a <eps>
-309 310 shutter <eps>
-310 311 <eps> る
-311 312 <eps> シャッター
-312 0 <eps> プラン
-0 314 a <eps>
-315 316 shutter <eps>
-316 317 <eps> る
-317 0 <eps> シャッタ
-0 319 a <eps>
-320 321 reference <eps>
-321 322 numeral <eps>
-322 323 <eps> 、
-323 324 <eps> 参照
-324 0 <eps> 符号
-0 326 a <eps>
-327 328 reference <eps>
-328 329 numeral <eps>
-329 330 <eps> 、
-330 0 <eps> 符号
-0 332 a <eps>
-333 334 reference <eps>
-334 335 numeral <eps>
-335 336 <eps> は
-336 337 <eps> 参照
-337 0 <eps> 番号
-0 339 a <eps>
-340 341 reference <eps>
-341 342 numeral <eps>
-342 343 <eps> また
-343 344 <eps> 、
-344 345 <eps> 参照
-345 0 <eps> 番号
-0 347 a <eps>
-348 349 reference <eps>
-349 350 numeral <eps>
-350 351 <eps> なお
-351 0 <eps> 、
-0 353 a <eps>
-354 355 reference <eps>
-355 356 numeral <eps>
-356 357 <eps> る
-357 0 <eps> 符号
-0 359 reference <eps>
-360 361 numeral <eps>
-361 362 49 <eps>
-362 363 <eps> 符号
-363 0 <eps> ４９
+0 0 a a -0.171160971097
+0 0 a 、 -0.42629954057
+0 1 a -0.108517782685<eps>
+2 3 <eps> 、 1
+3 0 <eps> これ 1
+0 0 a た -0.301539687914
+0 0 a その -0.229829512081
+0 0 a は -0.350550958178
+0 5 a -0.18446486215<eps>
+6 7 <eps> は 1
+7 0 <eps> 、 1
+0 0 a また -0.182476643565
+0 9 a -0.121594314377<eps>
+10 11 <eps> また 1
+11 0 <eps> 、 1
+0 0 a さらに -0.172007245766
+0 0 a する -0.316335794723
+0 0 a る -0.233128808283
+0 0 a １ -0.22542884206
+0 0 a ａ -0.263916027377
+0 0 a 半 -0.18752297382
+0 0 reference 次 0.194067770068
+0 0 reference て 0.234156383369
+0 0 reference を -0.0198941153708
+0 13 reference 0.0154838266323<eps>
+14 15 <eps> を 1
+15 0 <eps> 用い 1
+0 17 reference -0.183045617985<eps>
+18 19 <eps> を 1
+19 0 <eps> 基準 1
+0 21 reference -0.0718752920872<eps>
+22 23 <eps> を 1
+23 24 <eps> 参照 1
+24 0 <eps> し 1
+0 0 reference 用い -0.217971329831
+0 0 reference 基準 -0.534303695475
+0 0 reference リファレンス -0.37794992204
+0 0 reference 基づ -0.145417529198
+0 0 reference 参照 -0.395274844973
+0 0 reference 判定 0.227863307754
+0 0 reference 参考 -0.171206243268
+0 0 reference 指標 -0.00591218796497
+0 0 reference 文献 -0.00836409492383
+0 0 numeral ( 0.244700777821
+0 0 numeral また 0.143558423876
+0 26 numeral 0.328017373101<eps>
+27 28 <eps> また 1
+28 0 <eps> 、 1
+0 30 numeral 0.248014459056<eps>
+31 32 <eps> で 1
+32 33 <eps> あ 1
+33 0 <eps> り 1
+0 0 numeral なお 0.136593991913
+0 0 numeral 中 0.179172545443
+0 0 numeral 番号 -0.0259333849553
+0 0 numeral 数字 -0.162853071533
+0 35 numeral 0.0136788452576<eps>
+36 37 <eps> 引用 1
+37 0 <eps> 符号 1
+0 0 numeral 符号 -0.212348022665
+0 0 numeral 源 0.393913770688
+0 0 49 １５ 0.436346231264
+0 0 49 ４６ 0.299987535426
+0 0 49 ４３ 0.426897643528
+0 0 49 49 -0.26749392584
+0 0 49 ４９ -0.645297642647
+0 39 49 -0.15894136444<eps>
+40 41 <eps> ４９ 1
+41 0 <eps> など 1
+0 0 49 ４８ 0.259797826594
+0 0 represents は -0.0965280274541
+0 43 represents 0.168527781604<eps>
+44 45 <eps> で 1
+45 0 <eps> 示 1
+0 0 represents し 0.136708929813
+0 0 represents が 0.358616294898
+0 0 represents を 0.0738169561102
+0 47 represents 0.00927099961984<eps>
+48 49 <eps> を 1
+49 50 <eps> 表 1
+50 0 <eps> し 1
+0 52 represents 0.00908413574371<eps>
+53 54 <eps> を 1
+54 55 <eps> 表 1
+55 0 <eps> す 1
+0 57 represents 0.156782733297<eps>
+58 59 <eps> を 1
+59 60 <eps> 示 1
+60 0 <eps> す 1
+0 62 represents 0.0708625490506<eps>
+63 64 <eps> を 1
+64 65 <eps> 表わ 1
+65 0 <eps> す 1
+0 67 represents 0.288761127068<eps>
+68 69 <eps> を 1
+69 70 <eps> 代表 1
+70 0 <eps> し 1
+0 0 represents 表 -0.0472247111838
+0 0 represents 示 0.100473886369
+0 72 represents 0.00822336586206<eps>
+73 74 <eps> 表わ 1
+74 0 <eps> す 1
+0 0 shutter 可能 0.465978435654
+0 0 shutter 際 0.45687813656
+0 76 shutter -0.214741139764<eps>
+77 78 <eps> ドラム 1
+78 0 <eps> シャッター 1
+0 0 shutter まま 0.379073794278
+0 0 shutter ７ 0.501391795261
+0 0 shutter 遮光 0.229240060853
+0 0 shutter シャッター -0.556950964828
+0 0 shutter シャッタ -0.608325795984
+0 80 shutter -0.223913202236<eps>
+81 82 <eps> シャッタ 1
+82 0 <eps> ( 1
+0 0 shutter ナシャッタ -0.192182340594
+0 0 shutter 幕 -0.22786248445
+0 0 shutter 蓋 -0.0378295172196
+0 84 shutter 0.136106253682<eps>
+85 86 <eps> 遮断 1
+86 0 <eps> リング 1
+0 88 shutter 0.185894021803<eps>
+89 90 <eps> 遮断 1
+90 0 <eps> 体 1
+0 92 . -0.165590636545<eps>
+93 94 <eps> た 1
+94 0 <eps> 。 1
+0 96 . -0.351902222045<eps>
+97 98 <eps> する 1
+98 0 <eps> 。 1
+0 0 . 。 -0.515775233638
+0 100 . -0.312883881067<eps>
+101 102 <eps> い 1
+102 0 <eps> 。 1
+0 104 . -0.361382424588<eps>
+105 106 <eps> い 1
+106 107 <eps> る 1
+107 0 <eps> 。 1
+0 109 . -0.093884963298<eps>
+110 111 <eps> い 1
+111 112 <eps> く 1
+112 0 <eps> 。 1
+0 0 . る -0.255255753399
+0 114 . -0.491160770668<eps>
+115 116 <eps> る 1
+116 0 <eps> 。 1
+0 118 . -0.172312421892<eps>
+119 120 <eps> う 1
+120 0 <eps> 。 1
+0 122 . -0.291543170018<eps>
+123 124 <eps> あ 1
+124 125 <eps> る 1
+125 0 <eps> 。 1
+0 127 a -0.274487483184<eps>
+128 129 reference 1<eps>
+129 130 <eps> 、 1
+130 0 <eps> 基準 1
+0 132 a -0.196622566375<eps>
+133 134 reference 1<eps>
+134 135 <eps> 、 1
+135 0 <eps> リファレンス 1
+0 137 a -0.186810486851<eps>
+138 139 reference 1<eps>
+139 140 <eps> 、 1
+140 0 <eps> 参照 1
+0 142 a -0.191030778666<eps>
+143 144 reference 1<eps>
+144 145 <eps> た 1
+145 0 <eps> 基準 1
+0 147 a -0.0702306825217<eps>
+148 149 reference 1<eps>
+149 150 <eps> た 1
+150 0 <eps> 参照 1
+0 152 a -0.1268071813<eps>
+153 154 reference 1<eps>
+154 155 <eps> の 1
+155 0 <eps> 基準 1
+0 157 a -0.132118290561<eps>
+158 159 reference 1<eps>
+159 160 <eps> は 1
+160 161 <eps> 、 1
+161 0 <eps> 基準 1
+0 163 a -0.0113181944168<eps>
+164 165 reference 1<eps>
+165 166 <eps> は 1
+166 167 <eps> 、 1
+167 0 <eps> 参照 1
+0 169 a -0.211466895401<eps>
+170 171 reference 1<eps>
+171 172 <eps> は 1
+172 0 <eps> 基準 1
+0 174 a -0.120067675555<eps>
+175 176 reference 1<eps>
+176 177 <eps> は 1
+177 0 <eps> 参照 1
+0 179 a -0.120754055113<eps>
+180 181 reference 1<eps>
+181 182 <eps> する 1
+182 0 <eps> 基準 1
+0 184 a -0.115795528101<eps>
+185 186 reference 1<eps>
+186 187 <eps> する 1
+187 0 <eps> リファレンス 1
+0 189 a -0.180782236694<eps>
+190 191 reference 1<eps>
+191 192 <eps> る 1
+192 0 <eps> 基準 1
+0 194 a -0.0961466637093<eps>
+195 196 reference 1<eps>
+196 197 <eps> が 1
+197 0 <eps> 基準 1
+0 199 reference 0.916517309318<eps>
+200 201 numeral 1<eps>
+201 202 <eps> また 1
+202 0 <eps> 、 1
+0 204 reference 0.592581661685<eps>
+205 206 numeral 1<eps>
+206 0 <eps> なお 1
+0 208 reference 0.0314377189005<eps>
+209 210 numeral 1<eps>
+210 211 <eps> て 1
+211 0 <eps> 符合 1
+0 213 reference 0.971302003999<eps>
+214 215 numeral 1<eps>
+215 216 <eps> ここ 1
+216 0 <eps> で 1
+0 218 reference 0.125527276421<eps>
+219 220 numeral 1<eps>
+220 221 <eps> 又 1
+221 0 <eps> 符号 1
+0 223 reference 0.376492397567<eps>
+224 225 numeral 1<eps>
+225 0 <eps> お 1
+0 227 reference -0.0407098280108<eps>
+228 229 numeral 1<eps>
+229 230 <eps> 参照 1
+230 0 <eps> 符号 1
+0 232 reference -0.192308270135<eps>
+233 234 numeral 1<eps>
+234 0 <eps> 符号 1
+0 236 reference 0.292066568853<eps>
+237 238 numeral 1<eps>
+238 239 <eps> 符号 1
+239 240 <eps> を 1
+240 241 <eps> 付 1
+241 242 <eps> し 1
+242 0 <eps> て 1
+0 244 represents 0.136725991987<eps>
+245 246 a 1<eps>
+246 247 <eps> は 1
+247 0 <eps> 、 1
+0 249 represents 0.36497615998<eps>
+250 251 a 1<eps>
+251 252 <eps> 示 1
+252 253 <eps> す 1
+253 254 <eps> もの 1
+254 0 <eps> は 1
+0 256 a -0.235185290354<eps>
+257 258 shutter 1<eps>
+258 259 <eps> 、 1
+259 0 <eps> シャッター 1
+0 261 a -0.292589260358<eps>
+262 263 shutter 1<eps>
+263 264 <eps> 、 1
+264 0 <eps> シャッタ 1
+0 266 a 0.324852164729<eps>
+267 268 shutter 1<eps>
+268 269 <eps> 、 1
+269 270 <eps> 遮断 1
+270 0 <eps> 弁 1
+0 272 a -0.106428579153<eps>
+273 274 shutter 1<eps>
+274 275 <eps> た 1
+275 0 <eps> シャッター 1
+0 277 a -0.244931849212<eps>
+278 279 shutter 1<eps>
+279 280 <eps> た 1
+280 0 <eps> シャッタ 1
+0 282 a -0.148760710182<eps>
+283 284 shutter 1<eps>
+284 285 <eps> は 1
+285 286 <eps> 、 1
+286 0 <eps> シャッタ 1
+0 288 a -0.181294343725<eps>
+289 290 shutter 1<eps>
+290 291 <eps> は 1
+291 0 <eps> シャッター 1
+0 293 a -0.20964303937<eps>
+294 295 shutter 1<eps>
+295 296 <eps> は 1
+296 0 <eps> シャッタ 1
+0 298 a -0.215077268698<eps>
+299 300 shutter 1<eps>
+300 301 <eps> する 1
+301 0 <eps> シャッター 1
+0 303 a -0.166797351033<eps>
+304 305 shutter 1<eps>
+305 306 <eps> する 1
+306 0 <eps> シャッタ 1
+0 308 a 0.0084874413221<eps>
+309 310 shutter 1<eps>
+310 311 <eps> る 1
+311 312 <eps> シャッター 1
+312 0 <eps> プラン 1
+0 314 a -0.106062457174<eps>
+315 316 shutter 1<eps>
+316 317 <eps> る 1
+317 0 <eps> シャッタ 1
+0 319 a 0.167154772273<eps>
+320 321 reference 1<eps>
+321 322 numeral 1<eps>
+322 323 <eps> 、 1
+323 324 <eps> 参照 1
+324 0 <eps> 符号 1
+0 326 a 0.0530709594106<eps>
+327 328 reference 1<eps>
+328 329 numeral 1<eps>
+329 330 <eps> 、 1
+330 0 <eps> 符号 1
+0 332 a 0.31579120475<eps>
+333 334 reference 1<eps>
+334 335 numeral 1<eps>
+335 336 <eps> は 1
+336 337 <eps> 参照 1
+337 0 <eps> 番号 1
+0 339 a 0.382921857418<eps>
+340 341 reference 1<eps>
+341 342 numeral 1<eps>
+342 343 <eps> また 1
+343 344 <eps> 、 1
+344 345 <eps> 参照 1
+345 0 <eps> 番号 1
+0 347 a 0.709084062828<eps>
+348 349 reference 1<eps>
+349 350 numeral 1<eps>
+350 351 <eps> なお 1
+351 0 <eps> 、 1
+0 353 a 0.117364863295<eps>
+354 355 reference 1<eps>
+355 356 numeral 1<eps>
+356 357 <eps> る 1
+357 0 <eps> 符号 1
+0 359 reference 0.294595408008<eps>
+360 361 numeral 1<eps>
+361 362 49 1<eps>
+362 363 <eps> 符号 1
+363 0 <eps> ４９ 1

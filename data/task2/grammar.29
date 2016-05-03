@@ -1,1705 +1,1705 @@
-0 0 if そして
-0 0 if また
-0 0 if この
-0 1 if <eps>
-2 3 <eps> この
-3 0 <eps> とき
-0 0 if と
-0 0 if これ
-0 0 if 場合
-0 0 if 判別
-0 0 if とき
-0 0 if じ
-0 0 if ば
-0 0 if if
-0 0 if なら
-0 5 if <eps>
-6 7 <eps> すれ
-7 0 <eps> ば
-0 0 if さて
-0 9 if <eps>
-10 11 <eps> けれ
-11 0 <eps> ば
-0 0 if 仮
-0 0 if ｉｆ
-0 0 the 、
-0 0 the た
-0 0 the （
-0 0 the その
-0 0 the の
-0 0 the は
-0 13 the <eps>
-14 15 <eps> は
-15 0 <eps> 、
-0 17 the <eps>
-18 19 <eps> は
-19 0 <eps> この
-0 21 the <eps>
-22 23 <eps> また
-23 0 <eps> 、
-0 25 the <eps>
-26 27 <eps> なお
-27 0 <eps> 、
-0 0 the この
-0 0 the 前記
-0 0 the する
-0 0 the ア
-0 0 the 本
-0 0 the 各
-0 0 the 尚
-0 0 remaining た
-0 29 remaining <eps>
-30 31 <eps> た
-31 0 <eps> 残
-0 33 remaining <eps>
-34 35 <eps> その
-35 0 <eps> 他
-0 0 remaining 次いで
-0 0 remaining の
-0 37 remaining <eps>
-38 39 <eps> の
-39 0 <eps> 他
-0 41 remaining <eps>
-42 43 <eps> の
-43 0 <eps> 残
-0 45 remaining <eps>
-46 47 <eps> の
-47 0 <eps> 残り
-0 49 remaining <eps>
-50 51 <eps> それ
-51 0 <eps> 以外
-0 0 remaining 以下
-0 0 remaining 他
-0 53 remaining <eps>
-54 55 <eps> 他
-55 0 <eps> の
-0 0 remaining 以外
-0 57 remaining <eps>
-58 59 <eps> 以外
-59 0 <eps> の
-0 0 remaining うち
-0 61 remaining <eps>
-62 63 <eps> 転写
-63 0 <eps> 残り
-0 65 remaining <eps>
-66 67 <eps> 時点
-67 0 <eps> の
-0 0 remaining 残
-0 69 remaining <eps>
-70 71 <eps> 残
-71 0 <eps> っ
-0 73 remaining <eps>
-74 75 <eps> 残
-75 76 <eps> っ
-76 0 <eps> た
-0 78 remaining <eps>
-79 80 <eps> 残
-80 81 <eps> さ
-81 82 <eps> れ
-82 0 <eps> た
-0 0 remaining 残留
-0 0 remaining 残存
-0 84 remaining <eps>
-85 86 <eps> 残存
-86 87 <eps> し
-87 0 <eps> た
-0 89 remaining <eps>
-90 91 <eps> 残存
-91 0 <eps> 残
-0 0 remaining 残り
-0 93 remaining <eps>
-94 95 <eps> 残り
-95 0 <eps> の
-0 0 remaining 余剰
-0 0 remaining 残余
-0 0 remaining 残量
-0 0 remaining 滞留
-0 0 remaining 溜ま
-0 0 nop nop
-0 0 nop ｎｏｐ
-0 0 nop 命令
-0 0 instructions ため
-0 0 instructions から
-0 97 instructions <eps>
-98 99 <eps> から
-99 0 <eps> 命令
-0 101 instructions <eps>
-102 103 <eps> 操作
-103 0 <eps> 指示
-0 0 instructions 指定
-0 0 instructions 並べ
-0 0 instructions 指令
-0 0 instructions 命令
-0 105 instructions <eps>
-106 107 <eps> 命令
-107 0 <eps> 操作
-0 0 instructions 指示
-0 109 instructions <eps>
-110 111 <eps> 指示
-111 0 <eps> 通り
-0 0 instructions 至
-0 0 instructions インストラクション
-0 0 is の
-0 0 is は
-0 0 is に
-0 0 is も
-0 0 is が
-0 0 is あ
-0 0 is を
-0 0 is れ
-0 0 in そして
-0 0 in の
-0 0 in また
-0 0 in で
-0 0 in し
-0 0 in に
-0 113 in <eps>
-114 115 <eps> に
-115 0 <eps> おけ
-0 117 in <eps>
-118 119 <eps> に
-119 120 <eps> お
-120 0 <eps> い
-0 0 in い
-0 0 in を
-0 122 in <eps>
-123 124 <eps> 場合
-124 0 <eps> に
-0 0 in 中
-0 126 in <eps>
-127 128 <eps> 中
-128 0 <eps> に
-0 0 in 内
-0 130 in <eps>
-131 132 <eps> 内
-132 0 <eps> で
-0 134 in <eps>
-135 136 <eps> 内
-136 0 <eps> に
-0 138 in <eps>
-139 140 <eps> お
-140 0 <eps> い
-0 0 in さ
-0 0 in 方向
-0 142 in <eps>
-143 144 <eps> 際
-144 0 <eps> に
-0 0 excess な
-0 0 excess 以上
-0 146 excess <eps>
-147 148 <eps> 内
-148 149 <eps> の
-149 0 <eps> 余剰
-0 151 excess <eps>
-152 153 <eps> 必要
-153 0 <eps> 以上
-0 155 excess <eps>
-156 157 <eps> 程度
-157 0 <eps> 以上
-0 0 excess 過
-0 0 excess 余剰
-0 159 excess <eps>
-160 161 <eps> 余剰
-161 0 <eps> な
-0 163 excess <eps>
-164 165 <eps> 余剰
-165 0 <eps> 分
-0 0 excess 過剰
-0 167 excess <eps>
-168 169 <eps> 過剰
-169 0 <eps> な
-0 0 excess 超え
-0 0 excess 過ぎ
-0 0 excess 超過
-0 0 excess 越え
-0 0 excess 余分
-0 171 excess <eps>
-172 173 <eps> 余分
-173 0 <eps> な
-0 175 excess <eps>
-176 177 <eps> 余
-177 0 <eps> 長
-0 0 excess 過大
-0 179 excess <eps>
-180 181 <eps> 過大
-181 0 <eps> な
-0 0 excess 過度
-0 183 excess <eps>
-184 185 <eps> 過度
-185 0 <eps> な
-0 0 of の
-0 0 of は
-0 0 of に
-0 187 of <eps>
-188 189 <eps> に
-189 0 <eps> おけ
-0 0 of も
-0 0 of が
-0 0 of を
-0 0 &quot; と
-0 0 &quot; ａ
-0 0 &quot; ）
-0 0 &quot; 「
-0 0 &quot; 」
-0 0 &quot; “
-0 0 &quot; ”
-0 0 &quot; ″
-0 0 &quot; 閉
-0 0 &quot; "
-0 0 &quot; ’
-0 0 7 7
-0 191 7 <eps>
-192 193 <eps> もの
-193 0 <eps> で
-0 0 7 ９
-0 0 7 ５
-0 0 7 ３
-0 0 7 す
-0 0 7 ６
-0 0 7 示
-0 0 7 ７
-0 0 7 rp
-0 0 , 、
-0 0 , で
-0 0 , と
-0 0 , に
-0 0 , が
-0 0 , ，
-0 0 similar の
-0 195 similar <eps>
-196 197 <eps> の
-197 198 <eps> 場合
-198 199 <eps> と
-199 0 <eps> 同様
-0 201 similar <eps>
-202 203 <eps> で
-203 204 <eps> も
-204 205 <eps> 同様
-205 0 <eps> の
-0 207 similar <eps>
-208 209 <eps> で
-209 210 <eps> 同じ
-210 211 <eps> で
-211 0 <eps> あ
-0 0 similar と
-0 213 similar <eps>
-214 215 <eps> と
-215 0 <eps> 同様
-0 217 similar <eps>
-218 219 <eps> と
-219 220 <eps> 同様
-220 0 <eps> の
-0 222 similar <eps>
-223 224 <eps> と
-224 225 <eps> 同様
-225 226 <eps> で
-226 0 <eps> あ
-0 228 similar <eps>
-229 230 <eps> と
-230 231 <eps> 同様
-231 0 <eps> な
-0 233 similar <eps>
-234 235 <eps> と
-235 236 <eps> 同様
-236 237 <eps> な
-237 0 <eps> 構成
-0 239 similar <eps>
-240 241 <eps> と
-241 242 <eps> 同一
-242 243 <eps> で
-243 0 <eps> あ
-0 245 similar <eps>
-246 247 <eps> と
-247 0 <eps> 同じ
-0 249 similar <eps>
-250 251 <eps> と
-251 252 <eps> 全く
-252 253 <eps> 同様
-253 0 <eps> な
-0 0 similar な
-0 0 similar も
-0 255 similar <eps>
-256 257 <eps> も
-257 0 <eps> 同様
-0 259 similar <eps>
-260 261 <eps> も
-261 262 <eps> 同様
-262 0 <eps> の
-0 264 similar <eps>
-265 266 <eps> も
-266 267 <eps> 同様
-267 268 <eps> で
-268 0 <eps> あ
-0 270 similar <eps>
-271 272 <eps> も
-272 273 <eps> 同様
-273 0 <eps> な
-0 275 similar <eps>
-276 277 <eps> 場合
-277 278 <eps> と
-278 279 <eps> 同様
-279 0 <eps> で
-0 281 similar <eps>
-282 283 <eps> 場合
-283 284 <eps> と
-284 285 <eps> 同様
-285 0 <eps> な
-0 287 similar <eps>
-288 289 <eps> 場合
-289 290 <eps> と
-290 291 <eps> 同じ
-291 0 <eps> で
-0 0 similar 同様
-0 293 similar <eps>
-294 295 <eps> 同様
-295 0 <eps> の
-0 297 similar <eps>
-298 299 <eps> 同様
-299 300 <eps> で
-300 0 <eps> あ
-0 302 similar <eps>
-303 304 <eps> 同様
-304 0 <eps> な
-0 306 similar <eps>
-307 308 <eps> 同一
-308 0 <eps> の
-0 0 similar 同じ
-0 310 similar <eps>
-311 312 <eps> 同じ
-312 313 <eps> で
-313 0 <eps> あ
-0 315 similar <eps>
-316 317 <eps> 同
-317 318 <eps> 程度
-318 319 <eps> で
-319 0 <eps> あ
-0 321 similar <eps>
-322 323 <eps> 同等
-323 0 <eps> の
-0 0 similar 類似
-0 0 process に
-0 0 process 時
-0 0 process 方法
-0 0 process 動作
-0 0 process 工程
-0 0 process 処理
-0 325 process <eps>
-326 327 <eps> 処理
-327 0 <eps> 工程
-0 329 process <eps>
-330 331 <eps> 処理
-331 0 <eps> フロー
-0 0 process 過程
-0 0 process 行程
-0 0 process ）
-0 0 process 行
-0 0 process 法
-0 0 process 手順
-0 0 process 加工
-0 0 process プロセス
-0 333 process <eps>
-334 335 <eps> プロセス
-335 0 <eps> 工程
-0 337 process <eps>
-338 339 <eps> 製造
-339 0 <eps> 方法
-0 0 process 密封
-0 0 as as
-0 0 as で
-0 0 as よう
-0 0 as と
-0 341 as <eps>
-342 343 <eps> と
-343 344 <eps> な
-344 345 <eps> っ
-345 0 <eps> て
-0 347 as <eps>
-348 349 <eps> と
-349 350 <eps> し
-350 0 <eps> て
-0 0 as て
-0 0 as し
-0 0 as に
-0 0 as ごと
-0 0 above た
-0 0 above の
-0 352 above <eps>
-353 354 <eps> の
-354 355 <eps> 上方
-355 0 <eps> に
-0 357 above <eps>
-358 359 <eps> の
-359 0 <eps> 上側
-0 361 above <eps>
-362 363 <eps> の
-363 364 <eps> 上側
-364 0 <eps> に
-0 0 above よう
-0 366 above <eps>
-367 368 <eps> よう
-368 0 <eps> な
-0 0 above な
-0 0 above 前記
-0 370 above <eps>
-371 372 <eps> 前記
-372 373 <eps> し
-373 0 <eps> た
-0 0 above し
-0 375 above <eps>
-376 377 <eps> し
-377 0 <eps> た
-0 379 above <eps>
-380 381 <eps> より
-381 382 <eps> 上側
-382 0 <eps> の
-0 384 above <eps>
-385 386 <eps> より
-386 0 <eps> 上部
-0 0 above 以上
-0 388 above <eps>
-389 390 <eps> 以上
-390 0 <eps> の
-0 392 above <eps>
-393 394 <eps> 以上
-394 395 <eps> 説明
-395 396 <eps> し
-396 0 <eps> た
-0 0 above 他
-0 398 above <eps>
-399 400 <eps> ら
-400 0 <eps> の
-0 0 above 上記
-0 0 above 前述
-0 402 above <eps>
-403 404 <eps> 前述
-404 0 <eps> の
-0 406 above <eps>
-407 408 <eps> 前述
-408 409 <eps> し
-409 0 <eps> た
-0 0 above 上方
-0 0 above 上
-0 0 above 上部
-0 0 above 上述
-0 411 above <eps>
-412 413 <eps> 上述
-413 414 <eps> の
-414 415 <eps> よう
-415 0 <eps> な
-0 417 above <eps>
-418 419 <eps> 上述
-419 420 <eps> し
-420 0 <eps> た
-0 422 repeated <eps>
-423 424 <eps> な
-424 425 <eps> さ
-425 0 <eps> れ
-0 427 repeated <eps>
-428 429 <eps> し
-429 430 <eps> て
-430 431 <eps> 繰り返し
-431 432 <eps> 行
-432 0 <eps> う
-0 434 repeated <eps>
-435 436 <eps> 動作
-436 437 <eps> で
-437 438 <eps> 繰り返し
-438 439 <eps> 行
-439 440 <eps> う
-440 0 <eps> こと
-0 442 repeated <eps>
-443 444 <eps> さ
-444 0 <eps> れ
-0 0 repeated 制御
-0 0 repeated 同様
-0 446 repeated <eps>
-447 448 <eps> 終了
-448 0 <eps> し
-0 0 repeated 繰り返
-0 450 repeated <eps>
-451 452 <eps> 繰り返
-452 0 <eps> し
-0 454 repeated <eps>
-455 456 <eps> 繰り返
-456 457 <eps> し
-457 458 <eps> て
-458 459 <eps> 行
-459 0 <eps> う
-0 461 repeated <eps>
-462 463 <eps> 繰り返
-463 464 <eps> し
-464 0 <eps> ながら
-0 466 repeated <eps>
-467 468 <eps> 繰り返
-468 469 <eps> し
-469 470 <eps> 行な
-470 471 <eps> わ
-471 0 <eps> れ
-0 473 repeated <eps>
-474 475 <eps> 繰り返
-475 0 <eps> さ
-0 477 repeated <eps>
-478 479 <eps> 繰り返
-479 480 <eps> さ
-480 0 <eps> れ
-0 482 repeated <eps>
-483 484 <eps> 繰り返
-484 0 <eps> す
-0 486 repeated <eps>
-487 488 <eps> 繰り返
-488 489 <eps> す
-489 0 <eps> こと
-0 491 repeated <eps>
-492 493 <eps> 繰返
-493 0 <eps> し
-0 495 repeated <eps>
-496 497 <eps> 繰返
-497 498 <eps> し
-498 0 <eps> ながら
-0 500 repeated <eps>
-501 502 <eps> 繰返
-502 0 <eps> さ
-0 504 repeated <eps>
-505 506 <eps> 繰返
-506 507 <eps> さ
-507 0 <eps> れ
-0 509 repeated <eps>
-510 511 <eps> 繰返
-511 0 <eps> す
-0 0 repeated 繰り返し
-0 513 repeated <eps>
-514 515 <eps> 繰り返し
-515 0 <eps> 行
-0 517 repeated <eps>
-518 519 <eps> 繰り返し
-519 520 <eps> 行
-520 521 <eps> わ
-521 0 <eps> れ
-0 523 repeated <eps>
-524 525 <eps> 繰り返し
-525 0 <eps> 実行
-0 527 repeated <eps>
-528 529 <eps> 繰り返し
-529 530 <eps> 実行
-530 531 <eps> さ
-531 0 <eps> れ
-0 0 repeated 繰返し
-0 533 repeated <eps>
-534 535 <eps> 繰返し
-535 0 <eps> 行
-0 537 repeated <eps>
-538 539 <eps> 繰返し
-539 540 <eps> 実行
-540 541 <eps> さ
-541 0 <eps> れ
-0 543 repeated <eps>
-544 545 <eps> 反復
-545 546 <eps> さ
-546 0 <eps> れ
-0 548 . <eps>
-549 550 <eps> た
-550 0 <eps> 。
-0 552 . <eps>
-553 554 <eps> する
-554 0 <eps> 。
-0 0 . 。
-0 556 . <eps>
-557 558 <eps> い
-558 0 <eps> 。
-0 560 . <eps>
-561 562 <eps> い
-562 563 <eps> る
-563 0 <eps> 。
-0 565 . <eps>
-566 567 <eps> い
-567 568 <eps> く
-568 0 <eps> 。
-0 0 . る
-0 570 . <eps>
-571 572 <eps> る
-572 0 <eps> 。
-0 574 . <eps>
-575 576 <eps> う
-576 0 <eps> 。
-0 578 . <eps>
-579 580 <eps> あ
-580 581 <eps> る
-581 0 <eps> 。
-0 583 if <eps>
-584 585 the <eps>
-585 586 <eps> た
-586 0 <eps> 場合
-0 588 if <eps>
-589 590 the <eps>
-590 591 <eps> た
-591 592 <eps> 場合
-592 0 <eps> は
-0 594 if <eps>
-595 596 the <eps>
-596 0 <eps> そして
-0 598 if <eps>
-599 600 the <eps>
-600 601 <eps> の
-601 0 <eps> 場合
-0 603 if <eps>
-604 605 the <eps>
-605 606 <eps> また
-606 0 <eps> 、
-0 608 if <eps>
-609 610 the <eps>
-610 611 <eps> また
-611 612 <eps> 、
-612 0 <eps> その
-0 614 if <eps>
-615 616 the <eps>
-616 0 <eps> さらに
-0 618 if <eps>
-619 620 the <eps>
-620 621 <eps> なお
-621 0 <eps> 、
-0 623 if <eps>
-624 625 the <eps>
-625 0 <eps> この
-0 627 if <eps>
-628 629 the <eps>
-629 630 <eps> する
-630 0 <eps> 場合
-0 632 if <eps>
-633 634 the <eps>
-634 635 <eps> ここ
-635 636 <eps> で
-636 0 <eps> 、
-0 638 if <eps>
-639 640 the <eps>
-640 641 <eps> 一方
-641 0 <eps> 、
-0 643 if <eps>
-644 645 the <eps>
-645 646 <eps> ば
-646 0 <eps> 、
-0 648 if <eps>
-649 650 the <eps>
-650 0 <eps> 該
-0 652 if <eps>
-653 654 the <eps>
-654 0 <eps> 仮
-0 656 if <eps>
-657 658 the <eps>
-658 659 <eps> ただし
-659 0 <eps> 、
-0 661 the <eps>
-662 663 remaining <eps>
-663 664 <eps> 、
-664 665 <eps> その
-665 0 <eps> 他
-0 667 the <eps>
-668 669 remaining <eps>
-669 670 <eps> 、
-670 0 <eps> 他
-0 672 the <eps>
-673 674 remaining <eps>
-674 675 <eps> 、
-675 676 <eps> 他
-676 0 <eps> の
-0 678 the <eps>
-679 680 remaining <eps>
-680 681 <eps> 、
-681 0 <eps> 残
-0 683 the <eps>
-684 685 remaining <eps>
-685 686 <eps> 、
-686 687 <eps> 残
-687 0 <eps> っ
-0 689 the <eps>
-690 691 remaining <eps>
-691 692 <eps> 、
-692 693 <eps> 残
-693 694 <eps> っ
-694 0 <eps> た
-0 696 the <eps>
-697 698 remaining <eps>
-698 699 <eps> 、
-699 0 <eps> 残留
-0 701 the <eps>
-702 703 remaining <eps>
-703 704 <eps> 、
-704 0 <eps> 残り
-0 706 the <eps>
-707 708 remaining <eps>
-708 709 <eps> 、
-709 710 <eps> 残り
-710 0 <eps> の
-0 712 the <eps>
-713 714 remaining <eps>
-714 715 <eps> その
-715 0 <eps> 他
-0 717 the <eps>
-718 719 remaining <eps>
-719 720 <eps> その
-720 721 <eps> 他
-721 0 <eps> の
-0 723 the <eps>
-724 725 remaining <eps>
-725 726 <eps> その
-726 0 <eps> 残り
-0 728 the <eps>
-729 730 remaining <eps>
-730 731 <eps> の
-731 732 <eps> その
-732 0 <eps> 他
-0 734 the <eps>
-735 736 remaining <eps>
-736 737 <eps> の
-737 0 <eps> 残
-0 739 the <eps>
-740 741 remaining <eps>
-741 742 <eps> の
-742 0 <eps> 残留
-0 744 the <eps>
-745 746 remaining <eps>
-746 747 <eps> の
-747 0 <eps> 残存
-0 749 the <eps>
-750 751 remaining <eps>
-751 752 <eps> の
-752 0 <eps> 残り
-0 754 the <eps>
-755 756 remaining <eps>
-756 757 <eps> の
-757 758 <eps> 残り
-758 0 <eps> の
-0 760 the <eps>
-761 762 remaining <eps>
-762 763 <eps> は
-763 764 <eps> 、
-764 0 <eps> 残り
-0 766 the <eps>
-767 768 remaining <eps>
-768 769 <eps> は
-769 770 <eps> 他
-770 0 <eps> の
-0 772 the <eps>
-773 774 remaining <eps>
-774 775 <eps> また
-775 776 <eps> 、
-776 777 <eps> それ
-777 0 <eps> 以外
-0 779 the <eps>
-780 781 remaining <eps>
-781 782 <eps> また
-782 783 <eps> 、
-783 0 <eps> 残り
-0 785 the <eps>
-786 787 remaining <eps>
-787 788 <eps> なお
-788 789 <eps> 、
-789 0 <eps> 他
-0 791 the <eps>
-792 793 remaining <eps>
-793 794 <eps> この
-794 0 <eps> 残留
-0 796 the <eps>
-797 798 remaining <eps>
-798 799 <eps> この
-799 800 <eps> 残存
-800 801 <eps> し
-801 0 <eps> た
-0 803 the <eps>
-804 805 remaining <eps>
-805 806 <eps> これ
-806 0 <eps> 以外
-0 808 the <eps>
-809 810 remaining <eps>
-810 811 <eps> り
-811 812 <eps> 、
-812 0 <eps> 残り
-0 814 the <eps>
-815 816 remaining <eps>
-816 817 <eps> それ
-817 0 <eps> 以外
-0 819 the <eps>
-820 821 remaining <eps>
-821 822 <eps> それ
-822 823 <eps> 以外
-823 0 <eps> の
-0 825 the <eps>
-826 827 remaining <eps>
-827 828 <eps> 他
-828 0 <eps> の
-0 830 the <eps>
-831 832 remaining <eps>
-832 833 <eps> 当該
-833 0 <eps> 残存
-0 835 the <eps>
-836 837 remaining <eps>
-837 838 <eps> 以外
-838 839 <eps> の
-839 0 <eps> 点
-0 841 the <eps>
-842 843 remaining <eps>
-843 844 <eps> 残り
-844 0 <eps> の
-0 846 nop <eps>
-847 848 instructions <eps>
-848 849 <eps> ｎｏｐ
-849 0 <eps> 命令
-0 851 instructions <eps>
-852 853 is <eps>
-853 854 <eps> 命令
-854 0 <eps> が
-0 856 is <eps>
-857 858 in <eps>
-858 0 <eps> に
-0 860 is <eps>
-861 862 in <eps>
-862 863 <eps> に
-863 0 <eps> は
-0 865 is <eps>
-866 867 in <eps>
-867 868 <eps> が
-868 0 <eps> それ
-0 870 is <eps>
-871 872 in <eps>
-872 873 <eps> 中
-873 874 <eps> に
-874 0 <eps> は
-0 876 in <eps>
-877 878 excess <eps>
-878 879 <eps> 以上
-879 0 <eps> で
-0 881 in <eps>
-882 883 excess <eps>
-883 884 <eps> 以上
-884 0 <eps> に
-0 886 in <eps>
-887 888 excess <eps>
-888 889 <eps> 過剰
-889 0 <eps> に
-0 891 in <eps>
-892 893 excess <eps>
-893 894 <eps> 過剰
-894 895 <eps> に
-895 0 <eps> な
-0 897 in <eps>
-898 899 excess <eps>
-899 900 <eps> 越え
-900 901 <eps> て
-901 0 <eps> い
-0 903 in <eps>
-904 905 excess <eps>
-905 906 <eps> 余分
-906 0 <eps> に
-0 908 excess <eps>
-909 910 of <eps>
-910 911 <eps> の
-911 912 <eps> 余剰
-912 0 <eps> な
-0 914 excess <eps>
-915 916 of <eps>
-916 917 <eps> 以上
-917 0 <eps> の
-0 919 excess <eps>
-920 921 of <eps>
-921 922 <eps> 以上
-922 923 <eps> の
-923 0 <eps> 高温度
-0 925 excess <eps>
-926 927 of <eps>
-927 928 <eps> 以上
-928 0 <eps> を
-0 930 excess <eps>
-931 932 of <eps>
-932 933 <eps> を
-933 0 <eps> 超え
-0 935 excess <eps>
-936 937 of <eps>
-937 938 <eps> を
-938 0 <eps> 越え
-0 940 excess <eps>
-941 942 of <eps>
-942 943 <eps> 余剰
-943 0 <eps> の
-0 945 excess <eps>
-946 947 of <eps>
-947 948 <eps> 過剰
-948 0 <eps> の
-0 950 excess <eps>
-951 952 of <eps>
-952 953 <eps> 過剰
-953 0 <eps> に
-0 955 excess <eps>
-956 957 of <eps>
-957 958 <eps> 超過
-958 959 <eps> 分
-959 0 <eps> の
-0 961 of <eps>
-962 963 &quot; <eps>
-963 964 <eps> の
-964 0 <eps> 「
-0 966 of <eps>
-967 968 &quot; <eps>
-968 969 <eps> の
-969 0 <eps> ”
-0 971 of <eps>
-972 973 &quot; <eps>
-973 974 <eps> は
-974 0 <eps> 「
-0 976 of <eps>
-977 978 &quot; <eps>
-978 979 <eps> が
-979 0 <eps> 「
-0 981 of <eps>
-982 983 &quot; <eps>
-983 984 <eps> 」
-984 0 <eps> の
-0 986 &quot; <eps>
-987 988 7 <eps>
-988 989 <eps> 「
-989 0 <eps> ７
-0 991 &quot; <eps>
-992 993 7 <eps>
-993 994 <eps> ”
-994 0 <eps> ７
-0 996 7 <eps>
-997 998 , <eps>
-998 999 <eps> ７
-999 0 <eps> 、
-0 1001 7 <eps>
-1002 1003 , <eps>
-1003 1004 <eps> ７
-1004 0 <eps> で
-0 1006 7 <eps>
-1007 1008 , <eps>
-1008 1009 <eps> ７
-1009 0 <eps> と
-0 1011 7 <eps>
-1012 1013 , <eps>
-1013 1014 <eps> ７
-1014 0 <eps> に
-0 1016 7 <eps>
-1017 1018 , <eps>
-1018 1019 <eps> ７
-1019 0 <eps> を
-0 1021 7 <eps>
-1022 1023 , <eps>
-1023 1024 <eps> ７
-1024 0 <eps> ，
-0 1026 7 <eps>
-1027 1028 , <eps>
-1028 1029 <eps> ７
-1029 0 <eps> ・
-0 1031 7 <eps>
-1032 1033 , <eps>
-1033 1034 <eps> ７
-1034 0 <eps> など
-0 1036 7 <eps>
-1037 1038 , <eps>
-1038 1039 <eps> ７
-1039 0 <eps> 及び
-0 1041 7 <eps>
-1042 1043 , <eps>
-1043 1044 <eps> ７
-1044 0 <eps> および
-0 1046 , <eps>
-1047 1048 &quot; <eps>
-1048 1049 <eps> 、
-1049 0 <eps> 「
-0 1051 , <eps>
-1052 1053 &quot; <eps>
-1053 1054 <eps> 、
-1054 0 <eps> “
-0 1056 , <eps>
-1057 1058 &quot; <eps>
-1058 1059 <eps> 」
-1059 0 <eps> 、
-0 1061 , <eps>
-1062 1063 &quot; <eps>
-1063 1064 <eps> 」
-1064 0 <eps> で
-0 1066 , <eps>
-1067 1068 &quot; <eps>
-1068 1069 <eps> 」
-1069 0 <eps> と
-0 1071 , <eps>
-1072 1073 &quot; <eps>
-1073 1074 <eps> ”
-1074 0 <eps> 、
-0 1076 , <eps>
-1077 1078 &quot; <eps>
-1078 1079 <eps> ”
-1079 0 <eps> で
-0 1081 , <eps>
-1082 1083 &quot; <eps>
-1083 1084 <eps> ”
-1084 0 <eps> に
-0 1086 &quot; <eps>
-1087 1088 the <eps>
-1088 1089 <eps> と
-1089 0 <eps> 、
-0 1091 &quot; <eps>
-1092 1093 the <eps>
-1093 1094 <eps> 「
-1094 0 <eps> サブ
-0 1096 the <eps>
-1097 1098 similar <eps>
-1098 1099 <eps> 、
-1099 1100 <eps> 同様
-1100 0 <eps> の
-0 1102 the <eps>
-1103 1104 similar <eps>
-1104 1105 <eps> 、
-1105 1106 <eps> 同様
-1106 0 <eps> な
-0 1108 the <eps>
-1109 1110 similar <eps>
-1110 1111 <eps> 、
-1111 0 <eps> 同一
-0 1113 the <eps>
-1114 1115 similar <eps>
-1115 1116 <eps> 、
-1116 0 <eps> 類似
-0 1118 the <eps>
-1119 1120 similar <eps>
-1120 1121 <eps> た
-1121 1122 <eps> 同様
-1122 0 <eps> な
-0 1124 the <eps>
-1125 1126 similar <eps>
-1126 1127 <eps> は
-1127 1128 <eps> 類似
-1128 0 <eps> の
-0 1130 the <eps>
-1131 1132 similar <eps>
-1132 1133 <eps> また
-1133 1134 <eps> 、
-1134 1135 <eps> 同様
-1135 0 <eps> な
-0 1137 the <eps>
-1138 1139 similar <eps>
-1139 1140 <eps> で
-1140 1141 <eps> も
-1141 1142 <eps> 同様
-1142 0 <eps> の
-0 1144 the <eps>
-1145 1146 similar <eps>
-1146 1147 <eps> なお
-1147 1148 <eps> 、
-1148 1149 <eps> 同様
-1149 0 <eps> の
-0 1151 the <eps>
-1152 1153 similar <eps>
-1153 1154 <eps> り
-1154 1155 <eps> 、
-1155 1156 <eps> 同様
-1156 0 <eps> な
-0 1158 the <eps>
-1159 1160 similar <eps>
-1160 1161 <eps> も
-1161 1162 <eps> 、
-1162 0 <eps> 同様
-0 1164 the <eps>
-1165 1166 similar <eps>
-1166 1167 <eps> も
-1167 1168 <eps> 同様
-1168 0 <eps> の
-0 1170 the <eps>
-1171 1172 similar <eps>
-1172 1173 <eps> 同様
-1173 0 <eps> の
-0 1175 similar <eps>
-1176 1177 process <eps>
-1177 1178 <eps> 以下
-1178 1179 <eps> も
-1179 1180 <eps> 同様
-1180 1181 <eps> の
-1181 0 <eps> 工程
-0 1183 similar <eps>
-1184 1185 process <eps>
-1185 1186 <eps> 同様
-1186 1187 <eps> の
-1187 0 <eps> 処理
-0 1189 similar <eps>
-1190 1191 process <eps>
-1191 1192 <eps> 同様
-1192 1193 <eps> の
-1193 0 <eps> プロセス
-0 1195 similar <eps>
-1196 1197 process <eps>
-1197 1198 <eps> 同様
-1198 1199 <eps> な
-1199 0 <eps> 工程
-0 1201 similar <eps>
-1202 1203 process <eps>
-1203 1204 <eps> 同様
-1204 1205 <eps> な
-1205 0 <eps> 処理
-0 1207 similar <eps>
-1208 1209 process <eps>
-1209 1210 <eps> 略
-1210 1211 <eps> 同一
-1211 1212 <eps> の
-1212 0 <eps> 工程
-0 1214 process <eps>
-1215 1216 as <eps>
-1216 1217 <eps> 処理
-1217 0 <eps> と
-0 1219 process <eps>
-1220 1221 as <eps>
-1221 1222 <eps> 処理
-1222 0 <eps> を
-0 1224 process <eps>
-1225 1226 as <eps>
-1226 1227 <eps> 処理
-1227 1228 <eps> を
-1228 0 <eps> 実行
-0 1230 as <eps>
-1231 1232 above <eps>
-1232 1233 <eps> この
-1233 0 <eps> よう
-0 1235 as <eps>
-1236 1237 above <eps>
-1237 0 <eps> よう
-0 1239 as <eps>
-1240 1241 above <eps>
-1241 1242 <eps> よう
-1242 0 <eps> な
-0 1244 as <eps>
-1245 1246 above <eps>
-1246 1247 <eps> よう
-1247 1248 <eps> に
-1248 0 <eps> し
-0 1250 as <eps>
-1251 1252 above <eps>
-1252 1253 <eps> 前記
-1253 1254 <eps> の
-1254 0 <eps> よう
-0 1256 as <eps>
-1257 1258 above <eps>
-1258 1259 <eps> 前記
-1259 1260 <eps> の
-1260 1261 <eps> よう
-1261 0 <eps> に
-0 1263 as <eps>
-1264 1265 above <eps>
-1265 1266 <eps> 前記
-1266 0 <eps> と
-0 1268 as <eps>
-1269 1270 above <eps>
-1270 0 <eps> し
-0 1272 as <eps>
-1273 1274 above <eps>
-1274 1275 <eps> し
-1275 0 <eps> た
-0 1277 as <eps>
-1278 1279 above <eps>
-1279 1280 <eps> し
-1280 1281 <eps> た
-1281 1282 <eps> よう
-1282 0 <eps> な
-0 1284 as <eps>
-1285 1286 above <eps>
-1286 0 <eps> 以上
-0 1288 as <eps>
-1289 1290 above <eps>
-1290 1291 <eps> 以上
-1291 0 <eps> の
-0 1293 as <eps>
-1294 1295 above <eps>
-1295 1296 <eps> 以上
-1296 1297 <eps> の
-1297 0 <eps> よう
-0 1299 as <eps>
-1300 1301 above <eps>
-1301 1302 <eps> 以上
-1302 1303 <eps> の
-1303 1304 <eps> よう
-1304 0 <eps> な
-0 1306 as <eps>
-1307 1308 above <eps>
-1308 1309 <eps> 以上
-1309 1310 <eps> の
-1310 1311 <eps> よう
-1311 1312 <eps> に
-1312 0 <eps> し
-0 1314 as <eps>
-1315 1316 above <eps>
-1316 1317 <eps> 以上
-1317 1318 <eps> の
-1318 0 <eps> 様
-0 1320 as <eps>
-1321 1322 above <eps>
-1322 1323 <eps> 以上
-1323 1324 <eps> の
-1324 1325 <eps> 様
-1325 0 <eps> な
-0 1327 as <eps>
-1328 1329 above <eps>
-1329 1330 <eps> こう
-1330 0 <eps> し
-0 1332 as <eps>
-1333 1334 above <eps>
-1334 0 <eps> 上記
-0 1336 as <eps>
-1337 1338 above <eps>
-1338 1339 <eps> 上記
-1339 1340 <eps> の
-1340 0 <eps> よう
-0 1342 as <eps>
-1343 1344 above <eps>
-1344 1345 <eps> 上記
-1345 1346 <eps> の
-1346 1347 <eps> よう
-1347 0 <eps> な
-0 1349 as <eps>
-1350 1351 above <eps>
-1351 1352 <eps> 上記
-1352 1353 <eps> の
-1353 0 <eps> 様
-0 1355 as <eps>
-1356 1357 above <eps>
-1357 1358 <eps> 上記
-1358 1359 <eps> の
-1359 1360 <eps> 様
-1360 1361 <eps> に
-1361 0 <eps> な
-0 1363 as <eps>
-1364 1365 above <eps>
-1365 1366 <eps> 上記
-1366 1367 <eps> の
-1367 1368 <eps> 如
-1368 0 <eps> く
-0 1370 as <eps>
-1371 1372 above <eps>
-1372 1373 <eps> 上記
-1373 0 <eps> と
-0 1375 as <eps>
-1376 1377 above <eps>
-1377 1378 <eps> 上記
-1378 1379 <eps> と
-1379 1380 <eps> 同様
-1380 0 <eps> な
-0 1382 as <eps>
-1383 1384 above <eps>
-1384 0 <eps> 前述
-0 1386 as <eps>
-1387 1388 above <eps>
-1388 1389 <eps> 前述
-1389 0 <eps> の
-0 1391 as <eps>
-1392 1393 above <eps>
-1393 1394 <eps> 前述
-1394 0 <eps> と
-0 1396 as <eps>
-1397 1398 above <eps>
-1398 1399 <eps> 上述
-1399 1400 <eps> の
-1400 0 <eps> よう
-0 1402 as <eps>
-1403 1404 above <eps>
-1404 1405 <eps> 上述
-1405 1406 <eps> の
-1406 1407 <eps> 如
-1407 0 <eps> く
-0 1409 as <eps>
-1410 1411 above <eps>
-1411 1412 <eps> 上述
-1412 0 <eps> と
-0 1414 as <eps>
-1415 1416 above <eps>
-1416 1417 <eps> 上述
-1417 1418 <eps> し
-1418 0 <eps> た
-0 1420 as <eps>
-1421 1422 above <eps>
-1422 1423 <eps> 上述
-1423 1424 <eps> し
-1424 1425 <eps> た
-1425 1426 <eps> の
-1426 0 <eps> と
-0 1428 as <eps>
-1429 1430 above <eps>
-1430 1431 <eps> 上述
-1431 1432 <eps> し
-1432 1433 <eps> た
-1433 0 <eps> よう
-0 1435 above <eps>
-1436 1437 is <eps>
-1437 1438 <eps> は
-1438 0 <eps> 前述
-0 1440 above <eps>
-1441 1442 is <eps>
-1442 1443 <eps> よう
-1443 0 <eps> に
-0 1445 above <eps>
-1446 1447 is <eps>
-1447 1448 <eps> 以上
-1448 0 <eps> が
-0 1450 above <eps>
-1451 1452 is <eps>
-1452 1453 <eps> を
-1453 0 <eps> 上記
-0 1455 is <eps>
-1456 1457 repeated <eps>
-1457 1458 <eps> の
-1458 0 <eps> 繰り返し
-0 1460 is <eps>
-1461 1462 repeated <eps>
-1462 1463 <eps> に
-1463 0 <eps> 繰返し
-0 1465 is <eps>
-1466 1467 repeated <eps>
-1467 1468 <eps> が
-1468 1469 <eps> ，
-1469 1470 <eps> 繰り返
-1470 1471 <eps> さ
-1471 0 <eps> れ
-0 1473 is <eps>
-1474 1475 repeated <eps>
-1475 1476 <eps> が
-1476 1477 <eps> 繰り返
-1477 0 <eps> さ
-0 1479 is <eps>
-1480 1481 repeated <eps>
-1481 1482 <eps> が
-1482 1483 <eps> 繰り返
-1483 1484 <eps> さ
-1484 0 <eps> れ
-0 1486 is <eps>
-1487 1488 repeated <eps>
-1488 1489 <eps> が
-1489 1490 <eps> 繰返
-1490 1491 <eps> さ
-1491 0 <eps> れ
-0 1493 is <eps>
-1494 1495 repeated <eps>
-1495 1496 <eps> が
-1496 1497 <eps> 繰り返し
-1497 1498 <eps> 行
-1498 1499 <eps> わ
-1499 0 <eps> れ
-0 1501 is <eps>
-1502 1503 repeated <eps>
-1503 1504 <eps> が
-1504 1505 <eps> 繰返し
-1505 1506 <eps> 行な
-1506 1507 <eps> わ
-1507 0 <eps> れ
-0 1509 is <eps>
-1510 1511 repeated <eps>
-1511 1512 <eps> を
-1512 1513 <eps> 行
-1513 0 <eps> う
-0 1515 is <eps>
-1516 1517 repeated <eps>
-1517 1518 <eps> を
-1518 1519 <eps> 繰り返
-1519 0 <eps> し
-0 1521 is <eps>
-1522 1523 repeated <eps>
-1523 1524 <eps> を
-1524 1525 <eps> 繰り返
-1525 0 <eps> さ
-0 1527 is <eps>
-1528 1529 repeated <eps>
-1529 1530 <eps> を
-1530 1531 <eps> 繰り返
-1531 0 <eps> す
-0 1533 is <eps>
-1534 1535 repeated <eps>
-1535 1536 <eps> を
-1536 1537 <eps> 繰り返
-1537 1538 <eps> す
-1538 0 <eps> こと
-0 1540 is <eps>
-1541 1542 repeated <eps>
-1542 1543 <eps> を
-1543 1544 <eps> 繰返
-1544 0 <eps> し
-0 1546 is <eps>
-1547 1548 repeated <eps>
-1548 1549 <eps> を
-1549 1550 <eps> 繰返
-1550 0 <eps> す
-0 1552 is <eps>
-1553 1554 repeated <eps>
-1554 1555 <eps> を
-1555 1556 <eps> 繰り返し
-1556 0 <eps> 行
-0 1558 is <eps>
-1559 1560 repeated <eps>
-1560 1561 <eps> を
-1561 1562 <eps> 繰り返し
-1562 0 <eps> 実行
-0 1564 is <eps>
-1565 1566 repeated <eps>
-1566 1567 <eps> を
-1567 1568 <eps> 再度
-1568 0 <eps> 行
-0 1570 is <eps>
-1571 1572 repeated <eps>
-1572 1573 <eps> 繰り返
-1573 1574 <eps> さ
-1574 0 <eps> れ
-0 1576 is <eps>
-1577 1578 repeated <eps>
-1578 1579 <eps> 順次
-1579 1580 <eps> 繰り返
-1580 1581 <eps> さ
-1581 1582 <eps> れ
-1582 1583 <eps> て
-1583 0 <eps> 行
-0 1585 repeated <eps>
-1586 1587 . <eps>
-1587 1588 <eps> 繰り返
-1588 1589 <eps> さ
-1589 1590 <eps> な
-1590 1591 <eps> い
-1591 0 <eps> 。
-0 1593 repeated <eps>
-1594 1595 . <eps>
-1595 1596 <eps> 繰り返
-1596 1597 <eps> さ
-1597 1598 <eps> れ
-1598 1599 <eps> る
-1599 0 <eps> 。
-0 1601 repeated <eps>
-1602 1603 . <eps>
-1603 1604 <eps> 繰り返
-1604 1605 <eps> す
-1605 0 <eps> 。
-0 1607 repeated <eps>
-1608 1609 . <eps>
-1609 1610 <eps> 繰返
-1610 1611 <eps> さ
-1611 1612 <eps> れ
-1612 1613 <eps> る
-1613 0 <eps> 。
-0 1615 repeated <eps>
-1616 1617 . <eps>
-1617 1618 <eps> 繰り返し
-1618 1619 <eps> 行
-1619 1620 <eps> う
-1620 0 <eps> 。
-0 1622 repeated <eps>
-1623 1624 . <eps>
-1624 1625 <eps> 繰り返し
-1625 1626 <eps> 実行
-1626 1627 <eps> さ
-1627 1628 <eps> れ
-1628 1629 <eps> る
-1629 0 <eps> 。
-0 1631 repeated <eps>
-1632 1633 . <eps>
-1633 1634 <eps> 繰返し
-1634 1635 <eps> 行な
-1635 1636 <eps> わ
-1636 1637 <eps> れ
-1637 1638 <eps> る
-1638 0 <eps> 。
-0 1640 repeated <eps>
-1641 1642 . <eps>
-1642 1643 <eps> 再度
-1643 1644 <eps> 実行
-1644 1645 <eps> する
-1645 0 <eps> 。
-0 1647 is <eps>
-1648 1649 in <eps>
-1649 1650 excess <eps>
-1650 1651 <eps> が
-1651 1652 <eps> 過剰
-1652 1653 <eps> に
-1653 0 <eps> な
-0 1655 in <eps>
-1656 1657 excess <eps>
-1657 1658 of <eps>
-1658 1659 <eps> 以上
-1659 0 <eps> で
-0 1661 in <eps>
-1662 1663 excess <eps>
-1663 1664 of <eps>
-1664 1665 <eps> を
-1665 0 <eps> 超え
-0 1667 in <eps>
-1668 1669 excess <eps>
-1669 1670 of <eps>
-1670 1671 <eps> を
-1671 1672 <eps> 越え
-1672 1673 <eps> て
-1673 0 <eps> い
-0 1675 , <eps>
-1676 1677 &quot; <eps>
-1677 1678 the <eps>
-1678 1679 <eps> 、
-1679 0 <eps> コイル
-0 1681 , <eps>
-1682 1683 &quot; <eps>
-1683 1684 the <eps>
-1684 1685 <eps> 」
-1685 0 <eps> 、
-0 1687 process <eps>
-1688 1689 as <eps>
-1689 1690 above <eps>
-1690 1691 <eps> 上述
-1691 1692 <eps> し
-1692 1693 <eps> た
-1693 0 <eps> 処理
-0 1695 as <eps>
-1696 1697 above <eps>
-1697 1698 is <eps>
-1698 1699 <eps> 以上
-1699 1700 <eps> の
-1700 1701 <eps> よう
-1701 1702 <eps> に
-1702 0 <eps> し
-0 1704 above <eps>
-1705 1706 is <eps>
-1706 1707 repeated <eps>
-1707 1708 <eps> も
-1708 0 <eps> 同様
-0 1710 is <eps>
-1711 1712 repeated <eps>
-1712 1713 . <eps>
-1713 1714 <eps> が
-1714 1715 <eps> 行
-1715 1716 <eps> わ
-1716 1717 <eps> れ
-1717 1718 <eps> る
-1718 0 <eps> 。
-0 1720 is <eps>
-1721 1722 repeated <eps>
-1722 1723 . <eps>
-1723 1724 <eps> が
-1724 1725 <eps> 繰り返
-1725 1726 <eps> さ
-1726 1727 <eps> れ
-1727 1728 <eps> る
-1728 0 <eps> 。
-0 1730 is <eps>
-1731 1732 repeated <eps>
-1732 1733 . <eps>
-1733 1734 <eps> が
-1734 1735 <eps> 繰返
-1735 1736 <eps> さ
-1736 1737 <eps> れ
-1737 1738 <eps> る
-1738 0 <eps> 。
-0 1740 is <eps>
-1741 1742 repeated <eps>
-1742 1743 . <eps>
-1743 1744 <eps> が
-1744 1745 <eps> 繰り返し
-1745 1746 <eps> 行
-1746 1747 <eps> わ
-1747 1748 <eps> れ
-1748 1749 <eps> る
-1749 0 <eps> 。
-0 1751 is <eps>
-1752 1753 repeated <eps>
-1753 1754 . <eps>
-1754 1755 <eps> が
-1755 1756 <eps> 繰り返し
-1756 1757 <eps> 実行
-1757 1758 <eps> さ
-1758 1759 <eps> れ
-1759 1760 <eps> る
-1760 0 <eps> 。
-0 1762 is <eps>
-1763 1764 repeated <eps>
-1764 1765 . <eps>
-1765 1766 <eps> が
-1766 1767 <eps> 繰返し
-1767 1768 <eps> 行な
-1768 1769 <eps> わ
-1769 1770 <eps> れ
-1770 1771 <eps> る
-1771 0 <eps> 。
-0 1773 is <eps>
-1774 1775 repeated <eps>
-1775 1776 . <eps>
-1776 1777 <eps> を
-1777 1778 <eps> 繰り返
-1778 1779 <eps> し
-1779 1780 <eps> 実施
-1780 1781 <eps> する
-1781 0 <eps> 。
-0 1783 is <eps>
-1784 1785 repeated <eps>
-1785 1786 . <eps>
-1786 1787 <eps> を
-1787 1788 <eps> 繰り返
-1788 1789 <eps> す
-1789 0 <eps> 。
-0 1791 is <eps>
-1792 1793 repeated <eps>
-1793 1794 . <eps>
-1794 1795 <eps> を
-1795 1796 <eps> 繰り返
-1796 1797 <eps> す
-1797 1798 <eps> こと
-1798 1799 <eps> と
-1799 1800 <eps> な
-1800 1801 <eps> る
-1801 0 <eps> 。
-0 1803 is <eps>
-1804 1805 repeated <eps>
-1805 1806 . <eps>
-1806 1807 <eps> を
-1807 1808 <eps> 繰り返し
-1808 1809 <eps> 実行
-1809 1810 <eps> する
-1810 0 <eps> 。
-0 1812 is <eps>
-1813 1814 repeated <eps>
-1814 1815 . <eps>
-1815 1816 <eps> を
-1816 1817 <eps> 繰返し
-1817 1818 <eps> 実行
-1818 1819 <eps> する
-1819 0 <eps> 。
-0 1821 is <eps>
-1822 1823 repeated <eps>
-1823 1824 . <eps>
-1824 1825 <eps> を
-1825 1826 <eps> 再度
-1826 1827 <eps> 行
-1827 1828 <eps> う
-1828 0 <eps> 。
-0 1830 is <eps>
-1831 1832 repeated <eps>
-1832 1833 . <eps>
-1833 1834 <eps> を
-1834 1835 <eps> 繰り返え
-1835 1836 <eps> す
-1836 0 <eps> 。
-0 1838 is <eps>
-1839 1840 repeated <eps>
-1840 1841 . <eps>
-1841 1842 <eps> 順次
-1842 1843 <eps> 繰り返
-1843 1844 <eps> さ
-1844 1845 <eps> れ
-1845 1846 <eps> て
-1846 1847 <eps> 行
-1847 1848 <eps> く
-1848 0 <eps> 。
-0 1850 process <eps>
-1851 1852 as <eps>
-1852 1853 above <eps>
-1853 1854 is <eps>
-1854 1855 <eps> 上述
-1855 1856 <eps> し
-1856 1857 <eps> た
-1857 1858 <eps> 処理
-1858 0 <eps> を
-0 1860 process <eps>
-1861 1862 as <eps>
-1862 1863 above <eps>
-1863 1864 is <eps>
-1864 1865 repeated <eps>
-1865 1866 <eps> 上述
-1866 1867 <eps> し
-1867 1868 <eps> た
-1868 1869 <eps> 処理
-1869 1870 <eps> を
-1870 1871 <eps> 繰り返し
-1871 0 <eps> 実行
+0 0 if そして -0.0196682362046
+0 0 if また 0.0451093165933
+0 0 if この 0.141765268699
+0 1 if 0.0766660440045<eps>
+2 3 <eps> この 1
+3 0 <eps> とき 1
+0 0 if と 0.354332430138
+0 0 if これ 0.18528292537
+0 0 if 場合 -0.360652621934
+0 0 if 判別 -0.00614356672166
+0 0 if とき -0.114022219819
+0 0 if じ 0.170295861806
+0 0 if ば -0.34251919332
+0 0 if if -0.175490268302
+0 0 if なら -0.118852041376
+0 5 if -0.157887706453<eps>
+6 7 <eps> すれ 1
+7 0 <eps> ば 1
+0 0 if さて 0.0818106991822
+0 9 if -0.146118990896<eps>
+10 11 <eps> けれ 1
+11 0 <eps> ば 1
+0 0 if 仮 -0.0775281706922
+0 0 if ｉｆ -0.202053628592
+0 0 the 、 -0.45570792646
+0 0 the た -0.208465539212
+0 0 the （ -0.117704129383
+0 0 the その -0.206772512672
+0 0 the の -0.355870618201
+0 0 the は -0.294741992565
+0 13 the -0.146584141045<eps>
+14 15 <eps> は 1
+15 0 <eps> 、 1
+0 17 the -0.101898660074<eps>
+18 19 <eps> は 1
+19 0 <eps> この 1
+0 21 the -0.22253113121<eps>
+22 23 <eps> また 1
+23 0 <eps> 、 1
+0 25 the -0.174570713376<eps>
+26 27 <eps> なお 1
+27 0 <eps> 、 1
+0 0 the この -0.257003566874
+0 0 the 前記 -0.294569102431
+0 0 the する -0.142730056144
+0 0 the ア -0.106215188445
+0 0 the 本 -0.129139414206
+0 0 the 各 -0.1248844912
+0 0 the 尚 -0.115858194859
+0 0 remaining た 0.300571440977
+0 29 remaining -0.0805360714998<eps>
+30 31 <eps> た 1
+31 0 <eps> 残 1
+0 33 remaining 0.00540352393507<eps>
+34 35 <eps> その 1
+35 0 <eps> 他 1
+0 0 remaining 次いで 0.306777260314
+0 0 remaining の 0.281137094627
+0 37 remaining 0.0888735522479<eps>
+38 39 <eps> の 1
+39 0 <eps> 他 1
+0 41 remaining -0.137145204676<eps>
+42 43 <eps> の 1
+43 0 <eps> 残 1
+0 45 remaining -0.142605233246<eps>
+46 47 <eps> の 1
+47 0 <eps> 残り 1
+0 49 remaining 0.194191787364<eps>
+50 51 <eps> それ 1
+51 0 <eps> 以外 1
+0 0 remaining 以下 0.500661425489
+0 0 remaining 他 -0.126957684328
+0 53 remaining -0.00248864689389<eps>
+54 55 <eps> 他 1
+55 0 <eps> の 1
+0 0 remaining 以外 0.0644003872668
+0 57 remaining 0.175027857002<eps>
+58 59 <eps> 以外 1
+59 0 <eps> の 1
+0 0 remaining うち 0.349091418652
+0 61 remaining -0.111924721806<eps>
+62 63 <eps> 転写 1
+63 0 <eps> 残り 1
+0 65 remaining 0.249897278089<eps>
+66 67 <eps> 時点 1
+67 0 <eps> の 1
+0 0 remaining 残 -0.382473343729
+0 69 remaining -0.227222560338<eps>
+70 71 <eps> 残 1
+71 0 <eps> っ 1
+0 73 remaining -0.101280147181<eps>
+74 75 <eps> 残 1
+75 76 <eps> っ 1
+76 0 <eps> た 1
+0 78 remaining 0.0188207811306<eps>
+79 80 <eps> 残 1
+80 81 <eps> さ 1
+81 82 <eps> れ 1
+82 0 <eps> た 1
+0 0 remaining 残留 -0.335154246565
+0 0 remaining 残存 -0.383178995288
+0 84 remaining -0.079725190088<eps>
+85 86 <eps> 残存 1
+86 87 <eps> し 1
+87 0 <eps> た 1
+0 89 remaining -0.108783966307<eps>
+90 91 <eps> 残存 1
+91 0 <eps> 残 1
+0 0 remaining 残り -0.40335699762
+0 93 remaining -0.319103701571<eps>
+94 95 <eps> 残り 1
+95 0 <eps> の 1
+0 0 remaining 余剰 0.127662088004
+0 0 remaining 残余 -0.113145177541
+0 0 remaining 残量 -0.297931660343
+0 0 remaining 滞留 -0.151721313794
+0 0 remaining 溜ま -0.0248259155899
+0 0 nop nop -0.210853115532
+0 0 nop ｎｏｐ -0.368718151498
+0 0 nop 命令 0.333921106143
+0 0 instructions ため 0.531761513694
+0 0 instructions から 0.405623223668
+0 97 instructions -0.0114699338523<eps>
+98 99 <eps> から 1
+99 0 <eps> 命令 1
+0 101 instructions 0.0497317277364<eps>
+102 103 <eps> 操作 1
+103 0 <eps> 指示 1
+0 0 instructions 指定 0.251932794543
+0 0 instructions 並べ 0.192301623209
+0 0 instructions 指令 -0.289244393904
+0 0 instructions 命令 -0.408983479127
+0 105 instructions -0.00973490365328<eps>
+106 107 <eps> 命令 1
+107 0 <eps> 操作 1
+0 0 instructions 指示 -0.328296893024
+0 109 instructions 0.0605379512941<eps>
+110 111 <eps> 指示 1
+111 0 <eps> 通り 1
+0 0 instructions 至 0.27223498738
+0 0 instructions インストラクション 0.041356481496
+0 0 is の 0.157334657056
+0 0 is は -0.465858193653
+0 0 is に 0.0442936779373
+0 0 is も -0.0137661115892
+0 0 is が -0.487189193631
+0 0 is あ 0.0660522679505
+0 0 is を -0.396937973338
+0 0 is れ -0.174262569825
+0 0 in そして -0.0176563169122
+0 0 in の 0.170328598929
+0 0 in また -0.0838323407317
+0 0 in で -0.29382026666
+0 0 in し -0.000468695842396
+0 0 in に -0.373482393351
+0 113 in -0.272569744943<eps>
+114 115 <eps> に 1
+115 0 <eps> おけ 1
+0 117 in -0.244087382082<eps>
+118 119 <eps> に 1
+119 120 <eps> お 1
+120 0 <eps> い 1
+0 0 in い -0.0948915886033
+0 0 in を 0.210013476726
+0 122 in -0.0455637824681<eps>
+123 124 <eps> 場合 1
+124 0 <eps> に 1
+0 0 in 中 -0.275651644832
+0 126 in -0.17301928118<eps>
+127 128 <eps> 中 1
+128 0 <eps> に 1
+0 0 in 内 -0.242078588657
+0 130 in -0.128777616597<eps>
+131 132 <eps> 内 1
+132 0 <eps> で 1
+0 134 in -0.182941272196<eps>
+135 136 <eps> 内 1
+136 0 <eps> に 1
+0 138 in -0.150153779752<eps>
+139 140 <eps> お 1
+140 0 <eps> い 1
+0 0 in さ -0.106324774727
+0 0 in 方向 -0.0118339154618
+0 142 in -0.031226498239<eps>
+143 144 <eps> 際 1
+144 0 <eps> に 1
+0 0 excess な 0.180663133373
+0 0 excess 以上 0.111948018386
+0 146 excess -0.0335581957697<eps>
+147 148 <eps> 内 1
+148 149 <eps> の 1
+149 0 <eps> 余剰 1
+0 151 excess 0.254649140426<eps>
+152 153 <eps> 必要 1
+153 0 <eps> 以上 1
+0 155 excess 0.356817563126<eps>
+156 157 <eps> 程度 1
+157 0 <eps> 以上 1
+0 0 excess 過 -0.1297423047
+0 0 excess 余剰 -0.416711440847
+0 159 excess -0.211903792614<eps>
+160 161 <eps> 余剰 1
+161 0 <eps> な 1
+0 163 excess -0.10184472545<eps>
+164 165 <eps> 余剰 1
+165 0 <eps> 分 1
+0 0 excess 過剰 -0.45176841706
+0 167 excess -0.258976444416<eps>
+168 169 <eps> 過剰 1
+169 0 <eps> な 1
+0 0 excess 超え -0.121925489825
+0 0 excess 過ぎ 0.139751527486
+0 0 excess 超過 -0.106845452217
+0 0 excess 越え 0.0251990534713
+0 0 excess 余分 -0.157525842227
+0 171 excess -0.236405236263<eps>
+172 173 <eps> 余分 1
+173 0 <eps> な 1
+0 175 excess 0.0627929410446<eps>
+176 177 <eps> 余 1
+177 0 <eps> 長 1
+0 0 excess 過大 -0.00198649560459
+0 179 excess 0.109275784459<eps>
+180 181 <eps> 過大 1
+181 0 <eps> な 1
+0 0 excess 過度 -0.0524738579879
+0 183 excess 0.0838171936151<eps>
+184 185 <eps> 過度 1
+185 0 <eps> な 1
+0 0 of の -0.505065654286
+0 0 of は 0.0654182536038
+0 0 of に -0.0924012985437
+0 187 of 0.0115473611867<eps>
+188 189 <eps> に 1
+189 0 <eps> おけ 1
+0 0 of も 0.173989172245
+0 0 of が -0.126725227108
+0 0 of を -0.277200859762
+0 0 &quot; と 0.250314920303
+0 0 &quot; ａ 0.23346867539
+0 0 &quot; ） 0.368260102168
+0 0 &quot; 「 -0.435575454656
+0 0 &quot; 」 -0.317152260528
+0 0 &quot; “ -0.386550261097
+0 0 &quot; ” -0.366938061922
+0 0 &quot; ″ -0.0834821800262
+0 0 &quot; 閉 0.0534236786758
+0 0 &quot; " -0.1496597661
+0 0 &quot; ’ 0.0924829329932
+0 0 7 7 -0.225379884155
+0 191 7 0.450603864333<eps>
+192 193 <eps> もの 1
+193 0 <eps> で 1
+0 0 7 ９ 0.26819734739
+0 0 7 ５ 0.191492340565
+0 0 7 ３ 0.310808729745
+0 0 7 す 0.434839522495
+0 0 7 ６ 0.0590658217187
+0 0 7 示 0.429313310599
+0 0 7 ７ -0.625000606953
+0 0 7 rp -0.159123291471
+0 0 , 、 -0.497848886036
+0 0 , で -0.310489347284
+0 0 , と -0.168412406005
+0 0 , に -0.324324367851
+0 0 , が 0.21318645909
+0 0 , ， -0.306017129731
+0 0 similar の 0.270733067753
+0 195 similar 0.0815428300874<eps>
+196 197 <eps> の 1
+197 198 <eps> 場合 1
+198 199 <eps> と 1
+199 0 <eps> 同様 1
+0 201 similar 0.0816525646683<eps>
+202 203 <eps> で 1
+203 204 <eps> も 1
+204 205 <eps> 同様 1
+205 0 <eps> の 1
+0 207 similar 0.237516752393<eps>
+208 209 <eps> で 1
+209 210 <eps> 同じ 1
+210 211 <eps> で 1
+211 0 <eps> あ 1
+0 0 similar と 0.0763706876097
+0 213 similar -0.271187588223<eps>
+214 215 <eps> と 1
+215 0 <eps> 同様 1
+0 217 similar -0.0447693156882<eps>
+218 219 <eps> と 1
+219 220 <eps> 同様 1
+220 0 <eps> の 1
+0 222 similar -0.0432820108534<eps>
+223 224 <eps> と 1
+224 225 <eps> 同様 1
+225 226 <eps> で 1
+226 0 <eps> あ 1
+0 228 similar -0.0360618690458<eps>
+229 230 <eps> と 1
+230 231 <eps> 同様 1
+231 0 <eps> な 1
+0 233 similar 0.0993820843494<eps>
+234 235 <eps> と 1
+235 236 <eps> 同様 1
+236 237 <eps> な 1
+237 0 <eps> 構成 1
+0 239 similar 0.279794012038<eps>
+240 241 <eps> と 1
+241 242 <eps> 同一 1
+242 243 <eps> で 1
+243 0 <eps> あ 1
+0 245 similar 0.0495437094079<eps>
+246 247 <eps> と 1
+247 0 <eps> 同じ 1
+0 249 similar 0.106463281187<eps>
+250 251 <eps> と 1
+251 252 <eps> 全く 1
+252 253 <eps> 同様 1
+253 0 <eps> な 1
+0 0 similar な 0.173696324178
+0 0 similar も 0.138055970213
+0 255 similar -0.0953586245584<eps>
+256 257 <eps> も 1
+257 0 <eps> 同様 1
+0 259 similar -0.0325983067732<eps>
+260 261 <eps> も 1
+261 262 <eps> 同様 1
+262 0 <eps> の 1
+0 264 similar 0.0870953945432<eps>
+265 266 <eps> も 1
+266 267 <eps> 同様 1
+267 268 <eps> で 1
+268 0 <eps> あ 1
+0 270 similar 0.0239762918196<eps>
+271 272 <eps> も 1
+272 273 <eps> 同様 1
+273 0 <eps> な 1
+0 275 similar 0.0851662317933<eps>
+276 277 <eps> 場合 1
+277 278 <eps> と 1
+278 279 <eps> 同様 1
+279 0 <eps> で 1
+0 281 similar 0.0902502767298<eps>
+282 283 <eps> 場合 1
+283 284 <eps> と 1
+284 285 <eps> 同様 1
+285 0 <eps> な 1
+0 287 similar 0.242239574675<eps>
+288 289 <eps> 場合 1
+289 290 <eps> と 1
+290 291 <eps> 同じ 1
+291 0 <eps> で 1
+0 0 similar 同様 -0.193423100621
+0 293 similar -0.239104142774<eps>
+294 295 <eps> 同様 1
+295 0 <eps> の 1
+0 297 similar -0.0588362334697<eps>
+298 299 <eps> 同様 1
+299 300 <eps> で 1
+300 0 <eps> あ 1
+0 302 similar -0.177680262769<eps>
+303 304 <eps> 同様 1
+304 0 <eps> な 1
+0 306 similar 0.147102767064<eps>
+307 308 <eps> 同一 1
+308 0 <eps> の 1
+0 0 similar 同じ 0.0365461657502
+0 310 similar 0.171133032901<eps>
+311 312 <eps> 同じ 1
+312 313 <eps> で 1
+313 0 <eps> あ 1
+0 315 similar 0.3892502999<eps>
+316 317 <eps> 同 1
+317 318 <eps> 程度 1
+318 319 <eps> で 1
+319 0 <eps> あ 1
+0 321 similar 0.0472102176277<eps>
+322 323 <eps> 同等 1
+323 0 <eps> の 1
+0 0 similar 類似 -0.19580969412
+0 0 process に 0.314352521851
+0 0 process 時 0.132145251994
+0 0 process 方法 -0.0971323810983
+0 0 process 動作 0.209102305824
+0 0 process 工程 -0.438878161479
+0 0 process 処理 -0.457357469972
+0 325 process -0.118914866159<eps>
+326 327 <eps> 処理 1
+327 0 <eps> 工程 1
+0 329 process -0.0539536306173<eps>
+330 331 <eps> 処理 1
+331 0 <eps> フロー 1
+0 0 process 過程 -0.249573133559
+0 0 process 行程 -0.132247298251
+0 0 process ） 0.306716734961
+0 0 process 行 0.162578270318
+0 0 process 法 -0.197764747655
+0 0 process 手順 0.000576941056059
+0 0 process 加工 -0.177737025777
+0 0 process プロセス -0.506740890183
+0 333 process -0.177336185563<eps>
+334 335 <eps> プロセス 1
+335 0 <eps> 工程 1
+0 337 process 0.0800088433724<eps>
+338 339 <eps> 製造 1
+339 0 <eps> 方法 1
+0 0 process 密封 0.0733582741982
+0 0 as as -0.109278612442
+0 0 as で 0.0421964965431
+0 0 as よう -0.262923613795
+0 0 as と -0.21340997456
+0 341 as 0.0886105365909<eps>
+342 343 <eps> と 1
+343 344 <eps> な 1
+344 345 <eps> っ 1
+345 0 <eps> て 1
+0 347 as -0.230058880856<eps>
+348 349 <eps> と 1
+349 350 <eps> し 1
+350 0 <eps> て 1
+0 0 as て -0.187201279986
+0 0 as し -0.0790220599403
+0 0 as に 0.181352785962
+0 0 as ごと -0.0423682292569
+0 0 above た -0.0305595906886
+0 0 above の 0.074610038054
+0 352 above -0.0319266842602<eps>
+353 354 <eps> の 1
+354 355 <eps> 上方 1
+355 0 <eps> に 1
+0 357 above 0.0587827401476<eps>
+358 359 <eps> の 1
+359 0 <eps> 上側 1
+0 361 above 0.127190849901<eps>
+362 363 <eps> の 1
+363 364 <eps> 上側 1
+364 0 <eps> に 1
+0 0 above よう -0.0872959892062
+0 366 above 0.0336926565981<eps>
+367 368 <eps> よう 1
+368 0 <eps> な 1
+0 0 above な 0.0405891625798
+0 0 above 前記 -0.0886539621133
+0 370 above 0.115638912381<eps>
+371 372 <eps> 前記 1
+372 373 <eps> し 1
+373 0 <eps> た 1
+0 0 above し -0.0764241403084
+0 375 above 0.0828082469461<eps>
+376 377 <eps> し 1
+377 0 <eps> た 1
+0 379 above 0.145650367407<eps>
+380 381 <eps> より 1
+381 382 <eps> 上側 1
+382 0 <eps> の 1
+0 384 above 0.0991852609092<eps>
+385 386 <eps> より 1
+386 0 <eps> 上部 1
+0 0 above 以上 -0.17846419411
+0 388 above -0.148837442444<eps>
+389 390 <eps> 以上 1
+390 0 <eps> の 1
+0 392 above 0.113360395308<eps>
+393 394 <eps> 以上 1
+394 395 <eps> 説明 1
+395 396 <eps> し 1
+396 0 <eps> た 1
+0 0 above 他 0.380931064906
+0 398 above 0.186010157199<eps>
+399 400 <eps> ら 1
+400 0 <eps> の 1
+0 0 above 上記 -0.31336564773
+0 0 above 前述 -0.148058130454
+0 402 above -0.133164964619<eps>
+403 404 <eps> 前述 1
+404 0 <eps> の 1
+0 406 above -0.0895571029397<eps>
+407 408 <eps> 前述 1
+408 409 <eps> し 1
+409 0 <eps> た 1
+0 0 above 上方 -0.269124601409
+0 0 above 上 -0.062570904564
+0 0 above 上部 0.0123176336503
+0 0 above 上述 -0.216193927404
+0 411 above 0.0323627557008<eps>
+412 413 <eps> 上述 1
+413 414 <eps> の 1
+414 415 <eps> よう 1
+415 0 <eps> な 1
+0 417 above -0.0369298244498<eps>
+418 419 <eps> 上述 1
+419 420 <eps> し 1
+420 0 <eps> た 1
+0 422 repeated 0.334212362092<eps>
+423 424 <eps> な 1
+424 425 <eps> さ 1
+425 0 <eps> れ 1
+0 427 repeated 0.138996906375<eps>
+428 429 <eps> し 1
+429 430 <eps> て 1
+430 431 <eps> 繰り返し 1
+431 432 <eps> 行 1
+432 0 <eps> う 1
+0 434 repeated 0.249178488944<eps>
+435 436 <eps> 動作 1
+436 437 <eps> で 1
+437 438 <eps> 繰り返し 1
+438 439 <eps> 行 1
+439 440 <eps> う 1
+440 0 <eps> こと 1
+0 442 repeated 0.261090868238<eps>
+443 444 <eps> さ 1
+444 0 <eps> れ 1
+0 0 repeated 制御 0.60650552016
+0 0 repeated 同様 0.324311227253
+0 446 repeated 0.359629878848<eps>
+447 448 <eps> 終了 1
+448 0 <eps> し 1
+0 0 repeated 繰り返 -0.20022916128
+0 450 repeated -0.333554594721<eps>
+451 452 <eps> 繰り返 1
+452 0 <eps> し 1
+0 454 repeated 0.0800882338888<eps>
+455 456 <eps> 繰り返 1
+456 457 <eps> し 1
+457 458 <eps> て 1
+458 459 <eps> 行 1
+459 0 <eps> う 1
+0 461 repeated -0.0366262585047<eps>
+462 463 <eps> 繰り返 1
+463 464 <eps> し 1
+464 0 <eps> ながら 1
+0 466 repeated 0.100049757081<eps>
+467 468 <eps> 繰り返 1
+468 469 <eps> し 1
+469 470 <eps> 行な 1
+470 471 <eps> わ 1
+471 0 <eps> れ 1
+0 473 repeated -0.360477961978<eps>
+474 475 <eps> 繰り返 1
+475 0 <eps> さ 1
+0 477 repeated -0.260656417793<eps>
+478 479 <eps> 繰り返 1
+479 480 <eps> さ 1
+480 0 <eps> れ 1
+0 482 repeated -0.386126179198<eps>
+483 484 <eps> 繰り返 1
+484 0 <eps> す 1
+0 486 repeated -0.130774968562<eps>
+487 488 <eps> 繰り返 1
+488 489 <eps> す 1
+489 0 <eps> こと 1
+0 491 repeated -0.118761732278<eps>
+492 493 <eps> 繰返 1
+493 0 <eps> し 1
+0 495 repeated -0.0234523809411<eps>
+496 497 <eps> 繰返 1
+497 498 <eps> し 1
+498 0 <eps> ながら 1
+0 500 repeated -0.314520225606<eps>
+501 502 <eps> 繰返 1
+502 0 <eps> さ 1
+0 504 repeated -0.105208018081<eps>
+505 506 <eps> 繰返 1
+506 507 <eps> さ 1
+507 0 <eps> れ 1
+0 509 repeated -0.120181942792<eps>
+510 511 <eps> 繰返 1
+511 0 <eps> す 1
+0 0 repeated 繰り返し -0.214216412284
+0 513 repeated -0.13992118599<eps>
+514 515 <eps> 繰り返し 1
+515 0 <eps> 行 1
+0 517 repeated 0.08004087593<eps>
+518 519 <eps> 繰り返し 1
+519 520 <eps> 行 1
+520 521 <eps> わ 1
+521 0 <eps> れ 1
+0 523 repeated -0.109794624147<eps>
+524 525 <eps> 繰り返し 1
+525 0 <eps> 実行 1
+0 527 repeated 0.0677869453894<eps>
+528 529 <eps> 繰り返し 1
+529 530 <eps> 実行 1
+530 531 <eps> さ 1
+531 0 <eps> れ 1
+0 0 repeated 繰返し -0.124480415442
+0 533 repeated -0.0501851891478<eps>
+534 535 <eps> 繰返し 1
+535 0 <eps> 行 1
+0 537 repeated 0.0846270187413<eps>
+538 539 <eps> 繰返し 1
+539 540 <eps> 実行 1
+540 541 <eps> さ 1
+541 0 <eps> れ 1
+0 543 repeated 0.15193248798<eps>
+544 545 <eps> 反復 1
+545 546 <eps> さ 1
+546 0 <eps> れ 1
+0 548 . -0.165590636545<eps>
+549 550 <eps> た 1
+550 0 <eps> 。 1
+0 552 . -0.351902222045<eps>
+553 554 <eps> する 1
+554 0 <eps> 。 1
+0 0 . 。 -0.515775233638
+0 556 . -0.312883881067<eps>
+557 558 <eps> い 1
+558 0 <eps> 。 1
+0 560 . -0.361382424588<eps>
+561 562 <eps> い 1
+562 563 <eps> る 1
+563 0 <eps> 。 1
+0 565 . -0.093884963298<eps>
+566 567 <eps> い 1
+567 568 <eps> く 1
+568 0 <eps> 。 1
+0 0 . る -0.255255753399
+0 570 . -0.491160770668<eps>
+571 572 <eps> る 1
+572 0 <eps> 。 1
+0 574 . -0.172312421892<eps>
+575 576 <eps> う 1
+576 0 <eps> 。 1
+0 578 . -0.291543170018<eps>
+579 580 <eps> あ 1
+580 581 <eps> る 1
+581 0 <eps> 。 1
+0 583 if -0.0171249032619<eps>
+584 585 the 1<eps>
+585 586 <eps> た 1
+586 0 <eps> 場合 1
+0 588 if 0.125586464848<eps>
+589 590 the 1<eps>
+590 591 <eps> た 1
+591 592 <eps> 場合 1
+592 0 <eps> は 1
+0 594 if 0.147908969171<eps>
+595 596 the 1<eps>
+596 0 <eps> そして 1
+0 598 if 0.0399167872769<eps>
+599 600 the 1<eps>
+600 601 <eps> の 1
+601 0 <eps> 場合 1
+0 603 if 0.203290954955<eps>
+604 605 the 1<eps>
+605 606 <eps> また 1
+606 0 <eps> 、 1
+0 608 if 0.283439383981<eps>
+609 610 the 1<eps>
+610 611 <eps> また 1
+611 612 <eps> 、 1
+612 0 <eps> その 1
+0 614 if 0.253794325327<eps>
+615 616 the 1<eps>
+616 0 <eps> さらに 1
+0 618 if 0.180147181057<eps>
+619 620 the 1<eps>
+620 621 <eps> なお 1
+621 0 <eps> 、 1
+0 623 if 0.151153955635<eps>
+624 625 the 1<eps>
+625 0 <eps> この 1
+0 627 if 0.0817441459256<eps>
+628 629 the 1<eps>
+629 630 <eps> する 1
+630 0 <eps> 場合 1
+0 632 if 0.259518923734<eps>
+633 634 the 1<eps>
+634 635 <eps> ここ 1
+635 636 <eps> で 1
+636 0 <eps> 、 1
+0 638 if 0.125818711693<eps>
+639 640 the 1<eps>
+640 641 <eps> 一方 1
+641 0 <eps> 、 1
+0 643 if -0.123686585301<eps>
+644 645 the 1<eps>
+645 646 <eps> ば 1
+646 0 <eps> 、 1
+0 648 if 0.23313619309<eps>
+649 650 the 1<eps>
+650 0 <eps> 該 1
+0 652 if 0.0318172688919<eps>
+653 654 the 1<eps>
+654 0 <eps> 仮 1
+0 656 if 0.222234685082<eps>
+657 658 the 1<eps>
+658 659 <eps> ただし 1
+659 0 <eps> 、 1
+0 661 the 0.207080209488<eps>
+662 663 remaining 1<eps>
+663 664 <eps> 、 1
+664 665 <eps> その 1
+665 0 <eps> 他 1
+0 667 the 0.0885605689237<eps>
+668 669 remaining 1<eps>
+669 670 <eps> 、 1
+670 0 <eps> 他 1
+0 672 the 0.124577481992<eps>
+673 674 remaining 1<eps>
+674 675 <eps> 、 1
+675 676 <eps> 他 1
+676 0 <eps> の 1
+0 678 the -0.0895910360508<eps>
+679 680 remaining 1<eps>
+680 681 <eps> 、 1
+681 0 <eps> 残 1
+0 683 the 0.0288942393597<eps>
+684 685 remaining 1<eps>
+685 686 <eps> 、 1
+686 687 <eps> 残 1
+687 0 <eps> っ 1
+0 689 the 0.100396538371<eps>
+690 691 remaining 1<eps>
+691 692 <eps> 、 1
+692 693 <eps> 残 1
+693 694 <eps> っ 1
+694 0 <eps> た 1
+0 696 the -0.0232207752741<eps>
+697 698 remaining 1<eps>
+698 699 <eps> 、 1
+699 0 <eps> 残留 1
+0 701 the -0.223671914687<eps>
+702 703 remaining 1<eps>
+703 704 <eps> 、 1
+704 0 <eps> 残り 1
+0 706 the -0.162626230079<eps>
+707 708 remaining 1<eps>
+708 709 <eps> 、 1
+709 710 <eps> 残り 1
+710 0 <eps> の 1
+0 712 the 0.0145469010055<eps>
+713 714 remaining 1<eps>
+714 715 <eps> その 1
+715 0 <eps> 他 1
+0 717 the 0.186904070502<eps>
+718 719 remaining 1<eps>
+719 720 <eps> その 1
+720 721 <eps> 他 1
+721 0 <eps> の 1
+0 723 the -0.0512039379973<eps>
+724 725 remaining 1<eps>
+725 726 <eps> その 1
+726 0 <eps> 残り 1
+0 728 the 0.234771222452<eps>
+729 730 remaining 1<eps>
+730 731 <eps> の 1
+731 732 <eps> その 1
+732 0 <eps> 他 1
+0 734 the -0.0140328711353<eps>
+735 736 remaining 1<eps>
+736 737 <eps> の 1
+737 0 <eps> 残 1
+0 739 the -0.0433969142601<eps>
+740 741 remaining 1<eps>
+741 742 <eps> の 1
+742 0 <eps> 残留 1
+0 744 the -0.0336483892125<eps>
+745 746 remaining 1<eps>
+746 747 <eps> の 1
+747 0 <eps> 残存 1
+0 749 the -0.0673600516558<eps>
+750 751 remaining 1<eps>
+751 752 <eps> の 1
+752 0 <eps> 残り 1
+0 754 the -0.0541815189987<eps>
+755 756 remaining 1<eps>
+756 757 <eps> の 1
+757 758 <eps> 残り 1
+758 0 <eps> の 1
+0 760 the -0.0293867779087<eps>
+761 762 remaining 1<eps>
+762 763 <eps> は 1
+763 764 <eps> 、 1
+764 0 <eps> 残り 1
+0 766 the 0.22978302055<eps>
+767 768 remaining 1<eps>
+768 769 <eps> は 1
+769 770 <eps> 他 1
+770 0 <eps> の 1
+0 772 the 0.385585769463<eps>
+773 774 remaining 1<eps>
+774 775 <eps> また 1
+775 776 <eps> 、 1
+776 777 <eps> それ 1
+777 0 <eps> 以外 1
+0 779 the -0.0139715689313<eps>
+780 781 remaining 1<eps>
+781 782 <eps> また 1
+782 783 <eps> 、 1
+783 0 <eps> 残り 1
+0 785 the 0.221972587205<eps>
+786 787 remaining 1<eps>
+787 788 <eps> なお 1
+788 789 <eps> 、 1
+789 0 <eps> 他 1
+0 791 the 0.0233862847498<eps>
+792 793 remaining 1<eps>
+793 794 <eps> この 1
+794 0 <eps> 残留 1
+0 796 the 0.125063508298<eps>
+797 798 remaining 1<eps>
+798 799 <eps> この 1
+799 800 <eps> 残存 1
+800 801 <eps> し 1
+801 0 <eps> た 1
+0 803 the 0.310262413004<eps>
+804 805 remaining 1<eps>
+805 806 <eps> これ 1
+806 0 <eps> 以外 1
+0 808 the -0.00710310434851<eps>
+809 810 remaining 1<eps>
+810 811 <eps> り 1
+811 812 <eps> 、 1
+812 0 <eps> 残り 1
+0 814 the 0.255670074998<eps>
+815 816 remaining 1<eps>
+816 817 <eps> それ 1
+817 0 <eps> 以外 1
+0 819 the 0.33219728674<eps>
+820 821 remaining 1<eps>
+821 822 <eps> それ 1
+822 823 <eps> 以外 1
+823 0 <eps> の 1
+0 825 the 0.0912228103482<eps>
+826 827 remaining 1<eps>
+827 828 <eps> 他 1
+828 0 <eps> の 1
+0 830 the -0.0477562698161<eps>
+831 832 remaining 1<eps>
+832 833 <eps> 当該 1
+833 0 <eps> 残存 1
+0 835 the 0.338823092378<eps>
+836 837 remaining 1<eps>
+837 838 <eps> 以外 1
+838 839 <eps> の 1
+839 0 <eps> 点 1
+0 841 the -0.115227203606<eps>
+842 843 remaining 1<eps>
+843 844 <eps> 残り 1
+844 0 <eps> の 1
+0 846 nop 0.0141570846106<eps>
+847 848 instructions 1<eps>
+848 849 <eps> ｎｏｐ 1
+849 0 <eps> 命令 1
+0 851 instructions 0.2190467972<eps>
+852 853 is 1<eps>
+853 854 <eps> 命令 1
+854 0 <eps> が 1
+0 856 is 0.257773069214<eps>
+857 858 in 1<eps>
+858 0 <eps> に 1
+0 860 is 0.0188929258825<eps>
+861 862 in 1<eps>
+862 863 <eps> に 1
+863 0 <eps> は 1
+0 865 is 0.158359017307<eps>
+866 867 in 1<eps>
+867 868 <eps> が 1
+868 0 <eps> それ 1
+0 870 is 0.0257784089328<eps>
+871 872 in 1<eps>
+872 873 <eps> 中 1
+873 874 <eps> に 1
+874 0 <eps> は 1
+0 876 in 0.525257754086<eps>
+877 878 excess 1<eps>
+878 879 <eps> 以上 1
+879 0 <eps> で 1
+0 881 in 0.521312461974<eps>
+882 883 excess 1<eps>
+883 884 <eps> 以上 1
+884 0 <eps> に 1
+0 886 in 0.0140969475697<eps>
+887 888 excess 1<eps>
+888 889 <eps> 過剰 1
+889 0 <eps> に 1
+0 891 in 0.150387999173<eps>
+892 893 excess 1<eps>
+893 894 <eps> 過剰 1
+894 895 <eps> に 1
+895 0 <eps> な 1
+0 897 in 0.483003692394<eps>
+898 899 excess 1<eps>
+899 900 <eps> 越え 1
+900 901 <eps> て 1
+901 0 <eps> い 1
+0 903 in 0.146634834522<eps>
+904 905 excess 1<eps>
+905 906 <eps> 余分 1
+906 0 <eps> に 1
+0 908 excess 0.0492999224347<eps>
+909 910 of 1<eps>
+910 911 <eps> の 1
+911 912 <eps> 余剰 1
+912 0 <eps> な 1
+0 914 excess 0.434860453083<eps>
+915 916 of 1<eps>
+916 917 <eps> 以上 1
+917 0 <eps> の 1
+0 919 excess 0.307280899819<eps>
+920 921 of 1<eps>
+921 922 <eps> 以上 1
+922 923 <eps> の 1
+923 0 <eps> 高温度 1
+0 925 excess 0.496278164302<eps>
+926 927 of 1<eps>
+927 928 <eps> 以上 1
+928 0 <eps> を 1
+0 930 excess 0.22486759433<eps>
+931 932 of 1<eps>
+932 933 <eps> を 1
+933 0 <eps> 超え 1
+0 935 excess 0.304325432547<eps>
+936 937 of 1<eps>
+937 938 <eps> を 1
+938 0 <eps> 越え 1
+0 940 excess -0.0140952056786<eps>
+941 942 of 1<eps>
+942 943 <eps> 余剰 1
+943 0 <eps> の 1
+0 945 excess -0.0908213369743<eps>
+946 947 of 1<eps>
+947 948 <eps> 過剰 1
+948 0 <eps> の 1
+0 950 excess 0.204650202267<eps>
+951 952 of 1<eps>
+952 953 <eps> 過剰 1
+953 0 <eps> に 1
+0 955 excess 0.217983983316<eps>
+956 957 of 1<eps>
+957 958 <eps> 超過 1
+958 959 <eps> 分 1
+959 0 <eps> の 1
+0 961 of -0.122568633238<eps>
+962 963 &quot; 1<eps>
+963 964 <eps> の 1
+964 0 <eps> 「 1
+0 966 of 0.00497364338806<eps>
+967 968 &quot; 1<eps>
+968 969 <eps> の 1
+969 0 <eps> ” 1
+0 971 of 0.195865211819<eps>
+972 973 &quot; 1<eps>
+973 974 <eps> は 1
+974 0 <eps> 「 1
+0 976 of 0.00372173110716<eps>
+977 978 &quot; 1<eps>
+978 979 <eps> が 1
+979 0 <eps> 「 1
+0 981 of 0.0177113606255<eps>
+982 983 &quot; 1<eps>
+983 984 <eps> 」 1
+984 0 <eps> の 1
+0 986 &quot; 0.00549677518779<eps>
+987 988 7 1<eps>
+988 989 <eps> 「 1
+989 0 <eps> ７ 1
+0 991 &quot; 0.158067823354<eps>
+992 993 7 1<eps>
+993 994 <eps> ” 1
+994 0 <eps> ７ 1
+0 996 7 -0.266648164098<eps>
+997 998 , 1<eps>
+998 999 <eps> ７ 1
+999 0 <eps> 、 1
+0 1001 7 -0.153993518908<eps>
+1002 1003 , 1<eps>
+1003 1004 <eps> ７ 1
+1004 0 <eps> で 1
+0 1006 7 0.0462352937211<eps>
+1007 1008 , 1<eps>
+1008 1009 <eps> ７ 1
+1009 0 <eps> と 1
+0 1011 7 -0.260361390719<eps>
+1012 1013 , 1<eps>
+1013 1014 <eps> ７ 1
+1014 0 <eps> に 1
+0 1016 7 0.311592542806<eps>
+1017 1018 , 1<eps>
+1018 1019 <eps> ７ 1
+1019 0 <eps> を 1
+0 1021 7 -0.2395047616<eps>
+1022 1023 , 1<eps>
+1023 1024 <eps> ７ 1
+1024 0 <eps> ， 1
+0 1026 7 0.0973830791863<eps>
+1027 1028 , 1<eps>
+1028 1029 <eps> ７ 1
+1029 0 <eps> ・ 1
+0 1031 7 0.00859283648562<eps>
+1032 1033 , 1<eps>
+1033 1034 <eps> ７ 1
+1034 0 <eps> など 1
+0 1036 7 0.0875815108583<eps>
+1037 1038 , 1<eps>
+1038 1039 <eps> ７ 1
+1039 0 <eps> 及び 1
+0 1041 7 0.12647393291<eps>
+1042 1043 , 1<eps>
+1043 1044 <eps> ７ 1
+1044 0 <eps> および 1
+0 1046 , -0.194220987063<eps>
+1047 1048 &quot; 1<eps>
+1048 1049 <eps> 、 1
+1049 0 <eps> 「 1
+0 1051 , -0.0988371146345<eps>
+1052 1053 &quot; 1<eps>
+1053 1054 <eps> 、 1
+1054 0 <eps> “ 1
+0 1056 , -0.0554494662799<eps>
+1057 1058 &quot; 1<eps>
+1058 1059 <eps> 」 1
+1059 0 <eps> 、 1
+0 1061 , -0.00249327797275<eps>
+1062 1063 &quot; 1<eps>
+1063 1064 <eps> 」 1
+1064 0 <eps> で 1
+0 1066 , 0.135201092238<eps>
+1067 1068 &quot; 1<eps>
+1068 1069 <eps> 」 1
+1069 0 <eps> と 1
+0 1071 , 0.0231750156244<eps>
+1072 1073 &quot; 1<eps>
+1073 1074 <eps> ” 1
+1074 0 <eps> 、 1
+0 1076 , 0.0282640519815<eps>
+1077 1078 &quot; 1<eps>
+1078 1079 <eps> ” 1
+1079 0 <eps> で 1
+0 1081 , 0.0941688157283<eps>
+1082 1083 &quot; 1<eps>
+1083 1084 <eps> ” 1
+1084 0 <eps> に 1
+0 1086 &quot; 0.360629406713<eps>
+1087 1088 the 1<eps>
+1088 1089 <eps> と 1
+1089 0 <eps> 、 1
+0 1091 &quot; 0.0188563424325<eps>
+1092 1093 the 1<eps>
+1093 1094 <eps> 「 1
+1094 0 <eps> サブ 1
+0 1096 the -0.120480209522<eps>
+1097 1098 similar 1<eps>
+1098 1099 <eps> 、 1
+1099 1100 <eps> 同様 1
+1100 0 <eps> の 1
+0 1102 the -0.0447744159028<eps>
+1103 1104 similar 1<eps>
+1104 1105 <eps> 、 1
+1105 1106 <eps> 同様 1
+1106 0 <eps> な 1
+0 1108 the 0.19465693569<eps>
+1109 1110 similar 1<eps>
+1110 1111 <eps> 、 1
+1111 0 <eps> 同一 1
+0 1113 the -0.0854952077085<eps>
+1114 1115 similar 1<eps>
+1115 1116 <eps> 、 1
+1116 0 <eps> 類似 1
+0 1118 the 0.137933885743<eps>
+1119 1120 similar 1<eps>
+1120 1121 <eps> た 1
+1121 1122 <eps> 同様 1
+1122 0 <eps> な 1
+0 1124 the 0.00786009196815<eps>
+1125 1126 similar 1<eps>
+1126 1127 <eps> は 1
+1127 1128 <eps> 類似 1
+1128 0 <eps> の 1
+0 1130 the 0.142334569396<eps>
+1131 1132 similar 1<eps>
+1132 1133 <eps> また 1
+1133 1134 <eps> 、 1
+1134 1135 <eps> 同様 1
+1135 0 <eps> な 1
+0 1137 the 0.156897746259<eps>
+1138 1139 similar 1<eps>
+1139 1140 <eps> で 1
+1140 1141 <eps> も 1
+1141 1142 <eps> 同様 1
+1142 0 <eps> の 1
+0 1144 the 0.136377860218<eps>
+1145 1146 similar 1<eps>
+1146 1147 <eps> なお 1
+1147 1148 <eps> 、 1
+1148 1149 <eps> 同様 1
+1149 0 <eps> の 1
+0 1151 the 0.149203033979<eps>
+1152 1153 similar 1<eps>
+1153 1154 <eps> り 1
+1154 1155 <eps> 、 1
+1155 1156 <eps> 同様 1
+1156 0 <eps> な 1
+0 1158 the 0.062823013802<eps>
+1159 1160 similar 1<eps>
+1160 1161 <eps> も 1
+1161 1162 <eps> 、 1
+1162 0 <eps> 同様 1
+0 1164 the 0.0426468748175<eps>
+1165 1166 similar 1<eps>
+1166 1167 <eps> も 1
+1167 1168 <eps> 同様 1
+1168 0 <eps> の 1
+0 1170 the 0.0174783222446<eps>
+1171 1172 similar 1<eps>
+1172 1173 <eps> 同様 1
+1173 0 <eps> の 1
+0 1175 similar 0.393933302712<eps>
+1176 1177 process 1<eps>
+1177 1178 <eps> 以下 1
+1178 1179 <eps> も 1
+1179 1180 <eps> 同様 1
+1180 1181 <eps> の 1
+1181 0 <eps> 工程 1
+0 1183 similar 0.209463732224<eps>
+1184 1185 process 1<eps>
+1185 1186 <eps> 同様 1
+1186 1187 <eps> の 1
+1187 0 <eps> 処理 1
+0 1189 similar 0.16173632651<eps>
+1190 1191 process 1<eps>
+1191 1192 <eps> 同様 1
+1192 1193 <eps> の 1
+1193 0 <eps> プロセス 1
+0 1195 similar 0.232321613572<eps>
+1196 1197 process 1<eps>
+1197 1198 <eps> 同様 1
+1198 1199 <eps> な 1
+1199 0 <eps> 工程 1
+0 1201 similar 0.266038330816<eps>
+1202 1203 process 1<eps>
+1203 1204 <eps> 同様 1
+1204 1205 <eps> な 1
+1205 0 <eps> 処理 1
+0 1207 similar 0.524759710022<eps>
+1208 1209 process 1<eps>
+1209 1210 <eps> 略 1
+1210 1211 <eps> 同一 1
+1211 1212 <eps> の 1
+1212 0 <eps> 工程 1
+0 1214 process 0.075152557519<eps>
+1215 1216 as 1<eps>
+1216 1217 <eps> 処理 1
+1217 0 <eps> と 1
+0 1219 process 0.268525343505<eps>
+1220 1221 as 1<eps>
+1221 1222 <eps> 処理 1
+1222 0 <eps> を 1
+0 1224 process 0.431966711436<eps>
+1225 1226 as 1<eps>
+1226 1227 <eps> 処理 1
+1227 1228 <eps> を 1
+1228 0 <eps> 実行 1
+0 1230 as -0.0234872256145<eps>
+1231 1232 above 1<eps>
+1232 1233 <eps> この 1
+1233 0 <eps> よう 1
+0 1235 as -0.151226503846<eps>
+1236 1237 above 1<eps>
+1237 0 <eps> よう 1
+0 1239 as 0.0469905131068<eps>
+1240 1241 above 1<eps>
+1241 1242 <eps> よう 1
+1242 0 <eps> な 1
+0 1244 as 0.179261319436<eps>
+1245 1246 above 1<eps>
+1246 1247 <eps> よう 1
+1247 1248 <eps> に 1
+1248 0 <eps> し 1
+0 1250 as 0.185289232339<eps>
+1251 1252 above 1<eps>
+1252 1253 <eps> 前記 1
+1253 1254 <eps> の 1
+1254 0 <eps> よう 1
+0 1256 as 0.253697342093<eps>
+1257 1258 above 1<eps>
+1258 1259 <eps> 前記 1
+1259 1260 <eps> の 1
+1260 1261 <eps> よう 1
+1261 0 <eps> に 1
+0 1263 as 0.184757100127<eps>
+1264 1265 above 1<eps>
+1265 1266 <eps> 前記 1
+1266 0 <eps> と 1
+0 1268 as 0.138874679159<eps>
+1269 1270 above 1<eps>
+1270 0 <eps> し 1
+0 1272 as 0.26084841549<eps>
+1273 1274 above 1<eps>
+1274 1275 <eps> し 1
+1275 0 <eps> た 1
+0 1277 as 0.249870968856<eps>
+1278 1279 above 1<eps>
+1279 1280 <eps> し 1
+1280 1281 <eps> た 1
+1281 1282 <eps> よう 1
+1282 0 <eps> な 1
+0 1284 as 0.0130968259469<eps>
+1285 1286 above 1<eps>
+1286 0 <eps> 以上 1
+0 1288 as 0.162636892875<eps>
+1289 1290 above 1<eps>
+1290 1291 <eps> 以上 1
+1291 0 <eps> の 1
+0 1293 as -0.0448773721105<eps>
+1294 1295 above 1<eps>
+1295 1296 <eps> 以上 1
+1296 1297 <eps> の 1
+1297 0 <eps> よう 1
+0 1299 as 0.133447888584<eps>
+1300 1301 above 1<eps>
+1301 1302 <eps> 以上 1
+1302 1303 <eps> の 1
+1303 1304 <eps> よう 1
+1304 0 <eps> な 1
+0 1306 as 0.192822771423<eps>
+1307 1308 above 1<eps>
+1308 1309 <eps> 以上 1
+1309 1310 <eps> の 1
+1310 1311 <eps> よう 1
+1311 1312 <eps> に 1
+1312 0 <eps> し 1
+0 1314 as 0.0990587773319<eps>
+1315 1316 above 1<eps>
+1316 1317 <eps> 以上 1
+1317 1318 <eps> の 1
+1318 0 <eps> 様 1
+0 1320 as 0.220047423136<eps>
+1321 1322 above 1<eps>
+1322 1323 <eps> 以上 1
+1323 1324 <eps> の 1
+1324 1325 <eps> 様 1
+1325 0 <eps> な 1
+0 1327 as 0.326985120561<eps>
+1328 1329 above 1<eps>
+1329 1330 <eps> こう 1
+1330 0 <eps> し 1
+0 1332 as 0.113915973883<eps>
+1333 1334 above 1<eps>
+1334 0 <eps> 上記 1
+0 1336 as -0.000824355473667<eps>
+1337 1338 above 1<eps>
+1338 1339 <eps> 上記 1
+1339 1340 <eps> の 1
+1340 0 <eps> よう 1
+0 1342 as 0.115792185572<eps>
+1343 1344 above 1<eps>
+1344 1345 <eps> 上記 1
+1345 1346 <eps> の 1
+1346 1347 <eps> よう 1
+1347 0 <eps> な 1
+0 1349 as 0.12927022627<eps>
+1350 1351 above 1<eps>
+1351 1352 <eps> 上記 1
+1352 1353 <eps> の 1
+1353 0 <eps> 様 1
+0 1355 as 0.270799829878<eps>
+1356 1357 above 1<eps>
+1357 1358 <eps> 上記 1
+1358 1359 <eps> の 1
+1359 1360 <eps> 様 1
+1360 1361 <eps> に 1
+1361 0 <eps> な 1
+0 1363 as 0.124460116298<eps>
+1364 1365 above 1<eps>
+1365 1366 <eps> 上記 1
+1366 1367 <eps> の 1
+1367 1368 <eps> 如 1
+1368 0 <eps> く 1
+0 1370 as -0.0287383244902<eps>
+1371 1372 above 1<eps>
+1372 1373 <eps> 上記 1
+1373 0 <eps> と 1
+0 1375 as 0.206178183339<eps>
+1376 1377 above 1<eps>
+1377 1378 <eps> 上記 1
+1378 1379 <eps> と 1
+1379 1380 <eps> 同様 1
+1380 0 <eps> な 1
+0 1382 as 0.173275665024<eps>
+1383 1384 above 1<eps>
+1384 0 <eps> 前述 1
+0 1386 as 0.236035982809<eps>
+1387 1388 above 1<eps>
+1388 1389 <eps> 前述 1
+1389 0 <eps> の 1
+0 1391 as -0.0204389151943<eps>
+1392 1393 above 1<eps>
+1393 1394 <eps> 前述 1
+1394 0 <eps> と 1
+0 1396 as 0.0454350418465<eps>
+1397 1398 above 1<eps>
+1398 1399 <eps> 上述 1
+1399 1400 <eps> の 1
+1400 0 <eps> よう 1
+0 1402 as 0.127224466426<eps>
+1403 1404 above 1<eps>
+1404 1405 <eps> 上述 1
+1405 1406 <eps> の 1
+1406 1407 <eps> 如 1
+1407 0 <eps> く 1
+0 1409 as -0.0156787886543<eps>
+1410 1411 above 1<eps>
+1411 1412 <eps> 上述 1
+1412 0 <eps> と 1
+0 1414 as 0.141110344094<eps>
+1415 1416 above 1<eps>
+1416 1417 <eps> 上述 1
+1417 1418 <eps> し 1
+1418 0 <eps> た 1
+0 1420 as 0.224933213341<eps>
+1421 1422 above 1<eps>
+1422 1423 <eps> 上述 1
+1423 1424 <eps> し 1
+1424 1425 <eps> た 1
+1425 1426 <eps> の 1
+1426 0 <eps> と 1
+0 1428 as 0.0647921043708<eps>
+1429 1430 above 1<eps>
+1430 1431 <eps> 上述 1
+1431 1432 <eps> し 1
+1432 1433 <eps> た 1
+1433 0 <eps> よう 1
+0 1435 above 0.00287240770789<eps>
+1436 1437 is 1<eps>
+1437 1438 <eps> は 1
+1438 0 <eps> 前述 1
+0 1440 above 0.418789953991<eps>
+1441 1442 is 1<eps>
+1442 1443 <eps> よう 1
+1443 0 <eps> に 1
+0 1445 above -0.0488646559267<eps>
+1446 1447 is 1<eps>
+1447 1448 <eps> 以上 1
+1448 0 <eps> が 1
+0 1450 above 0.0618450212884<eps>
+1451 1452 is 1<eps>
+1452 1453 <eps> を 1
+1453 0 <eps> 上記 1
+0 1455 is 0.38644423438<eps>
+1456 1457 repeated 1<eps>
+1457 1458 <eps> の 1
+1458 0 <eps> 繰り返し 1
+0 1460 is 0.333738375806<eps>
+1461 1462 repeated 1<eps>
+1462 1463 <eps> に 1
+1463 0 <eps> 繰返し 1
+0 1465 is 0.149114134164<eps>
+1466 1467 repeated 1<eps>
+1467 1468 <eps> が 1
+1468 1469 <eps> ， 1
+1469 1470 <eps> 繰り返 1
+1470 1471 <eps> さ 1
+1471 0 <eps> れ 1
+0 1473 is -0.00795289088737<eps>
+1474 1475 repeated 1<eps>
+1475 1476 <eps> が 1
+1476 1477 <eps> 繰り返 1
+1477 0 <eps> さ 1
+0 1479 is -0.188243627911<eps>
+1480 1481 repeated 1<eps>
+1481 1482 <eps> が 1
+1482 1483 <eps> 繰り返 1
+1483 1484 <eps> さ 1
+1484 0 <eps> れ 1
+0 1486 is 0.0243915201029<eps>
+1487 1488 repeated 1<eps>
+1488 1489 <eps> が 1
+1489 1490 <eps> 繰返 1
+1490 1491 <eps> さ 1
+1491 0 <eps> れ 1
+0 1493 is 0.161773262164<eps>
+1494 1495 repeated 1<eps>
+1495 1496 <eps> が 1
+1496 1497 <eps> 繰り返し 1
+1497 1498 <eps> 行 1
+1498 1499 <eps> わ 1
+1499 0 <eps> れ 1
+0 1501 is 0.237104489663<eps>
+1502 1503 repeated 1<eps>
+1503 1504 <eps> が 1
+1504 1505 <eps> 繰返し 1
+1505 1506 <eps> 行な 1
+1506 1507 <eps> わ 1
+1507 0 <eps> れ 1
+0 1509 is 0.389809744886<eps>
+1510 1511 repeated 1<eps>
+1511 1512 <eps> を 1
+1512 1513 <eps> 行 1
+1513 0 <eps> う 1
+0 1515 is -0.084587492932<eps>
+1516 1517 repeated 1<eps>
+1517 1518 <eps> を 1
+1518 1519 <eps> 繰り返 1
+1519 0 <eps> し 1
+0 1521 is 0.0475165658503<eps>
+1522 1523 repeated 1<eps>
+1523 1524 <eps> を 1
+1524 1525 <eps> 繰り返 1
+1525 0 <eps> さ 1
+0 1527 is -0.197474967927<eps>
+1528 1529 repeated 1<eps>
+1529 1530 <eps> を 1
+1530 1531 <eps> 繰り返 1
+1531 0 <eps> す 1
+0 1533 is 0.0358277507071<eps>
+1534 1535 repeated 1<eps>
+1535 1536 <eps> を 1
+1536 1537 <eps> 繰り返 1
+1537 1538 <eps> す 1
+1538 0 <eps> こと 1
+0 1540 is 0.0663072626433<eps>
+1541 1542 repeated 1<eps>
+1542 1543 <eps> を 1
+1543 1544 <eps> 繰返 1
+1544 0 <eps> し 1
+0 1546 is 0.0648870521295<eps>
+1547 1548 repeated 1<eps>
+1548 1549 <eps> を 1
+1549 1550 <eps> 繰返 1
+1550 0 <eps> す 1
+0 1552 is 0.118043732422<eps>
+1553 1554 repeated 1<eps>
+1554 1555 <eps> を 1
+1555 1556 <eps> 繰り返し 1
+1556 0 <eps> 行 1
+0 1558 is 0.123141522725<eps>
+1559 1560 repeated 1<eps>
+1560 1561 <eps> を 1
+1561 1562 <eps> 繰り返し 1
+1562 0 <eps> 実行 1
+0 1564 is 0.345106752186<eps>
+1565 1566 repeated 1<eps>
+1566 1567 <eps> を 1
+1567 1568 <eps> 再度 1
+1568 0 <eps> 行 1
+0 1570 is 0.0350721185782<eps>
+1571 1572 repeated 1<eps>
+1572 1573 <eps> 繰り返 1
+1573 1574 <eps> さ 1
+1574 0 <eps> れ 1
+0 1576 is 0.260983010042<eps>
+1577 1578 repeated 1<eps>
+1578 1579 <eps> 順次 1
+1579 1580 <eps> 繰り返 1
+1580 1581 <eps> さ 1
+1581 1582 <eps> れ 1
+1582 1583 <eps> て 1
+1583 0 <eps> 行 1
+0 1585 repeated 0.0634544943664<eps>
+1586 1587 . 1<eps>
+1587 1588 <eps> 繰り返 1
+1588 1589 <eps> さ 1
+1589 1590 <eps> な 1
+1590 1591 <eps> い 1
+1591 0 <eps> 。 1
+0 1593 repeated -0.142287265501<eps>
+1594 1595 . 1<eps>
+1595 1596 <eps> 繰り返 1
+1596 1597 <eps> さ 1
+1597 1598 <eps> れ 1
+1598 1599 <eps> る 1
+1599 0 <eps> 。 1
+0 1601 repeated -0.288345392201<eps>
+1602 1603 . 1<eps>
+1603 1604 <eps> 繰り返 1
+1604 1605 <eps> す 1
+1605 0 <eps> 。 1
+0 1607 repeated 0.061028286161<eps>
+1608 1609 . 1<eps>
+1609 1610 <eps> 繰返 1
+1610 1611 <eps> さ 1
+1611 1612 <eps> れ 1
+1612 1613 <eps> る 1
+1613 0 <eps> 。 1
+0 1615 repeated 0.0719257934702<eps>
+1616 1617 . 1<eps>
+1617 1618 <eps> 繰り返し 1
+1618 1619 <eps> 行 1
+1619 1620 <eps> う 1
+1620 0 <eps> 。 1
+0 1622 repeated 0.186156097681<eps>
+1623 1624 . 1<eps>
+1624 1625 <eps> 繰り返し 1
+1625 1626 <eps> 実行 1
+1626 1627 <eps> さ 1
+1627 1628 <eps> れ 1
+1628 1629 <eps> る 1
+1629 0 <eps> 。 1
+0 1631 repeated 0.225874103772<eps>
+1632 1633 . 1<eps>
+1633 1634 <eps> 繰返し 1
+1634 1635 <eps> 行な 1
+1635 1636 <eps> わ 1
+1636 1637 <eps> れ 1
+1637 1638 <eps> る 1
+1638 0 <eps> 。 1
+0 1640 repeated 0.295471912323<eps>
+1641 1642 . 1<eps>
+1642 1643 <eps> 再度 1
+1643 1644 <eps> 実行 1
+1644 1645 <eps> する 1
+1645 0 <eps> 。 1
+0 1647 is 0.347366398246<eps>
+1648 1649 in 1<eps>
+1649 1650 excess 1<eps>
+1650 1651 <eps> が 1
+1651 1652 <eps> 過剰 1
+1652 1653 <eps> に 1
+1653 0 <eps> な 1
+0 1655 in 0.837186834687<eps>
+1656 1657 excess 1<eps>
+1657 1658 of 1<eps>
+1658 1659 <eps> 以上 1
+1659 0 <eps> で 1
+0 1661 in 0.737541295007<eps>
+1662 1663 excess 1<eps>
+1663 1664 of 1<eps>
+1664 1665 <eps> を 1
+1665 0 <eps> 超え 1
+0 1667 in 0.718933008504<eps>
+1668 1669 excess 1<eps>
+1669 1670 of 1<eps>
+1670 1671 <eps> を 1
+1671 1672 <eps> 越え 1
+1672 1673 <eps> て 1
+1673 0 <eps> い 1
+0 1675 , 0.652382109151<eps>
+1676 1677 &quot; 1<eps>
+1677 1678 the 1<eps>
+1678 1679 <eps> 、 1
+1679 0 <eps> コイル 1
+0 1681 , 0.0878860216448<eps>
+1682 1683 &quot; 1<eps>
+1683 1684 the 1<eps>
+1684 1685 <eps> 」 1
+1685 0 <eps> 、 1
+0 1687 process 0.5423913134<eps>
+1688 1689 as 1<eps>
+1689 1690 above 1<eps>
+1690 1691 <eps> 上述 1
+1691 1692 <eps> し 1
+1692 1693 <eps> た 1
+1693 0 <eps> 処理 1
+0 1695 as 0.718364938514<eps>
+1696 1697 above 1<eps>
+1697 1698 is 1<eps>
+1698 1699 <eps> 以上 1
+1699 1700 <eps> の 1
+1700 1701 <eps> よう 1
+1701 1702 <eps> に 1
+1702 0 <eps> し 1
+0 1704 above 1.17765802702<eps>
+1705 1706 is 1<eps>
+1706 1707 repeated 1<eps>
+1707 1708 <eps> も 1
+1708 0 <eps> 同様 1
+0 1710 is 0.582595979442<eps>
+1711 1712 repeated 1<eps>
+1712 1713 . 1<eps>
+1713 1714 <eps> が 1
+1714 1715 <eps> 行 1
+1715 1716 <eps> わ 1
+1716 1717 <eps> れ 1
+1717 1718 <eps> る 1
+1718 0 <eps> 。 1
+0 1720 is -0.0255014212008<eps>
+1721 1722 repeated 1<eps>
+1722 1723 . 1<eps>
+1723 1724 <eps> が 1
+1724 1725 <eps> 繰り返 1
+1725 1726 <eps> さ 1
+1726 1727 <eps> れ 1
+1727 1728 <eps> る 1
+1728 0 <eps> 。 1
+0 1730 is 0.160044331956<eps>
+1731 1732 repeated 1<eps>
+1732 1733 . 1<eps>
+1733 1734 <eps> が 1
+1734 1735 <eps> 繰返 1
+1735 1736 <eps> さ 1
+1736 1737 <eps> れ 1
+1737 1738 <eps> る 1
+1738 0 <eps> 。 1
+0 1740 is 0.297426074017<eps>
+1741 1742 repeated 1<eps>
+1742 1743 . 1<eps>
+1743 1744 <eps> が 1
+1744 1745 <eps> 繰り返し 1
+1745 1746 <eps> 行 1
+1746 1747 <eps> わ 1
+1747 1748 <eps> れ 1
+1748 1749 <eps> る 1
+1749 0 <eps> 。 1
+0 1751 is 0.333039295427<eps>
+1752 1753 repeated 1<eps>
+1753 1754 . 1<eps>
+1754 1755 <eps> が 1
+1755 1756 <eps> 繰り返し 1
+1756 1757 <eps> 実行 1
+1757 1758 <eps> さ 1
+1758 1759 <eps> れ 1
+1759 1760 <eps> る 1
+1760 0 <eps> 。 1
+0 1762 is 0.372757301518<eps>
+1763 1764 repeated 1<eps>
+1764 1765 . 1<eps>
+1765 1766 <eps> が 1
+1766 1767 <eps> 繰返し 1
+1767 1768 <eps> 行な 1
+1768 1769 <eps> わ 1
+1769 1770 <eps> れ 1
+1770 1771 <eps> る 1
+1771 0 <eps> 。 1
+0 1773 is 0.292517779271<eps>
+1774 1775 repeated 1<eps>
+1775 1776 . 1<eps>
+1776 1777 <eps> を 1
+1777 1778 <eps> 繰り返 1
+1778 1779 <eps> し 1
+1779 1780 <eps> 実施 1
+1780 1781 <eps> する 1
+1781 0 <eps> 。 1
+0 1783 is -0.149115987744<eps>
+1784 1785 repeated 1<eps>
+1785 1786 . 1<eps>
+1786 1787 <eps> を 1
+1787 1788 <eps> 繰り返 1
+1788 1789 <eps> す 1
+1789 0 <eps> 。 1
+0 1791 is 0.412095993893<eps>
+1792 1793 repeated 1<eps>
+1793 1794 . 1<eps>
+1794 1795 <eps> を 1
+1795 1796 <eps> 繰り返 1
+1796 1797 <eps> す 1
+1797 1798 <eps> こと 1
+1798 1799 <eps> と 1
+1799 1800 <eps> な 1
+1800 1801 <eps> る 1
+1801 0 <eps> 。 1
+0 1803 is 0.197865623553<eps>
+1804 1805 repeated 1<eps>
+1805 1806 . 1<eps>
+1806 1807 <eps> を 1
+1807 1808 <eps> 繰り返し 1
+1808 1809 <eps> 実行 1
+1809 1810 <eps> する 1
+1810 0 <eps> 。 1
+0 1812 is 0.287601620395<eps>
+1813 1814 repeated 1<eps>
+1814 1815 . 1<eps>
+1815 1816 <eps> を 1
+1816 1817 <eps> 繰返し 1
+1817 1818 <eps> 実行 1
+1818 1819 <eps> する 1
+1819 0 <eps> 。 1
+0 1821 is 0.501341467718<eps>
+1822 1823 repeated 1<eps>
+1823 1824 . 1<eps>
+1824 1825 <eps> を 1
+1825 1826 <eps> 再度 1
+1826 1827 <eps> 行 1
+1827 1828 <eps> う 1
+1828 0 <eps> 。 1
+0 1830 is 0.103141299542<eps>
+1831 1832 repeated 1<eps>
+1832 1833 . 1<eps>
+1833 1834 <eps> を 1
+1834 1835 <eps> 繰り返え 1
+1835 1836 <eps> す 1
+1836 0 <eps> 。 1
+0 1838 is 0.438617230263<eps>
+1839 1840 repeated 1<eps>
+1840 1841 . 1<eps>
+1841 1842 <eps> 順次 1
+1842 1843 <eps> 繰り返 1
+1843 1844 <eps> さ 1
+1844 1845 <eps> れ 1
+1845 1846 <eps> て 1
+1846 1847 <eps> 行 1
+1847 1848 <eps> く 1
+1848 0 <eps> 。 1
+0 1850 process 0.750366640953<eps>
+1851 1852 as 1<eps>
+1852 1853 above 1<eps>
+1853 1854 is 1<eps>
+1854 1855 <eps> 上述 1
+1855 1856 <eps> し 1
+1856 1857 <eps> た 1
+1857 1858 <eps> 処理 1
+1858 0 <eps> を 1
+0 1860 process 1.01100208292<eps>
+1861 1862 as 1<eps>
+1862 1863 above 1<eps>
+1863 1864 is 1<eps>
+1864 1865 repeated 1<eps>
+1865 1866 <eps> 上述 1
+1866 1867 <eps> し 1
+1867 1868 <eps> た 1
+1868 1869 <eps> 処理 1
+1869 1870 <eps> を 1
+1870 1871 <eps> 繰り返し 1
+1871 0 <eps> 実行 1

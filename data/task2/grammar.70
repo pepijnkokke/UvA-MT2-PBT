@@ -1,858 +1,858 @@
-0 0 the 、
-0 0 the た
-0 0 the （
-0 0 the その
-0 0 the の
-0 0 the は
-0 1 the <eps>
-2 3 <eps> は
-3 0 <eps> 、
-0 5 the <eps>
-6 7 <eps> は
-7 0 <eps> この
-0 9 the <eps>
-10 11 <eps> また
-11 0 <eps> 、
-0 13 the <eps>
-14 15 <eps> なお
-15 0 <eps> 、
-0 0 the この
-0 0 the 前記
-0 0 the する
-0 0 the ア
-0 0 the 本
-0 0 the 各
-0 0 the 尚
-0 17 fetch <eps>
-18 19 <eps> ・
-19 20 <eps> フェッチ
-20 0 <eps> ・
-0 0 fetch み
-0 0 fetch 読み出
-0 0 fetch む
-0 22 fetch <eps>
-23 24 <eps> 取り込
-24 0 <eps> み
-0 26 fetch <eps>
-27 28 <eps> 取り込
-28 0 <eps> む
-0 30 fetch <eps>
-31 32 <eps> 取り込
-32 0 <eps> ま
-0 34 fetch <eps>
-35 36 <eps> 取り込
-36 0 <eps> め
-0 38 fetch <eps>
-39 40 <eps> 取込
-40 0 <eps> み
-0 42 fetch <eps>
-43 44 <eps> 取込
-44 0 <eps> む
-0 46 fetch <eps>
-47 48 <eps> ッ
-48 0 <eps> チ
-0 0 fetch 取得
-0 0 fetch フェッチ
-0 50 fetch <eps>
-51 52 <eps> 受取
-52 0 <eps> り
-0 0 fetch 取り込み
-0 54 fetch <eps>
-55 56 <eps> フェッ
-56 0 <eps> チ
-0 0 fetch 取り出し
-0 0 addresses で
-0 0 addresses つ
-0 0 addresses ａｄｄｒｅｓｓ
-0 0 addresses アドレス
-0 58 addresses <eps>
-59 60 <eps> アドレス
-60 0 <eps> 分
-0 62 addresses <eps>
-63 64 <eps> アドレス
-64 0 <eps> ｒｏｗ
-0 0 addresses 番地
-0 0 addresses デコーダ
-0 0 of の
-0 0 of は
-0 0 of に
-0 66 of <eps>
-67 68 <eps> に
-68 0 <eps> おけ
-0 0 of も
-0 0 of が
-0 0 of を
-0 0 instructions ため
-0 0 instructions から
-0 70 instructions <eps>
-71 72 <eps> から
-72 0 <eps> 命令
-0 74 instructions <eps>
-75 76 <eps> 操作
-76 0 <eps> 指示
-0 0 instructions 指定
-0 0 instructions 並べ
-0 0 instructions 指令
-0 0 instructions 命令
-0 78 instructions <eps>
-79 80 <eps> 命令
-80 0 <eps> 操作
-0 0 instructions 指示
-0 82 instructions <eps>
-83 84 <eps> 指示
-84 0 <eps> 通り
-0 0 instructions 至
-0 0 instructions インストラクション
-0 86 fetched <eps>
-87 88 <eps> より
-88 0 <eps> 取得
-0 90 fetched <eps>
-91 92 <eps> これ
-92 0 <eps> ら
-0 94 fetched <eps>
-95 96 <eps> これ
-96 97 <eps> ら
-97 98 <eps> 取得
-98 99 <eps> し
-99 0 <eps> た
-0 101 fetched <eps>
-102 103 <eps> れ
-103 0 <eps> た
-0 0 fetched 得
-0 0 fetched 取り込
-0 105 fetched <eps>
-106 107 <eps> 取り込
-107 0 <eps> み
-0 109 fetched <eps>
-110 111 <eps> 取り込
-111 0 <eps> む
-0 113 fetched <eps>
-114 115 <eps> 取り込
-115 116 <eps> ま
-116 0 <eps> れ
-0 118 fetched <eps>
-119 120 <eps> 取り込
-120 121 <eps> ま
-121 122 <eps> れ
-122 0 <eps> た
-0 124 fetched <eps>
-125 126 <eps> 取り込
-126 0 <eps> ん
-0 128 fetched <eps>
-129 130 <eps> 取り込
-130 131 <eps> ん
-131 0 <eps> だ
-0 133 fetched <eps>
-134 135 <eps> 取込
-135 0 <eps> ま
-0 137 fetched <eps>
-138 139 <eps> 取込
-139 140 <eps> ま
-140 0 <eps> れ
-0 142 fetched <eps>
-143 144 <eps> 取込
-144 145 <eps> ん
-145 0 <eps> だ
-0 147 fetched <eps>
-148 149 <eps> 取り出
-149 150 <eps> さ
-150 0 <eps> れ
-0 152 fetched <eps>
-153 154 <eps> 取り出
-154 0 <eps> す
-0 0 fetched 取得
-0 156 fetched <eps>
-157 158 <eps> 取得
-158 159 <eps> し
-159 0 <eps> た
-0 161 fetched <eps>
-162 163 <eps> 取出
-163 0 <eps> す
-0 0 fetched フェッチ
-0 165 fetched <eps>
-166 167 <eps> 採り
-167 168 <eps> こ
-168 169 <eps> ま
-169 0 <eps> れ
-0 171 fetched <eps>
-172 173 <eps> 取りこ
-173 174 <eps> ま
-174 0 <eps> れ
-0 0 from の
-0 0 from は
-0 0 from で
-0 0 from し
-0 0 from より
-0 0 from する
-0 0 from り
-0 0 from から
-0 0 from が
-0 0 from を
-0 0 from へ
-0 0 from 対
-0 176 from <eps>
-177 178 <eps> 対
-178 0 <eps> し
-0 0 from ０
-0 0 instruction 要求
-0 0 instruction 指令
-0 0 instruction 命令
-0 0 instruction 指示
-0 0 instruction インストラクション
-0 0 instruction 旨
-0 0 memory の
-0 180 memory <eps>
-181 182 <eps> ・
-182 0 <eps> メモリ
-0 0 memory 用
-0 0 memory メモリ
-0 184 memory <eps>
-185 186 <eps> メモリ
-186 0 <eps> 装置
-0 188 memory <eps>
-189 190 <eps> メモリ
-190 0 <eps> セル
-0 0 memory 記憶
-0 0 memory メモリー
-0 192 700 <eps>
-193 194 <eps> ７
-194 195 <eps> ０
-195 0 <eps> ０
-0 197 700 <eps>
-198 199 <eps> ７
-199 0 <eps> ００
-0 0 700 700
-0 0 700 ７００
-0 201 700 <eps>
-202 203 <eps> ７０
-203 0 <eps> ０
-0 205 700 <eps>
-206 207 <eps> 媒体
-207 0 <eps> ７００
-0 209 700 <eps>
-210 211 <eps> 媒体
-211 212 <eps> ７０
-212 0 <eps> ０
-0 0 700 ｅｔ700
-0 0 700 70
-0 0 700 ｅｃｕ７００
-0 0 are は
-0 214 are <eps>
-215 216 <eps> は
-216 0 <eps> 、
-0 218 are <eps>
-219 220 <eps> と
-220 0 <eps> が
-0 0 are て
-0 0 are に
-0 0 are が
-0 0 are を
-0 222 are <eps>
-223 224 <eps> を
-224 0 <eps> それぞれ
-0 0 are れ
-0 0 are それぞれ
-0 226 are <eps>
-227 228 <eps> 同士
-228 0 <eps> が
-0 0 managed れ
-0 0 managed お
-0 0 managed 対応
-0 0 managed 管理
-0 230 managed <eps>
-231 232 <eps> 管理
-232 233 <eps> さ
-233 0 <eps> れ
-0 0 managed マネジメント
-0 0 by で
-0 0 by し
-0 0 by する
-0 235 by <eps>
-236 237 <eps> に
-237 0 <eps> よ
-0 239 by <eps>
-240 241 <eps> に
-241 242 <eps> よ
-242 0 <eps> っ
-0 244 by <eps>
-245 246 <eps> に
-246 247 <eps> よ
-247 0 <eps> り
-0 0 by よ
-0 249 by <eps>
-250 251 <eps> よ
-251 0 <eps> っ
-0 253 by <eps>
-254 255 <eps> よ
-255 0 <eps> り
-0 257 by <eps>
-258 259 <eps> よ
-259 260 <eps> り
-260 261 <eps> 行
-261 0 <eps> わ
-0 263 by <eps>
-264 265 <eps> こと
-265 266 <eps> に
-266 267 <eps> よ
-267 0 <eps> っ
-0 269 by <eps>
-270 271 <eps> こと
-271 272 <eps> に
-272 273 <eps> よ
-273 0 <eps> り
-0 0 by を
-0 0 by さ
-0 0 by だけ
-0 0 address ａｄｄｒｅｓｓ
-0 0 address アドレス
-0 275 address <eps>
-276 277 <eps> アドレス
-277 0 <eps> ・
-0 0 address 番地
-0 0 latch 保持
-0 0 latch 作用
-0 0 latch 記憶
-0 0 latch ラッチ
-0 279 latch <eps>
-280 281 <eps> ラッチ
-281 0 <eps> 回路
-0 0 latch 係合
-0 0 latch 係止
-0 0 latch 爪
-0 0 113 れ
-0 0 113 ３
-0 0 113 １１
-0 283 113 <eps>
-284 285 <eps> １１
-285 0 <eps> ３
-0 0 113 １３
-0 0 113 １２３
-0 0 113 113
-0 0 113 １１１
-0 0 113 １１３
-0 287 accessing <eps>
-288 289 <eps> データ
-289 0 <eps> アクセス
-0 0 accessing へ
-0 291 accessing <eps>
-292 293 <eps> へ
-293 294 <eps> の
-294 0 <eps> アクセス
-0 296 accessing <eps>
-297 298 <eps> へ
-298 0 <eps> アクセス
-0 0 accessing 対
-0 0 accessing 場合
-0 0 accessing 際
-0 0 accessing 操作
-0 0 accessing 参照
-0 0 accessing 接続
-0 0 accessing 介
-0 0 accessing アクセス
-0 300 accessing <eps>
-301 302 <eps> アクセス
-302 303 <eps> の
-303 0 <eps> 際
-0 305 accessing <eps>
-306 307 <eps> アクセス
-307 0 <eps> 時
-0 309 accessing <eps>
-310 311 <eps> アクセス
-311 0 <eps> 用
-0 313 accessing <eps>
-314 315 <eps> アクセス
-315 0 <eps> 対象
-0 0 circuit 部
-0 0 circuit 回路
-0 0 circuit 手段
-0 317 103 <eps>
-318 319 <eps> 10
-319 0 <eps> 3
-0 0 103 は
-0 0 103 １０
-0 321 103 <eps>
-322 323 <eps> １０
-323 0 <eps> ３
-0 325 103 <eps>
-326 327 <eps> 部
-327 0 <eps> 103
-0 329 103 <eps>
-330 331 <eps> 部
-331 0 <eps> １０３
-0 333 103 <eps>
-334 335 <eps> １３
-335 0 <eps> ０
-0 0 103 103
-0 0 103 ０２
-0 0 103 １０３
-0 337 103 <eps>
-338 339 <eps> １０３
-339 0 <eps> 側
-0 341 . <eps>
-342 343 <eps> た
-343 0 <eps> 。
-0 345 . <eps>
-346 347 <eps> する
-347 0 <eps> 。
-0 0 . 。
-0 349 . <eps>
-350 351 <eps> い
-351 0 <eps> 。
-0 353 . <eps>
-354 355 <eps> い
-355 356 <eps> る
-356 0 <eps> 。
-0 358 . <eps>
-359 360 <eps> い
-360 361 <eps> く
-361 0 <eps> 。
-0 0 . る
-0 363 . <eps>
-364 365 <eps> る
-365 0 <eps> 。
-0 367 . <eps>
-368 369 <eps> う
-369 0 <eps> 。
-0 371 . <eps>
-372 373 <eps> あ
-373 374 <eps> る
-374 0 <eps> 。
-0 376 the <eps>
-377 378 fetch <eps>
-378 379 <eps> 、
-379 0 <eps> フェッチ
-0 381 the <eps>
-382 383 fetch <eps>
-383 384 <eps> の
-384 0 <eps> 取得
-0 386 addresses <eps>
-387 388 of <eps>
-388 389 <eps> の
-389 0 <eps> アドレス
-0 391 addresses <eps>
-392 393 of <eps>
-393 394 <eps> の
-394 395 <eps> アドレス
-395 0 <eps> を
-0 397 addresses <eps>
-398 399 of <eps>
-399 400 <eps> アドレス
-400 0 <eps> の
-0 402 addresses <eps>
-403 404 of <eps>
-404 405 <eps> アドレス
-405 0 <eps> で
-0 407 addresses <eps>
-408 409 of <eps>
-409 410 <eps> アドレス
-410 0 <eps> を
-0 412 of <eps>
-413 414 the <eps>
-414 0 <eps> の
-0 416 of <eps>
-417 418 the <eps>
-418 0 <eps> は
-0 420 of <eps>
-421 422 the <eps>
-422 423 <eps> に
-423 424 <eps> よ
-424 425 <eps> り
-425 0 <eps> 、
-0 427 the <eps>
-428 429 instructions <eps>
-429 430 <eps> 、
-430 0 <eps> 指令
-0 432 the <eps>
-433 434 instructions <eps>
-434 435 <eps> 、
-435 0 <eps> 命令
-0 437 the <eps>
-438 439 instructions <eps>
-439 440 <eps> 、
-440 0 <eps> インストラクション
-0 442 the <eps>
-443 444 instructions <eps>
-444 445 <eps> の
-445 0 <eps> 指令
-0 447 the <eps>
-448 449 instructions <eps>
-449 450 <eps> の
-450 0 <eps> 命令
-0 452 the <eps>
-453 454 instructions <eps>
-454 455 <eps> の
-455 0 <eps> 指示
-0 457 the <eps>
-458 459 instructions <eps>
-459 460 <eps> この
-460 0 <eps> 指令
-0 462 the <eps>
-463 464 instructions <eps>
-464 465 <eps> 各
-465 0 <eps> 指令
-0 467 the <eps>
-468 469 instructions <eps>
-469 470 <eps> 各
-470 0 <eps> 命令
-0 472 the <eps>
-473 474 instructions <eps>
-474 475 <eps> 命令
-475 0 <eps> の
-0 477 fetched <eps>
-478 479 from <eps>
-479 480 <eps> から
-480 0 <eps> 取得
-0 482 fetched <eps>
-483 484 from <eps>
-484 485 <eps> 取り出
-485 486 <eps> さ
-486 0 <eps> れ
-0 488 from <eps>
-489 490 the <eps>
-490 491 <eps> から
-491 0 <eps> の
-0 493 from <eps>
-494 495 the <eps>
-495 496 <eps> から
-496 0 <eps> は
-0 498 the <eps>
-499 500 instruction <eps>
-500 501 <eps> 、
-501 502 <eps> その
-502 0 <eps> 指示
-0 504 the <eps>
-505 506 instruction <eps>
-506 507 <eps> 、
-507 0 <eps> 指令
-0 509 the <eps>
-510 511 instruction <eps>
-511 512 <eps> 、
-512 0 <eps> 命令
-0 514 the <eps>
-515 516 instruction <eps>
-516 517 <eps> 、
-517 0 <eps> 指示
-0 519 the <eps>
-520 521 instruction <eps>
-521 522 <eps> 、
-522 0 <eps> インストラクション
-0 524 the <eps>
-525 526 instruction <eps>
-526 527 <eps> た
-527 0 <eps> 命令
-0 529 the <eps>
-530 531 instruction <eps>
-531 532 <eps> そして
-532 533 <eps> 、
-533 0 <eps> 命令
-0 535 the <eps>
-536 537 instruction <eps>
-537 538 <eps> その
-538 0 <eps> 指令
-0 540 the <eps>
-541 542 instruction <eps>
-542 543 <eps> その
-543 0 <eps> 命令
-0 545 the <eps>
-546 547 instruction <eps>
-547 548 <eps> その
-548 0 <eps> 指示
-0 550 the <eps>
-551 552 instruction <eps>
-552 553 <eps> の
-553 0 <eps> 指令
-0 555 the <eps>
-556 557 instruction <eps>
-557 558 <eps> の
-558 0 <eps> 命令
-0 560 the <eps>
-561 562 instruction <eps>
-562 563 <eps> の
-563 0 <eps> 指示
-0 565 the <eps>
-566 567 instruction <eps>
-567 568 <eps> は
-568 569 <eps> 、
-569 0 <eps> 命令
-0 571 the <eps>
-572 573 instruction <eps>
-573 574 <eps> は
-574 575 <eps> 、
-575 0 <eps> インストラクション
-0 577 the <eps>
-578 579 instruction <eps>
-579 580 <eps> は
-580 0 <eps> 命令
-0 582 the <eps>
-583 584 instruction <eps>
-584 585 <eps> この
-585 0 <eps> 命令
-0 587 the <eps>
-588 589 instruction <eps>
-589 590 <eps> この
-590 0 <eps> 指示
-0 592 the <eps>
-593 594 instruction <eps>
-594 0 <eps> する
-0 596 the <eps>
-597 598 instruction <eps>
-598 599 <eps> ，
-599 0 <eps> 命令
-0 601 the <eps>
-602 603 instruction <eps>
-603 604 <eps> 上記
-604 0 <eps> 指令
-0 606 the <eps>
-607 608 instruction <eps>
-608 609 <eps> 当該
-609 0 <eps> 命令
-0 611 the <eps>
-612 613 instruction <eps>
-613 614 <eps> 指示
-614 0 <eps> の
-0 616 the <eps>
-617 618 instruction <eps>
-618 619 <eps> 指示
-619 0 <eps> する
-0 621 instruction <eps>
-622 623 memory <eps>
-623 624 <eps> 命令
-624 0 <eps> メモリ
-0 626 memory <eps>
-627 628 700 <eps>
-628 629 <eps> メモリ
-629 0 <eps> ７００
-0 631 memory <eps>
-632 633 700 <eps>
-633 634 <eps> 記録
-634 635 <eps> 媒体
-635 0 <eps> ７００
-0 637 memory <eps>
-638 639 700 <eps>
-639 640 <eps> 記録
-640 641 <eps> 媒体
-641 642 <eps> ７０
-642 0 <eps> ０
-0 644 700 <eps>
-645 646 are <eps>
-646 647 <eps> ７００
-647 0 <eps> は
-0 649 700 <eps>
-650 651 are <eps>
-651 652 <eps> ７００
-652 0 <eps> が
-0 654 700 <eps>
-655 656 are <eps>
-656 657 <eps> ７００
-657 0 <eps> を
-0 659 700 <eps>
-660 661 are <eps>
-661 662 <eps> ７０
-662 663 <eps> ０
-663 0 <eps> と
-0 665 are <eps>
-666 667 managed <eps>
-667 668 <eps> て
-668 0 <eps> 管理
-0 670 are <eps>
-671 672 managed <eps>
-672 673 <eps> を
-673 0 <eps> 管理
-0 675 are <eps>
-676 677 managed <eps>
-677 678 <eps> 管理
-678 0 <eps> を
-0 680 are <eps>
-681 682 managed <eps>
-682 683 <eps> 管理
-683 684 <eps> さ
-684 0 <eps> れ
-0 686 managed <eps>
-687 688 by <eps>
-688 689 <eps> で
-689 0 <eps> 管理
-0 691 managed <eps>
-692 693 by <eps>
-693 694 <eps> に
-694 695 <eps> よ
-695 696 <eps> っ
-696 697 <eps> て
-697 698 <eps> 管理
-698 699 <eps> さ
-699 0 <eps> れ
-0 701 managed <eps>
-702 703 by <eps>
-703 704 <eps> に
-704 705 <eps> よ
-705 706 <eps> り
-706 707 <eps> 管理
-707 708 <eps> さ
-708 0 <eps> れ
-0 710 managed <eps>
-711 712 by <eps>
-712 713 <eps> よ
-713 714 <eps> り
-714 715 <eps> 管理
-715 716 <eps> さ
-716 0 <eps> れ
-0 718 managed <eps>
-719 720 by <eps>
-720 721 <eps> にて
-721 722 <eps> 管理
-722 723 <eps> さ
-723 0 <eps> れ
-0 725 managed <eps>
-726 727 by <eps>
-727 728 <eps> 管理
-728 0 <eps> し
-0 730 managed <eps>
-731 732 by <eps>
-732 733 <eps> 管理
-733 0 <eps> する
-0 735 managed <eps>
-736 737 by <eps>
-737 738 <eps> 管理
-738 739 <eps> さ
-739 0 <eps> れ
-0 741 by <eps>
-742 743 the <eps>
-743 0 <eps> する
-0 745 by <eps>
-746 747 the <eps>
-747 748 <eps> に
-748 749 <eps> よ
-749 750 <eps> り
-750 0 <eps> 、
-0 752 fetch <eps>
-753 754 address <eps>
-754 755 <eps> ッ
-755 756 <eps> チ
-756 0 <eps> アドレス
-0 758 fetch <eps>
-759 760 address <eps>
-760 761 <eps> フェッ
-761 762 <eps> チ
-762 0 <eps> アドレス
-0 764 address <eps>
-765 766 latch <eps>
-766 0 <eps> ラッチ
-0 768 address <eps>
-769 770 latch <eps>
-770 771 <eps> アドレス
-771 0 <eps> ラッチ
-0 773 address <eps>
-774 775 latch <eps>
-775 776 <eps> アドレス
-776 0 <eps> 取り込み
-0 778 address <eps>
-779 780 latch <eps>
-780 781 <eps> アドレス
-781 0 <eps> デコード
-0 783 latch <eps>
-784 785 113 <eps>
-785 786 <eps> ラッチ
-786 0 <eps> １１３
-0 788 the <eps>
-789 790 accessing <eps>
-790 791 <eps> 、
-791 0 <eps> アクセス
-0 793 circuit <eps>
-794 795 103 <eps>
-795 796 <eps> 部
-796 797 <eps> １０
-797 0 <eps> ３
-0 799 circuit <eps>
-800 801 103 <eps>
-801 802 <eps> 回路
-802 803 <eps> 10
-803 0 <eps> 3
-0 805 circuit <eps>
-806 807 103 <eps>
-807 808 <eps> 回路
-808 0 <eps> １０
-0 810 circuit <eps>
-811 812 103 <eps>
-812 813 <eps> 回路
-813 814 <eps> １０
-814 0 <eps> ３
-0 816 circuit <eps>
-817 818 103 <eps>
-818 819 <eps> 回路
-819 820 <eps> １０
-820 0 <eps> ２
-0 822 circuit <eps>
-823 824 103 <eps>
-824 825 <eps> 回路
-825 0 <eps> １０３
-0 827 circuit <eps>
-828 829 103 <eps>
-829 830 <eps> 手段
-830 831 <eps> １０
-831 0 <eps> ３
-0 833 103 <eps>
-834 835 . <eps>
-835 836 <eps> １０３
-836 837 <eps> で
-837 838 <eps> あ
-838 839 <eps> る
-839 0 <eps> 。
-0 841 addresses <eps>
-842 843 of <eps>
-843 844 the <eps>
-844 845 <eps> の
-845 0 <eps> アドレス
-0 847 addresses <eps>
-848 849 of <eps>
-849 850 the <eps>
-850 851 <eps> の
-851 852 <eps> アドレス
-852 0 <eps> の
-0 854 addresses <eps>
-855 856 of <eps>
-856 857 the <eps>
-857 858 <eps> の
-858 859 <eps> アドレス
-859 0 <eps> を
-0 861 addresses <eps>
-862 863 of <eps>
-863 864 the <eps>
-864 865 <eps> アドレス
-865 0 <eps> の
-0 867 of <eps>
-868 869 the <eps>
-869 870 instructions <eps>
-870 871 <eps> の
-871 0 <eps> 命令
-0 873 of <eps>
-874 875 the <eps>
-875 876 instructions <eps>
-876 877 <eps> の
-877 0 <eps> 指示
-0 879 of <eps>
-880 881 the <eps>
-881 882 instructions <eps>
-882 883 <eps> この
-883 884 <eps> 指令
-884 0 <eps> の
-0 886 the <eps>
-887 888 instruction <eps>
-888 889 memory <eps>
-889 890 <eps> 、
-890 891 <eps> 命令
-891 0 <eps> メモリ
-0 893 are <eps>
-894 895 managed <eps>
-895 896 by <eps>
-896 897 <eps> に
-897 898 <eps> よ
-898 899 <eps> り
-899 900 <eps> 管理
-900 901 <eps> さ
-901 0 <eps> れ
-0 903 are <eps>
-904 905 managed <eps>
-905 906 by <eps>
-906 907 <eps> に
-907 908 <eps> 管理
-908 909 <eps> さ
-909 0 <eps> れ
+0 0 the 、 -0.45570792646
+0 0 the た -0.208465539212
+0 0 the （ -0.117704129383
+0 0 the その -0.206772512672
+0 0 the の -0.355870618201
+0 0 the は -0.294741992565
+0 1 the -0.146584141045<eps>
+2 3 <eps> は 1
+3 0 <eps> 、 1
+0 5 the -0.101898660074<eps>
+6 7 <eps> は 1
+7 0 <eps> この 1
+0 9 the -0.22253113121<eps>
+10 11 <eps> また 1
+11 0 <eps> 、 1
+0 13 the -0.174570713376<eps>
+14 15 <eps> なお 1
+15 0 <eps> 、 1
+0 0 the この -0.257003566874
+0 0 the 前記 -0.294569102431
+0 0 the する -0.142730056144
+0 0 the ア -0.106215188445
+0 0 the 本 -0.129139414206
+0 0 the 各 -0.1248844912
+0 0 the 尚 -0.115858194859
+0 17 fetch -0.0243840979377<eps>
+18 19 <eps> ・ 1
+19 20 <eps> フェッチ 1
+20 0 <eps> ・ 1
+0 0 fetch み 0.303775721866
+0 0 fetch 読み出 0.419495465565
+0 0 fetch む 0.154837082306
+0 22 fetch 0.185315285504<eps>
+23 24 <eps> 取り込 1
+24 0 <eps> み 1
+0 26 fetch 0.0414933734022<eps>
+27 28 <eps> 取り込 1
+28 0 <eps> む 1
+0 30 fetch 0.197856539261<eps>
+31 32 <eps> 取り込 1
+32 0 <eps> ま 1
+0 34 fetch 0.169507331121<eps>
+35 36 <eps> 取り込 1
+36 0 <eps> め 1
+0 38 fetch 0.107578292514<eps>
+39 40 <eps> 取込 1
+40 0 <eps> み 1
+0 42 fetch 0.192839457566<eps>
+43 44 <eps> 取込 1
+44 0 <eps> む 1
+0 46 fetch 0.0799127145052<eps>
+47 48 <eps> ッ 1
+48 0 <eps> チ 1
+0 0 fetch 取得 0.147950727407
+0 0 fetch フェッチ -0.417932257671
+0 50 fetch 0.276880767083<eps>
+51 52 <eps> 受取 1
+52 0 <eps> り 1
+0 0 fetch 取り込み -0.029776192356
+0 54 fetch -0.0549562420297<eps>
+55 56 <eps> フェッ 1
+56 0 <eps> チ 1
+0 0 fetch 取り出し 0.154787732924
+0 0 addresses で 0.705144187563
+0 0 addresses つ 0.473553318457
+0 0 addresses ａｄｄｒｅｓｓ -0.123297188836
+0 0 addresses アドレス -0.448050973824
+0 58 addresses -0.0282198754225<eps>
+59 60 <eps> アドレス 1
+60 0 <eps> 分 1
+0 62 addresses 0.0313831933485<eps>
+63 64 <eps> アドレス 1
+64 0 <eps> ｒｏｗ 1
+0 0 addresses 番地 -0.0329048252267
+0 0 addresses デコーダ 0.409413074736
+0 0 of の -0.505065654286
+0 0 of は 0.0654182536038
+0 0 of に -0.0924012985437
+0 66 of 0.0115473611867<eps>
+67 68 <eps> に 1
+68 0 <eps> おけ 1
+0 0 of も 0.173989172245
+0 0 of が -0.126725227108
+0 0 of を -0.277200859762
+0 0 instructions ため 0.531761513694
+0 0 instructions から 0.405623223668
+0 70 instructions -0.0114699338523<eps>
+71 72 <eps> から 1
+72 0 <eps> 命令 1
+0 74 instructions 0.0497317277364<eps>
+75 76 <eps> 操作 1
+76 0 <eps> 指示 1
+0 0 instructions 指定 0.251932794543
+0 0 instructions 並べ 0.192301623209
+0 0 instructions 指令 -0.289244393904
+0 0 instructions 命令 -0.408983479127
+0 78 instructions -0.00973490365328<eps>
+79 80 <eps> 命令 1
+80 0 <eps> 操作 1
+0 0 instructions 指示 -0.328296893024
+0 82 instructions 0.0605379512941<eps>
+83 84 <eps> 指示 1
+84 0 <eps> 通り 1
+0 0 instructions 至 0.27223498738
+0 0 instructions インストラクション 0.041356481496
+0 86 fetched 0.29660318615<eps>
+87 88 <eps> より 1
+88 0 <eps> 取得 1
+0 90 fetched 0.592052401863<eps>
+91 92 <eps> これ 1
+92 0 <eps> ら 1
+0 94 fetched 0.512842070648<eps>
+95 96 <eps> これ 1
+96 97 <eps> ら 1
+97 98 <eps> 取得 1
+98 99 <eps> し 1
+99 0 <eps> た 1
+0 101 fetched 0.516691640034<eps>
+102 103 <eps> れ 1
+103 0 <eps> た 1
+0 0 fetched 得 0.459007391164
+0 0 fetched 取り込 0.00736597899595
+0 105 fetched 0.0953439646571<eps>
+106 107 <eps> 取り込 1
+107 0 <eps> み 1
+0 109 fetched -0.0582932480953<eps>
+110 111 <eps> 取り込 1
+111 0 <eps> む 1
+0 113 fetched -0.0501668176466<eps>
+114 115 <eps> 取り込 1
+115 116 <eps> ま 1
+116 0 <eps> れ 1
+0 118 fetched 0.160347733119<eps>
+119 120 <eps> 取り込 1
+120 121 <eps> ま 1
+121 122 <eps> れ 1
+122 0 <eps> た 1
+0 124 fetched -0.0293278127989<eps>
+125 126 <eps> 取り込 1
+126 0 <eps> ん 1
+0 128 fetched 0.0215969424771<eps>
+129 130 <eps> 取り込 1
+130 131 <eps> ん 1
+131 0 <eps> だ 1
+0 133 fetched 0.170577471026<eps>
+134 135 <eps> 取込 1
+135 0 <eps> ま 1
+0 137 fetched 0.233762496049<eps>
+138 139 <eps> 取込 1
+139 140 <eps> ま 1
+140 0 <eps> れ 1
+0 142 fetched 0.248274004678<eps>
+143 144 <eps> 取込 1
+144 145 <eps> ん 1
+145 0 <eps> だ 1
+0 147 fetched 0.246417382676<eps>
+148 149 <eps> 取り出 1
+149 150 <eps> さ 1
+150 0 <eps> れ 1
+0 152 fetched 0.159637360434<eps>
+153 154 <eps> 取り出 1
+154 0 <eps> す 1
+0 0 fetched 取得 0.160758048538
+0 156 fetched 0.349427353083<eps>
+157 158 <eps> 取得 1
+158 159 <eps> し 1
+159 0 <eps> た 1
+0 161 fetched 0.257868453155<eps>
+162 163 <eps> 取出 1
+163 0 <eps> す 1
+0 0 fetched フェッチ -0.0170940823886
+0 165 fetched 0.240707936013<eps>
+166 167 <eps> 採り 1
+167 168 <eps> こ 1
+168 169 <eps> ま 1
+169 0 <eps> れ 1
+0 171 fetched 0.0987364514508<eps>
+172 173 <eps> 取りこ 1
+173 174 <eps> ま 1
+174 0 <eps> れ 1
+0 0 from の 0.0807843442494
+0 0 from は 0.250730379794
+0 0 from で 0.373628989548
+0 0 from し 0.100908483972
+0 0 from より -0.156536206596
+0 0 from する 0.132535754271
+0 0 from り 0.392374416075
+0 0 from から -0.588996730443
+0 0 from が 0.0500078465493
+0 0 from を 0.0561392571282
+0 0 from へ 0.104979641582
+0 0 from 対 -0.000784202969996
+0 176 from 0.0925381200083<eps>
+177 178 <eps> 対 1
+178 0 <eps> し 1
+0 0 from ０ 0.130541869755
+0 0 instruction 要求 0.292840305788
+0 0 instruction 指令 -0.38755469154
+0 0 instruction 命令 -0.519120653499
+0 0 instruction 指示 -0.526211538416
+0 0 instruction インストラクション -0.352901653227
+0 0 instruction 旨 0.115290530403
+0 0 memory の 0.439247722195
+0 180 memory -0.169380122368<eps>
+181 182 <eps> ・ 1
+182 0 <eps> メモリ 1
+0 0 memory 用 0.299911346194
+0 0 memory メモリ -0.638567191958
+0 184 memory -0.18250272192<eps>
+185 186 <eps> メモリ 1
+186 0 <eps> 装置 1
+0 188 memory -0.232088581818<eps>
+189 190 <eps> メモリ 1
+190 0 <eps> セル 1
+0 0 memory 記憶 -0.40135364557
+0 0 memory メモリー -0.226968117687
+0 192 700 0.300796249292<eps>
+193 194 <eps> ７ 1
+194 195 <eps> ０ 1
+195 0 <eps> ０ 1
+0 197 700 0.164506558551<eps>
+198 199 <eps> ７ 1
+199 0 <eps> ００ 1
+0 0 700 700 -0.203137224878
+0 0 700 ７００ -0.603082900017
+0 201 700 -0.204170006419<eps>
+202 203 <eps> ７０ 1
+203 0 <eps> ０ 1
+0 205 700 -0.206316065019<eps>
+206 207 <eps> 媒体 1
+207 0 <eps> ７００ 1
+0 209 700 0.167344598656<eps>
+210 211 <eps> 媒体 1
+211 212 <eps> ７０ 1
+212 0 <eps> ０ 1
+0 0 700 ｅｔ700 -0.228555563857
+0 0 700 70 -0.021474062706
+0 0 700 ｅｃｕ７００ -0.188304916913
+0 0 are は -0.34656152538
+0 214 are -0.0353044294634<eps>
+215 216 <eps> は 1
+216 0 <eps> 、 1
+0 218 are -0.0848223814208<eps>
+219 220 <eps> と 1
+220 0 <eps> が 1
+0 0 are て 0.232103439376
+0 0 are に 0.304462642877
+0 0 are が -0.377174320703
+0 0 are を -0.289652200035
+0 222 are -0.0209601595487<eps>
+223 224 <eps> を 1
+224 0 <eps> それぞれ 1
+0 0 are れ -0.0146903613123
+0 0 are それぞれ -0.130672370438
+0 226 are 0.00890250820583<eps>
+227 228 <eps> 同士 1
+228 0 <eps> が 1
+0 0 managed れ 0.290660232712
+0 0 managed お 0.600824461955
+0 0 managed 対応 0.523649494039
+0 0 managed 管理 -0.339157350045
+0 230 managed -0.133789377673<eps>
+231 232 <eps> 管理 1
+232 233 <eps> さ 1
+233 0 <eps> れ 1
+0 0 managed マネジメント -0.0606699672622
+0 0 by で -0.124249424826
+0 0 by し 0.0452185458152
+0 0 by する 0.041822454967
+0 235 by -0.238548581496<eps>
+236 237 <eps> に 1
+237 0 <eps> よ 1
+0 239 by -0.287822226154<eps>
+240 241 <eps> に 1
+241 242 <eps> よ 1
+242 0 <eps> っ 1
+0 244 by -0.298128123332<eps>
+245 246 <eps> に 1
+246 247 <eps> よ 1
+247 0 <eps> り 1
+0 0 by よ -0.19395276062
+0 249 by -0.217692561122<eps>
+250 251 <eps> よ 1
+251 0 <eps> っ 1
+0 253 by -0.257747668913<eps>
+254 255 <eps> よ 1
+255 0 <eps> り 1
+0 257 by 0.0513636808308<eps>
+258 259 <eps> よ 1
+259 260 <eps> り 1
+260 261 <eps> 行 1
+261 0 <eps> わ 1
+0 263 by -0.0620680440358<eps>
+264 265 <eps> こと 1
+265 266 <eps> に 1
+266 267 <eps> よ 1
+267 0 <eps> っ 1
+0 269 by -0.0648645009029<eps>
+270 271 <eps> こと 1
+271 272 <eps> に 1
+272 273 <eps> よ 1
+273 0 <eps> り 1
+0 0 by を -0.089526570896
+0 0 by さ -0.108346579917
+0 0 by だけ -0.124154541707
+0 0 address ａｄｄｒｅｓｓ -0.232759703963
+0 0 address アドレス -0.653102550697
+0 275 address -0.224851646813<eps>
+276 277 <eps> アドレス 1
+277 0 <eps> ・ 1
+0 0 address 番地 -0.235473317274
+0 0 latch 保持 0.206067008692
+0 0 latch 作用 0.369272259695
+0 0 latch 記憶 -0.0142872103781
+0 0 latch ラッチ -0.632226779267
+0 279 latch -0.21414847272<eps>
+280 281 <eps> ラッチ 1
+281 0 <eps> 回路 1
+0 0 latch 係合 0.175554496904
+0 0 latch 係止 -0.0554377798617
+0 0 latch 爪 0.152676173514
+0 0 113 れ 0.579315524056
+0 0 113 ３ 0.155332982508
+0 0 113 １１ 0.147588248401
+0 283 113 -0.00186069123592<eps>
+284 285 <eps> １１ 1
+285 0 <eps> ３ 1
+0 0 113 １３ 0.246775140848
+0 0 113 １２３ 0.286608080851
+0 0 113 113 -0.282438104999
+0 0 113 １１１ 0.259813332655
+0 0 113 １１３ -0.638432566232
+0 287 accessing 0.0319500502369<eps>
+288 289 <eps> データ 1
+289 0 <eps> アクセス 1
+0 0 accessing へ 0.203246342002
+0 291 accessing 0.03449344088<eps>
+292 293 <eps> へ 1
+293 294 <eps> の 1
+294 0 <eps> アクセス 1
+0 296 accessing -0.118120602967<eps>
+297 298 <eps> へ 1
+298 0 <eps> アクセス 1
+0 0 accessing 対 0.414481130799
+0 0 accessing 場合 0.52317851386
+0 0 accessing 際 0.274087433206
+0 0 accessing 操作 0.355174015903
+0 0 accessing 参照 0.326449961946
+0 0 accessing 接続 0.464736823009
+0 0 accessing 介 0.491051222931
+0 0 accessing アクセス -0.413792075711
+0 300 accessing 0.0898195925822<eps>
+301 302 <eps> アクセス 1
+302 303 <eps> の 1
+303 0 <eps> 際 1
+0 305 accessing -0.141749495871<eps>
+306 307 <eps> アクセス 1
+307 0 <eps> 時 1
+0 309 accessing -0.142504363322<eps>
+310 311 <eps> アクセス 1
+311 0 <eps> 用 1
+0 313 accessing -0.0183624894332<eps>
+314 315 <eps> アクセス 1
+315 0 <eps> 対象 1
+0 0 circuit 部 0.0449968175095
+0 0 circuit 回路 -0.646840649964
+0 0 circuit 手段 0.0777224747056
+0 317 103 -0.0279747851022<eps>
+318 319 <eps> 10 1
+319 0 <eps> 3 1
+0 0 103 は 0.780047222735
+0 0 103 １０ 0.00665284181616
+0 321 103 -0.263080992086<eps>
+322 323 <eps> １０ 1
+323 0 <eps> ３ 1
+0 325 103 -0.132378412915<eps>
+326 327 <eps> 部 1
+327 0 <eps> 103 1
+0 329 103 -0.158066424281<eps>
+330 331 <eps> 部 1
+331 0 <eps> １０３ 1
+0 333 103 0.639779221031<eps>
+334 335 <eps> １３ 1
+335 0 <eps> ０ 1
+0 0 103 103 -0.349205992181
+0 0 103 ０２ 0.325302465218
+0 0 103 １０３ -0.582690983764
+0 337 103 -0.152849565742<eps>
+338 339 <eps> １０３ 1
+339 0 <eps> 側 1
+0 341 . -0.165590636545<eps>
+342 343 <eps> た 1
+343 0 <eps> 。 1
+0 345 . -0.351902222045<eps>
+346 347 <eps> する 1
+347 0 <eps> 。 1
+0 0 . 。 -0.515775233638
+0 349 . -0.312883881067<eps>
+350 351 <eps> い 1
+351 0 <eps> 。 1
+0 353 . -0.361382424588<eps>
+354 355 <eps> い 1
+355 356 <eps> る 1
+356 0 <eps> 。 1
+0 358 . -0.093884963298<eps>
+359 360 <eps> い 1
+360 361 <eps> く 1
+361 0 <eps> 。 1
+0 0 . る -0.255255753399
+0 363 . -0.491160770668<eps>
+364 365 <eps> る 1
+365 0 <eps> 。 1
+0 367 . -0.172312421892<eps>
+368 369 <eps> う 1
+369 0 <eps> 。 1
+0 371 . -0.291543170018<eps>
+372 373 <eps> あ 1
+373 374 <eps> る 1
+374 0 <eps> 。 1
+0 376 the 0.0532800636075<eps>
+377 378 fetch 1<eps>
+378 379 <eps> 、 1
+379 0 <eps> フェッチ 1
+0 381 the 0.511438770189<eps>
+382 383 fetch 1<eps>
+383 384 <eps> の 1
+384 0 <eps> 取得 1
+0 386 addresses -0.0473551401263<eps>
+387 388 of 1<eps>
+388 389 <eps> の 1
+389 0 <eps> アドレス 1
+0 391 addresses 0.12408109766<eps>
+392 393 of 1<eps>
+393 394 <eps> の 1
+394 395 <eps> アドレス 1
+395 0 <eps> を 1
+0 397 addresses 0.105715778664<eps>
+398 399 of 1<eps>
+399 400 <eps> アドレス 1
+400 0 <eps> の 1
+0 402 addresses 0.359054301557<eps>
+403 404 of 1<eps>
+404 405 <eps> アドレス 1
+405 0 <eps> で 1
+0 407 addresses 0.108971152223<eps>
+408 409 of 1<eps>
+409 410 <eps> アドレス 1
+410 0 <eps> を 1
+0 412 of -0.427187747511<eps>
+413 414 the 1<eps>
+414 0 <eps> の 1
+0 416 of 0.132695008689<eps>
+417 418 the 1<eps>
+418 0 <eps> は 1
+0 420 of 0.2786282876<eps>
+421 422 the 1<eps>
+422 423 <eps> に 1
+423 424 <eps> よ 1
+424 425 <eps> り 1
+425 0 <eps> 、 1
+0 427 the 0.172674468586<eps>
+428 429 instructions 1<eps>
+429 430 <eps> 、 1
+430 0 <eps> 指令 1
+0 432 the 0.0961347134372<eps>
+433 434 instructions 1<eps>
+434 435 <eps> 、 1
+435 0 <eps> 命令 1
+0 437 the 0.228127395495<eps>
+438 439 instructions 1<eps>
+439 440 <eps> 、 1
+440 0 <eps> インストラクション 1
+0 442 the 0.20036548155<eps>
+443 444 instructions 1<eps>
+444 445 <eps> の 1
+445 0 <eps> 指令 1
+0 447 the 0.0509298029114<eps>
+448 449 instructions 1<eps>
+449 450 <eps> の 1
+450 0 <eps> 命令 1
+0 452 the 0.135425205841<eps>
+453 454 instructions 1<eps>
+454 455 <eps> の 1
+455 0 <eps> 指示 1
+0 457 the 0.21928152861<eps>
+458 459 instructions 1<eps>
+459 460 <eps> この 1
+460 0 <eps> 指令 1
+0 462 the 0.256787136588<eps>
+463 464 instructions 1<eps>
+464 465 <eps> 各 1
+465 0 <eps> 指令 1
+0 467 the 0.180247381439<eps>
+468 469 instructions 1<eps>
+469 470 <eps> 各 1
+470 0 <eps> 命令 1
+0 472 the 0.123825726401<eps>
+473 474 instructions 1<eps>
+474 475 <eps> 命令 1
+475 0 <eps> の 1
+0 477 fetched 0.398037001571<eps>
+478 479 from 1<eps>
+479 480 <eps> から 1
+480 0 <eps> 取得 1
+0 482 fetched 0.660502458742<eps>
+483 484 from 1<eps>
+484 485 <eps> 取り出 1
+485 486 <eps> さ 1
+486 0 <eps> れ 1
+0 488 from -0.196040466896<eps>
+489 490 the 1<eps>
+490 491 <eps> から 1
+491 0 <eps> の 1
+0 493 from -0.129856310528<eps>
+494 495 the 1<eps>
+495 496 <eps> から 1
+496 0 <eps> は 1
+0 498 the 0.000115531520239<eps>
+499 500 instruction 1<eps>
+500 501 <eps> 、 1
+501 502 <eps> その 1
+502 0 <eps> 指示 1
+0 504 the -0.128772464093<eps>
+505 506 instruction 1<eps>
+506 507 <eps> 、 1
+507 0 <eps> 指令 1
+0 509 the -0.284105736751<eps>
+510 511 instruction 1<eps>
+511 512 <eps> 、 1
+512 0 <eps> 命令 1
+0 514 the -0.127900049456<eps>
+515 516 instruction 1<eps>
+516 517 <eps> 、 1
+517 0 <eps> 指示 1
+0 519 the -0.197276693824<eps>
+520 521 instruction 1<eps>
+521 522 <eps> 、 1
+522 0 <eps> インストラクション 1
+0 524 the -0.132119130897<eps>
+525 526 instruction 1<eps>
+526 527 <eps> た 1
+527 0 <eps> 命令 1
+0 529 the -0.0166961139567<eps>
+530 531 instruction 1<eps>
+531 532 <eps> そして 1
+532 533 <eps> 、 1
+533 0 <eps> 命令 1
+0 535 the 0.0306000925505<eps>
+536 537 instruction 1<eps>
+537 538 <eps> その 1
+538 0 <eps> 指令 1
+0 540 the -0.0494253862877<eps>
+541 542 instruction 1<eps>
+542 543 <eps> その 1
+543 0 <eps> 命令 1
+0 545 the -0.0745569824208<eps>
+546 547 instruction 1<eps>
+547 548 <eps> その 1
+548 0 <eps> 指示 1
+0 550 the -0.0429191134703<eps>
+551 552 instruction 1<eps>
+552 553 <eps> の 1
+553 0 <eps> 指令 1
+0 555 the -0.1664396395<eps>
+556 557 instruction 1<eps>
+557 558 <eps> の 1
+558 0 <eps> 命令 1
+0 560 the -0.158371374151<eps>
+561 562 instruction 1<eps>
+562 563 <eps> の 1
+563 0 <eps> 指示 1
+0 565 the -0.0849713185616<eps>
+566 567 instruction 1<eps>
+567 568 <eps> は 1
+568 569 <eps> 、 1
+569 0 <eps> 命令 1
+0 571 the -0.0587164836222<eps>
+572 573 instruction 1<eps>
+573 574 <eps> は 1
+574 575 <eps> 、 1
+575 0 <eps> インストラクション 1
+0 577 the -0.1149227736<eps>
+578 579 instruction 1<eps>
+579 580 <eps> は 1
+580 0 <eps> 命令 1
+0 582 the -0.104028545249<eps>
+583 584 instruction 1<eps>
+584 585 <eps> この 1
+585 0 <eps> 命令 1
+0 587 the -0.0334258374812<eps>
+588 589 instruction 1<eps>
+589 590 <eps> この 1
+590 0 <eps> 指示 1
+0 592 the 0.735280695642<eps>
+593 594 instruction 1<eps>
+594 0 <eps> する 1
+0 596 the -0.00869303025901<eps>
+597 598 instruction 1<eps>
+598 599 <eps> ， 1
+599 0 <eps> 命令 1
+0 601 the -0.00358568567978<eps>
+602 603 instruction 1<eps>
+603 604 <eps> 上記 1
+604 0 <eps> 指令 1
+0 606 the -0.0891853209622<eps>
+607 608 instruction 1<eps>
+608 609 <eps> 当該 1
+609 0 <eps> 命令 1
+0 611 the -0.0523418845414<eps>
+612 613 instruction 1<eps>
+613 614 <eps> 指示 1
+614 0 <eps> の 1
+0 616 the -0.0105145258924<eps>
+617 618 instruction 1<eps>
+618 619 <eps> 指示 1
+619 0 <eps> する 1
+0 621 instruction -0.234378074869<eps>
+622 623 memory 1<eps>
+623 624 <eps> 命令 1
+624 0 <eps> メモリ 1
+0 626 memory -0.148747776518<eps>
+627 628 700 1<eps>
+628 629 <eps> メモリ 1
+629 0 <eps> ７００ 1
+0 631 memory 0.549941462202<eps>
+632 633 700 1<eps>
+633 634 <eps> 記録 1
+634 635 <eps> 媒体 1
+635 0 <eps> ７００ 1
+0 637 memory 0.923602125878<eps>
+638 639 700 1<eps>
+639 640 <eps> 記録 1
+640 641 <eps> 媒体 1
+641 642 <eps> ７０ 1
+642 0 <eps> ０ 1
+0 644 700 0.0633847207397<eps>
+645 646 are 1<eps>
+646 647 <eps> ７００ 1
+647 0 <eps> は 1
+0 649 700 0.061454170947<eps>
+650 651 are 1<eps>
+651 652 <eps> ７００ 1
+652 0 <eps> が 1
+0 654 700 0.18894003076<eps>
+655 656 are 1<eps>
+656 657 <eps> ７００ 1
+657 0 <eps> を 1
+0 659 700 0.716271395753<eps>
+660 661 are 1<eps>
+661 662 <eps> ７０ 1
+662 663 <eps> ０ 1
+663 0 <eps> と 1
+0 665 are 0.635342211776<eps>
+666 667 managed 1<eps>
+667 668 <eps> て 1
+668 0 <eps> 管理 1
+0 670 are 0.321903360504<eps>
+671 672 managed 1<eps>
+672 673 <eps> を 1
+673 0 <eps> 管理 1
+0 675 are 0.369770512455<eps>
+676 677 managed 1<eps>
+677 678 <eps> 管理 1
+678 0 <eps> を 1
+0 680 are 0.446005184424<eps>
+681 682 managed 1<eps>
+682 683 <eps> 管理 1
+683 684 <eps> さ 1
+684 0 <eps> れ 1
+0 686 managed 0.37069694054<eps>
+687 688 by 1<eps>
+688 689 <eps> で 1
+689 0 <eps> 管理 1
+0 691 managed 0.393903567301<eps>
+692 693 by 1<eps>
+693 694 <eps> に 1
+694 695 <eps> よ 1
+695 696 <eps> っ 1
+696 697 <eps> て 1
+697 698 <eps> 管理 1
+698 699 <eps> さ 1
+699 0 <eps> れ 1
+0 701 managed 0.287461036603<eps>
+702 703 by 1<eps>
+703 704 <eps> に 1
+704 705 <eps> よ 1
+705 706 <eps> り 1
+706 707 <eps> 管理 1
+707 708 <eps> さ 1
+708 0 <eps> れ 1
+0 710 managed 0.344233764351<eps>
+711 712 by 1<eps>
+712 713 <eps> よ 1
+713 714 <eps> り 1
+714 715 <eps> 管理 1
+715 716 <eps> さ 1
+716 0 <eps> れ 1
+0 718 managed 0.368855480626<eps>
+719 720 by 1<eps>
+720 721 <eps> にて 1
+721 722 <eps> 管理 1
+722 723 <eps> さ 1
+723 0 <eps> れ 1
+0 725 managed 0.321466674404<eps>
+726 727 by 1<eps>
+727 728 <eps> 管理 1
+728 0 <eps> し 1
+0 730 managed 0.347471459854<eps>
+731 732 by 1<eps>
+732 733 <eps> 管理 1
+733 0 <eps> する 1
+0 735 managed 0.201557385908<eps>
+736 737 by 1<eps>
+737 738 <eps> 管理 1
+738 739 <eps> さ 1
+739 0 <eps> れ 1
+0 741 by 0.145556452075<eps>
+742 743 the 1<eps>
+743 0 <eps> する 1
+0 745 by 0.0426213362968<eps>
+746 747 the 1<eps>
+747 748 <eps> に 1
+748 749 <eps> よ 1
+749 750 <eps> り 1
+750 0 <eps> 、 1
+0 752 fetch 0.326414835205<eps>
+753 754 address 1<eps>
+754 755 <eps> ッ 1
+755 756 <eps> チ 1
+756 0 <eps> アドレス 1
+0 758 fetch 0.191545878671<eps>
+759 760 address 1<eps>
+760 761 <eps> フェッ 1
+761 762 <eps> チ 1
+762 0 <eps> アドレス 1
+0 764 address 0.288477079289<eps>
+765 766 latch 1<eps>
+766 0 <eps> ラッチ 1
+0 768 address -0.575684207638<eps>
+769 770 latch 1<eps>
+770 771 <eps> アドレス 1
+771 0 <eps> ラッチ 1
+0 773 address 0.17394474475<eps>
+774 775 latch 1<eps>
+775 776 <eps> アドレス 1
+776 0 <eps> 取り込み 1
+0 778 address 0.42569567761<eps>
+779 780 latch 1<eps>
+780 781 <eps> アドレス 1
+781 0 <eps> デコード 1
+0 783 latch -0.101945550851<eps>
+784 785 113 1<eps>
+785 786 <eps> ラッチ 1
+786 0 <eps> １１３ 1
+0 788 the 0.259220850448<eps>
+789 790 accessing 1<eps>
+790 791 <eps> 、 1
+791 0 <eps> アクセス 1
+0 793 circuit 0.545894109605<eps>
+794 795 103 1<eps>
+795 796 <eps> 部 1
+796 797 <eps> １０ 1
+797 0 <eps> ３ 1
+0 799 circuit 0.127930096402<eps>
+800 801 103 1<eps>
+801 802 <eps> 回路 1
+802 803 <eps> 10 1
+803 0 <eps> 3 1
+0 805 circuit 0.0922184787919<eps>
+806 807 103 1<eps>
+807 808 <eps> 回路 1
+808 0 <eps> １０ 1
+0 810 circuit -0.210574022313<eps>
+811 812 103 1<eps>
+812 813 <eps> 回路 1
+813 814 <eps> １０ 1
+814 0 <eps> ３ 1
+0 816 circuit 0.18319667881<eps>
+817 818 103 1<eps>
+818 819 <eps> 回路 1
+819 820 <eps> １０ 1
+820 0 <eps> ２ 1
+0 822 circuit -0.252069715647<eps>
+823 824 103 1<eps>
+824 825 <eps> 回路 1
+825 0 <eps> １０３ 1
+0 827 circuit 0.487257567659<eps>
+828 829 103 1<eps>
+829 830 <eps> 手段 1
+830 831 <eps> １０ 1
+831 0 <eps> ３ 1
+0 833 103 -0.0353909934136<eps>
+834 835 . 1<eps>
+835 836 <eps> １０３ 1
+836 837 <eps> で 1
+837 838 <eps> あ 1
+838 839 <eps> る 1
+839 0 <eps> 。 1
+0 841 addresses 0.118517676875<eps>
+842 843 of 1<eps>
+843 844 the 1<eps>
+844 845 <eps> の 1
+845 0 <eps> アドレス 1
+0 847 addresses 0.278635526924<eps>
+848 849 of 1<eps>
+849 850 the 1<eps>
+850 851 <eps> の 1
+851 852 <eps> アドレス 1
+852 0 <eps> の 1
+0 854 addresses 0.290779637431<eps>
+855 856 of 1<eps>
+856 857 the 1<eps>
+857 858 <eps> の 1
+858 859 <eps> アドレス 1
+859 0 <eps> を 1
+0 861 addresses 0.224547166484<eps>
+862 863 of 1<eps>
+863 864 the 1<eps>
+864 865 <eps> アドレス 1
+865 0 <eps> の 1
+0 867 of 0.269801721346<eps>
+868 869 the 1<eps>
+869 870 instructions 1<eps>
+870 871 <eps> の 1
+871 0 <eps> 命令 1
+0 873 of 0.329268352736<eps>
+874 875 the 1<eps>
+875 876 instructions 1<eps>
+876 877 <eps> の 1
+877 0 <eps> 指示 1
+0 879 of 0.420978412504<eps>
+880 881 the 1<eps>
+881 882 instructions 1<eps>
+882 883 <eps> この 1
+883 884 <eps> 指令 1
+884 0 <eps> の 1
+0 886 the 0.0862208644682<eps>
+887 888 instruction 1<eps>
+888 889 memory 1<eps>
+889 890 <eps> 、 1
+890 891 <eps> 命令 1
+891 0 <eps> メモリ 1
+0 893 are 0.748497335099<eps>
+894 895 managed 1<eps>
+895 896 by 1<eps>
+896 897 <eps> に 1
+897 898 <eps> よ 1
+898 899 <eps> り 1
+899 900 <eps> 管理 1
+900 901 <eps> さ 1
+901 0 <eps> れ 1
+0 903 are 0.772803265714<eps>
+904 905 managed 1<eps>
+905 906 by 1<eps>
+906 907 <eps> に 1
+907 908 <eps> 管理 1
+908 909 <eps> さ 1
+909 0 <eps> れ 1

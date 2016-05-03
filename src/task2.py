@@ -5,6 +5,7 @@
 from task1 import mkdir_p
 
 import itertools
+import math
 import os
 import sys
 
@@ -32,14 +33,19 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
         #
         feature_map = dict()
         for feature in feature_list.split():
-            feature = feature.split('=')
-            feature_map[feature[0]] = float(feature[1])
+            key, value = feature.split('=')
+            feature_map[key] = float(value) * weight_map[key]
+
+        feature_map['Glue'] = weight_map['Glue']
+        feature_map['WordPenalty'] = 1/math.log(10) * len(target) * weight_map['WordPenalty']
+
+        weight = sum(feature_map.values())
 
         last_index = len(target) - 1
 
         if len(source) == 1 and len(target) == 1:
 
-            os.write("0 0 {} {}\n".format(source[0], target[0]))
+            os.write("0 0 {} {} {}\n".format(source[0], target[0], weight))
 
         else:
 
@@ -50,10 +56,10 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
 
                 next_state = curr_state + 1
                 if i == 0:
-                    os.write("0 {} {} <eps>\n".
-                             format(curr_state, source[i]))
+                    os.write("0 {} {} {}<eps>\n".
+                             format(curr_state, source[i], weight))
                 else:
-                    os.write("{} {} {} <eps>\n".
+                    os.write("{} {} {} 1<eps>\n".
                              format(curr_state, next_state, source[i]))
                 curr_state = next_state
 
@@ -62,10 +68,10 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
 
                 next_state = curr_state + 1
                 if j < last_index:
-                    os.write("{} {} <eps> {}\n".
+                    os.write("{} {} <eps> {} 1\n".
                              format(curr_state, next_state, target[j]))
                 else:
-                    os.write("{} 0 <eps> {}\n".
+                    os.write("{} 0 <eps> {} 1\n".
                              format(curr_state, target[j]))
                 curr_state = next_state
 

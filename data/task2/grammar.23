@@ -1,1288 +1,1288 @@
-0 0 the 、
-0 0 the た
-0 0 the （
-0 0 the その
-0 0 the の
-0 0 the は
-0 1 the <eps>
-2 3 <eps> は
-3 0 <eps> 、
-0 5 the <eps>
-6 7 <eps> は
-7 0 <eps> この
-0 9 the <eps>
-10 11 <eps> また
-11 0 <eps> 、
-0 13 the <eps>
-14 15 <eps> なお
-15 0 <eps> 、
-0 0 the この
-0 0 the 前記
-0 0 the する
-0 0 the ア
-0 0 the 本
-0 0 the 各
-0 0 the 尚
-0 0 steering 用
-0 0 steering 操舵
-0 17 steering <eps>
-18 19 <eps> 操舵
-19 0 <eps> 用
-0 0 steering ステアリング
-0 21 steering <eps>
-22 23 <eps> ステアリング
-23 0 <eps> 系
-0 0 steering 操縦
-0 0 steering ハンドル
-0 0 steering 舵取
-0 25 steering <eps>
-26 27 <eps> 舵取
-27 0 <eps> り
-0 0 steering ステア
-0 0 steering 舵
-0 0 torque 出力
-0 29 torque <eps>
-30 31 <eps> 回転
-31 32 <eps> 体
-32 0 <eps> トルク
-0 34 torque <eps>
-35 36 <eps> 回転
-36 0 <eps> 力
-0 0 torque トルク
-0 38 torque <eps>
-39 40 <eps> トルク
-40 0 <eps> 値
-0 0 torque 力
-0 42 torque <eps>
-43 44 <eps> 力
-44 0 <eps> トルク
-0 0 torque 動力
-0 0 signal 信号
-0 0 signal 強度
-0 0 signal クロック
-0 0 inputted さ
-0 46 inputted <eps>
-47 48 <eps> さ
-48 49 <eps> れ
-49 0 <eps> た
-0 0 inputted 出力
-0 0 inputted 入射
-0 0 inputted 入
-0 0 inputted 入力
-0 51 inputted <eps>
-52 53 <eps> 入力
-53 54 <eps> し
-54 0 <eps> た
-0 56 inputted <eps>
-57 58 <eps> 入力
-58 59 <eps> さ
-59 0 <eps> れ
-0 61 inputted <eps>
-62 63 <eps> 入力
-63 64 <eps> さ
-64 65 <eps> れ
-65 0 <eps> た
-0 67 inputted <eps>
-68 69 <eps> 入金
-69 70 <eps> さ
-70 71 <eps> れ
-71 0 <eps> た
-0 0 to と
-0 0 to し
-0 0 to する
-0 0 to に
-0 73 to <eps>
-74 75 <eps> に
-75 0 <eps> し
-0 77 to <eps>
-78 79 <eps> に
-79 80 <eps> 対
-80 0 <eps> し
-0 0 to が
-0 0 to を
-0 0 to へ
-0 0 to れ
-0 0 to 項
-0 0 to 対
-0 0 to 〜
-0 0 to 乃至
-0 82 dead <eps>
-83 84 <eps> む
-84 0 <eps> だ
-0 0 dead 点
-0 0 dead 効果
-0 86 dead <eps>
-87 88 <eps> 不
-88 0 <eps> 感
-0 0 dead 上方
-0 90 dead <eps>
-91 92 <eps> 空
-92 0 <eps> き
-0 0 dead 溝
-0 0 dead デッド
-0 0 dead むだ
-0 0 dead 無駄
-0 0 dead 死
-0 0 dead 上死
-0 94 dead <eps>
-95 96 <eps> 上死
-96 0 <eps> 点
-0 98 dead <eps>
-99 100 <eps> カム
-100 0 <eps> 溝
-0 0 dead 不感
-0 102 dead <eps>
-103 104 <eps> 不感
-104 0 <eps> 帯
-0 0 dead 空き
-0 0 dead ｎｓ
-0 0 zone 部
-0 0 zone zone
-0 0 zone 帯
-0 0 zone 領域
-0 0 zone 域
-0 0 zone 区間
-0 0 zone ゾーン
-0 0 zone 帯域
-0 0 zone 層
-0 0 zone 輪帯
-0 0 zone エリア
-0 0 zone 範囲
-0 0 detector 発生
-0 0 detector 回路
-0 0 detector 手段
-0 0 detector 素子
-0 106 detector <eps>
-107 108 <eps> 判定
-108 0 <eps> 部
-0 110 detector <eps>
-111 112 <eps> 比較
-112 0 <eps> 回路
-0 114 detector <eps>
-115 116 <eps> 比較
-116 0 <eps> 器
-0 118 detector <eps>
-119 120 <eps> ディ
-120 0 <eps> テクタ
-0 0 detector 検出
-0 122 detector <eps>
-123 124 <eps> 検出
-124 0 <eps> 部
-0 126 detector <eps>
-127 128 <eps> 検出
-128 0 <eps> 用
-0 130 detector <eps>
-131 132 <eps> 検出
-132 0 <eps> 装置
-0 134 detector <eps>
-135 136 <eps> 検出
-136 0 <eps> 回路
-0 138 detector <eps>
-139 140 <eps> 検出
-140 0 <eps> 手段
-0 142 detector <eps>
-143 144 <eps> 検出
-144 0 <eps> 素子
-0 146 detector <eps>
-147 148 <eps> 検出
-148 0 <eps> 器
-0 150 detector <eps>
-151 152 <eps> 検出
-152 153 <eps> 器
-153 0 <eps> 回路
-0 155 detector <eps>
-156 157 <eps> 検知
-157 0 <eps> 部
-0 159 detector <eps>
-160 161 <eps> 検知
-161 0 <eps> 装置
-0 163 detector <eps>
-164 165 <eps> 検知
-165 0 <eps> 回路
-0 167 detector <eps>
-168 169 <eps> 検知
-169 0 <eps> 手段
-0 171 detector <eps>
-172 173 <eps> 検知
-173 0 <eps> 器
-0 0 detector 検波
-0 175 detector <eps>
-176 177 <eps> 検波
-177 0 <eps> 回路
-0 179 detector <eps>
-180 181 <eps> 検波
-181 0 <eps> 器
-0 0 detector ディテクタ
-0 0 detector 比較器
-0 0 detector センサ
-0 0 detector 検出回路
-0 0 23 れ
-0 0 23 部
-0 183 23 <eps>
-184 185 <eps> 部
-185 0 <eps> ２３
-0 0 23 ２２
-0 0 23 ２０
-0 0 23 ２３
-0 0 23 ６３
-0 0 23 23
-0 0 is の
-0 0 is は
-0 0 is に
-0 0 is も
-0 0 is が
-0 0 is あ
-0 0 is を
-0 0 is れ
-0 0 be する
-0 0 be も
-0 0 be こと
-0 0 be を
-0 0 be れ
-0 0 be せ
-0 0 value データ
-0 0 value 量
-0 0 value 電圧
-0 0 value 値
-0 0 value 数
-0 0 value 大き
-0 0 prior の
-0 0 prior 従来
-0 187 prior <eps>
-188 189 <eps> より
-189 0 <eps> も
-0 191 prior <eps>
-192 193 <eps> より
-193 194 <eps> も
-194 0 <eps> 先
-0 196 prior <eps>
-197 198 <eps> より
-198 199 <eps> も
-199 0 <eps> 前
-0 0 prior まで
-0 201 prior <eps>
-202 203 <eps> 先立
-203 0 <eps> っ
-0 205 prior <eps>
-206 207 <eps> 先立
-207 0 <eps> ち
-0 0 prior 先行
-0 0 prior 前
-0 0 prior 予め
-0 0 prior 先だって
-0 0 prior 先立ち
-0 0 prior 背景
-0 0 prior 事前
-0 0 practice は
-0 209 practice <eps>
-210 211 <eps> は
-211 0 <eps> 実際
-0 0 practice また
-0 0 practice 実施
-0 0 practice 的
-0 0 practice 記載
-0 213 practice <eps>
-214 215 <eps> 行
-215 0 <eps> う
-0 217 practice <eps>
-218 219 <eps> 行
-219 0 <eps> わ
-0 0 practice とき
-0 0 practice 上
-0 221 practice <eps>
-222 223 <eps> 行な
-223 0 <eps> う
-0 0 practice 実用
-0 225 practice <eps>
-226 227 <eps> 実用
-227 0 <eps> 的
-0 229 practice <eps>
-230 231 <eps> 実用
-231 0 <eps> 上
-0 0 practice 実際
-0 233 practice <eps>
-234 235 <eps> 実際
-235 0 <eps> は
-0 237 practice <eps>
-238 239 <eps> 実際
-239 0 <eps> 上
-0 0 practice 練習
-0 0 practice 実技
-0 0 of の
-0 0 of は
-0 0 of に
-0 241 of <eps>
-242 243 <eps> に
-243 0 <eps> おけ
-0 0 of も
-0 0 of が
-0 0 of を
-0 0 phase 位相
-0 245 phase <eps>
-246 247 <eps> 位相
-247 0 <eps> 角
-0 249 phase <eps>
-250 251 <eps> 位相
-251 0 <eps> 差
-0 0 phase フェーズ
-0 0 phase 相
-0 253 phase <eps>
-254 255 <eps> 相
-255 0 <eps> 位相
-0 0 phase ｐｈａｓｅ
-0 0 phase 同相
-0 0 compensation 補正
-0 257 compensation <eps>
-258 259 <eps> 補正
-259 0 <eps> 用
-0 261 compensation <eps>
-262 263 <eps> 補正
-263 0 <eps> 計算
-0 0 compensation 補償
-0 265 compensation <eps>
-266 267 <eps> 補償
-267 0 <eps> 処理
-0 269 compensation <eps>
-270 271 <eps> 補償
-271 0 <eps> 用
-0 0 compensation 模擬
-0 0 compensation 補填
-0 0 compensation アシスト
-0 273 . <eps>
-274 275 <eps> た
-275 0 <eps> 。
-0 277 . <eps>
-278 279 <eps> する
-279 0 <eps> 。
-0 0 . 。
-0 281 . <eps>
-282 283 <eps> い
-283 0 <eps> 。
-0 285 . <eps>
-286 287 <eps> い
-287 288 <eps> る
-288 0 <eps> 。
-0 290 . <eps>
-291 292 <eps> い
-292 293 <eps> く
-293 0 <eps> 。
-0 0 . る
-0 295 . <eps>
-296 297 <eps> る
-297 0 <eps> 。
-0 299 . <eps>
-300 301 <eps> う
-301 0 <eps> 。
-0 303 . <eps>
-304 305 <eps> あ
-305 306 <eps> る
-306 0 <eps> 。
-0 308 the <eps>
-309 310 steering <eps>
-310 311 <eps> 、
-311 0 <eps> 操舵
-0 313 the <eps>
-314 315 steering <eps>
-315 316 <eps> 、
-316 0 <eps> ステアリング
-0 318 the <eps>
-319 320 steering <eps>
-320 321 <eps> 、
-321 322 <eps> 舵取
-322 0 <eps> り
-0 324 the <eps>
-325 326 steering <eps>
-326 327 <eps> 、
-327 328 <eps> 実
-328 0 <eps> 舵角
-0 330 the <eps>
-331 332 steering <eps>
-332 333 <eps> た
-333 0 <eps> 操舵
-0 335 the <eps>
-336 337 steering <eps>
-337 338 <eps> た
-338 0 <eps> ステアリング
-0 340 the <eps>
-341 342 steering <eps>
-342 343 <eps> その
-343 344 <eps> 操舵
-344 0 <eps> 用
-0 346 the <eps>
-347 348 steering <eps>
-348 349 <eps> その
-349 0 <eps> ステアリング
-0 351 the <eps>
-352 353 steering <eps>
-353 354 <eps> の
-354 0 <eps> 操舵
-0 356 the <eps>
-357 358 steering <eps>
-358 359 <eps> の
-359 0 <eps> ステアリング
-0 361 the <eps>
-362 363 steering <eps>
-363 364 <eps> の
-364 0 <eps> 舵取
-0 366 the <eps>
-367 368 steering <eps>
-368 369 <eps> は
-369 370 <eps> 、
-370 0 <eps> ステアリング
-0 372 the <eps>
-373 374 steering <eps>
-374 375 <eps> は
-375 0 <eps> ステアリング
-0 377 the <eps>
-378 379 steering <eps>
-379 380 <eps> また
-380 381 <eps> 、
-381 0 <eps> 操舵
-0 383 the <eps>
-384 385 steering <eps>
-385 386 <eps> この
-386 0 <eps> 操舵
-0 388 the <eps>
-389 390 steering <eps>
-390 391 <eps> 同
-391 0 <eps> ステアリング
-0 393 the <eps>
-394 395 steering <eps>
-395 396 <eps> 該
-396 0 <eps> 操舵
-0 398 the <eps>
-399 400 steering <eps>
-400 401 <eps> 車輪
-401 0 <eps> 操舵
-0 403 steering <eps>
-404 405 torque <eps>
-405 406 <eps> 操舵
-406 0 <eps> トルク
-0 408 steering <eps>
-409 410 torque <eps>
-410 411 <eps> 操舵
-411 412 <eps> トルク
-412 0 <eps> 値
-0 414 steering <eps>
-415 416 torque <eps>
-416 417 <eps> 操舵
-417 0 <eps> 力
-0 419 steering <eps>
-420 421 torque <eps>
-421 422 <eps> ステアリング
-422 0 <eps> トルク
-0 424 torque <eps>
-425 426 signal <eps>
-426 427 <eps> トルク
-427 0 <eps> 信号
-0 429 torque <eps>
-430 431 signal <eps>
-431 432 <eps> 力
-432 433 <eps> トルク
-433 0 <eps> 信号
-0 435 signal <eps>
-436 437 inputted <eps>
-437 438 <eps> 信号
-438 0 <eps> 入力
-0 440 signal <eps>
-441 442 inputted <eps>
-442 443 <eps> 入力
-443 444 <eps> さ
-444 445 <eps> れ
-445 446 <eps> た
-446 0 <eps> 信号
-0 448 signal <eps>
-449 450 inputted <eps>
-450 451 <eps> 入力
-451 452 <eps> さ
-452 453 <eps> れ
-453 454 <eps> た
-454 455 <eps> 入力
-455 0 <eps> 信号
-0 457 signal <eps>
-458 459 inputted <eps>
-459 460 <eps> 入力
-460 0 <eps> 信号
-0 462 inputted <eps>
-463 464 to <eps>
-464 465 <eps> に
-465 0 <eps> 入
-0 467 inputted <eps>
-468 469 to <eps>
-469 470 <eps> に
-470 0 <eps> 入力
-0 472 inputted <eps>
-473 474 to <eps>
-474 475 <eps> に
-475 476 <eps> 入力
-476 0 <eps> し
-0 478 inputted <eps>
-479 480 to <eps>
-480 481 <eps> に
-481 482 <eps> 入力
-482 0 <eps> する
-0 484 inputted <eps>
-485 486 to <eps>
-486 487 <eps> に
-487 488 <eps> 入力
-488 489 <eps> さ
-489 0 <eps> れ
-0 491 inputted <eps>
-492 493 to <eps>
-493 494 <eps> に
-494 495 <eps> 入力
-495 496 <eps> さ
-496 497 <eps> れ
-497 0 <eps> た
-0 499 inputted <eps>
-500 501 to <eps>
-501 502 <eps> から
-502 503 <eps> 入力
-503 504 <eps> さ
-504 505 <eps> れ
-505 0 <eps> た
-0 507 inputted <eps>
-508 509 to <eps>
-509 510 <eps> を
-510 0 <eps> 入力
-0 512 inputted <eps>
-513 514 to <eps>
-514 515 <eps> 入力
-515 0 <eps> する
-0 517 inputted <eps>
-518 519 to <eps>
-519 520 <eps> 入力
-520 521 <eps> さ
-521 0 <eps> れ
-0 523 inputted <eps>
-524 525 to <eps>
-525 526 <eps> 取り込
-526 0 <eps> む
-0 528 inputted <eps>
-529 530 to <eps>
-530 531 <eps> 合体
-531 532 <eps> さ
-532 0 <eps> れ
-0 534 to <eps>
-535 536 the <eps>
-536 537 <eps> と
-537 0 <eps> は
-0 539 to <eps>
-540 541 the <eps>
-541 542 <eps> に
-542 0 <eps> 、
-0 544 to <eps>
-545 546 the <eps>
-546 547 <eps> から
-547 0 <eps> の
-0 549 to <eps>
-550 551 the <eps>
-551 552 <eps> を
-552 0 <eps> 上記
-0 554 to <eps>
-555 556 the <eps>
-556 557 <eps> へ
-557 0 <eps> の
-0 559 the <eps>
-560 561 dead <eps>
-561 562 <eps> 、
-562 0 <eps> デッド
-0 564 the <eps>
-565 566 dead <eps>
-566 567 <eps> 、
-567 0 <eps> むだ
-0 569 the <eps>
-570 571 dead <eps>
-571 572 <eps> 、
-572 0 <eps> 不感
-0 574 the <eps>
-575 576 dead <eps>
-576 577 <eps> 、
-577 0 <eps> 空き
-0 579 the <eps>
-580 581 dead <eps>
-581 582 <eps> その
-582 0 <eps> 無駄
-0 584 the <eps>
-585 586 dead <eps>
-586 587 <eps> その
-587 0 <eps> 死
-0 589 the <eps>
-590 591 dead <eps>
-591 592 <eps> の
-592 0 <eps> デッド
-0 594 the <eps>
-595 596 dead <eps>
-596 597 <eps> の
-597 0 <eps> 死
-0 599 the <eps>
-600 601 dead <eps>
-601 602 <eps> の
-602 0 <eps> デット
-0 604 the <eps>
-605 606 dead <eps>
-606 607 <eps> は
-607 608 <eps> 、
-608 0 <eps> デッド
-0 610 the <eps>
-611 612 dead <eps>
-612 613 <eps> は
-613 0 <eps> デッド
-0 615 the <eps>
-616 617 dead <eps>
-617 618 <eps> は
-618 0 <eps> 不感
-0 620 the <eps>
-621 622 dead <eps>
-622 623 <eps> は
-623 624 <eps> 不感
-624 0 <eps> 帯
-0 626 the <eps>
-627 628 dead <eps>
-628 629 <eps> さらに
-629 630 <eps> 、
-630 0 <eps> デッド
-0 632 the <eps>
-633 634 dead <eps>
-634 635 <eps> この
-635 0 <eps> デッド
-0 637 the <eps>
-638 639 dead <eps>
-639 640 <eps> この
-640 0 <eps> 不感
-0 642 the <eps>
-643 644 dead <eps>
-644 645 <eps> 上記
-645 0 <eps> 無駄
-0 647 the <eps>
-648 649 dead <eps>
-649 650 <eps> 上記
-650 0 <eps> 不感
-0 652 dead <eps>
-653 654 zone <eps>
-654 655 <eps> 不
-655 656 <eps> 感
-656 0 <eps> 帯
-0 658 dead <eps>
-659 660 zone <eps>
-660 661 <eps> デッド
-661 0 <eps> ゾーン
-0 663 dead <eps>
-664 665 zone <eps>
-665 666 <eps> 不感
-666 0 <eps> 帯
-0 668 dead <eps>
-669 670 zone <eps>
-670 671 <eps> 不感
-671 0 <eps> 領域
-0 673 dead <eps>
-674 675 zone <eps>
-675 676 <eps> 不感
-676 0 <eps> 帯域
-0 678 detector <eps>
-679 680 23 <eps>
-680 681 <eps> 検出
-681 682 <eps> 部
-682 0 <eps> ２３
-0 684 detector <eps>
-685 686 23 <eps>
-686 687 <eps> 検出
-687 688 <eps> 手段
-688 0 <eps> ２３
-0 690 detector <eps>
-691 692 23 <eps>
-692 693 <eps> 検出
-693 694 <eps> 手段
-694 0 <eps> 23
-0 696 detector <eps>
-697 698 23 <eps>
-698 699 <eps> 検出
-699 700 <eps> 器
-700 0 <eps> ２３
-0 702 detector <eps>
-703 704 23 <eps>
-704 705 <eps> 検知
-705 706 <eps> 体
-706 0 <eps> ２３
-0 708 detector <eps>
-709 710 23 <eps>
-710 711 <eps> 検知
-711 712 <eps> 器
-712 0 <eps> ２３
-0 714 detector <eps>
-715 716 23 <eps>
-716 717 <eps> 検波
-717 718 <eps> 回路
-718 0 <eps> ２３
-0 720 detector <eps>
-721 722 23 <eps>
-722 723 <eps> 検波
-723 724 <eps> 器
-724 0 <eps> ２３
-0 726 23 <eps>
-727 728 is <eps>
-728 729 <eps> ２２
-729 0 <eps> を
-0 731 23 <eps>
-732 733 is <eps>
-733 734 <eps> ３３
-734 0 <eps> は
-0 736 23 <eps>
-737 738 is <eps>
-738 739 <eps> ２１
-739 0 <eps> は
-0 741 23 <eps>
-742 743 is <eps>
-743 744 <eps> ７
-744 0 <eps> は
-0 746 23 <eps>
-747 748 is <eps>
-748 749 <eps> ２３
-749 0 <eps> は
-0 751 23 <eps>
-752 753 is <eps>
-753 754 <eps> ２３
-754 0 <eps> が
-0 756 23 <eps>
-757 758 is <eps>
-758 759 <eps> ２３
-759 0 <eps> を
-0 761 23 <eps>
-762 763 is <eps>
-763 764 <eps> 23
-764 0 <eps> が
-0 766 is <eps>
-767 768 to <eps>
-768 769 <eps> に
-769 0 <eps> は
-0 771 is <eps>
-772 773 to <eps>
-773 0 <eps> を
-0 775 to <eps>
-776 777 be <eps>
-777 778 <eps> よう
-778 0 <eps> に
-0 780 to <eps>
-781 782 be <eps>
-782 783 <eps> よう
-783 784 <eps> に
-784 0 <eps> な
-0 786 to <eps>
-787 788 be <eps>
-788 789 <eps> と
-789 0 <eps> な
-0 791 to <eps>
-792 793 be <eps>
-793 0 <eps> する
-0 795 to <eps>
-796 797 be <eps>
-797 798 <eps> する
-798 799 <eps> よう
-799 0 <eps> に
-0 801 to <eps>
-802 803 be <eps>
-803 804 <eps> する
-804 0 <eps> ため
-0 806 to <eps>
-807 808 be <eps>
-808 809 <eps> に
-809 0 <eps> よ
-0 811 to <eps>
-812 813 be <eps>
-813 814 <eps> を
-814 0 <eps> な
-0 816 to <eps>
-817 818 be <eps>
-818 819 <eps> を
-819 0 <eps> 使用
-0 821 to <eps>
-822 823 be <eps>
-823 824 <eps> べ
-824 0 <eps> き
-0 826 be <eps>
-827 828 the <eps>
-828 0 <eps> する
-0 830 the <eps>
-831 832 value <eps>
-832 833 <eps> 、
-833 0 <eps> 値
-0 835 the <eps>
-836 837 value <eps>
-837 838 <eps> その
-838 0 <eps> 値
-0 840 the <eps>
-841 842 value <eps>
-842 843 <eps> の
-843 0 <eps> 値
-0 845 the <eps>
-846 847 value <eps>
-847 848 <eps> この
-848 0 <eps> 値
-0 850 the <eps>
-851 852 value <eps>
-852 853 <eps> 上記
-853 0 <eps> 数値
-0 855 the <eps>
-856 857 value <eps>
-857 858 <eps> 値
-858 0 <eps> は
-0 860 prior <eps>
-861 862 to <eps>
-862 863 <eps> よう
-863 0 <eps> に
-0 865 prior <eps>
-866 867 to <eps>
-867 868 <eps> より
-868 869 <eps> も
-869 870 <eps> 先
-870 0 <eps> に
-0 872 prior <eps>
-873 874 to <eps>
-874 875 <eps> より
-875 876 <eps> も
-876 877 <eps> 前
-877 0 <eps> に
-0 879 prior <eps>
-880 881 to <eps>
-881 882 <eps> より
-882 883 <eps> 先
-883 0 <eps> に
-0 885 prior <eps>
-886 887 to <eps>
-887 888 <eps> より
-888 889 <eps> 優先
-889 0 <eps> し
-0 891 prior <eps>
-892 893 to <eps>
-893 894 <eps> する
-894 895 <eps> に
-895 896 <eps> 先立
-896 0 <eps> っ
-0 898 prior <eps>
-899 900 to <eps>
-900 901 <eps> する
-901 0 <eps> 前
-0 903 prior <eps>
-904 905 to <eps>
-905 906 <eps> する
-906 907 <eps> 前
-907 0 <eps> に
-0 909 prior <eps>
-910 911 to <eps>
-911 912 <eps> に
-912 0 <eps> 先立
-0 914 prior <eps>
-915 916 to <eps>
-916 917 <eps> に
-917 918 <eps> 先立
-918 0 <eps> っ
-0 920 prior <eps>
-921 922 to <eps>
-922 923 <eps> に
-923 924 <eps> 先立
-924 0 <eps> つ
-0 926 prior <eps>
-927 928 to <eps>
-928 929 <eps> に
-929 930 <eps> 先立
-930 0 <eps> ち
-0 932 prior <eps>
-933 934 to <eps>
-934 935 <eps> に
-935 0 <eps> 先行
-0 937 prior <eps>
-938 939 to <eps>
-939 940 <eps> に
-940 941 <eps> 先行
-941 0 <eps> し
-0 943 prior <eps>
-944 945 to <eps>
-945 946 <eps> に
-946 0 <eps> 先だって
-0 948 prior <eps>
-949 950 to <eps>
-950 951 <eps> に
-951 0 <eps> 先立ち
-0 953 prior <eps>
-954 955 to <eps>
-955 956 <eps> まで
-956 0 <eps> に
-0 958 prior <eps>
-959 960 to <eps>
-960 961 <eps> 際
-961 0 <eps> 、
-0 963 prior <eps>
-964 965 to <eps>
-965 966 <eps> 先
-966 0 <eps> に
-0 968 prior <eps>
-969 970 to <eps>
-970 971 <eps> 開始
-971 972 <eps> 前
-972 0 <eps> に
-0 974 prior <eps>
-975 976 to <eps>
-976 977 <eps> 先立
-977 0 <eps> っ
-0 979 prior <eps>
-980 981 to <eps>
-981 982 <eps> 先立
-982 0 <eps> ち
-0 984 prior <eps>
-985 986 to <eps>
-986 987 <eps> 前
-987 0 <eps> に
-0 989 prior <eps>
-990 991 to <eps>
-991 992 <eps> 前
-992 993 <eps> に
-993 994 <eps> 行
-994 0 <eps> わ
-0 996 prior <eps>
-997 998 to <eps>
-998 999 <eps> 以前
-999 0 <eps> に
-0 1001 practice <eps>
-1002 1003 of <eps>
-1003 1004 <eps> の
-1004 0 <eps> 実施
-0 1006 practice <eps>
-1007 1008 of <eps>
-1008 0 <eps> は
-0 1010 practice <eps>
-1011 1012 of <eps>
-1012 1013 <eps> を
-1013 0 <eps> 実施
-0 1015 of <eps>
-1016 1017 the <eps>
-1017 0 <eps> の
-0 1019 of <eps>
-1020 1021 the <eps>
-1021 0 <eps> は
-0 1023 of <eps>
-1024 1025 the <eps>
-1025 1026 <eps> に
-1026 1027 <eps> よ
-1027 1028 <eps> り
-1028 0 <eps> 、
-0 1030 the <eps>
-1031 1032 phase <eps>
-1032 1033 <eps> 、
-1033 0 <eps> 位相
-0 1035 the <eps>
-1036 1037 phase <eps>
-1037 1038 <eps> 、
-1038 0 <eps> 相
-0 1040 the <eps>
-1041 1042 phase <eps>
-1042 1043 <eps> た
-1043 0 <eps> 位相
-0 1045 the <eps>
-1046 1047 phase <eps>
-1047 1048 <eps> その
-1048 1049 <eps> ため
-1049 0 <eps> 位相
-0 1051 the <eps>
-1052 1053 phase <eps>
-1053 1054 <eps> その
-1054 0 <eps> 位相
-0 1056 the <eps>
-1057 1058 phase <eps>
-1058 1059 <eps> の
-1059 0 <eps> フローチャート
-0 1061 the <eps>
-1062 1063 phase <eps>
-1063 1064 <eps> の
-1064 0 <eps> 位相
-0 1066 the <eps>
-1067 1068 phase <eps>
-1068 1069 <eps> の
-1069 0 <eps> 相
-0 1071 the <eps>
-1072 1073 phase <eps>
-1073 1074 <eps> は
-1074 1075 <eps> 、
-1075 0 <eps> 位相
-0 1077 the <eps>
-1078 1079 phase <eps>
-1079 1080 <eps> は
-1080 0 <eps> 位相
-0 1082 the <eps>
-1083 1084 phase <eps>
-1084 1085 <eps> また
-1085 1086 <eps> 、
-1086 0 <eps> 位相
-0 1088 the <eps>
-1089 1090 phase <eps>
-1090 1091 <eps> なお
-1091 1092 <eps> 、
-1092 0 <eps> 位相
-0 1094 the <eps>
-1095 1096 phase <eps>
-1096 1097 <eps> この
-1097 0 <eps> 位相
-0 1099 the <eps>
-1100 1101 phase <eps>
-1101 1102 <eps> 前記
-1102 0 <eps> 位相
-0 1104 the <eps>
-1105 1106 phase <eps>
-1106 1107 <eps> が
-1107 0 <eps> 位相
-0 1109 the <eps>
-1110 1111 phase <eps>
-1111 1112 <eps> 上記
-1112 0 <eps> 位相
-0 1114 the <eps>
-1115 1116 phase <eps>
-1116 1117 <eps> 位相
-1117 0 <eps> は
-0 1119 the <eps>
-1120 1121 phase <eps>
-1121 1122 <eps> 位相
-1122 1123 <eps> は
-1123 0 <eps> 、
-0 1125 phase <eps>
-1126 1127 compensation <eps>
-1127 1128 <eps> 位相
-1128 0 <eps> 補正
-0 1130 phase <eps>
-1131 1132 compensation <eps>
-1132 1133 <eps> 位相
-1133 0 <eps> 差
-0 1135 phase <eps>
-1136 1137 compensation <eps>
-1137 1138 <eps> 位相
-1138 0 <eps> 補償
-0 1140 phase <eps>
-1141 1142 compensation <eps>
-1142 1143 <eps> 位相
-1143 1144 <eps> 補償
-1144 0 <eps> 用
-0 1146 the <eps>
-1147 1148 steering <eps>
-1148 1149 torque <eps>
-1149 1150 <eps> 、
-1150 1151 <eps> 操舵
-1151 0 <eps> トルク
-0 1153 the <eps>
-1154 1155 steering <eps>
-1155 1156 torque <eps>
-1156 1157 <eps> た
-1157 1158 <eps> 操舵
-1158 0 <eps> トルク
-0 1160 the <eps>
-1161 1162 steering <eps>
-1162 1163 torque <eps>
-1163 1164 <eps> の
-1164 1165 <eps> 操舵
-1165 0 <eps> トルク
-0 1167 the <eps>
-1168 1169 steering <eps>
-1169 1170 torque <eps>
-1170 1171 <eps> は
-1171 1172 <eps> 、
-1172 1173 <eps> 操舵
-1173 0 <eps> トルク
-0 1175 the <eps>
-1176 1177 steering <eps>
-1177 1178 torque <eps>
-1178 1179 <eps> は
-1179 1180 <eps> 操舵
-1180 0 <eps> トルク
-0 1182 the <eps>
-1183 1184 steering <eps>
-1184 1185 torque <eps>
-1185 1186 <eps> この
-1186 1187 <eps> 操舵
-1187 0 <eps> トルク
-0 1189 the <eps>
-1190 1191 steering <eps>
-1191 1192 torque <eps>
-1192 1193 <eps> 上記
-1193 1194 <eps> 操舵
-1194 0 <eps> トルク
-0 1196 steering <eps>
-1197 1198 torque <eps>
-1198 1199 signal <eps>
-1199 1200 <eps> 操舵
-1200 1201 <eps> トルク
-1201 0 <eps> 信号
-0 1203 inputted <eps>
-1204 1205 to <eps>
-1205 1206 the <eps>
-1206 1207 <eps> に
-1207 1208 <eps> 入力
-1208 1209 <eps> し
-1209 0 <eps> た
-0 1211 inputted <eps>
-1212 1213 to <eps>
-1213 1214 the <eps>
-1214 1215 <eps> に
-1215 1216 <eps> 入力
-1216 0 <eps> する
-0 1218 inputted <eps>
-1219 1220 to <eps>
-1220 1221 the <eps>
-1221 1222 <eps> に
-1222 1223 <eps> 入力
-1223 1224 <eps> さ
-1224 1225 <eps> れ
-1225 0 <eps> 、
-0 1227 the <eps>
-1228 1229 dead <eps>
-1229 1230 zone <eps>
-1230 1231 <eps> 、
-1231 1232 <eps> デッド
-1232 0 <eps> ゾーン
-0 1234 the <eps>
-1235 1236 dead <eps>
-1236 1237 zone <eps>
-1237 1238 <eps> 、
-1238 1239 <eps> 不感
-1239 0 <eps> 帯
-0 1241 the <eps>
-1242 1243 dead <eps>
-1243 1244 zone <eps>
-1244 1245 <eps> は
-1245 1246 <eps> 不感
-1246 0 <eps> 帯
-0 1248 the <eps>
-1249 1250 dead <eps>
-1250 1251 zone <eps>
-1251 1252 <eps> 上記
-1252 1253 <eps> 不感
-1253 0 <eps> 帯
-0 1255 is <eps>
-1256 1257 to <eps>
-1257 1258 be <eps>
-1258 1259 <eps> を
-1259 0 <eps> 考え
-0 1261 to <eps>
-1262 1263 be <eps>
-1263 1264 the <eps>
-1264 1265 <eps> と
-1265 0 <eps> する
-0 1267 to <eps>
-1268 1269 be <eps>
-1269 1270 the <eps>
-1270 0 <eps> する
-0 1272 prior <eps>
-1273 1274 to <eps>
-1274 1275 the <eps>
-1275 1276 <eps> の
-1276 1277 <eps> 前
-1277 0 <eps> に
-0 1279 prior <eps>
-1280 1281 to <eps>
-1281 1282 the <eps>
-1282 1283 <eps> より
-1283 1284 <eps> 以前
-1284 0 <eps> の
-0 1286 prior <eps>
-1287 1288 to <eps>
-1288 1289 the <eps>
-1289 1290 <eps> する
-1290 1291 <eps> に
-1291 1292 <eps> 先立
-1292 0 <eps> ち
-0 1294 prior <eps>
-1295 1296 to <eps>
-1296 1297 the <eps>
-1297 1298 <eps> する
-1298 1299 <eps> 前
-1299 0 <eps> の
-0 1301 prior <eps>
-1302 1303 to <eps>
-1303 1304 the <eps>
-1304 1305 <eps> に
-1305 1306 <eps> 先行
-1306 1307 <eps> し
-1307 1308 <eps> て
-1308 1309 <eps> 、
-1309 0 <eps> これ
-0 1311 prior <eps>
-1312 1313 to <eps>
-1313 1314 the <eps>
-1314 1315 <eps> 前
-1315 1316 <eps> に
-1316 0 <eps> 、
-0 1318 practice <eps>
-1319 1320 of <eps>
-1320 1321 the <eps>
-1321 1322 <eps> の
-1322 0 <eps> 実施
-0 1324 of <eps>
-1325 1326 the <eps>
-1326 1327 phase <eps>
-1327 1328 <eps> 、
-1328 1329 <eps> 位相
-1329 0 <eps> の
-0 1331 of <eps>
-1332 1333 the <eps>
-1333 1334 phase <eps>
-1334 1335 <eps> た
-1335 1336 <eps> 位相
-1336 0 <eps> の
-0 1338 of <eps>
-1339 1340 the <eps>
-1340 1341 phase <eps>
-1341 1342 <eps> の
-1342 0 <eps> 位相
-0 1344 of <eps>
-1345 1346 the <eps>
-1346 1347 phase <eps>
-1347 1348 <eps> で
-1348 1349 <eps> 、
-1349 0 <eps> 位相
-0 1351 of <eps>
-1352 1353 the <eps>
-1353 1354 phase <eps>
-1354 1355 <eps> 位相
-1355 0 <eps> の
-0 1357 of <eps>
-1358 1359 the <eps>
-1359 1360 phase <eps>
-1360 1361 <eps> 相
-1361 0 <eps> の
-0 1363 the <eps>
-1364 1365 phase <eps>
-1365 1366 compensation <eps>
-1366 1367 <eps> 、
-1367 1368 <eps> 位相
-1368 0 <eps> 差
-0 1370 the <eps>
-1371 1372 phase <eps>
-1372 1373 compensation <eps>
-1373 1374 <eps> 、
-1374 1375 <eps> 位相
-1375 0 <eps> 補償
-0 1377 the <eps>
-1378 1379 phase <eps>
-1379 1380 compensation <eps>
-1380 1381 <eps> 、
-1381 1382 <eps> 位相
-1382 1383 <eps> 補償
-1383 0 <eps> 用
-0 1385 the <eps>
-1386 1387 phase <eps>
-1387 1388 compensation <eps>
-1388 1389 <eps> は
-1389 1390 <eps> 位相
-1390 0 <eps> 補正
-0 1392 the <eps>
-1393 1394 steering <eps>
-1394 1395 torque <eps>
-1395 1396 signal <eps>
-1396 1397 <eps> 、
-1397 1398 <eps> 操舵
-1398 1399 <eps> トルク
-1399 0 <eps> 信号
-0 1401 the <eps>
-1402 1403 steering <eps>
-1403 1404 torque <eps>
-1404 1405 signal <eps>
-1405 1406 <eps> た
-1406 1407 <eps> 操舵
-1407 1408 <eps> トルク
-1408 0 <eps> 信号
+0 0 the 、 -0.45570792646
+0 0 the た -0.208465539212
+0 0 the （ -0.117704129383
+0 0 the その -0.206772512672
+0 0 the の -0.355870618201
+0 0 the は -0.294741992565
+0 1 the -0.146584141045<eps>
+2 3 <eps> は 1
+3 0 <eps> 、 1
+0 5 the -0.101898660074<eps>
+6 7 <eps> は 1
+7 0 <eps> この 1
+0 9 the -0.22253113121<eps>
+10 11 <eps> また 1
+11 0 <eps> 、 1
+0 13 the -0.174570713376<eps>
+14 15 <eps> なお 1
+15 0 <eps> 、 1
+0 0 the この -0.257003566874
+0 0 the 前記 -0.294569102431
+0 0 the する -0.142730056144
+0 0 the ア -0.106215188445
+0 0 the 本 -0.129139414206
+0 0 the 各 -0.1248844912
+0 0 the 尚 -0.115858194859
+0 0 steering 用 0.188023320774
+0 0 steering 操舵 -0.554117451835
+0 17 steering -0.270247362304<eps>
+18 19 <eps> 操舵 1
+19 0 <eps> 用 1
+0 0 steering ステアリング -0.590037803397
+0 21 steering -0.165772149783<eps>
+22 23 <eps> ステアリング 1
+23 0 <eps> 系 1
+0 0 steering 操縦 -0.0977073934318
+0 0 steering ハンドル -0.176703899823
+0 0 steering 舵取 -0.283393162712
+0 25 steering -0.119837886056<eps>
+26 27 <eps> 舵取 1
+27 0 <eps> り 1
+0 0 steering ステア -0.155833603011
+0 0 steering 舵 -0.0520189685411
+0 0 torque 出力 0.373840910367
+0 29 torque -0.0818678731792<eps>
+30 31 <eps> 回転 1
+31 32 <eps> 体 1
+32 0 <eps> トルク 1
+0 34 torque 0.139072802187<eps>
+35 36 <eps> 回転 1
+36 0 <eps> 力 1
+0 0 torque トルク -0.65431719991
+0 38 torque -0.176875727128<eps>
+39 40 <eps> トルク 1
+40 0 <eps> 値 1
+0 0 torque 力 0.0595343327441
+0 42 torque -0.263517888807<eps>
+43 44 <eps> 力 1
+44 0 <eps> トルク 1
+0 0 torque 動力 0.0866762652104
+0 0 signal 信号 -0.644163322594
+0 0 signal 強度 0.361803602907
+0 0 signal クロック 0.0483201044076
+0 0 inputted さ 0.104612413362
+0 46 inputted 0.229035781426<eps>
+47 48 <eps> さ 1
+48 49 <eps> れ 1
+49 0 <eps> た 1
+0 0 inputted 出力 0.364642090685
+0 0 inputted 入射 0.157892372216
+0 0 inputted 入 0.00551983065996
+0 0 inputted 入力 -0.362337433089
+0 51 inputted 0.045698617846<eps>
+52 53 <eps> 入力 1
+53 54 <eps> し 1
+54 0 <eps> た 1
+0 56 inputted -0.267933851229<eps>
+57 58 <eps> 入力 1
+58 59 <eps> さ 1
+59 0 <eps> れ 1
+0 61 inputted -0.079470539728<eps>
+62 63 <eps> 入力 1
+63 64 <eps> さ 1
+64 65 <eps> れ 1
+65 0 <eps> た 1
+0 67 inputted 0.227193465465<eps>
+68 69 <eps> 入金 1
+69 70 <eps> さ 1
+70 71 <eps> れ 1
+71 0 <eps> た 1
+0 0 to と -0.0605235777998
+0 0 to し -0.195307765466
+0 0 to する -0.134373807377
+0 0 to に -0.454434469281
+0 73 to -0.0853170865458<eps>
+74 75 <eps> に 1
+75 0 <eps> し 1
+0 77 to -0.00284211399734<eps>
+78 79 <eps> に 1
+79 80 <eps> 対 1
+80 0 <eps> し 1
+0 0 to が 0.000253675339586
+0 0 to を -0.292591084177
+0 0 to へ -0.330492127105
+0 0 to れ -0.0548510064898
+0 0 to 項 -0.0240297349562
+0 0 to 対 -0.0883197401063
+0 0 to 〜 -0.380788020972
+0 0 to 乃至 -0.239364960167
+0 82 dead 0.45030621467<eps>
+83 84 <eps> む 1
+84 0 <eps> だ 1
+0 0 dead 点 -0.000170497151942
+0 0 dead 効果 0.398306131348
+0 86 dead 0.269443156862<eps>
+87 88 <eps> 不 1
+88 0 <eps> 感 1
+0 0 dead 上方 0.378188905499
+0 90 dead 0.0988631006698<eps>
+91 92 <eps> 空 1
+92 0 <eps> き 1
+0 0 dead 溝 0.294173719452
+0 0 dead デッド -0.497958994205
+0 0 dead むだ -0.286483034186
+0 0 dead 無駄 -0.24834986567
+0 0 dead 死 -0.31481136258
+0 0 dead 上死 -0.170437463284
+0 94 dead -0.108573813356<eps>
+95 96 <eps> 上死 1
+96 0 <eps> 点 1
+0 98 dead 0.27768110692<eps>
+99 100 <eps> カム 1
+100 0 <eps> 溝 1
+0 0 dead 不感 -0.409002070114
+0 102 dead -0.127145290259<eps>
+103 104 <eps> 不感 1
+104 0 <eps> 帯 1
+0 0 dead 空き -0.200509295227
+0 0 dead ｎｓ 0.248084128166
+0 0 zone 部 0.228224538414
+0 0 zone zone -0.16194205352
+0 0 zone 帯 -0.343949803272
+0 0 zone 領域 -0.179918050454
+0 0 zone 域 -0.131480717365
+0 0 zone 区間 -0.145057567744
+0 0 zone ゾーン -0.569520788445
+0 0 zone 帯域 0.0328305498124
+0 0 zone 層 0.379837774278
+0 0 zone 輪帯 -0.113463019434
+0 0 zone エリア 0.138223128958
+0 0 zone 範囲 0.256154031424
+0 0 detector 発生 0.471279275187
+0 0 detector 回路 0.224234284161
+0 0 detector 手段 0.126056758459
+0 0 detector 素子 0.223510529919
+0 106 detector 0.260624667174<eps>
+107 108 <eps> 判定 1
+108 0 <eps> 部 1
+0 110 detector 0.303797177297<eps>
+111 112 <eps> 比較 1
+112 0 <eps> 回路 1
+0 114 detector -0.0721341782121<eps>
+115 116 <eps> 比較 1
+116 0 <eps> 器 1
+0 118 detector -0.0506450875471<eps>
+119 120 <eps> ディ 1
+120 0 <eps> テクタ 1
+0 0 detector 検出 -0.289405086125
+0 122 detector -0.223528502072<eps>
+123 124 <eps> 検出 1
+124 0 <eps> 部 1
+0 126 detector -0.00215242482973<eps>
+127 128 <eps> 検出 1
+128 0 <eps> 用 1
+0 130 detector -0.226637617916<eps>
+131 132 <eps> 検出 1
+132 0 <eps> 装置 1
+0 134 detector -0.162873992656<eps>
+135 136 <eps> 検出 1
+136 0 <eps> 回路 1
+0 138 detector -0.152313191721<eps>
+139 140 <eps> 検出 1
+140 0 <eps> 手段 1
+0 142 detector -0.101774094933<eps>
+143 144 <eps> 検出 1
+144 0 <eps> 素子 1
+0 146 detector -0.371576030415<eps>
+147 148 <eps> 検出 1
+148 0 <eps> 器 1
+0 150 detector 0.0429454865046<eps>
+151 152 <eps> 検出 1
+152 153 <eps> 器 1
+153 0 <eps> 回路 1
+0 155 detector 0.0718054107328<eps>
+156 157 <eps> 検知 1
+157 0 <eps> 部 1
+0 159 detector 0.0275812587479<eps>
+160 161 <eps> 検知 1
+161 0 <eps> 装置 1
+0 163 detector 0.0287760966068<eps>
+164 165 <eps> 検知 1
+165 0 <eps> 回路 1
+0 167 detector 0.0312554622656<eps>
+168 169 <eps> 検知 1
+169 0 <eps> 手段 1
+0 171 detector -0.0839445536109<eps>
+172 173 <eps> 検知 1
+173 0 <eps> 器 1
+0 0 detector 検波 -0.153281371638
+0 175 detector -0.0789394114695<eps>
+176 177 <eps> 検波 1
+177 0 <eps> 回路 1
+0 179 detector -0.246335124555<eps>
+180 181 <eps> 検波 1
+181 0 <eps> 器 1
+0 0 detector ディテクタ -0.286732171609
+0 0 detector 比較器 -0.0608097947034
+0 0 detector センサ 0.33430319326
+0 0 detector 検出回路 -0.168663955833
+0 0 23 れ 0.495206789251
+0 0 23 部 0.413956794257
+0 183 23 -0.151550072399<eps>
+184 185 <eps> 部 1
+185 0 <eps> ２３ 1
+0 0 23 ２２ 0.193965146229
+0 0 23 ２０ 0.317295842332
+0 0 23 ２３ -0.633542923402
+0 0 23 ６３ 0.396150983539
+0 0 23 23 -0.332145839599
+0 0 is の 0.157334657056
+0 0 is は -0.465858193653
+0 0 is に 0.0442936779373
+0 0 is も -0.0137661115892
+0 0 is が -0.487189193631
+0 0 is あ 0.0660522679505
+0 0 is を -0.396937973338
+0 0 is れ -0.174262569825
+0 0 be する -0.307086137886
+0 0 be も -0.103653975886
+0 0 be こと 0.00696852726637
+0 0 be を -0.160733561523
+0 0 be れ 0.0388506732512
+0 0 be せ -0.00721441436326
+0 0 value データ 0.379850012291
+0 0 value 量 0.0978172838856
+0 0 value 電圧 0.248846013667
+0 0 value 値 -0.614627578326
+0 0 value 数 0.199131013234
+0 0 value 大き 0.150910748526
+0 0 prior の 0.626966127841
+0 0 prior 従来 -0.359311679761
+0 187 prior 0.310176753495<eps>
+188 189 <eps> より 1
+189 0 <eps> も 1
+0 191 prior 0.209276309982<eps>
+192 193 <eps> より 1
+193 194 <eps> も 1
+194 0 <eps> 先 1
+0 196 prior 0.0898705939282<eps>
+197 198 <eps> より 1
+198 199 <eps> も 1
+199 0 <eps> 前 1
+0 0 prior まで 0.344693276067
+0 201 prior -0.161491455347<eps>
+202 203 <eps> 先立 1
+203 0 <eps> っ 1
+0 205 prior -0.198513390326<eps>
+206 207 <eps> 先立 1
+207 0 <eps> ち 1
+0 0 prior 先行 -0.281270263325
+0 0 prior 前 -0.305092069658
+0 0 prior 予め 0.251547045055
+0 0 prior 先だって -0.168287208575
+0 0 prior 先立ち -0.165496699616
+0 0 prior 背景 0.208165897791
+0 0 prior 事前 0.0190151881449
+0 0 practice は 0.218824600265
+0 209 practice 0.0376215473588<eps>
+210 211 <eps> は 1
+211 0 <eps> 実際 1
+0 0 practice また 0.42981798399
+0 0 practice 実施 0.223668426022
+0 0 practice 的 0.245492846324
+0 0 practice 記載 0.294746410608
+0 213 practice 0.398949777002<eps>
+214 215 <eps> 行 1
+215 0 <eps> う 1
+0 217 practice 0.255052536083<eps>
+218 219 <eps> 行 1
+219 0 <eps> わ 1
+0 0 practice とき 0.428097699388
+0 0 practice 上 0.277993711996
+0 221 practice 0.456813900335<eps>
+222 223 <eps> 行な 1
+223 0 <eps> う 1
+0 0 practice 実用 -0.00234595016442
+0 225 practice 0.0702408639462<eps>
+226 227 <eps> 実用 1
+227 0 <eps> 的 1
+0 229 practice -0.0672683759224<eps>
+230 231 <eps> 実用 1
+231 0 <eps> 上 1
+0 0 practice 実際 -0.177195399895
+0 233 practice -0.0102456045914<eps>
+234 235 <eps> 実際 1
+235 0 <eps> は 1
+0 237 practice 0.000806819199323<eps>
+238 239 <eps> 実際 1
+239 0 <eps> 上 1
+0 0 practice 練習 -0.386682892137
+0 0 practice 実技 -0.204262143424
+0 0 of の -0.505065654286
+0 0 of は 0.0654182536038
+0 0 of に -0.0924012985437
+0 241 of 0.0115473611867<eps>
+242 243 <eps> に 1
+243 0 <eps> おけ 1
+0 0 of も 0.173989172245
+0 0 of が -0.126725227108
+0 0 of を -0.277200859762
+0 0 phase 位相 -0.617754365527
+0 245 phase -0.165825880261<eps>
+246 247 <eps> 位相 1
+247 0 <eps> 角 1
+0 249 phase -0.164726286518<eps>
+250 251 <eps> 位相 1
+251 0 <eps> 差 1
+0 0 phase フェーズ -0.4173013087
+0 0 phase 相 -0.454007422422
+0 253 phase -0.192564372698<eps>
+254 255 <eps> 相 1
+255 0 <eps> 位相 1
+0 0 phase ｐｈａｓｅ -0.165565140651
+0 0 phase 同相 -0.133749615654
+0 0 compensation 補正 -0.256980129519
+0 257 compensation -0.0338446664786<eps>
+258 259 <eps> 補正 1
+259 0 <eps> 用 1
+0 261 compensation 0.0967767295448<eps>
+262 263 <eps> 補正 1
+263 0 <eps> 計算 1
+0 0 compensation 補償 -0.57476514209
+0 265 compensation -0.116371243667<eps>
+266 267 <eps> 補償 1
+267 0 <eps> 処理 1
+0 269 compensation -0.254989128644<eps>
+270 271 <eps> 補償 1
+271 0 <eps> 用 1
+0 0 compensation 模擬 0.119589906465
+0 0 compensation 補填 -0.209631507731
+0 0 compensation アシスト 0.224947220728
+0 273 . -0.165590636545<eps>
+274 275 <eps> た 1
+275 0 <eps> 。 1
+0 277 . -0.351902222045<eps>
+278 279 <eps> する 1
+279 0 <eps> 。 1
+0 0 . 。 -0.515775233638
+0 281 . -0.312883881067<eps>
+282 283 <eps> い 1
+283 0 <eps> 。 1
+0 285 . -0.361382424588<eps>
+286 287 <eps> い 1
+287 288 <eps> る 1
+288 0 <eps> 。 1
+0 290 . -0.093884963298<eps>
+291 292 <eps> い 1
+292 293 <eps> く 1
+293 0 <eps> 。 1
+0 0 . る -0.255255753399
+0 295 . -0.491160770668<eps>
+296 297 <eps> る 1
+297 0 <eps> 。 1
+0 299 . -0.172312421892<eps>
+300 301 <eps> う 1
+301 0 <eps> 。 1
+0 303 . -0.291543170018<eps>
+304 305 <eps> あ 1
+305 306 <eps> る 1
+306 0 <eps> 。 1
+0 308 the -0.34187719723<eps>
+309 310 steering 1<eps>
+310 311 <eps> 、 1
+311 0 <eps> 操舵 1
+0 313 the -0.344418779189<eps>
+314 315 steering 1<eps>
+315 316 <eps> 、 1
+316 0 <eps> ステアリング 1
+0 318 the -0.0122347925395<eps>
+319 320 steering 1<eps>
+320 321 <eps> 、 1
+321 322 <eps> 舵取 1
+322 0 <eps> り 1
+0 324 the 0.00784301134353<eps>
+325 326 steering 1<eps>
+326 327 <eps> 、 1
+327 328 <eps> 実 1
+328 0 <eps> 舵角 1
+0 330 the -0.115074090557<eps>
+331 332 steering 1<eps>
+332 333 <eps> た 1
+333 0 <eps> 操舵 1
+0 335 the -0.0735671959805<eps>
+336 337 steering 1<eps>
+337 338 <eps> た 1
+338 0 <eps> ステアリング 1
+0 340 the -0.0152276097152<eps>
+341 342 steering 1<eps>
+342 343 <eps> その 1
+343 344 <eps> 操舵 1
+344 0 <eps> 用 1
+0 346 the -0.202932430589<eps>
+347 348 steering 1<eps>
+348 349 <eps> その 1
+349 0 <eps> ステアリング 1
+0 351 the -0.164061889627<eps>
+352 353 steering 1<eps>
+353 354 <eps> の 1
+354 0 <eps> 操舵 1
+0 356 the -0.170422147001<eps>
+357 358 steering 1<eps>
+358 359 <eps> の 1
+359 0 <eps> ステアリング 1
+0 361 the -0.0724917398469<eps>
+362 363 steering 1<eps>
+363 364 <eps> の 1
+364 0 <eps> 舵取 1
+0 366 the -0.0845817213038<eps>
+367 368 steering 1<eps>
+368 369 <eps> は 1
+369 370 <eps> 、 1
+370 0 <eps> ステアリング 1
+0 372 the -0.114533176342<eps>
+373 374 steering 1<eps>
+374 375 <eps> は 1
+375 0 <eps> ステアリング 1
+0 377 the -0.0628062549522<eps>
+378 379 steering 1<eps>
+379 380 <eps> また 1
+380 381 <eps> 、 1
+381 0 <eps> 操舵 1
+0 383 the -0.0972786906166<eps>
+384 385 steering 1<eps>
+385 386 <eps> この 1
+386 0 <eps> 操舵 1
+0 388 the -0.0592234388371<eps>
+389 390 steering 1<eps>
+390 391 <eps> 同 1
+391 0 <eps> ステアリング 1
+0 393 the -0.141871552895<eps>
+394 395 steering 1<eps>
+395 396 <eps> 該 1
+396 0 <eps> 操舵 1
+0 398 the -0.10590520439<eps>
+399 400 steering 1<eps>
+400 401 <eps> 車輪 1
+401 0 <eps> 操舵 1
+0 403 steering -0.584031160247<eps>
+404 405 torque 1<eps>
+405 406 <eps> 操舵 1
+406 0 <eps> トルク 1
+0 408 steering -0.108513050012<eps>
+409 410 torque 1<eps>
+410 411 <eps> 操舵 1
+411 412 <eps> トルク 1
+412 0 <eps> 値 1
+0 414 steering 0.127897009859<eps>
+415 416 torque 1<eps>
+416 417 <eps> 操舵 1
+417 0 <eps> 力 1
+0 419 steering -0.204390531066<eps>
+420 421 torque 1<eps>
+421 422 <eps> ステアリング 1
+422 0 <eps> トルク 1
+0 424 torque -0.330206606583<eps>
+425 426 signal 1<eps>
+426 427 <eps> トルク 1
+427 0 <eps> 信号 1
+0 429 torque -0.0150631305913<eps>
+430 431 signal 1<eps>
+431 432 <eps> 力 1
+432 433 <eps> トルク 1
+433 0 <eps> 信号 1
+0 435 signal 0.00645595469984<eps>
+436 437 inputted 1<eps>
+437 438 <eps> 信号 1
+438 0 <eps> 入力 1
+0 440 signal 0.198815672223<eps>
+441 442 inputted 1<eps>
+442 443 <eps> 入力 1
+443 444 <eps> さ 1
+444 445 <eps> れ 1
+445 446 <eps> た 1
+446 0 <eps> 信号 1
+0 448 signal 0.257973370572<eps>
+449 450 inputted 1<eps>
+450 451 <eps> 入力 1
+451 452 <eps> さ 1
+452 453 <eps> れ 1
+453 454 <eps> た 1
+454 455 <eps> 入力 1
+455 0 <eps> 信号 1
+0 457 signal 0.00645595469984<eps>
+458 459 inputted 1<eps>
+459 460 <eps> 入力 1
+460 0 <eps> 信号 1
+0 462 inputted 0.174472106844<eps>
+463 464 to 1<eps>
+464 465 <eps> に 1
+465 0 <eps> 入 1
+0 467 inputted 0.025753335306<eps>
+468 469 to 1<eps>
+469 470 <eps> に 1
+470 0 <eps> 入力 1
+0 472 inputted 0.0505518395532<eps>
+473 474 to 1<eps>
+474 475 <eps> に 1
+475 476 <eps> 入力 1
+476 0 <eps> し 1
+0 478 inputted 0.0512160183628<eps>
+479 480 to 1<eps>
+480 481 <eps> に 1
+481 482 <eps> 入力 1
+482 0 <eps> する 1
+0 484 inputted -0.0737622947167<eps>
+485 486 to 1<eps>
+486 487 <eps> に 1
+487 488 <eps> 入力 1
+488 489 <eps> さ 1
+489 0 <eps> れ 1
+0 491 inputted 0.21811305283<eps>
+492 493 to 1<eps>
+493 494 <eps> に 1
+494 495 <eps> 入力 1
+495 496 <eps> さ 1
+496 497 <eps> れ 1
+497 0 <eps> た 1
+0 499 inputted 0.365233238464<eps>
+500 501 to 1<eps>
+501 502 <eps> から 1
+502 503 <eps> 入力 1
+503 504 <eps> さ 1
+504 505 <eps> れ 1
+505 0 <eps> た 1
+0 507 inputted 0.128812812238<eps>
+508 509 to 1<eps>
+509 510 <eps> を 1
+510 0 <eps> 入力 1
+0 512 inputted 0.165753241353<eps>
+513 514 to 1<eps>
+514 515 <eps> 入力 1
+515 0 <eps> する 1
+0 517 inputted 0.0642261333455<eps>
+518 519 to 1<eps>
+519 520 <eps> 入力 1
+520 521 <eps> さ 1
+521 0 <eps> れ 1
+0 523 inputted 0.413928304212<eps>
+524 525 to 1<eps>
+525 526 <eps> 取り込 1
+526 0 <eps> む 1
+0 528 inputted 0.451400100565<eps>
+529 530 to 1<eps>
+530 531 <eps> 合体 1
+531 532 <eps> さ 1
+532 0 <eps> れ 1
+0 534 to 0.176865939427<eps>
+535 536 the 1<eps>
+536 537 <eps> と 1
+537 0 <eps> は 1
+0 539 to -0.0911633035238<eps>
+540 541 the 1<eps>
+541 542 <eps> に 1
+542 0 <eps> 、 1
+0 544 to 0.122947440336<eps>
+545 546 the 1<eps>
+546 547 <eps> から 1
+547 0 <eps> の 1
+0 549 to 0.0310534622117<eps>
+550 551 the 1<eps>
+551 552 <eps> を 1
+552 0 <eps> 上記 1
+0 554 to -0.146127948859<eps>
+555 556 the 1<eps>
+556 557 <eps> へ 1
+557 0 <eps> の 1
+0 559 the -0.243609451766<eps>
+560 561 dead 1<eps>
+561 562 <eps> 、 1
+562 0 <eps> デッド 1
+0 564 the -0.0242945246707<eps>
+565 566 dead 1<eps>
+566 567 <eps> 、 1
+567 0 <eps> むだ 1
+0 569 the -0.125310116027<eps>
+570 571 dead 1<eps>
+571 572 <eps> 、 1
+572 0 <eps> 不感 1
+0 574 the -0.00211668125606<eps>
+575 576 dead 1<eps>
+576 577 <eps> 、 1
+577 0 <eps> 空き 1
+0 579 the 0.124433962376<eps>
+580 581 dead 1<eps>
+581 582 <eps> その 1
+582 0 <eps> 無駄 1
+0 584 the 0.000720213970499<eps>
+585 586 dead 1<eps>
+586 587 <eps> その 1
+587 0 <eps> 死 1
+0 589 the -0.154209719153<eps>
+590 591 dead 1<eps>
+591 592 <eps> の 1
+592 0 <eps> デッド 1
+0 594 the -0.0249318401001<eps>
+595 596 dead 1<eps>
+596 597 <eps> の 1
+597 0 <eps> 死 1
+0 599 the 0.129868766752<eps>
+600 601 dead 1<eps>
+601 602 <eps> の 1
+602 0 <eps> デット 1
+0 604 the -0.0248742462636<eps>
+605 606 dead 1<eps>
+606 607 <eps> は 1
+607 608 <eps> 、 1
+608 0 <eps> デッド 1
+0 610 the -0.102692853252<eps>
+611 612 dead 1<eps>
+612 613 <eps> は 1
+613 0 <eps> デッド 1
+0 615 the -0.0417301324027<eps>
+616 617 dead 1<eps>
+617 618 <eps> は 1
+618 0 <eps> 不感 1
+0 620 the 0.0421352008637<eps>
+621 622 dead 1<eps>
+622 623 <eps> は 1
+623 624 <eps> 不感 1
+624 0 <eps> 帯 1
+0 626 the 0.00466435082756<eps>
+627 628 dead 1<eps>
+628 629 <eps> さらに 1
+629 630 <eps> 、 1
+630 0 <eps> デッド 1
+0 632 the -0.0917986249007<eps>
+633 634 dead 1<eps>
+634 635 <eps> この 1
+635 0 <eps> デッド 1
+0 637 the -0.0308359040517<eps>
+638 639 dead 1<eps>
+639 640 <eps> この 1
+640 0 <eps> 不感 1
+0 642 the 0.0902481841444<eps>
+643 644 dead 1<eps>
+644 645 <eps> 上記 1
+645 0 <eps> 無駄 1
+0 647 the -0.0582856752713<eps>
+648 649 dead 1<eps>
+649 650 <eps> 上記 1
+650 0 <eps> 不感 1
+0 652 dead 0.560612011646<eps>
+653 654 zone 1<eps>
+654 655 <eps> 不 1
+655 656 <eps> 感 1
+656 0 <eps> 帯 1
+0 658 dead -0.120929774302<eps>
+659 660 zone 1<eps>
+660 661 <eps> デッド 1
+661 0 <eps> ゾーン 1
+0 663 dead -0.0735936016708<eps>
+664 665 zone 1<eps>
+665 666 <eps> 不感 1
+666 0 <eps> 帯 1
+0 668 dead 0.109956607091<eps>
+669 670 zone 1<eps>
+670 671 <eps> 不感 1
+671 0 <eps> 領域 1
+0 673 dead 0.126559318929<eps>
+674 675 zone 1<eps>
+675 676 <eps> 不感 1
+676 0 <eps> 帯域 1
+0 678 detector 0.121430254885<eps>
+679 680 23 1<eps>
+680 681 <eps> 検出 1
+681 682 <eps> 部 1
+682 0 <eps> ２３ 1
+0 684 detector 0.0479937602515<eps>
+685 686 23 1<eps>
+686 687 <eps> 検出 1
+687 688 <eps> 手段 1
+688 0 <eps> ２３ 1
+0 690 detector 0.159350097512<eps>
+691 692 23 1<eps>
+692 693 <eps> 検出 1
+693 694 <eps> 手段 1
+694 0 <eps> 23 1
+0 696 detector -0.0215268330643<eps>
+697 698 23 1<eps>
+698 699 <eps> 検出 1
+699 700 <eps> 器 1
+700 0 <eps> ２３ 1
+0 702 detector 0.294921444657<eps>
+703 704 23 1<eps>
+704 705 <eps> 検知 1
+705 706 <eps> 体 1
+706 0 <eps> ２３ 1
+0 708 detector 0.198624569558<eps>
+709 710 23 1<eps>
+710 711 <eps> 検知 1
+711 712 <eps> 器 1
+712 0 <eps> ２３ 1
+0 714 detector 0.064400360608<eps>
+715 716 23 1<eps>
+716 717 <eps> 検波 1
+717 718 <eps> 回路 1
+718 0 <eps> ２３ 1
+0 720 detector 0.0250467947728<eps>
+721 722 23 1<eps>
+722 723 <eps> 検波 1
+723 724 <eps> 器 1
+724 0 <eps> ２３ 1
+0 726 23 0.379034141151<eps>
+727 728 is 1<eps>
+728 729 <eps> ２２ 1
+729 0 <eps> を 1
+0 731 23 0.6243195453<eps>
+732 733 is 1<eps>
+733 734 <eps> ３３ 1
+734 0 <eps> は 1
+0 736 23 0.432892232171<eps>
+737 738 is 1<eps>
+738 739 <eps> ２１ 1
+739 0 <eps> は 1
+0 741 23 0.706224661625<eps>
+742 743 is 1<eps>
+743 744 <eps> ７ 1
+744 0 <eps> は 1
+0 746 23 -0.39621530495<eps>
+747 748 is 1<eps>
+748 749 <eps> ２３ 1
+749 0 <eps> は 1
+0 751 23 -0.35840204278<eps>
+752 753 is 1<eps>
+753 754 <eps> ２３ 1
+754 0 <eps> が 1
+0 756 23 -0.298845577841<eps>
+757 758 is 1<eps>
+758 759 <eps> ２３ 1
+759 0 <eps> を 1
+0 761 23 -0.0843399049339<eps>
+762 763 is 1<eps>
+763 764 <eps> 23 1
+764 0 <eps> が 1
+0 766 is -0.120886496305<eps>
+767 768 to 1<eps>
+768 769 <eps> に 1
+769 0 <eps> は 1
+0 771 is -0.163387970668<eps>
+772 773 to 1<eps>
+773 0 <eps> を 1
+0 775 to 0.162314205363<eps>
+776 777 be 1<eps>
+777 778 <eps> よう 1
+778 0 <eps> に 1
+0 780 to 0.283302851168<eps>
+781 782 be 1<eps>
+782 783 <eps> よう 1
+783 784 <eps> に 1
+784 0 <eps> な 1
+0 786 to 0.343355782799<eps>
+787 788 be 1<eps>
+788 789 <eps> と 1
+789 0 <eps> な 1
+0 791 to -0.0108049686576<eps>
+792 793 be 1<eps>
+793 0 <eps> する 1
+0 795 to 0.172722932415<eps>
+796 797 be 1<eps>
+797 798 <eps> する 1
+798 799 <eps> よう 1
+799 0 <eps> に 1
+0 801 to 0.207775199309<eps>
+802 803 be 1<eps>
+803 804 <eps> する 1
+804 0 <eps> ため 1
+0 806 to 0.235868993627<eps>
+807 808 be 1<eps>
+808 809 <eps> に 1
+809 0 <eps> よ 1
+0 811 to 0.25123051575<eps>
+812 813 be 1<eps>
+813 814 <eps> を 1
+814 0 <eps> な 1
+0 816 to 0.274620018437<eps>
+817 818 be 1<eps>
+818 819 <eps> を 1
+819 0 <eps> 使用 1
+0 821 to 0.0524378273089<eps>
+822 823 be 1<eps>
+823 824 <eps> べ 1
+824 0 <eps> き 1
+0 826 be 0.0358560018094<eps>
+827 828 the 1<eps>
+828 0 <eps> する 1
+0 830 the -0.126872857209<eps>
+831 832 value 1<eps>
+832 833 <eps> 、 1
+833 0 <eps> 値 1
+0 835 the -0.146425713663<eps>
+836 837 value 1<eps>
+837 838 <eps> その 1
+838 0 <eps> 値 1
+0 840 the -0.22780269431<eps>
+841 842 value 1<eps>
+842 843 <eps> の 1
+843 0 <eps> 値 1
+0 845 the -0.153161720674<eps>
+846 847 value 1<eps>
+847 848 <eps> この 1
+848 0 <eps> 値 1
+0 850 the -0.0117832601566<eps>
+851 852 value 1<eps>
+852 853 <eps> 上記 1
+853 0 <eps> 数値 1
+0 855 the -0.0911600255351<eps>
+856 857 value 1<eps>
+857 858 <eps> 値 1
+858 0 <eps> は 1
+0 860 prior 0.673277401845<eps>
+861 862 to 1<eps>
+862 863 <eps> よう 1
+863 0 <eps> に 1
+0 865 prior 0.403257357704<eps>
+866 867 to 1<eps>
+867 868 <eps> より 1
+868 869 <eps> も 1
+869 870 <eps> 先 1
+870 0 <eps> に 1
+0 872 prior 0.210955718161<eps>
+873 874 to 1<eps>
+874 875 <eps> より 1
+875 876 <eps> も 1
+876 877 <eps> 前 1
+877 0 <eps> に 1
+0 879 prior 0.323293588895<eps>
+880 881 to 1<eps>
+881 882 <eps> より 1
+882 883 <eps> 先 1
+883 0 <eps> に 1
+0 885 prior 0.460336955575<eps>
+886 887 to 1<eps>
+887 888 <eps> より 1
+888 889 <eps> 優先 1
+889 0 <eps> し 1
+0 891 prior 0.124285703035<eps>
+892 893 to 1<eps>
+893 894 <eps> する 1
+894 895 <eps> に 1
+895 896 <eps> 先立 1
+896 0 <eps> っ 1
+0 898 prior 0.120336275918<eps>
+899 900 to 1<eps>
+900 901 <eps> する 1
+901 0 <eps> 前 1
+0 903 prior 0.0971612520698<eps>
+904 905 to 1<eps>
+905 906 <eps> する 1
+906 907 <eps> 前 1
+907 0 <eps> に 1
+0 909 prior -0.0171825210622<eps>
+910 911 to 1<eps>
+911 912 <eps> に 1
+912 0 <eps> 先立 1
+0 914 prior -0.115985230621<eps>
+915 916 to 1<eps>
+916 917 <eps> に 1
+917 918 <eps> 先立 1
+918 0 <eps> っ 1
+0 920 prior 0.070161920837<eps>
+921 922 to 1<eps>
+922 923 <eps> に 1
+923 924 <eps> 先立 1
+924 0 <eps> つ 1
+0 926 prior -0.0840012282882<eps>
+927 928 to 1<eps>
+928 929 <eps> に 1
+929 930 <eps> 先立 1
+930 0 <eps> ち 1
+0 932 prior 0.0407529316487<eps>
+933 934 to 1<eps>
+934 935 <eps> に 1
+935 0 <eps> 先行 1
+0 937 prior 0.109046483087<eps>
+938 939 to 1<eps>
+939 940 <eps> に 1
+940 941 <eps> 先行 1
+941 0 <eps> し 1
+0 943 prior -0.105364422001<eps>
+944 945 to 1<eps>
+945 946 <eps> に 1
+946 0 <eps> 先だって 1
+0 948 prior 0.003455576568<eps>
+949 950 to 1<eps>
+950 951 <eps> に 1
+951 0 <eps> 先立ち 1
+0 953 prior 0.476698430344<eps>
+954 955 to 1<eps>
+955 956 <eps> まで 1
+956 0 <eps> に 1
+0 958 prior 0.726990767362<eps>
+959 960 to 1<eps>
+960 961 <eps> 際 1
+961 0 <eps> 、 1
+0 963 prior 0.293401084855<eps>
+964 965 to 1<eps>
+965 966 <eps> 先 1
+966 0 <eps> に 1
+0 968 prior 0.144757153179<eps>
+969 970 to 1<eps>
+970 971 <eps> 開始 1
+971 972 <eps> 前 1
+972 0 <eps> に 1
+0 974 prior -0.0333039750862<eps>
+975 976 to 1<eps>
+976 977 <eps> 先立 1
+977 0 <eps> っ 1
+0 979 prior 0.0210362890762<eps>
+980 981 to 1<eps>
+981 982 <eps> 先立 1
+982 0 <eps> ち 1
+0 984 prior -0.144320311381<eps>
+985 986 to 1<eps>
+986 987 <eps> 前 1
+987 0 <eps> に 1
+0 989 prior 0.269933495253<eps>
+990 991 to 1<eps>
+991 992 <eps> 前 1
+992 993 <eps> に 1
+993 994 <eps> 行 1
+994 0 <eps> わ 1
+0 996 prior 0.0441839206283<eps>
+997 998 to 1<eps>
+998 999 <eps> 以前 1
+999 0 <eps> に 1
+0 1001 practice 0.626478922428<eps>
+1002 1003 of 1<eps>
+1003 1004 <eps> の 1
+1004 0 <eps> 実施 1
+0 1006 practice 0.806182621274<eps>
+1007 1008 of 1<eps>
+1008 0 <eps> は 1
+0 1010 practice 0.735763785596<eps>
+1011 1012 of 1<eps>
+1012 1013 <eps> を 1
+1013 0 <eps> 実施 1
+0 1015 of -0.427187747511<eps>
+1016 1017 the 1<eps>
+1017 0 <eps> の 1
+0 1019 of 0.132695008689<eps>
+1020 1021 the 1<eps>
+1021 0 <eps> は 1
+0 1023 of 0.2786282876<eps>
+1024 1025 the 1<eps>
+1025 1026 <eps> に 1
+1026 1027 <eps> よ 1
+1027 1028 <eps> り 1
+1028 0 <eps> 、 1
+0 1030 the -0.368603126357<eps>
+1031 1032 phase 1<eps>
+1032 1033 <eps> 、 1
+1033 0 <eps> 位相 1
+0 1035 the -0.0842488819209<eps>
+1036 1037 phase 1<eps>
+1037 1038 <eps> 、 1
+1038 0 <eps> 相 1
+0 1040 the -0.116865933366<eps>
+1041 1042 phase 1<eps>
+1042 1043 <eps> た 1
+1043 0 <eps> 位相 1
+0 1045 the 0.0134038294233<eps>
+1046 1047 phase 1<eps>
+1047 1048 <eps> その 1
+1048 1049 <eps> ため 1
+1049 0 <eps> 位相 1
+0 1051 the -0.165230449905<eps>
+1052 1053 phase 1<eps>
+1053 1054 <eps> その 1
+1054 0 <eps> 位相 1
+0 1056 the 0.58084261482<eps>
+1057 1058 phase 1<eps>
+1058 1059 <eps> の 1
+1059 0 <eps> フローチャート 1
+0 1061 the -0.209348779628<eps>
+1062 1063 phase 1<eps>
+1063 1064 <eps> の 1
+1064 0 <eps> 位相 1
+0 1066 the -0.104425020906<eps>
+1067 1068 phase 1<eps>
+1068 1069 <eps> の 1
+1069 0 <eps> 相 1
+0 1071 the -0.127880458689<eps>
+1072 1073 phase 1<eps>
+1073 1074 <eps> は 1
+1074 1075 <eps> 、 1
+1075 0 <eps> 位相 1
+0 1077 the -0.182860685267<eps>
+1078 1079 phase 1<eps>
+1079 1080 <eps> は 1
+1080 0 <eps> 位相 1
+0 1082 the -0.0645980977613<eps>
+1083 1084 phase 1<eps>
+1084 1085 <eps> また 1
+1085 1086 <eps> 、 1
+1086 0 <eps> 位相 1
+0 1088 the -0.0601327271194<eps>
+1089 1090 phase 1<eps>
+1090 1091 <eps> なお 1
+1091 1092 <eps> 、 1
+1092 0 <eps> 位相 1
+0 1094 the -0.0990705334258<eps>
+1095 1096 phase 1<eps>
+1096 1097 <eps> この 1
+1097 0 <eps> 位相 1
+0 1099 the -0.227998268124<eps>
+1100 1101 phase 1<eps>
+1101 1102 <eps> 前記 1
+1102 0 <eps> 位相 1
+0 1104 the -0.0523711938674<eps>
+1105 1106 phase 1<eps>
+1106 1107 <eps> が 1
+1107 0 <eps> 位相 1
+0 1109 the -0.126520304645<eps>
+1110 1111 phase 1<eps>
+1111 1112 <eps> 上記 1
+1112 0 <eps> 位相 1
+0 1114 the -0.182860685267<eps>
+1115 1116 phase 1<eps>
+1116 1117 <eps> 位相 1
+1117 0 <eps> は 1
+0 1119 the -0.0800133067387<eps>
+1120 1121 phase 1<eps>
+1121 1122 <eps> 位相 1
+1122 1123 <eps> は 1
+1123 0 <eps> 、 1
+0 1125 phase 0.0596184190101<eps>
+1126 1127 compensation 1<eps>
+1127 1128 <eps> 位相 1
+1128 0 <eps> 補正 1
+0 1130 phase 0.472823857641<eps>
+1131 1132 compensation 1<eps>
+1132 1133 <eps> 位相 1
+1133 0 <eps> 差 1
+0 1135 phase -0.299431718213<eps>
+1136 1137 compensation 1<eps>
+1137 1138 <eps> 位相 1
+1138 0 <eps> 補償 1
+0 1140 phase -0.139725216453<eps>
+1141 1142 compensation 1<eps>
+1142 1143 <eps> 位相 1
+1143 1144 <eps> 補償 1
+1144 0 <eps> 用 1
+0 1146 the -0.308491950782<eps>
+1147 1148 steering 1<eps>
+1148 1149 torque 1<eps>
+1149 1150 <eps> 、 1
+1150 1151 <eps> 操舵 1
+1151 0 <eps> トルク 1
+0 1153 the -0.059289305545<eps>
+1154 1155 steering 1<eps>
+1155 1156 torque 1<eps>
+1156 1157 <eps> た 1
+1157 1158 <eps> 操舵 1
+1158 0 <eps> トルク 1
+0 1160 the -0.0832483330758<eps>
+1161 1162 steering 1<eps>
+1162 1163 torque 1<eps>
+1163 1164 <eps> の 1
+1164 1165 <eps> 操舵 1
+1165 0 <eps> トルク 1
+0 1167 the -0.0703038308682<eps>
+1168 1169 steering 1<eps>
+1169 1170 torque 1<eps>
+1170 1171 <eps> は 1
+1171 1172 <eps> 、 1
+1172 1173 <eps> 操舵 1
+1173 0 <eps> トルク 1
+0 1175 the -0.0752265143668<eps>
+1176 1177 steering 1<eps>
+1177 1178 torque 1<eps>
+1178 1179 <eps> は 1
+1179 1180 <eps> 操舵 1
+1180 0 <eps> トルク 1
+0 1182 the -0.0893610575553<eps>
+1183 1184 steering 1<eps>
+1184 1185 torque 1<eps>
+1185 1186 <eps> この 1
+1186 1187 <eps> 操舵 1
+1187 0 <eps> トルク 1
+0 1189 the -0.0917820572353<eps>
+1190 1191 steering 1<eps>
+1191 1192 torque 1<eps>
+1192 1193 <eps> 上記 1
+1193 1194 <eps> 操舵 1
+1194 0 <eps> トルク 1
+0 1196 steering -0.120994708196<eps>
+1197 1198 torque 1<eps>
+1198 1199 signal 1<eps>
+1199 1200 <eps> 操舵 1
+1200 1201 <eps> トルク 1
+1201 0 <eps> 信号 1
+0 1203 inputted 0.323996333613<eps>
+1204 1205 to 1<eps>
+1205 1206 the 1<eps>
+1206 1207 <eps> に 1
+1207 1208 <eps> 入力 1
+1208 1209 <eps> し 1
+1209 0 <eps> た 1
+0 1211 inputted 0.160561457947<eps>
+1212 1213 to 1<eps>
+1213 1214 the 1<eps>
+1214 1215 <eps> に 1
+1215 1216 <eps> 入力 1
+1216 0 <eps> する 1
+0 1218 inputted 0.303557835857<eps>
+1219 1220 to 1<eps>
+1220 1221 the 1<eps>
+1221 1222 <eps> に 1
+1222 1223 <eps> 入力 1
+1223 1224 <eps> さ 1
+1224 1225 <eps> れ 1
+1225 0 <eps> 、 1
+0 1227 the 0.109082846034<eps>
+1228 1229 dead 1<eps>
+1229 1230 zone 1<eps>
+1230 1231 <eps> 、 1
+1231 1232 <eps> デッド 1
+1232 0 <eps> ゾーン 1
+0 1234 the 0.285142080054<eps>
+1235 1236 dead 1<eps>
+1236 1237 zone 1<eps>
+1237 1238 <eps> 、 1
+1238 1239 <eps> 不感 1
+1239 0 <eps> 帯 1
+0 1241 the 0.320854911729<eps>
+1242 1243 dead 1<eps>
+1243 1244 zone 1<eps>
+1244 1245 <eps> は 1
+1245 1246 <eps> 不感 1
+1246 0 <eps> 帯 1
+0 1248 the 0.30429936886<eps>
+1249 1250 dead 1<eps>
+1250 1251 zone 1<eps>
+1251 1252 <eps> 上記 1
+1252 1253 <eps> 不感 1
+1253 0 <eps> 帯 1
+0 1255 is 0.267511119177<eps>
+1256 1257 to 1<eps>
+1257 1258 be 1<eps>
+1258 1259 <eps> を 1
+1259 0 <eps> 考え 1
+0 1261 to 0.303293059329<eps>
+1262 1263 be 1<eps>
+1263 1264 the 1<eps>
+1264 1265 <eps> と 1
+1265 0 <eps> する 1
+0 1267 to 0.154265397503<eps>
+1268 1269 be 1<eps>
+1269 1270 the 1<eps>
+1270 0 <eps> する 1
+0 1272 prior 0.166209021197<eps>
+1273 1274 to 1<eps>
+1274 1275 the 1<eps>
+1275 1276 <eps> の 1
+1276 1277 <eps> 前 1
+1277 0 <eps> に 1
+0 1279 prior 0.449745783125<eps>
+1280 1281 to 1<eps>
+1281 1282 the 1<eps>
+1282 1283 <eps> より 1
+1283 1284 <eps> 以前 1
+1284 0 <eps> の 1
+0 1286 prior 0.240104254832<eps>
+1287 1288 to 1<eps>
+1288 1289 the 1<eps>
+1289 1290 <eps> する 1
+1290 1291 <eps> に 1
+1291 1292 <eps> 先立 1
+1292 0 <eps> ち 1
+0 1294 prior 0.331237698783<eps>
+1295 1296 to 1<eps>
+1296 1297 the 1<eps>
+1297 1298 <eps> する 1
+1298 1299 <eps> 前 1
+1299 0 <eps> の 1
+0 1301 prior 0.366346004541<eps>
+1302 1303 to 1<eps>
+1303 1304 the 1<eps>
+1304 1305 <eps> に 1
+1305 1306 <eps> 先行 1
+1306 1307 <eps> し 1
+1307 1308 <eps> て 1
+1308 1309 <eps> 、 1
+1309 0 <eps> これ 1
+0 1311 prior 0.138518008233<eps>
+1312 1313 to 1<eps>
+1313 1314 the 1<eps>
+1314 1315 <eps> 前 1
+1315 1316 <eps> に 1
+1316 0 <eps> 、 1
+0 1318 practice 0.721328408201<eps>
+1319 1320 of 1<eps>
+1320 1321 the 1<eps>
+1321 1322 <eps> の 1
+1322 0 <eps> 実施 1
+0 1324 of -0.0282631187848<eps>
+1325 1326 the 1<eps>
+1326 1327 phase 1<eps>
+1327 1328 <eps> 、 1
+1328 1329 <eps> 位相 1
+1329 0 <eps> の 1
+0 1331 of 0.0160300684341<eps>
+1332 1333 the 1<eps>
+1333 1334 phase 1<eps>
+1334 1335 <eps> た 1
+1335 1336 <eps> 位相 1
+1336 0 <eps> の 1
+0 1338 of -0.232930993836<eps>
+1339 1340 the 1<eps>
+1340 1341 phase 1<eps>
+1341 1342 <eps> の 1
+1342 0 <eps> 位相 1
+0 1344 of 0.225075404109<eps>
+1345 1346 the 1<eps>
+1346 1347 phase 1<eps>
+1347 1348 <eps> で 1
+1348 1349 <eps> 、 1
+1349 0 <eps> 位相 1
+0 1351 of -0.152979989569<eps>
+1352 1353 the 1<eps>
+1353 1354 phase 1<eps>
+1354 1355 <eps> 位相 1
+1355 0 <eps> の 1
+0 1357 of -0.000189078897251<eps>
+1358 1359 the 1<eps>
+1359 1360 phase 1<eps>
+1360 1361 <eps> 相 1
+1361 0 <eps> の 1
+0 1363 the 0.67977299876<eps>
+1364 1365 phase 1<eps>
+1365 1366 compensation 1<eps>
+1366 1367 <eps> 、 1
+1367 1368 <eps> 位相 1
+1368 0 <eps> 差 1
+0 1370 the 0.053227900075<eps>
+1371 1372 phase 1<eps>
+1372 1373 compensation 1<eps>
+1373 1374 <eps> 、 1
+1374 1375 <eps> 位相 1
+1375 0 <eps> 補償 1
+0 1377 the 0.172427691504<eps>
+1378 1379 phase 1<eps>
+1379 1380 compensation 1<eps>
+1380 1381 <eps> 、 1
+1381 1382 <eps> 位相 1
+1382 1383 <eps> 補償 1
+1383 0 <eps> 用 1
+0 1385 the 0.345775438993<eps>
+1386 1387 phase 1<eps>
+1387 1388 compensation 1<eps>
+1388 1389 <eps> は 1
+1389 1390 <eps> 位相 1
+1390 0 <eps> 補正 1
+0 1392 the 0.0473463907802<eps>
+1393 1394 steering 1<eps>
+1394 1395 torque 1<eps>
+1395 1396 signal 1<eps>
+1396 1397 <eps> 、 1
+1397 1398 <eps> 操舵 1
+1398 1399 <eps> トルク 1
+1399 0 <eps> 信号 1
+0 1401 the 0.182187540474<eps>
+1402 1403 steering 1<eps>
+1403 1404 torque 1<eps>
+1404 1405 signal 1<eps>
+1405 1406 <eps> た 1
+1406 1407 <eps> 操舵 1
+1407 1408 <eps> トルク 1
+1408 0 <eps> 信号 1

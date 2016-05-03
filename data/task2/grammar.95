@@ -1,800 +1,800 @@
-0 0 dc 的
-0 0 dc dc
-0 0 dc ｄｃ
-0 0 dc 直流
-0 0 dc ｄc
-0 0 current 現在
-0 0 current 電圧
-0 1 current <eps>
-2 3 <eps> 電
-3 0 <eps> 流
-0 0 current 給電
-0 0 current 電流
-0 5 current <eps>
-6 7 <eps> 電流
-7 0 <eps> 値
-0 0 current カレント
-0 0 current 現
-0 0 i i
-0 0 i で
-0 0 i １
-0 0 i ｉ
-0 0 i ｉｃｅｌｌ
-0 0 flowing る
-0 9 flowing <eps>
-10 11 <eps> る
-11 0 <eps> が
-0 13 flowing <eps>
-14 15 <eps> が
-15 0 <eps> 流れ
-0 17 flowing <eps>
-18 19 <eps> が
-19 0 <eps> 流出
-0 21 flowing <eps>
-22 23 <eps> を
-23 0 <eps> 流
-0 0 flowing 流入
-0 0 flowing 流れ
-0 25 flowing <eps>
-26 27 <eps> 流れ
-27 0 <eps> る
-0 29 flowing <eps>
-30 31 <eps> 流
-31 0 <eps> す
-0 0 flowing 流出
-0 0 through は
-0 33 through <eps>
-34 35 <eps> っ
-35 0 <eps> て
-0 0 through て
-0 0 through し
-0 0 through に
-0 0 through よ
-0 37 through <eps>
-38 39 <eps> よ
-39 40 <eps> っ
-40 0 <eps> て
-0 0 through から
-0 0 through を
-0 42 through <eps>
-43 44 <eps> を
-44 45 <eps> 経
-45 0 <eps> て
-0 47 through <eps>
-48 49 <eps> を
-49 50 <eps> 貫通
-50 51 <eps> し
-51 0 <eps> て
-0 53 through <eps>
-54 55 <eps> を
-55 0 <eps> 介
-0 57 through <eps>
-58 59 <eps> を
-59 60 <eps> 介
-60 0 <eps> し
-0 62 through <eps>
-63 64 <eps> を
-64 65 <eps> 介
-65 66 <eps> し
-66 0 <eps> て
-0 68 through <eps>
-69 70 <eps> を
-70 71 <eps> 通
-71 72 <eps> っ
-72 0 <eps> て
-0 74 through <eps>
-75 76 <eps> を
-76 77 <eps> 通
-77 78 <eps> し
-78 0 <eps> て
-0 80 through <eps>
-81 82 <eps> を
-82 83 <eps> 通
-83 84 <eps> じ
-84 0 <eps> て
-0 86 through <eps>
-87 88 <eps> を
-88 89 <eps> 経由
-89 90 <eps> し
-90 0 <eps> て
-0 0 through 〜
-0 0 through さ
-0 0 through 乃至
-0 0 through 貫通
-0 92 through <eps>
-93 94 <eps> 通
-94 95 <eps> じ
-95 0 <eps> て
-0 0 through ないし
-0 0 through スルー
-0 0 the 、
-0 0 the た
-0 0 the （
-0 0 the その
-0 0 the の
-0 0 the は
-0 97 the <eps>
-98 99 <eps> は
-99 0 <eps> 、
-0 101 the <eps>
-102 103 <eps> は
-103 0 <eps> この
-0 105 the <eps>
-106 107 <eps> また
-107 0 <eps> 、
-0 109 the <eps>
-110 111 <eps> なお
-111 0 <eps> 、
-0 0 the この
-0 0 the 前記
-0 0 the する
-0 0 the ア
-0 0 the 本
-0 0 the 各
-0 0 the 尚
-0 0 feeding 時
-0 0 feeding 対応
-0 0 feeding 供給
-0 0 feeding 送
-0 113 feeding <eps>
-114 115 <eps> 送
-115 0 <eps> り
-0 117 feeding <eps>
-118 119 <eps> 送
-119 0 <eps> 給
-0 0 feeding 給電
-0 121 feeding <eps>
-122 123 <eps> 給電
-123 0 <eps> 側
-0 0 feeding 送出
-0 0 feeding 送り出
-0 0 feeding 流
-0 0 feeding 送り
-0 0 feeding 給送
-0 125 feeding <eps>
-126 127 <eps> 給送
-127 0 <eps> 搬送
-0 0 feeding 搬送
-0 0 feeding 排紙
-0 0 feeding 紙
-0 0 feeding 給
-0 129 feeding <eps>
-130 131 <eps> 給
-131 0 <eps> 送
-0 133 feeding <eps>
-134 135 <eps> 給
-135 0 <eps> 紙
-0 0 feeding 投入
-0 0 feeding 載
-0 0 feeding 給紙
-0 0 feeding 繰り出
-0 0 feeding フィード
-0 0 feeding 送り出し
-0 0 feeding 繰出
-0 137 conductor <eps>
-138 139 <eps> 用
-139 140 <eps> の
-140 0 <eps> 導体
-0 0 conductor 線
-0 0 conductor 配線
-0 0 conductor 導通
-0 0 conductor 導電
-0 142 conductor <eps>
-143 144 <eps> 導電
-144 0 <eps> 性
-0 146 conductor <eps>
-147 148 <eps> 導電
-148 0 <eps> 体
-0 0 conductor 導体
-0 150 conductor <eps>
-151 152 <eps> 導体
-152 0 <eps> 部
-0 0 conductor 導体部
-0 0 conductor 導線
-0 0 conductor 伝導体
-0 0 conductor 電線
-0 0 3 2
-0 0 3 3
-0 0 3 へ
-0 0 3 ５
-0 0 3 ３
-0 154 3 <eps>
-155 156 <eps> 部
-156 0 <eps> ３
-0 0 3 ２
-0 0 3 １
-0 0 3 ４
-0 0 3 停止
-0 0 3 ７
-0 0 produces は
-0 0 produces する
-0 0 produces から
-0 0 produces が
-0 158 produces <eps>
-159 160 <eps> が
-160 161 <eps> 得
-161 0 <eps> られ
-0 163 produces <eps>
-164 165 <eps> を
-165 0 <eps> 発生
-0 167 produces <eps>
-168 169 <eps> を
-169 170 <eps> 発生
-170 171 <eps> さ
-171 0 <eps> せ
-0 173 produces <eps>
-174 175 <eps> を
-175 0 <eps> 生成
-0 177 produces <eps>
-178 179 <eps> を
-179 180 <eps> 生成
-180 0 <eps> する
-0 182 produces <eps>
-183 184 <eps> を
-184 0 <eps> 作成
-0 186 produces <eps>
-187 188 <eps> を
-188 0 <eps> 出力
-0 190 produces <eps>
-191 192 <eps> を
-192 0 <eps> 起こ
-0 194 produces <eps>
-195 196 <eps> を
-196 197 <eps> 生
-197 0 <eps> ずる
-0 199 produces <eps>
-200 201 <eps> を
-201 0 <eps> 得
-0 203 produces <eps>
-204 205 <eps> を
-205 206 <eps> 発
-206 0 <eps> する
-0 0 produces 発生
-0 0 produces 生成
-0 208 produces <eps>
-209 210 <eps> 生成
-210 0 <eps> する
-0 212 produces <eps>
-213 214 <eps> 生成
-214 0 <eps> を
-0 216 produces <eps>
-217 218 <eps> 生
-218 219 <eps> じ
-219 0 <eps> させ
-0 221 produces <eps>
-222 223 <eps> 得
-223 0 <eps> られ
-0 0 magnetic た
-0 0 magnetic 磁気
-0 225 magnetic <eps>
-226 227 <eps> 磁気
-227 0 <eps> 的
-0 229 magnetic <eps>
-230 231 <eps> 磁気
-231 0 <eps> 発生
-0 233 magnetic <eps>
-234 235 <eps> 磁気
-235 0 <eps> 式
-0 0 magnetic 磁化
-0 0 magnetic 磁性
-0 237 magnetic <eps>
-238 239 <eps> 磁性
-239 0 <eps> 体
-0 0 magnetic 磁
-0 241 magnetic <eps>
-242 243 <eps> 磁
-243 0 <eps> 性
-0 0 magnetic ｍａｇｎｅｔｉｃ
-0 0 magnetic 磁界
-0 0 magnetic 磁場
-0 0 field 電界
-0 245 field <eps>
-246 247 <eps> 型
-247 0 <eps> 電界
-0 0 field 領域
-0 0 field 磁界
-0 0 field 磁場
-0 0 field field
-0 0 field フィールド
-0 0 field 場
-0 0 field 界
-0 249 field <eps>
-250 251 <eps> 界
-251 0 <eps> 磁
-0 0 field 分野
-0 0 field 欄
-0 0 field 視野
-0 0 field ｆｉｅｌｄ
-0 0 field 電解
-0 0 field アイソレーション
-0 0 b1 １
-0 0 b1 ｂｌ
-0 0 b1 ｂ
-0 253 b1 <eps>
-254 255 <eps> ｂ
-255 0 <eps> 1
-0 257 b1 <eps>
-258 259 <eps> ｂ
-259 0 <eps> ２
-0 261 b1 <eps>
-262 263 <eps> ｂ
-263 0 <eps> １
-0 265 b1 <eps>
-266 267 <eps> ｂ
-267 268 <eps> １
-268 0 <eps> ，ｂ
-0 270 b1 <eps>
-271 272 <eps> ，ｂ
-272 0 <eps> １
-0 274 b1 <eps>
-275 276 <eps> 、ｂ
-276 0 <eps> １
-0 0 b1 b
-0 278 b1 <eps>
-279 280 <eps> b
-280 0 <eps> 1
-0 282 b1 <eps>
-283 284 <eps> b
-284 0 <eps> １
-0 0 b1 ｂ１
-0 0 b1 ｂ１、
-0 286 . <eps>
-287 288 <eps> た
-288 0 <eps> 。
-0 290 . <eps>
-291 292 <eps> する
-292 0 <eps> 。
-0 0 . 。
-0 294 . <eps>
-295 296 <eps> い
-296 0 <eps> 。
-0 298 . <eps>
-299 300 <eps> い
-300 301 <eps> る
-301 0 <eps> 。
-0 303 . <eps>
-304 305 <eps> い
-305 306 <eps> く
-306 0 <eps> 。
-0 0 . る
-0 308 . <eps>
-309 310 <eps> る
-310 0 <eps> 。
-0 312 . <eps>
-313 314 <eps> う
-314 0 <eps> 。
-0 316 . <eps>
-317 318 <eps> あ
-318 319 <eps> る
-319 0 <eps> 。
-0 321 dc <eps>
-322 323 current <eps>
-323 0 <eps> ｄｃ
-0 325 dc <eps>
-326 327 current <eps>
-327 328 <eps> ｄｃ
-328 0 <eps> 電流
-0 330 dc <eps>
-331 332 current <eps>
-332 0 <eps> 直流
-0 334 dc <eps>
-335 336 current <eps>
-336 337 <eps> 直流
-337 338 <eps> の
-338 0 <eps> 電流
-0 340 dc <eps>
-341 342 current <eps>
-342 343 <eps> 直流
-343 0 <eps> 電圧
-0 345 dc <eps>
-346 347 current <eps>
-347 348 <eps> 直流
-348 0 <eps> 電
-0 350 dc <eps>
-351 352 current <eps>
-352 353 <eps> 直流
-353 0 <eps> 電力
-0 355 dc <eps>
-356 357 current <eps>
-357 358 <eps> 直流
-358 0 <eps> 電流
-0 360 current <eps>
-361 362 i <eps>
-362 363 <eps> 電圧
-363 0 <eps> ｉ
-0 365 current <eps>
-366 367 i <eps>
-367 0 <eps> 電流
-0 369 current <eps>
-370 371 i <eps>
-371 372 <eps> 電流
-372 0 <eps> i
-0 374 current <eps>
-375 376 i <eps>
-376 377 <eps> 電流
-377 0 <eps> ｉ
-0 379 current <eps>
-380 381 i <eps>
-381 382 <eps> 電流
-382 383 <eps> ｉ
-383 0 <eps> １
-0 385 current <eps>
-386 387 i <eps>
-387 388 <eps> 電流
-388 389 <eps> 値
-389 0 <eps> ｉ
-0 391 current <eps>
-392 393 i <eps>
-393 394 <eps> 電流
-394 0 <eps> ｉｃｅｌｌ
-0 396 current <eps>
-397 398 i <eps>
-398 399 <eps> 電流
-399 0 <eps> ｉin
-0 401 current <eps>
-402 403 i <eps>
-403 404 <eps> 今回
-404 405 <eps> の
-405 0 <eps> ｉ
-0 407 flowing <eps>
-408 409 through <eps>
-409 410 <eps> に
-410 0 <eps> 流れ
-0 412 flowing <eps>
-413 414 through <eps>
-414 415 <eps> に
-415 416 <eps> 流れ
-416 0 <eps> て
-0 418 flowing <eps>
-419 420 through <eps>
-420 421 <eps> が
-421 0 <eps> 流れ
-0 423 flowing <eps>
-424 425 through <eps>
-425 426 <eps> を
-426 427 <eps> 流れ
-427 0 <eps> て
-0 429 flowing <eps>
-430 431 through <eps>
-431 432 <eps> を
-432 433 <eps> 流れ
-433 0 <eps> る
-0 435 flowing <eps>
-436 437 through <eps>
-437 438 <eps> を
-438 439 <eps> 介
-439 440 <eps> し
-440 441 <eps> て
-441 442 <eps> 流れ
-442 0 <eps> る
-0 444 flowing <eps>
-445 446 through <eps>
-446 447 <eps> を
-447 448 <eps> 流
-448 449 <eps> さ
-449 450 <eps> れ
-450 0 <eps> る
-0 452 flowing <eps>
-453 454 through <eps>
-454 455 <eps> を
-455 456 <eps> 流
-456 0 <eps> す
-0 458 flowing <eps>
-459 460 through <eps>
-460 461 <eps> を
-461 462 <eps> 通
-462 463 <eps> し
-463 464 <eps> て
-464 465 <eps> 流れ
-465 0 <eps> る
-0 467 flowing <eps>
-468 469 through <eps>
-469 470 <eps> を
-470 471 <eps> 通
-471 472 <eps> じ
-472 473 <eps> て
-473 474 <eps> 流れ
-474 0 <eps> る
-0 476 flowing <eps>
-477 478 through <eps>
-478 479 <eps> 内
-479 480 <eps> を
-480 481 <eps> 流れ
-481 0 <eps> る
-0 483 flowing <eps>
-484 485 through <eps>
-485 0 <eps> 流れ
-0 487 flowing <eps>
-488 489 through <eps>
-489 490 <eps> 流れ
-490 491 <eps> て
-491 492 <eps> い
-492 0 <eps> る
-0 494 flowing <eps>
-495 496 through <eps>
-496 497 <eps> 流れ
-497 0 <eps> る
-0 499 flowing <eps>
-500 501 through <eps>
-501 502 <eps> 流
-502 0 <eps> す
-0 504 flowing <eps>
-505 506 through <eps>
-506 0 <eps> 通過
-0 508 flowing <eps>
-509 510 through <eps>
-510 511 <eps> 流通
-511 0 <eps> し
-0 513 through <eps>
-514 515 the <eps>
-515 516 <eps> し
-516 517 <eps> て
-517 0 <eps> 、
-0 519 through <eps>
-520 521 the <eps>
-521 522 <eps> を
-522 523 <eps> 通過
-523 524 <eps> し
-524 525 <eps> て
-525 0 <eps> 、
-0 527 through <eps>
-528 529 the <eps>
-529 530 <eps> 乃至
-530 0 <eps> 第
-0 532 the <eps>
-533 534 feeding <eps>
-534 535 <eps> 、
-535 0 <eps> 供給
-0 537 the <eps>
-538 539 feeding <eps>
-539 540 <eps> 、
-540 541 <eps> 供給
-541 0 <eps> 工程
-0 543 the <eps>
-544 545 feeding <eps>
-545 546 <eps> 、
-546 0 <eps> 給電
-0 548 the <eps>
-549 550 feeding <eps>
-550 551 <eps> 、
-551 0 <eps> 送り
-0 553 the <eps>
-554 555 feeding <eps>
-555 556 <eps> 、
-556 0 <eps> 給送
-0 558 the <eps>
-559 560 feeding <eps>
-560 561 <eps> 、
-561 0 <eps> 搬送
-0 563 the <eps>
-564 565 feeding <eps>
-565 566 <eps> 、
-566 567 <eps> 給
-567 0 <eps> 送
-0 569 the <eps>
-570 571 feeding <eps>
-571 572 <eps> 、
-572 573 <eps> 給
-573 0 <eps> 紙
-0 575 the <eps>
-576 577 feeding <eps>
-577 578 <eps> 、
-578 0 <eps> 送り出し
-0 580 the <eps>
-581 582 feeding <eps>
-582 583 <eps> 、
-583 0 <eps> 繰出
-0 585 the <eps>
-586 587 feeding <eps>
-587 588 <eps> の
-588 0 <eps> 給電
-0 590 the <eps>
-591 592 feeding <eps>
-592 593 <eps> の
-593 0 <eps> 搬送
-0 595 the <eps>
-596 597 feeding <eps>
-597 598 <eps> の
-598 599 <eps> 給
-599 0 <eps> 送
-0 601 the <eps>
-602 603 feeding <eps>
-603 604 <eps> は
-604 605 <eps> 給電
-605 0 <eps> 側
-0 607 the <eps>
-608 609 feeding <eps>
-609 610 <eps> は
-610 0 <eps> 送り
-0 612 the <eps>
-613 614 feeding <eps>
-614 615 <eps> また
-615 616 <eps> 、
-616 0 <eps> 給電
-0 618 the <eps>
-619 620 feeding <eps>
-620 621 <eps> また
-621 622 <eps> 、
-622 0 <eps> 給送
-0 624 the <eps>
-625 626 feeding <eps>
-626 627 <eps> この
-627 0 <eps> 給電
-0 629 the <eps>
-630 631 feeding <eps>
-631 632 <eps> この
-632 0 <eps> 送り
-0 634 the <eps>
-635 636 feeding <eps>
-636 637 <eps> この
-637 0 <eps> 搬送
-0 639 the <eps>
-640 641 feeding <eps>
-641 642 <eps> 前記
-642 0 <eps> 搬送
-0 644 the <eps>
-645 646 feeding <eps>
-646 647 <eps> 前記
-647 0 <eps> 繰り出
-0 649 the <eps>
-650 651 feeding <eps>
-651 652 <eps> 前記
-652 0 <eps> 繰出
-0 654 the <eps>
-655 656 feeding <eps>
-656 657 <eps> これ
-657 658 <eps> ら
-658 659 <eps> 送
-659 0 <eps> 給
-0 661 the <eps>
-662 663 feeding <eps>
-663 664 <eps> する
-664 0 <eps> 対応
-0 666 the <eps>
-667 668 feeding <eps>
-668 669 <eps> ここ
-669 670 <eps> で
-670 671 <eps> 、
-671 672 <eps> この
-672 673 <eps> 給
-673 0 <eps> 送
-0 675 the <eps>
-676 677 feeding <eps>
-677 678 <eps> が
-678 0 <eps> 搬送
-0 680 the <eps>
-681 682 feeding <eps>
-682 683 <eps> 当該
-683 0 <eps> 搬送
-0 685 the <eps>
-686 687 feeding <eps>
-687 688 <eps> 給
-688 689 <eps> 紙
-689 0 <eps> の
-0 691 feeding <eps>
-692 693 conductor <eps>
-693 694 <eps> 給電
-694 0 <eps> 導体
-0 696 conductor <eps>
-697 698 3 <eps>
-698 699 <eps> 導体
-699 0 <eps> ３
-0 701 magnetic <eps>
-702 703 field <eps>
-703 704 <eps> の
-704 0 <eps> 磁界
-0 706 magnetic <eps>
-707 708 field <eps>
-708 709 <eps> の
-709 0 <eps> 磁場
-0 711 magnetic <eps>
-712 713 field <eps>
-713 714 <eps> 的
-714 715 <eps> な
-715 0 <eps> 磁場
-0 717 magnetic <eps>
-718 719 field <eps>
-719 720 <eps> 書き込み
-720 0 <eps> 磁界
-0 722 magnetic <eps>
-723 724 field <eps>
-724 725 <eps> ヘッド
-725 0 <eps> 磁界
-0 727 magnetic <eps>
-728 729 field <eps>
-729 730 <eps> 電磁
-730 0 <eps> 界
-0 732 magnetic <eps>
-733 734 field <eps>
-734 735 <eps> 磁
-735 0 <eps> 界
-0 737 magnetic <eps>
-738 739 field <eps>
-739 0 <eps> 磁界
-0 741 magnetic <eps>
-742 743 field <eps>
-743 744 <eps> 磁界
-744 0 <eps> 強度
-0 746 magnetic <eps>
-747 748 field <eps>
-748 749 <eps> 磁界
-749 0 <eps> 範囲
-0 751 magnetic <eps>
-752 753 field <eps>
-753 0 <eps> 磁場
-0 755 magnetic <eps>
-756 757 field <eps>
-757 0 <eps> 磁力
-0 759 field <eps>
-760 761 b1 <eps>
-761 762 <eps> 磁場
-762 763 <eps> ｂ
-763 0 <eps> １
-0 765 field <eps>
-766 767 b1 <eps>
-767 768 <eps> フィールド
-768 769 <eps> ｂ
-769 0 <eps> １
-0 771 b1 <eps>
-772 773 . <eps>
-773 774 <eps> ｂ
-774 775 <eps> １
-775 776 <eps> で
-776 777 <eps> あ
-777 778 <eps> る
-778 0 <eps> 。
-0 780 current <eps>
-781 782 i <eps>
-782 783 flowing <eps>
-783 784 <eps> 流れ
-784 785 <eps> る
-785 786 <eps> 電流
-786 0 <eps> ｉ
-0 788 current <eps>
-789 790 i <eps>
-790 791 flowing <eps>
-791 792 <eps> 流れ
-792 793 <eps> る
-793 794 <eps> 電流
-794 795 <eps> 値
-795 0 <eps> ｉ
-0 797 flowing <eps>
-798 799 through <eps>
-799 800 the <eps>
-800 801 <eps> 内
-801 802 <eps> を
-802 803 <eps> 通過
-803 0 <eps> する
-0 805 flowing <eps>
-806 807 through <eps>
-807 808 the <eps>
-808 809 <eps> 通過
-809 0 <eps> する
-0 811 flowing <eps>
-812 813 through <eps>
-813 814 the <eps>
-814 815 <eps> 流通
-815 0 <eps> する
-0 817 magnetic <eps>
-818 819 field <eps>
-819 820 b1 <eps>
-820 821 <eps> 磁場
-821 822 <eps> ｂ
-822 0 <eps> １
-0 824 current <eps>
-825 826 i <eps>
-826 827 flowing <eps>
-827 828 through <eps>
-828 829 <eps> を
-829 830 <eps> 流れ
-830 831 <eps> る
-831 832 <eps> 電流
-832 0 <eps> ｉ
-0 834 current <eps>
-835 836 i <eps>
-836 837 flowing <eps>
-837 838 through <eps>
-838 839 <eps> 流れ
-839 840 <eps> る
-840 841 <eps> 電流
-841 0 <eps> ｉ
+0 0 dc 的 0.415297223529
+0 0 dc dc -0.374421741188
+0 0 dc ｄｃ -0.536816569761
+0 0 dc 直流 -0.555153733141
+0 0 dc ｄc -0.113387383648
+0 0 current 現在 -0.364455878248
+0 0 current 電圧 0.260234044741
+0 1 current 0.0420854921945<eps>
+2 3 <eps> 電 1
+3 0 <eps> 流 1
+0 0 current 給電 0.0993780089259
+0 0 current 電流 -0.632483878514
+0 5 current -0.175071152175<eps>
+6 7 <eps> 電流 1
+7 0 <eps> 値 1
+0 0 current カレント -0.357641907545
+0 0 current 現 -0.15491168226
+0 0 i i -0.323399661626
+0 0 i で 0.60398904099
+0 0 i １ 0.314841013486
+0 0 i ｉ -0.585054850083
+0 0 i ｉｃｅｌｌ 0.0296641066199
+0 0 flowing る 0.190783965447
+0 9 flowing 0.265171077453<eps>
+10 11 <eps> る 1
+11 0 <eps> が 1
+0 13 flowing -0.116525312072<eps>
+14 15 <eps> が 1
+15 0 <eps> 流れ 1
+0 17 flowing -0.000525851547712<eps>
+18 19 <eps> が 1
+19 0 <eps> 流出 1
+0 21 flowing -0.0314986791747<eps>
+22 23 <eps> を 1
+23 0 <eps> 流 1
+0 0 flowing 流入 -0.0856747822333
+0 0 flowing 流れ -0.143045272128
+0 25 flowing -0.372260836748<eps>
+26 27 <eps> 流れ 1
+27 0 <eps> る 1
+0 29 flowing -0.0257295726469<eps>
+30 31 <eps> 流 1
+31 0 <eps> す 1
+0 0 flowing 流出 -0.0749129635535
+0 0 through は 0.577736929586
+0 33 through 0.10521767101<eps>
+34 35 <eps> っ 1
+35 0 <eps> て 1
+0 0 through て -0.150482014631
+0 0 through し -0.120560079327
+0 0 through に 0.352913934698
+0 0 through よ -0.0642068421215
+0 37 through 0.179211022307<eps>
+38 39 <eps> よ 1
+39 40 <eps> っ 1
+40 0 <eps> て 1
+0 0 through から -0.0800037405136
+0 0 through を -0.136606848334
+0 42 through -0.0915361920302<eps>
+43 44 <eps> を 1
+44 45 <eps> 経 1
+45 0 <eps> て 1
+0 47 through -0.011041054211<eps>
+48 49 <eps> を 1
+49 50 <eps> 貫通 1
+50 51 <eps> し 1
+51 0 <eps> て 1
+0 53 through -0.128493805917<eps>
+54 55 <eps> を 1
+55 0 <eps> 介 1
+0 57 through -0.138105614791<eps>
+58 59 <eps> を 1
+59 60 <eps> 介 1
+60 0 <eps> し 1
+0 62 through -0.263058030553<eps>
+63 64 <eps> を 1
+64 65 <eps> 介 1
+65 66 <eps> し 1
+66 0 <eps> て 1
+0 68 through -0.0402192415941<eps>
+69 70 <eps> を 1
+70 71 <eps> 通 1
+71 72 <eps> っ 1
+72 0 <eps> て 1
+0 74 through -0.0811651158332<eps>
+75 76 <eps> を 1
+76 77 <eps> 通 1
+77 78 <eps> し 1
+78 0 <eps> て 1
+0 80 through -0.0818662915072<eps>
+81 82 <eps> を 1
+82 83 <eps> 通 1
+83 84 <eps> じ 1
+84 0 <eps> て 1
+0 86 through 0.023435416414<eps>
+87 88 <eps> を 1
+88 89 <eps> 経由 1
+89 90 <eps> し 1
+90 0 <eps> て 1
+0 0 through 〜 -0.231876147059
+0 0 through さ 0.193750244569
+0 0 through 乃至 -0.13417313287
+0 0 through 貫通 -0.313015249616
+0 92 through -0.052652175834<eps>
+93 94 <eps> 通 1
+94 95 <eps> じ 1
+95 0 <eps> て 1
+0 0 through ないし -0.137567975617
+0 0 through スルー -0.320577356828
+0 0 the 、 -0.45570792646
+0 0 the た -0.208465539212
+0 0 the （ -0.117704129383
+0 0 the その -0.206772512672
+0 0 the の -0.355870618201
+0 0 the は -0.294741992565
+0 97 the -0.146584141045<eps>
+98 99 <eps> は 1
+99 0 <eps> 、 1
+0 101 the -0.101898660074<eps>
+102 103 <eps> は 1
+103 0 <eps> この 1
+0 105 the -0.22253113121<eps>
+106 107 <eps> また 1
+107 0 <eps> 、 1
+0 109 the -0.174570713376<eps>
+110 111 <eps> なお 1
+111 0 <eps> 、 1
+0 0 the この -0.257003566874
+0 0 the 前記 -0.294569102431
+0 0 the する -0.142730056144
+0 0 the ア -0.106215188445
+0 0 the 本 -0.129139414206
+0 0 the 各 -0.1248844912
+0 0 the 尚 -0.115858194859
+0 0 feeding 時 0.377291246531
+0 0 feeding 対応 0.381021376294
+0 0 feeding 供給 -0.191727071516
+0 0 feeding 送 -0.12793022302
+0 113 feeding -0.0300665539658<eps>
+114 115 <eps> 送 1
+115 0 <eps> り 1
+0 117 feeding -0.0736221274814<eps>
+118 119 <eps> 送 1
+119 0 <eps> 給 1
+0 0 feeding 給電 -0.357938949545
+0 121 feeding -0.0402705186365<eps>
+122 123 <eps> 給電 1
+123 0 <eps> 側 1
+0 0 feeding 送出 0.106820549428
+0 0 feeding 送り出 0.101570350204
+0 0 feeding 流 0.0497720562683
+0 0 feeding 送り -0.31278503808
+0 0 feeding 給送 -0.308970547557
+0 125 feeding -0.0891341835851<eps>
+126 127 <eps> 給送 1
+127 0 <eps> 搬送 1
+0 0 feeding 搬送 -0.212524603564
+0 0 feeding 排紙 0.218377422159
+0 0 feeding 紙 -0.0333664835729
+0 0 feeding 給 -0.190080449276
+0 129 feeding -0.219424440769<eps>
+130 131 <eps> 給 1
+131 0 <eps> 送 1
+0 133 feeding -0.22131730232<eps>
+134 135 <eps> 給 1
+135 0 <eps> 紙 1
+0 0 feeding 投入 0.172222604531
+0 0 feeding 載 0.156414389493
+0 0 feeding 給紙 -0.230849545557
+0 0 feeding 繰り出 0.0688921352385
+0 0 feeding フィード 0.172712236177
+0 0 feeding 送り出し -0.201298843708
+0 0 feeding 繰出 -0.223536340068
+0 137 conductor 0.0815745251669<eps>
+138 139 <eps> 用 1
+139 140 <eps> の 1
+140 0 <eps> 導体 1
+0 0 conductor 線 0.324147721568
+0 0 conductor 配線 0.208211240963
+0 0 conductor 導通 0.159987094588
+0 0 conductor 導電 -0.107962376982
+0 142 conductor 0.000749299755417<eps>
+143 144 <eps> 導電 1
+144 0 <eps> 性 1
+0 146 conductor -0.203758380905<eps>
+147 148 <eps> 導電 1
+148 0 <eps> 体 1
+0 0 conductor 導体 -0.437146454828
+0 150 conductor 0.0212595951016<eps>
+151 152 <eps> 導体 1
+152 0 <eps> 部 1
+0 0 conductor 導体部 -0.160273662919
+0 0 conductor 導線 -0.0949856868167
+0 0 conductor 伝導体 -0.234577454157
+0 0 conductor 電線 0.125360919461
+0 0 3 2 0.296329167693
+0 0 3 3 -0.189863065302
+0 0 3 へ 0.29767496167
+0 0 3 ５ 0.28175862693
+0 0 3 ３ -0.605329157301
+0 154 3 -0.122424739222<eps>
+155 156 <eps> 部 1
+156 0 <eps> ３ 1
+0 0 3 ２ 0.139483339324
+0 0 3 １ 0.174999880803
+0 0 3 ４ 0.251168705829
+0 0 3 停止 0.29767496167
+0 0 3 ７ 0.231364257139
+0 0 produces は 0.174687683448
+0 0 produces する 0.33410248191
+0 0 produces から 0.336930199742
+0 0 produces が 0.189481626851
+0 158 produces 0.179340538162<eps>
+159 160 <eps> が 1
+160 161 <eps> 得 1
+161 0 <eps> られ 1
+0 163 produces 0.10403265981<eps>
+164 165 <eps> を 1
+165 0 <eps> 発生 1
+0 167 produces 0.366289020548<eps>
+168 169 <eps> を 1
+169 170 <eps> 発生 1
+170 171 <eps> さ 1
+171 0 <eps> せ 1
+0 173 produces -0.0528535552855<eps>
+174 175 <eps> を 1
+175 0 <eps> 生成 1
+0 177 produces 0.101940151651<eps>
+178 179 <eps> を 1
+179 180 <eps> 生成 1
+180 0 <eps> する 1
+0 182 produces 0.158533940111<eps>
+183 184 <eps> を 1
+184 0 <eps> 作成 1
+0 186 produces 0.261317130126<eps>
+187 188 <eps> を 1
+188 0 <eps> 出力 1
+0 190 produces 0.382553102721<eps>
+191 192 <eps> を 1
+192 0 <eps> 起こ 1
+0 194 produces 0.24517451415<eps>
+195 196 <eps> を 1
+196 197 <eps> 生 1
+197 0 <eps> ずる 1
+0 199 produces 0.227942896754<eps>
+200 201 <eps> を 1
+201 0 <eps> 得 1
+0 203 produces 0.21811104984<eps>
+204 205 <eps> を 1
+205 206 <eps> 発 1
+206 0 <eps> する 1
+0 0 produces 発生 0.147977914468
+0 0 produces 生成 0.0447378823953
+0 208 produces 0.0648846882391<eps>
+209 210 <eps> 生成 1
+210 0 <eps> する 1
+0 212 produces 0.106822117347<eps>
+213 214 <eps> 生成 1
+214 0 <eps> を 1
+0 216 produces 0.234257371944<eps>
+217 218 <eps> 生 1
+218 219 <eps> じ 1
+219 0 <eps> させ 1
+0 221 produces 0.241456769707<eps>
+222 223 <eps> 得 1
+223 0 <eps> られ 1
+0 0 magnetic た 0.70113495426
+0 0 magnetic 磁気 -0.572009897505
+0 225 magnetic -0.206179224072<eps>
+226 227 <eps> 磁気 1
+227 0 <eps> 的 1
+0 229 magnetic -0.151007904094<eps>
+230 231 <eps> 磁気 1
+231 0 <eps> 発生 1
+0 233 magnetic -0.14638053594<eps>
+234 235 <eps> 磁気 1
+235 0 <eps> 式 1
+0 0 magnetic 磁化 -0.202987490269
+0 0 magnetic 磁性 -0.502980664734
+0 237 magnetic -0.25342635472<eps>
+238 239 <eps> 磁性 1
+239 0 <eps> 体 1
+0 0 magnetic 磁 -0.132461159515
+0 241 magnetic -0.0474496539032<eps>
+242 243 <eps> 磁 1
+243 0 <eps> 性 1
+0 0 magnetic ｍａｇｎｅｔｉｃ -0.179259801623
+0 0 magnetic 磁界 -0.199874428708
+0 0 magnetic 磁場 -0.196522753791
+0 0 field 電界 -0.424420843265
+0 245 field -0.128097240978<eps>
+246 247 <eps> 型 1
+247 0 <eps> 電界 1
+0 0 field 領域 0.161439065275
+0 0 field 磁界 -0.296074528026
+0 0 field 磁場 -0.24764790216
+0 0 field field -0.210497048443
+0 0 field フィールド -0.490294341352
+0 0 field 場 -0.235073119634
+0 0 field 界 -0.317348382668
+0 249 field -0.196832781078<eps>
+250 251 <eps> 界 1
+251 0 <eps> 磁 1
+0 0 field 分野 -0.284524797613
+0 0 field 欄 -0.0392163835149
+0 0 field 視野 -0.156984286422
+0 0 field ｆｉｅｌｄ -0.215650996816
+0 0 field 電解 0.215989416745
+0 0 field アイソレーション 0.0563226511955
+0 0 b1 １ 0.0701591952035
+0 0 b1 ｂｌ 0.329994841523
+0 0 b1 ｂ -0.0546764996659
+0 253 b1 -0.0060385363887<eps>
+254 255 <eps> ｂ 1
+255 0 <eps> 1 1
+0 257 b1 0.161355600977<eps>
+258 259 <eps> ｂ 1
+259 0 <eps> ２ 1
+0 261 b1 -0.231693673823<eps>
+262 263 <eps> ｂ 1
+263 0 <eps> １ 1
+0 265 b1 0.0467535495709<eps>
+266 267 <eps> ｂ 1
+267 268 <eps> １ 1
+268 0 <eps> ，ｂ 1
+0 270 b1 -0.0589969095902<eps>
+271 272 <eps> ，ｂ 1
+272 0 <eps> １ 1
+0 274 b1 -0.154375421133<eps>
+275 276 <eps> 、ｂ 1
+276 0 <eps> １ 1
+0 0 b1 b 0.0456597108394
+0 278 b1 0.000541346359512<eps>
+279 280 <eps> b 1
+280 0 <eps> 1 1
+0 282 b1 0.103702942108<eps>
+283 284 <eps> b 1
+284 0 <eps> １ 1
+0 0 b1 ｂ１ -0.378482837346
+0 0 b1 ｂ１、 -0.232441242254
+0 286 . -0.165590636545<eps>
+287 288 <eps> た 1
+288 0 <eps> 。 1
+0 290 . -0.351902222045<eps>
+291 292 <eps> する 1
+292 0 <eps> 。 1
+0 0 . 。 -0.515775233638
+0 294 . -0.312883881067<eps>
+295 296 <eps> い 1
+296 0 <eps> 。 1
+0 298 . -0.361382424588<eps>
+299 300 <eps> い 1
+300 301 <eps> る 1
+301 0 <eps> 。 1
+0 303 . -0.093884963298<eps>
+304 305 <eps> い 1
+305 306 <eps> く 1
+306 0 <eps> 。 1
+0 0 . る -0.255255753399
+0 308 . -0.491160770668<eps>
+309 310 <eps> る 1
+310 0 <eps> 。 1
+0 312 . -0.172312421892<eps>
+313 314 <eps> う 1
+314 0 <eps> 。 1
+0 316 . -0.291543170018<eps>
+317 318 <eps> あ 1
+318 319 <eps> る 1
+319 0 <eps> 。 1
+0 321 dc 0.300555132764<eps>
+322 323 current 1<eps>
+323 0 <eps> ｄｃ 1
+0 325 dc -0.283364742544<eps>
+326 327 current 1<eps>
+327 328 <eps> ｄｃ 1
+328 0 <eps> 電流 1
+0 330 dc -0.124266998114<eps>
+331 332 current 1<eps>
+332 0 <eps> 直流 1
+0 334 dc -0.166046531301<eps>
+335 336 current 1<eps>
+336 337 <eps> 直流 1
+337 338 <eps> の 1
+338 0 <eps> 電流 1
+0 340 dc 0.0238983514787<eps>
+341 342 current 1<eps>
+342 343 <eps> 直流 1
+343 0 <eps> 電圧 1
+0 345 dc 0.0698956597417<eps>
+346 347 current 1<eps>
+347 348 <eps> 直流 1
+348 0 <eps> 電 1
+0 350 dc 0.0771776628487<eps>
+351 352 current 1<eps>
+352 353 <eps> 直流 1
+353 0 <eps> 電力 1
+0 355 dc -0.368613763877<eps>
+356 357 current 1<eps>
+357 358 <eps> 直流 1
+358 0 <eps> 電流 1
+0 360 current 0.372540057761<eps>
+361 362 i 1<eps>
+362 363 <eps> 電圧 1
+363 0 <eps> ｉ 1
+0 365 current 0.42446572818<eps>
+366 367 i 1<eps>
+367 0 <eps> 電流 1
+0 369 current -0.111056681536<eps>
+370 371 i 1<eps>
+371 372 <eps> 電流 1
+372 0 <eps> i 1
+0 374 current -0.523708953795<eps>
+375 376 i 1<eps>
+376 377 <eps> 電流 1
+377 0 <eps> ｉ 1
+0 379 current -0.0657685202264<eps>
+380 381 i 1<eps>
+381 382 <eps> 電流 1
+382 383 <eps> ｉ 1
+383 0 <eps> １ 1
+0 385 current -0.0627651391556<eps>
+386 387 i 1<eps>
+387 388 <eps> 電流 1
+388 389 <eps> 値 1
+389 0 <eps> ｉ 1
+0 391 current 0.0962047734216<eps>
+392 393 i 1<eps>
+393 394 <eps> 電流 1
+394 0 <eps> ｉｃｅｌｌ 1
+0 396 current 0.0462474966637<eps>
+397 398 i 1<eps>
+398 399 <eps> 電流 1
+399 0 <eps> ｉin 1
+0 401 current 0.0766247970933<eps>
+402 403 i 1<eps>
+403 404 <eps> 今回 1
+404 405 <eps> の 1
+405 0 <eps> ｉ 1
+0 407 flowing -0.0293706926205<eps>
+408 409 through 1<eps>
+409 410 <eps> に 1
+410 0 <eps> 流れ 1
+0 412 flowing 0.0539936797584<eps>
+413 414 through 1<eps>
+414 415 <eps> に 1
+415 416 <eps> 流れ 1
+416 0 <eps> て 1
+0 418 flowing 0.0495042331213<eps>
+419 420 through 1<eps>
+420 421 <eps> が 1
+421 0 <eps> 流れ 1
+0 423 flowing 0.0956008054236<eps>
+424 425 through 1<eps>
+425 426 <eps> を 1
+426 427 <eps> 流れ 1
+427 0 <eps> て 1
+0 429 flowing -0.211596423903<eps>
+430 431 through 1<eps>
+431 432 <eps> を 1
+432 433 <eps> 流れ 1
+433 0 <eps> る 1
+0 435 flowing 0.231477512896<eps>
+436 437 through 1<eps>
+437 438 <eps> を 1
+438 439 <eps> 介 1
+439 440 <eps> し 1
+440 441 <eps> て 1
+441 442 <eps> 流れ 1
+442 0 <eps> る 1
+0 444 flowing 0.422399097961<eps>
+445 446 through 1<eps>
+446 447 <eps> を 1
+447 448 <eps> 流 1
+448 449 <eps> さ 1
+449 450 <eps> れ 1
+450 0 <eps> る 1
+0 452 flowing 0.294783445001<eps>
+453 454 through 1<eps>
+454 455 <eps> を 1
+455 456 <eps> 流 1
+456 0 <eps> す 1
+0 458 flowing 0.230082411014<eps>
+459 460 through 1<eps>
+460 461 <eps> を 1
+461 462 <eps> 通 1
+462 463 <eps> し 1
+463 464 <eps> て 1
+464 465 <eps> 流れ 1
+465 0 <eps> る 1
+0 467 flowing 0.247847510992<eps>
+468 469 through 1<eps>
+469 470 <eps> を 1
+470 471 <eps> 通 1
+471 472 <eps> じ 1
+472 473 <eps> て 1
+473 474 <eps> 流れ 1
+474 0 <eps> る 1
+0 476 flowing 0.183438322545<eps>
+477 478 through 1<eps>
+478 479 <eps> 内 1
+479 480 <eps> を 1
+480 481 <eps> 流れ 1
+481 0 <eps> る 1
+0 483 flowing -0.0248828788844<eps>
+484 485 through 1<eps>
+485 0 <eps> 流れ 1
+0 487 flowing 0.167112099125<eps>
+488 489 through 1<eps>
+489 490 <eps> 流れ 1
+490 491 <eps> て 1
+491 492 <eps> い 1
+492 0 <eps> る 1
+0 494 flowing -0.261254856909<eps>
+495 496 through 1<eps>
+496 497 <eps> 流れ 1
+497 0 <eps> る 1
+0 499 flowing 0.232635361532<eps>
+500 501 through 1<eps>
+501 502 <eps> 流 1
+502 0 <eps> す 1
+0 504 flowing 0.242811213903<eps>
+505 506 through 1<eps>
+506 0 <eps> 通過 1
+0 508 flowing 0.149673110349<eps>
+509 510 through 1<eps>
+510 511 <eps> 流通 1
+511 0 <eps> し 1
+0 513 through 0.176710857988<eps>
+514 515 the 1<eps>
+515 516 <eps> し 1
+516 517 <eps> て 1
+517 0 <eps> 、 1
+0 519 through 0.138150034421<eps>
+520 521 the 1<eps>
+521 522 <eps> を 1
+522 523 <eps> 通過 1
+523 524 <eps> し 1
+524 525 <eps> て 1
+525 0 <eps> 、 1
+0 527 through 0.0627079605916<eps>
+528 529 the 1<eps>
+529 530 <eps> 乃至 1
+530 0 <eps> 第 1
+0 532 the 0.174771354986<eps>
+533 534 feeding 1<eps>
+534 535 <eps> 、 1
+535 0 <eps> 供給 1
+0 537 the 0.271076006036<eps>
+538 539 feeding 1<eps>
+539 540 <eps> 、 1
+540 541 <eps> 供給 1
+541 0 <eps> 工程 1
+0 543 the -0.123218979526<eps>
+544 545 feeding 1<eps>
+545 546 <eps> 、 1
+546 0 <eps> 給電 1
+0 548 the -0.0123288775709<eps>
+549 550 feeding 1<eps>
+550 551 <eps> 、 1
+551 0 <eps> 送り 1
+0 553 the -0.136947341497<eps>
+554 555 feeding 1<eps>
+555 556 <eps> 、 1
+556 0 <eps> 給送 1
+0 558 the 0.0673718773823<eps>
+559 560 feeding 1<eps>
+560 561 <eps> 、 1
+561 0 <eps> 搬送 1
+0 563 the 0.03669235893<eps>
+564 565 feeding 1<eps>
+565 566 <eps> 、 1
+566 567 <eps> 給 1
+567 0 <eps> 送 1
+0 569 the 0.0347994973786<eps>
+570 571 feeding 1<eps>
+571 572 <eps> 、 1
+572 573 <eps> 給 1
+573 0 <eps> 紙 1
+0 575 the -0.0659555857577<eps>
+576 577 feeding 1<eps>
+577 578 <eps> 、 1
+578 0 <eps> 送り出し 1
+0 580 the -0.0697268064656<eps>
+581 582 feeding 1<eps>
+582 583 <eps> 、 1
+583 0 <eps> 繰出 1
+0 585 the 0.0105015230476<eps>
+586 587 feeding 1<eps>
+587 588 <eps> の 1
+588 0 <eps> 給電 1
+0 590 the 0.0950628903481<eps>
+591 592 feeding 1<eps>
+592 593 <eps> の 1
+593 0 <eps> 搬送 1
+0 595 the 0.064383371894<eps>
+596 597 feeding 1<eps>
+597 598 <eps> の 1
+598 599 <eps> 給 1
+599 0 <eps> 送 1
+0 601 the 0.105756799448<eps>
+602 603 feeding 1<eps>
+603 604 <eps> は 1
+604 605 <eps> 給電 1
+605 0 <eps> 側 1
+0 607 the 0.0233839541025<eps>
+608 609 feeding 1<eps>
+609 610 <eps> は 1
+610 0 <eps> 送り 1
+0 612 the 0.0638900057729<eps>
+613 614 feeding 1<eps>
+614 615 <eps> また 1
+615 616 <eps> 、 1
+616 0 <eps> 給電 1
+0 618 the 0.035494353334<eps>
+619 620 feeding 1<eps>
+620 621 <eps> また 1
+621 622 <eps> 、 1
+622 0 <eps> 給送 1
+0 624 the -0.0184495818411<eps>
+625 626 feeding 1<eps>
+626 627 <eps> この 1
+627 0 <eps> 給電 1
+0 629 the 0.0342781824547<eps>
+630 631 feeding 1<eps>
+631 632 <eps> この 1
+632 0 <eps> 送り 1
+0 634 the 0.161846089358<eps>
+635 636 feeding 1<eps>
+636 637 <eps> この 1
+637 0 <eps> 搬送 1
+0 639 the 0.10581427815<eps>
+640 641 feeding 1<eps>
+641 642 <eps> 前記 1
+642 0 <eps> 搬送 1
+0 644 the 0.169781870465<eps>
+645 646 feeding 1<eps>
+646 647 <eps> 前記 1
+647 0 <eps> 繰り出 1
+0 649 the -0.0312844056988<eps>
+650 651 feeding 1<eps>
+651 652 <eps> 前記 1
+652 0 <eps> 繰出 1
+0 654 the 0.214340101381<eps>
+655 656 feeding 1<eps>
+656 657 <eps> これ 1
+657 658 <eps> ら 1
+658 659 <eps> 送 1
+659 0 <eps> 給 1
+0 661 the 0.560854234318<eps>
+662 663 feeding 1<eps>
+663 664 <eps> する 1
+664 0 <eps> 対応 1
+0 666 the 0.271597523285<eps>
+667 668 feeding 1<eps>
+668 669 <eps> ここ 1
+669 670 <eps> で 1
+670 671 <eps> 、 1
+671 672 <eps> この 1
+672 673 <eps> 給 1
+673 0 <eps> 送 1
+0 675 the 0.208545428917<eps>
+676 677 feeding 1<eps>
+677 678 <eps> が 1
+678 0 <eps> 搬送 1
+0 680 the 0.0809550097445<eps>
+681 682 feeding 1<eps>
+682 683 <eps> 当該 1
+683 0 <eps> 搬送 1
+0 685 the 0.0624905103426<eps>
+686 687 feeding 1<eps>
+687 688 <eps> 給 1
+688 689 <eps> 紙 1
+689 0 <eps> の 1
+0 691 feeding 0.179095838489<eps>
+692 693 conductor 1<eps>
+693 694 <eps> 給電 1
+694 0 <eps> 導体 1
+0 696 conductor -0.121016593901<eps>
+697 698 3 1<eps>
+698 699 <eps> 導体 1
+699 0 <eps> ３ 1
+0 701 magnetic -0.223656977829<eps>
+702 703 field 1<eps>
+703 704 <eps> の 1
+704 0 <eps> 磁界 1
+0 706 magnetic -0.15369079441<eps>
+707 708 field 1<eps>
+708 709 <eps> の 1
+709 0 <eps> 磁場 1
+0 711 magnetic 0.0150109966644<eps>
+712 713 field 1<eps>
+713 714 <eps> 的 1
+714 715 <eps> な 1
+715 0 <eps> 磁場 1
+0 717 magnetic -0.0497378531337<eps>
+718 719 field 1<eps>
+719 720 <eps> 書き込み 1
+720 0 <eps> 磁界 1
+0 722 magnetic -0.0569384809671<eps>
+723 724 field 1<eps>
+724 725 <eps> ヘッド 1
+725 0 <eps> 磁界 1
+0 727 magnetic 0.181403055958<eps>
+728 729 field 1<eps>
+729 730 <eps> 電磁 1
+730 0 <eps> 界 1
+0 732 magnetic -0.0108392868035<eps>
+733 734 field 1<eps>
+734 735 <eps> 磁 1
+735 0 <eps> 界 1
+0 737 magnetic -0.491951978303<eps>
+738 739 field 1<eps>
+739 0 <eps> 磁界 1
+0 741 magnetic -0.0537551213589<eps>
+742 743 field 1<eps>
+743 744 <eps> 磁界 1
+744 0 <eps> 強度 1
+0 746 magnetic -0.0562005090789<eps>
+747 748 field 1<eps>
+748 749 <eps> 磁界 1
+749 0 <eps> 範囲 1
+0 751 magnetic -0.455236899751<eps>
+752 753 field 1<eps>
+753 0 <eps> 磁場 1
+0 755 magnetic 0.195773703686<eps>
+756 757 field 1<eps>
+757 0 <eps> 磁力 1
+0 759 field 0.476806508272<eps>
+760 761 b1 1<eps>
+761 762 <eps> 磁場 1
+762 763 <eps> ｂ 1
+763 0 <eps> １ 1
+0 765 field 0.4441252303<eps>
+766 767 b1 1<eps>
+767 768 <eps> フィールド 1
+768 769 <eps> ｂ 1
+769 0 <eps> １ 1
+0 771 b1 0.416448253437<eps>
+772 773 . 1<eps>
+773 774 <eps> ｂ 1
+774 775 <eps> １ 1
+775 776 <eps> で 1
+776 777 <eps> あ 1
+777 778 <eps> る 1
+778 0 <eps> 。 1
+0 780 current 0.132893703024<eps>
+781 782 i 1<eps>
+782 783 flowing 1<eps>
+783 784 <eps> 流れ 1
+784 785 <eps> る 1
+785 786 <eps> 電流 1
+786 0 <eps> ｉ 1
+0 788 current 0.322426772566<eps>
+789 790 i 1<eps>
+790 791 flowing 1<eps>
+791 792 <eps> 流れ 1
+792 793 <eps> る 1
+793 794 <eps> 電流 1
+794 795 <eps> 値 1
+795 0 <eps> ｉ 1
+0 797 flowing 0.619998463989<eps>
+798 799 through 1<eps>
+799 800 the 1<eps>
+800 801 <eps> 内 1
+801 802 <eps> を 1
+802 803 <eps> 通過 1
+803 0 <eps> する 1
+0 805 flowing 0.470511223877<eps>
+806 807 through 1<eps>
+807 808 the 1<eps>
+808 809 <eps> 通過 1
+809 0 <eps> する 1
+0 811 flowing 0.218354701807<eps>
+812 813 through 1<eps>
+813 814 the 1<eps>
+814 815 <eps> 流通 1
+815 0 <eps> する 1
+0 817 magnetic 0.545145130942<eps>
+818 819 field 1<eps>
+819 820 b1 1<eps>
+820 821 <eps> 磁場 1
+821 822 <eps> ｂ 1
+822 0 <eps> １ 1
+0 824 current 0.40123520302<eps>
+825 826 i 1<eps>
+826 827 flowing 1<eps>
+827 828 through 1<eps>
+828 829 <eps> を 1
+829 830 <eps> 流れ 1
+830 831 <eps> る 1
+831 832 <eps> 電流 1
+832 0 <eps> ｉ 1
+0 834 current 0.314058348012<eps>
+835 836 i 1<eps>
+836 837 flowing 1<eps>
+837 838 through 1<eps>
+838 839 <eps> 流れ 1
+839 840 <eps> る 1
+840 841 <eps> 電流 1
+841 0 <eps> ｉ 1
