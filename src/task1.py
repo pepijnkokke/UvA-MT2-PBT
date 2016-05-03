@@ -88,6 +88,7 @@ if __name__ == "__main__":
         fst_file = os.path.join(out_dir,'dev.en.{}.fst'.format(i))
         subprocess.call(['fstcompile','--osymbols={}'.format(osyms_file),
                          fst_txt_file,fst_file])
+        subprocess.call(['fstarcsort','--sort_type=olabel',fst_file,fst_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()
