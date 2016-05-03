@@ -37,7 +37,7 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
             feature_map[key] = float(value) * weight_map[key]
 
         feature_map['Glue'] = weight_map['Glue']
-        feature_map['WordPenalty'] = 1/math.log(10) * len(target) * weight_map['WordPenalty']
+        feature_map['WordPenalty'] = -1/math.log(10) * len(target) * weight_map['WordPenalty']
 
         weight = sum(feature_map.values())
 
@@ -56,10 +56,10 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
 
                 next_state = curr_state + 1
                 if i == 0:
-                    os.write("0 {} {} {}<eps>\n".
+                    os.write("0 {} {} <eps> {}\n".
                              format(curr_state, source[i], weight))
                 else:
-                    os.write("{} {} {} 1<eps>\n".
+                    os.write("{} {} {} <eps> 1\n".
                              format(curr_state, next_state, source[i]))
                 curr_state = next_state
 
