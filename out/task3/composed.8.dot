@@ -1396,7 +1396,7 @@ nodesep = "0.25";
 	590 -> 599 [label = "30:0/-0.38263", fontsize = 14];
 591 [label = "591", shape = circle, style = solid, fontsize = 14]
 592 [label = "592", shape = circle, style = solid, fontsize = 14]
-593 [label = "593", shape = circle, style = solid, fontsize = 14]
+593 [label = "593", shape = doublecircle, style = solid, fontsize = 14]
 594 [label = "594", shape = circle, style = solid, fontsize = 14]
 595 [label = "595", shape = circle, style = solid, fontsize = 14]
 596 [label = "596", shape = circle, style = solid, fontsize = 14]

@@ -2250,7 +2250,7 @@ nodesep = "0.25";
 	999 -> 1007 [label = "30:0/-0.60702", fontsize = 14];
 	999 -> 1008 [label = "30:0/-0.5232", fontsize = 14];
 1000 [label = "1000", shape = circle, style = solid, fontsize = 14]
-1001 [label = "1001", shape = circle, style = solid, fontsize = 14]
+1001 [label = "1001", shape = doublecircle, style = solid, fontsize = 14]
 1002 [label = "1002", shape = circle, style = solid, fontsize = 14]
 1003 [label = "1003", shape = circle, style = solid, fontsize = 14]
 1004 [label = "1004", shape = circle, style = solid, fontsize = 14]

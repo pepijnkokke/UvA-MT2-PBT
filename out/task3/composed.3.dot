@@ -770,7 +770,7 @@ nodesep = "0.25";
 313 [label = "313", shape = circle, style = solid, fontsize = 14]
 314 [label = "314", shape = circle, style = solid, fontsize = 14]
 315 [label = "315", shape = circle, style = solid, fontsize = 14]
-316 [label = "316", shape = circle, style = solid, fontsize = 14]
+316 [label = "316", shape = doublecircle, style = solid, fontsize = 14]
 317 [label = "317", shape = circle, style = solid, fontsize = 14]
 318 [label = "318", shape = circle, style = solid, fontsize = 14]
 319 [label = "319", shape = circle, style = solid, fontsize = 14]

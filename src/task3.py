@@ -48,8 +48,10 @@ if __name__ == "__main__":
                          '--connect=false',
                          dev_en_file, grammar_file, composed_file])
 
+        isyms_file = os.path.join(task1_out_dir, 'dev.en.{}.osyms'.format(i))
         dot_file = os.path.join(task3_out_dir, 'composed.{}.dot'.format(i))
         subprocess.call(['fstdraw',
+                         # '--isymbols={}'.format(isyms_file),
                          composed_file, dot_file])
 
         png_file = os.path.join(task3_out_dir, 'composed.{}.eps'.format(i))

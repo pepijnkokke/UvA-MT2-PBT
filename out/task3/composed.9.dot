@@ -642,7 +642,7 @@ nodesep = "0.25";
 	249 -> 259 [label = "20:0/-0.38263", fontsize = 14];
 250 [label = "250", shape = circle, style = solid, fontsize = 14]
 251 [label = "251", shape = circle, style = solid, fontsize = 14]
-252 [label = "252", shape = circle, style = solid, fontsize = 14]
+252 [label = "252", shape = doublecircle, style = solid, fontsize = 14]
 253 [label = "253", shape = circle, style = solid, fontsize = 14]
 254 [label = "254", shape = circle, style = solid, fontsize = 14]
 255 [label = "255", shape = circle, style = solid, fontsize = 14]

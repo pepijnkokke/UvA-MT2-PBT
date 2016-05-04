@@ -523,7 +523,7 @@ nodesep = "0.25";
 193 [label = "193", shape = circle, style = solid, fontsize = 14]
 194 [label = "194", shape = circle, style = solid, fontsize = 14]
 195 [label = "195", shape = circle, style = solid, fontsize = 14]
-196 [label = "196", shape = circle, style = solid, fontsize = 14]
+196 [label = "196", shape = doublecircle, style = solid, fontsize = 14]
 197 [label = "197", shape = circle, style = solid, fontsize = 14]
 198 [label = "198", shape = circle, style = solid, fontsize = 14]
 199 [label = "199", shape = circle, style = solid, fontsize = 14]

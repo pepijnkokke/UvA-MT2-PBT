@@ -1567,7 +1567,7 @@ nodesep = "0.25";
 	672 -> 681 [label = "27:0/-0.37591", fontsize = 14];
 	672 -> 682 [label = "27:0/-0.56222", fontsize = 14];
 673 [label = "673", shape = circle, style = solid, fontsize = 14]
-674 [label = "674", shape = circle, style = solid, fontsize = 14]
+674 [label = "674", shape = doublecircle, style = solid, fontsize = 14]
 675 [label = "675", shape = circle, style = solid, fontsize = 14]
 676 [label = "676", shape = circle, style = solid, fontsize = 14]
 677 [label = "677", shape = circle, style = solid, fontsize = 14]

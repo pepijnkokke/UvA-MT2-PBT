@@ -1257,7 +1257,7 @@ nodesep = "0.25";
 527 [label = "527", shape = circle, style = solid, fontsize = 14]
 528 [label = "528", shape = circle, style = solid, fontsize = 14]
 529 [label = "529", shape = circle, style = solid, fontsize = 14]
-530 [label = "530", shape = circle, style = solid, fontsize = 14]
+530 [label = "530", shape = doublecircle, style = solid, fontsize = 14]
 531 [label = "531", shape = circle, style = solid, fontsize = 14]
 532 [label = "532", shape = circle, style = solid, fontsize = 14]
 533 [label = "533", shape = circle, style = solid, fontsize = 14]

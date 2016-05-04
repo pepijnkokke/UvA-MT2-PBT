@@ -106,6 +106,8 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
     for word in words_without_rules:
         os.write("0 0 {0} {0} {1}\n".format(word, weight_map['PassThrough']))
 
+    os.write("0\n")
+
 
 if __name__ == "__main__":
 
@@ -170,6 +172,14 @@ if __name__ == "__main__":
         subprocess.call(['fstarcsort',
                          '--sort_type=ilabel',
                          fst_file,fst_file])
+
+        # dot_file = os.path.join(task2_out_dir, 'grammar.{}.dot'.format(i))
+        # subprocess.call(['fstdraw',
+        #                  '--isymbols={}'.format(isyms_file),
+        #                  fst_file, dot_file])
+        #
+        # png_file = os.path.join(task2_out_dir, 'grammar.{}.eps'.format(i))
+        # subprocess.call(['dot', '-Tps', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()
