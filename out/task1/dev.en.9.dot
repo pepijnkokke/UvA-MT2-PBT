@@ -13,7 +13,7 @@ nodesep = "0.25";
 2 [label = "2", shape = circle, style = solid, fontsize = 14]
 	2 -> 3 [label = "3:circuit", fontsize = 14];
 3 [label = "3", shape = circle, style = solid, fontsize = 14]
-	3 -> 4 [label = "4:31", fontsize = 14];
+	3 -> 4 [label = "4:#31", fontsize = 14];
 4 [label = "4", shape = circle, style = solid, fontsize = 14]
 	4 -> 5 [label = "5:is", fontsize = 14];
 5 [label = "5", shape = circle, style = solid, fontsize = 14]
@@ -29,7 +29,7 @@ nodesep = "0.25";
 10 [label = "10", shape = circle, style = solid, fontsize = 14]
 	10 -> 11 [label = "11:circuit", fontsize = 14];
 11 [label = "11", shape = circle, style = solid, fontsize = 14]
-	11 -> 12 [label = "12:7", fontsize = 14];
+	11 -> 12 [label = "12:#7", fontsize = 14];
 12 [label = "12", shape = circle, style = solid, fontsize = 14]
 	12 -> 13 [label = "13:and", fontsize = 14];
 13 [label = "13", shape = circle, style = solid, fontsize = 14]

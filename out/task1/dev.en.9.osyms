@@ -2,7 +2,7 @@
 data 1
 generating 2
 circuit 3
-31 4
+#31 4
 is 5
 also 6
 connected 7
@@ -10,7 +10,7 @@ to 8
 power-supply 9
 control 10
 circuit 11
-7 12
+#7 12
 and 13
 receives 14
 the 15

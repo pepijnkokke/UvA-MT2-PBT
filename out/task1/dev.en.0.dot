@@ -45,7 +45,7 @@ nodesep = "0.25";
 18 [label = "18", shape = circle, style = solid, fontsize = 14]
 	18 -> 19 [label = "19:engine", fontsize = 14];
 19 [label = "19", shape = circle, style = solid, fontsize = 14]
-	19 -> 20 [label = "20:1", fontsize = 14];
+	19 -> 20 [label = "20:#1", fontsize = 14];
 20 [label = "20", shape = circle, style = solid, fontsize = 14]
 	20 -> 21 [label = "21:is", fontsize = 14];
 21 [label = "21", shape = circle, style = solid, fontsize = 14]
