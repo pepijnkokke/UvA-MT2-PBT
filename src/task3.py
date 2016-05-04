@@ -49,26 +49,19 @@ if __name__ == "__main__":
                          dev_en_file, grammar_file, composed_file])
 
         isyms_file = os.path.join(task1_out_dir, 'dev.en.{}.osyms'.format(i))
-        # dot_file = os.path.join(task3_out_dir, 'composed.{}.dot'.format(i))
-        # subprocess.call(['fstdraw',
-        #                  # '--isymbols={}'.format(isyms_file),
-        #                  composed_file, dot_file])
-        #
-        # png_file = os.path.join(task3_out_dir, 'composed.{}.eps'.format(i))
-        # subprocess.call(['dot', '-Tps', dot_file, '-o', png_file])
 
         shortest_file = os.path.join(task3_out_dir, 'shortest.{}.fst'.format(i))
         subprocess.call(['fstshortestpath',
-                         '--nshortest=100',
+                         '--nshortest=10',
                          composed_file, shortest_file ])
 
         dot_file = os.path.join(task3_out_dir, 'shortest.{}.dot'.format(i))
         subprocess.call(['fstdraw',
-                         # '--isymbols={}'.format(isyms_file),
+                         '--portrait=true',
                          shortest_file, dot_file])
 
-        png_file = os.path.join(task3_out_dir, 'shortest.{}.eps'.format(i))
-        subprocess.call(['dot', '-Tps', dot_file, '-o', png_file])
+        png_file = os.path.join(task3_out_dir, 'shortest.{}.png'.format(i))
+        subprocess.call(['dot', '-Tpng','-Gdpi=300', dot_file, '-o', png_file])
 
 
     sys.stdout.write("\r")

@@ -25,7 +25,7 @@ def sentence_to_fst(sentence, os = sys.stdout):
     last_index = len(words) - 1
 
     for i, w in enumerate(words):
-        os.write("{} {} {} {}\n".format(i, i + 1, i + 1, w))
+        os.write("{} {} {} {}\n".format(i, i + 1, w, w))
 
     os.write("{}\n".format(i + 1))
 
@@ -101,19 +101,22 @@ if __name__ == "__main__":
 
         fst_file = os.path.join(task1_out_dir,'dev.en.{}.fst'.format(i))
         subprocess.call(['fstcompile',
+                         '--keep_isymbols', '--keep_osymbols',
+                         '--isymbols={}'.format(osyms_file),
                          '--osymbols={}'.format(osyms_file),
                          fst_txt_file,fst_file])
+
         subprocess.call(['fstarcsort',
                          '--sort_type=olabel',
                          fst_file,fst_file])
 
-        dot_file = os.path.join(task1_out_dir,'dev.en.{}.dot'.format(i))
+        dot_file = os.path.join(task1_out_dir, 'dev.en.{}.dot'.format(i))
         subprocess.call(['fstdraw',
-                         '--osymbols={}'.format(osyms_file),
-                         fst_file,dot_file])
+                         '--portrait=true',
+                         fst_file, dot_file])
 
-        png_file = os.path.join(task1_out_dir,'dev.en.{}.eps'.format(i))
-        subprocess.call(['dot','-Tps',dot_file,'-o',png_file])
+        png_file = os.path.join(task1_out_dir, 'dev.en.{}.png'.format(i))
+        subprocess.call(['dot', '-Tpng', '-Gdpi=300', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()

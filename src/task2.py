@@ -166,6 +166,7 @@ if __name__ == "__main__":
         fst_file = os.path.join(task2_out_dir,'grammar.{}.fst'.format(i))
         isyms_file = os.path.join(task1_out_dir,'dev.en.{}.osyms'.format(i))
         subprocess.call(['fstcompile',
+                         '--keep_isymbols', '--keep_osymbols',
                          '--isymbols={}'.format(isyms_file),
                          '--osymbols={}'.format(osyms_file),
                          fst_txt_file,fst_file])
@@ -175,11 +176,11 @@ if __name__ == "__main__":
 
         # dot_file = os.path.join(task2_out_dir, 'grammar.{}.dot'.format(i))
         # subprocess.call(['fstdraw',
-        #                  '--isymbols={}'.format(isyms_file),
+        #                  '--portrait=true',
         #                  fst_file, dot_file])
         #
-        # png_file = os.path.join(task2_out_dir, 'grammar.{}.eps'.format(i))
-        # subprocess.call(['dot', '-Tps', dot_file, '-o', png_file])
+        # png_file = os.path.join(task2_out_dir, 'grammar.{}.png'.format(i))
+        # subprocess.call(['dot', '-Tpng', '-Gdpi=3000', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()
