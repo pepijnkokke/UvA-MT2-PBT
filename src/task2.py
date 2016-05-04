@@ -35,7 +35,7 @@ def phrasetable_to_osyms(sentence, phrasetable, os = sys.stdout):
 
     words_with_rules |= phrasetable_to_ovv(sentence, phrasetable)
 
-    os.write("<eps> 0\n")
+    os.write("<epsilon> 0\n")
 
     for i, w in enumerate(words_with_rules):
         os.write("{} {}\n".format(w, i + 1))
@@ -80,10 +80,10 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
 
                 next_state = curr_state + 1
                 if i == 0:
-                    os.write("0 {} {} <eps> {}\n".
+                    os.write("0 {} {} <epsilon> {}\n".
                              format(curr_state, source[i], weight))
                 else:
-                    os.write("{} {} {} <eps> 0\n".
+                    os.write("{} {} {} <epsilon> 0\n".
                              format(curr_state, next_state, source[i]))
                 curr_state = next_state
 
@@ -92,10 +92,10 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
 
                 next_state = curr_state + 1
                 if j < last_index:
-                    os.write("{} {} <eps> {} 0\n".
+                    os.write("{} {} <epsilon> {} 0\n".
                              format(curr_state, next_state, target[j]))
                 else:
-                    os.write("{} 0 <eps> {} 0\n".
+                    os.write("{} 0 <epsilon> {} 0\n".
                              format(curr_state, target[j]))
                 curr_state = next_state
 

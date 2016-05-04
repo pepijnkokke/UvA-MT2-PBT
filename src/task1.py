@@ -36,7 +36,7 @@ def sentence_to_isyms(sentence, os = sys.stdout):
     state = 0
     words = sentence.split()
 
-    os.write("0 <eps>\n")
+    os.write("0 <epsilon>\n")
 
     for i, w in enumerate(words):
         os.write("{} {}\n".format(i + 1, w))
@@ -48,7 +48,7 @@ def sentence_to_osyms(sentence, os = sys.stdout):
     state = 0
     words = sentence.split()
 
-    os.write("<eps> 0\n")
+    os.write("<epsilon> 0\n")
 
     for i, w in enumerate(words):
         os.write("{} {}\n".format(w, i + 1))
