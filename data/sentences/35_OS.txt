@@ -1,9 +1,0 @@
-<eps> 0
-a 1
-reference 2
-numeral 3
-49 4
-represents 5
-a 6
-shutter 7
-. 8

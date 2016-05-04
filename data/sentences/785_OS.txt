@@ -1,7 +1,0 @@
-<eps> 0
-no 1
-isomeric 2
-azasilacyclobutane 3
-was 4
-produced 5
-. 6

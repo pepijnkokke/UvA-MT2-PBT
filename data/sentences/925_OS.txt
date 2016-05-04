@@ -1,9 +1,0 @@
-<eps> 0
-fig 1
-. 2
-9 3
-shows 4
-a 5
-main 6
-routine 7
-. 8

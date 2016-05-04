@@ -1,9 +1,0 @@
-<eps> 0
-the 1
-maximum 2
-noise 3
-voltage 4
-amplitude 5
-was 6
-2.7 7
-v. 8

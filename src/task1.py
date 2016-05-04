@@ -25,7 +25,7 @@ def sentence_to_fst(sentence, os = sys.stdout):
     last_index = len(words) - 1
 
     for i, w in enumerate(words):
-        os.write("{} {} {} {}\n".format(i, i + 1, w, w))
+        os.write("{} {} {} {}\n".format(i, i + 1, i + 1, w))
 
     os.write("{}\n".format(i + 1))
 
@@ -101,8 +101,7 @@ if __name__ == "__main__":
 
         fst_file = os.path.join(task1_out_dir,'dev.en.{}.fst'.format(i))
         subprocess.call(['fstcompile',
-                         '--keep_isymbols', '--keep_osymbols',
-                         '--isymbols={}'.format(osyms_file),
+                         '--keep_osymbols',
                          '--osymbols={}'.format(osyms_file),
                          fst_txt_file,fst_file])
 

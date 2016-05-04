@@ -12,17 +12,17 @@ import subprocess
 import sys
 
 
-def find_best_translations(result):
-    all_arcs = [x.split('\t') for x in result.split('\n')]
+def find_best_derivations(print_data):
+    all_arcs = [x.split('\t') for x in print_data.split('\n')]
     starting_state = '0'
 
-    results = find_best_translation_rec(all_arcs, starting_state)
+    results = find_best_derivations_rec(all_arcs, starting_state)
     sorted_results = sorted(results, key=lambda tup: tup[1])
 
     return sorted_results
 
 
-def find_best_translation_rec(all_arcs, state):
+def find_best_derivations_rec(all_arcs, state):
     finishing_state = '1'
 
     current_arcs = [x for x in all_arcs if x[0] == state]
@@ -31,7 +31,6 @@ def find_best_translation_rec(all_arcs, state):
 
     for arc in current_arcs:
 
-        f = arc[0]
         t = arc[1]
         e = arc[2]
         j = arc[3]
@@ -44,11 +43,19 @@ def find_best_translation_rec(all_arcs, state):
         if t == finishing_state:
             return [([j], [e], p)]
         else:
-            old_results = find_best_translation_rec(all_arcs, t)
+            old_results = find_best_derivations_rec(all_arcs, t)
             for (js, es, ps) in old_results:
                 results.append(([j] + js, [e] + es, ps + p))
 
     return results
+
+
+def print_to_best_derivations(print_result, os = sys.stdout):
+    for (js, es, p) in find_best_derivations(print_result):
+        for i,j in enumerate(js):
+            os.write(" {} |{}-{}|".format(j, i, es[i]))
+        os.write("\n")
+
 
 if __name__ == "__main__":
 
@@ -90,16 +97,17 @@ if __name__ == "__main__":
 
         shortest_file = os.path.join(task3_out_dir, 'shortest.{}.fst'.format(i))
         subprocess.call(['fstshortestpath',
-                         '--nshortest=10',
+                         '--nshortest=100',
                          composed_file, shortest_file ])
 
         subprocess.call(['fstrmepsilon', shortest_file, shortest_file])
-
         # subprocess.call(['fstdisambiguate', shortest_file, shortest_file])
 
-        result = subprocess.check_output(['fstprint', shortest_file])
+        print_result = subprocess.check_output(['fstprint', shortest_file])
 
-        find_best_translations(result)
+        best_file = os.path.join(task3_out_dir, 'monotone.100best.{}'.format(i))
+        with open(best_file, 'w') as f:
+            print_to_best_derivations(print_result, f)
 
         dot_file = os.path.join(task3_out_dir, 'shortest.{}.dot'.format(i))
         subprocess.call(['fstdraw',
@@ -108,7 +116,6 @@ if __name__ == "__main__":
 
         png_file = os.path.join(task3_out_dir, 'shortest.{}.png'.format(i))
         subprocess.call(['dot', '-Tpng','-Gdpi=300', dot_file, '-o', png_file])
-
 
     sys.stdout.write("\r")
     sys.stdout.flush()

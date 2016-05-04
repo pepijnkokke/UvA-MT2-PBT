@@ -1,7 +1,0 @@
-0 1 1 no
-1 2 2 isomeric
-2 3 3 azasilacyclobutane
-3 4 4 was
-4 5 5 produced
-5 6 6 .
-5
