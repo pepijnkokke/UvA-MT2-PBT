@@ -12,6 +12,44 @@ import subprocess
 import sys
 
 
+def find_best_translations(result):
+    all_arcs = [x.split('\t') for x in result.split('\n')]
+    starting_state = '0'
+
+    results = find_best_translation_rec(all_arcs, starting_state)
+    sorted_results = sorted(results, key=lambda tup: tup[1])
+
+    return sorted_results
+
+
+def find_best_translation_rec(all_arcs, state):
+    finishing_state = '1'
+
+    current_arcs = [x for x in all_arcs if x[0] == state]
+
+    results = []
+
+    for arc in current_arcs:
+
+        f = arc[0]
+        t = arc[1]
+        e = arc[2]
+        j = arc[3]
+
+        if len(arc) >= 5:
+            p = float(arc[4])
+        else:
+            p = 0.0
+
+        if t == finishing_state:
+            return [([j], [e], p)]
+        else:
+            old_results = find_best_translation_rec(all_arcs, t)
+            for (js, es, ps) in old_results:
+                results.append(([j] + js, [e] + es, ps + p))
+
+    return results
+
 if __name__ == "__main__":
 
     # Set the path to the src/, data/ and out/ directories.
@@ -54,6 +92,14 @@ if __name__ == "__main__":
         subprocess.call(['fstshortestpath',
                          '--nshortest=10',
                          composed_file, shortest_file ])
+
+        subprocess.call(['fstrmepsilon', shortest_file, shortest_file])
+
+        # subprocess.call(['fstdisambiguate', shortest_file, shortest_file])
+
+        result = subprocess.check_output(['fstprint', shortest_file])
+
+        find_best_translations(result)
 
         dot_file = os.path.join(task3_out_dir, 'shortest.{}.dot'.format(i))
         subprocess.call(['fstdraw',

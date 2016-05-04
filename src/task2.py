@@ -173,7 +173,7 @@ if __name__ == "__main__":
         subprocess.call(['fstarcsort',
                          '--sort_type=ilabel',
                          fst_file,fst_file])
-
+        #
         # dot_file = os.path.join(task2_out_dir, 'grammar.{}.dot'.format(i))
         # subprocess.call(['fstdraw',
         #                  '--portrait=true',
