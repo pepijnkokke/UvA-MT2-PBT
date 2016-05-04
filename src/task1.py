@@ -72,16 +72,17 @@ if __name__ == "__main__":
     src_dir  = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.realpath(os.getenv('DATA_DIR',
                    os.path.join(os.path.join(src_dir,'..'),'data')))
-    out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'out'))
+    out_dir = os.getenv('OUT_DIR', os.path.join(os.path.join(src_dir, '..'), 'out'))
+    task1_out_dir = os.path.join(out_dir, 'task1')
 
     # Make sure the out/ directory exists.
-    mkdir_p(out_dir)
+    mkdir_p(task1_out_dir)
 
     # Set the path to the input file (dev.en).
     dev_en = os.getenv('DEV_EN',os.path.join(data_dir,'dev.en'))
 
     # Set the number of sentences to convert to FSTs.
-    n = os.getenv('N',100)
+    n = os.getenv('N',10)
 
     # Convert English sentences to FSTs.
     with open(dev_en, 'r') as f:
@@ -92,13 +93,13 @@ if __name__ == "__main__":
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        fst_txt_file = os.path.join(out_dir,'dev.en.{}.fst.txt'.format(i))
+        fst_txt_file = os.path.join(task1_out_dir,'dev.en.{}.fst.txt'.format(i))
         with open(fst_txt_file, 'w') as f: sentence_to_fst(sentence, f)
 
-        osyms_file = os.path.join(out_dir,'dev.en.{}.osyms'.format(i))
+        osyms_file = os.path.join(task1_out_dir,'dev.en.{}.osyms'.format(i))
         with open(osyms_file, 'w') as f: sentence_to_osyms(sentence, f)
 
-        fst_file = os.path.join(out_dir,'dev.en.{}.fst'.format(i))
+        fst_file = os.path.join(task1_out_dir,'dev.en.{}.fst'.format(i))
         subprocess.call(['fstcompile',
                          '--osymbols={}'.format(osyms_file),
                          fst_txt_file,fst_file])
@@ -106,13 +107,13 @@ if __name__ == "__main__":
                          '--sort_type=olabel',
                          fst_file,fst_file])
 
-        dot_file = os.path.join(out_dir,'dev.en.{}.dot'.format(i))
+        dot_file = os.path.join(task1_out_dir,'dev.en.{}.dot'.format(i))
         subprocess.call(['fstdraw',
                          '--osymbols={}'.format(osyms_file),
                          fst_file,dot_file])
 
-        png_file = os.path.join(out_dir,'dev.en.{}.png'.format(i))
-        subprocess.call(['dot',dot_file,'-o',png_file])
+        png_file = os.path.join(task1_out_dir,'dev.en.{}.eps'.format(i))
+        subprocess.call(['dot','-Tps',dot_file,'-o',png_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()

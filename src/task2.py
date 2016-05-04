@@ -112,10 +112,13 @@ if __name__ == "__main__":
     # Set the path to the src/, data/ and out/ directories.
     src_dir  = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.getenv('DATA_DIR',os.path.join(os.path.join(src_dir,'..'),'data'))
-    out_dir  = os.getenv('OUT_DIR',os.path.join(data_dir,'out'))
+    out_dir = os.getenv('OUT_DIR', os.path.join(os.path.join(src_dir, '..'), 'out'))
+
+    task1_out_dir = os.path.join(out_dir, 'task1')
+    task2_out_dir = os.path.join(out_dir, 'task2')
 
     # Make sure the out/ directory exists.
-    mkdir_p(out_dir)
+    mkdir_p(task2_out_dir)
 
     # Set the path to the input file (dev.en).
     dev_en             = os.getenv('DEV_EN',
@@ -126,7 +129,7 @@ if __name__ == "__main__":
                                    os.path.join(data_dir,'rules.monotone.dev'))
 
     # Set the number of sentences to convert to FSTs.
-    n = os.getenv('N',100)
+    n = os.getenv('N',10)
 
     # Read the first N entries from DEV_EN.
     with open(dev_en, 'r') as f:
@@ -150,16 +153,16 @@ if __name__ == "__main__":
         with open(grammar_file, 'r') as f:
             phrasetable = f.readlines()
 
-        osyms_file = os.path.join(out_dir,'dev.ja.{}.osyms'.format(i))
+        osyms_file = os.path.join(task2_out_dir,'dev.ja.{}.osyms'.format(i))
         with open(osyms_file, 'w') as f:
             phrasetable_to_osyms(sentence, phrasetable, f)
 
-        fst_txt_file = os.path.join(out_dir,'grammar.{}.fst.txt'.format(i))
+        fst_txt_file = os.path.join(task2_out_dir,'grammar.{}.fst.txt'.format(i))
         with open(fst_txt_file, 'w') as f:
             phrasetable_to_fst(sentence, phrasetable, weight_map, f)
 
-        fst_file = os.path.join(out_dir,'grammar.{}.fst'.format(i))
-        isyms_file = os.path.join(out_dir,'dev.en.{}.osyms'.format(i))
+        fst_file = os.path.join(task2_out_dir,'grammar.{}.fst'.format(i))
+        isyms_file = os.path.join(task1_out_dir,'dev.en.{}.osyms'.format(i))
         subprocess.call(['fstcompile',
                          '--isymbols={}'.format(isyms_file),
                          '--osymbols={}'.format(osyms_file),
