@@ -53,7 +53,8 @@ def find_best_derivations_rec(all_arcs, state):
 def print_to_best_derivations(print_result, os = sys.stdout):
     for (js, es, p) in find_best_derivations(print_result):
         for i,j in enumerate(js):
-            os.write(" {} |{}-{}|".format(j, i, es[i]))
+            e = int(es[i]) - 1
+            os.write(" {} |{}-{}|".format(j, i, e))
         os.write("\n")
 
 
