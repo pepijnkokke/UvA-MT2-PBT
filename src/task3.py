@@ -53,8 +53,8 @@ def find_best_derivations_rec(all_arcs, state):
 def print_to_best_derivations(print_result, os = sys.stdout):
     for (js, es, p) in find_best_derivations(print_result):
         for i,j in enumerate(js):
-            e = int(es[i]) - 1
-            os.write(" {} |{}-{}|".format(j, i, e))
+            e = int(es[i])
+            os.write("{} |{}-{}| ".format(j, i, e))
         os.write("\n")
 
 
@@ -101,7 +101,7 @@ if __name__ == "__main__":
                          '--nshortest=100',
                          composed_file, shortest_file ])
 
-        subprocess.call(['fstrmepsilon', shortest_file, shortest_file])
+        # subprocess.call(['fstrmepsilon', shortest_file, shortest_file])
         # subprocess.call(['fstdisambiguate', shortest_file, shortest_file])
 
         print_result = subprocess.check_output(['fstprint', shortest_file])

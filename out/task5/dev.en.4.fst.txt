@@ -1,0 +1,209 @@
+0 1 1 the
+1 2 2 electrostatic
+2 3 3 latent
+3 4 4 image
+4 5 5 is
+5 6 9 toner
+6 7 8 using
+7 8 7 developed
+8 9 6 then
+9 10 10 . 0.733270052207
+10
+0 11 1 the
+11 12 2 electrostatic
+12 13 3 latent
+13 14 4 image
+14 15 5 is
+15 16 9 toner
+16 17 8 using
+17 18 6 then
+18 19 7 developed
+19 20 10 . 0.0109159943047
+20
+0 21 1 the
+21 22 2 electrostatic
+22 23 3 latent
+23 24 4 image
+24 25 5 is
+25 26 9 toner
+26 27 7 developed
+27 28 8 using
+28 29 6 then
+29 30 10 . 0.00189843379212
+30
+0 31 1 the
+31 32 2 electrostatic
+32 33 3 latent
+33 34 4 image
+34 35 5 is
+35 36 8 using
+36 37 9 toner
+37 38 7 developed
+38 39 6 then
+39 40 10 . 0.016294890049
+40
+0 41 1 the
+41 42 2 electrostatic
+42 43 3 latent
+43 44 4 image
+44 45 9 toner
+45 46 8 using
+46 47 5 is
+47 48 7 developed
+48 49 6 then
+49 50 10 . 0.0522069292833
+50
+0 51 1 the
+51 52 2 electrostatic
+52 53 3 latent
+53 54 9 toner
+54 55 4 image
+55 56 5 is
+56 57 8 using
+57 58 7 developed
+58 59 6 then
+59 60 10 . 0.00031640563202
+60
+0 61 1 the
+61 62 2 electrostatic
+62 63 3 latent
+63 64 4 image
+64 65 9 toner
+65 66 5 is
+66 67 7 developed
+67 68 8 using
+68 69 6 then
+69 70 10 . 0.00047460844803
+70
+0 71 2 electrostatic
+71 72 3 latent
+72 73 1 the
+73 74 4 image
+74 75 5 is
+75 76 9 toner
+76 77 8 using
+77 78 7 developed
+78 79 6 then
+79 80 10 . 0.0199335548173
+80
+0 81 1 the
+81 82 2 electrostatic
+82 83 3 latent
+83 84 4 image
+84 85 5 is
+85 86 9 toner
+86 87 6 then
+87 88 8 using
+88 89 7 developed
+89 90 10 . 0.00047460844803
+90
+0 91 1 the
+91 92 2 electrostatic
+92 93 3 latent
+93 94 4 image
+94 95 5 is
+95 96 8 using
+96 97 9 toner
+97 98 6 then
+98 99 7 developed
+99 100 10 . 0.00015820281601
+100
+0 101 1 the
+101 102 2 electrostatic
+102 103 3 latent
+103 104 4 image
+104 105 9 toner
+105 106 8 using
+106 107 5 is
+107 108 6 then
+108 109 7 developed
+109 110 10 . 0.000791014080051
+110
+0 111 1 the
+111 112 2 electrostatic
+112 113 3 latent
+113 114 4 image
+114 115 5 is
+115 116 7 developed
+116 117 9 toner
+117 118 8 using
+118 119 6 then
+119 120 10 . 0.00110741971207
+120
+0 121 1 the
+121 122 2 electrostatic
+122 123 3 latent
+123 124 4 image
+124 125 5 is
+125 126 8 using
+126 127 7 developed
+127 128 9 toner
+128 129 6 then
+129 130 10 . 0.000791014080051
+130
+0 131 1 the
+131 132 4 image
+132 133 2 electrostatic
+133 134 3 latent
+134 135 5 is
+135 136 9 toner
+136 137 8 using
+137 138 7 developed
+138 139 6 then
+139 140 10 . 0.00237304224015
+140
+0 141 1 the
+141 142 2 electrostatic
+142 143 5 is
+143 144 3 latent
+144 145 4 image
+145 146 9 toner
+146 147 8 using
+147 148 7 developed
+148 149 6 then
+149 150 10 . 0.00015820281601
+150
+0 151 1 the
+151 152 2 electrostatic
+152 153 3 latent
+153 154 4 image
+154 155 8 using
+155 156 9 toner
+156 157 5 is
+157 158 7 developed
+158 159 6 then
+159 160 10 . 0.00142382534409
+160
+0 161 1 the
+161 162 2 electrostatic
+162 163 3 latent
+163 164 4 image
+164 165 9 toner
+165 166 8 using
+166 167 7 developed
+167 168 5 is
+168 169 6 then
+169 170 10 . 0.00015820281601
+170
+0 171 1 the
+171 172 2 electrostatic
+172 173 3 latent
+173 174 9 toner
+174 175 8 using
+175 176 4 image
+176 177 5 is
+177 178 7 developed
+178 179 6 then
+179 180 10 . 0.0449295997469
+180
+0 181 2 electrostatic
+181 182 3 latent
+182 183 4 image
+183 184 1 the
+184 185 5 is
+185 186 9 toner
+186 187 8 using
+187 188 7 developed
+188 189 6 then
+189 190 10 . 0.112323999367
+190
