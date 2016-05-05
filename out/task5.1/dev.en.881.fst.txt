@@ -1,0 +1,216 @@
+0 1 1 the
+1 2 2 low-noise
+2 3 3 amplifier
+3 4 4 19
+4 5 6 three
+5 6 7 stages
+6 7 5 has
+7 8 8 . 0.636820936394
+8
+0 9 1 the
+9 10 2 low-noise
+10 11 3 amplifier
+11 12 4 19
+12 13 5 has
+13 14 6 three
+14 15 7 stages
+15 16 8 . 0.930336196686
+16
+0 17 2 low-noise
+17 18 1 the
+18 19 3 amplifier
+19 20 4 19
+20 21 6 three
+21 22 7 stages
+22 23 5 has
+23 24 8 . 7.39336565361
+24
+0 25 1 the
+25 26 2 low-noise
+26 27 3 amplifier
+27 28 4 19
+28 29 7 stages
+29 30 6 three
+30 31 5 has
+31 32 8 . 8.49197794227
+32
+0 33 2 low-noise
+33 34 1 the
+34 35 3 amplifier
+35 36 4 19
+36 37 5 has
+37 38 6 three
+38 39 7 stages
+39 40 8 . 7.23921497378
+40
+0 41 1 the
+41 42 2 low-noise
+42 43 3 amplifier
+43 44 4 19
+44 45 5 has
+45 46 7 stages
+46 47 6 three
+47 48 8 . 7.79883076172
+48
+0 49 2 low-noise
+49 50 3 amplifier
+50 51 1 the
+51 52 4 19
+52 53 6 three
+53 54 7 stages
+54 55 5 has
+55 56 8 . 9.18512512283
+56
+0 57 1 the
+57 58 6 three
+58 59 2 low-noise
+59 60 3 amplifier
+60 61 4 19
+61 62 5 has
+62 63 7 stages
+63 64 8 . 9.18512512283
+64
+0 65 2 low-noise
+65 66 3 amplifier
+66 67 4 19
+67 68 1 the
+68 69 6 three
+69 70 7 stages
+70 71 5 has
+71 72 8 . 4.47559492152
+72
+0 73 4 19
+73 74 1 the
+74 75 2 low-noise
+75 76 3 amplifier
+76 77 6 three
+77 78 7 stages
+78 79 5 has
+79 80 8 . 8.49197794227
+80
+0 81 2 low-noise
+81 82 3 amplifier
+82 83 4 19
+83 84 1 the
+84 85 5 has
+85 86 6 three
+86 87 7 stages
+87 88 8 . 6.18939284928
+88
+0 89 1 the
+89 90 2 low-noise
+90 91 6 three
+91 92 7 stages
+92 93 3 amplifier
+93 94 4 19
+94 95 5 has
+95 96 8 . 6.14060268511
+96
+0 97 6 three
+97 98 1 the
+98 99 2 low-noise
+99 100 3 amplifier
+100 101 4 19
+101 102 5 has
+102 103 7 stages
+103 104 8 . 9.18512512283
+104
+0 105 1 the
+105 106 7 stages
+106 107 2 low-noise
+107 108 3 amplifier
+108 109 4 19
+109 110 5 has
+110 111 6 three
+111 112 8 . 9.18512512283
+112
+0 113 3 amplifier
+113 114 4 19
+114 115 1 the
+115 116 2 low-noise
+116 117 6 three
+117 118 7 stages
+118 119 5 has
+119 120 8 . 7.23921497378
+120
+0 121 2 low-noise
+121 122 3 amplifier
+122 123 4 19
+123 124 1 the
+124 125 7 stages
+125 126 5 has
+126 127 6 three
+127 128 8 . 9.18512512283
+128
+0 129 2 low-noise
+129 130 3 amplifier
+130 131 4 19
+131 132 5 has
+132 133 1 the
+133 134 6 three
+134 135 7 stages
+135 136 8 . 4.73077782658
+136
+0 137 2 low-noise
+137 138 1 the
+138 139 6 three
+139 140 7 stages
+140 141 3 amplifier
+141 142 4 19
+142 143 5 has
+143 144 8 . 9.18512512283
+144
+0 145 1 the
+145 146 3 amplifier
+146 147 4 19
+147 148 5 has
+148 149 6 three
+149 150 7 stages
+150 151 2 low-noise
+151 152 8 . 9.18512512283
+152
+0 153 1 the
+153 154 6 three
+154 155 7 stages
+155 156 2 low-noise
+156 157 3 amplifier
+157 158 4 19
+158 159 5 has
+159 160 8 . 3.89182029811
+160
+0 161 1 the
+161 162 2 low-noise
+162 163 6 three
+163 164 7 stages
+164 165 5 has
+165 166 3 amplifier
+166 167 4 19
+167 168 8 . 8.49197794227
+168
+0 169 2 low-noise
+169 170 3 amplifier
+170 171 4 19
+171 172 6 three
+172 173 7 stages
+173 174 5 has
+174 175 1 the
+175 176 8 . 7.5756872104
+176
+0 177 2 low-noise
+177 178 3 amplifier
+178 179 4 19
+179 180 5 has
+180 181 6 three
+181 182 7 stages
+182 183 1 the
+183 184 8 . 6.9879005455
+184
+0 185 6 three
+185 186 7 stages
+186 187 1 the
+187 188 2 low-noise
+188 189 3 amplifier
+189 190 4 19
+190 191 5 has
+191 192 8 . 3.62829706113
+192

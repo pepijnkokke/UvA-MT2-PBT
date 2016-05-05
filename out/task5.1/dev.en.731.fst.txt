@@ -1,0 +1,256 @@
+0 1 9 the
+1 2 10 terminal
+2 3 8 to
+3 4 5 the
+4 5 6 transmission
+5 6 7 line
+6 7 4 from
+7 8 3 data
+8 9 2 of
+9 10 1 demultiplexing
+10 11 11 will
+11 12 14 below
+12 13 13 explained
+13 14 12 be
+14 15 15 . 0.849002164166
+15
+0 16 9 the
+16 17 10 terminal
+17 18 5 the
+18 19 8 to
+19 20 6 transmission
+20 21 7 line
+21 22 4 from
+22 23 3 data
+23 24 2 of
+24 25 1 demultiplexing
+25 26 11 will
+26 27 14 below
+27 28 13 explained
+28 29 12 be
+29 30 15 . 6.66313269599
+30
+0 31 9 the
+31 32 10 terminal
+32 33 8 to
+33 34 5 the
+34 35 6 transmission
+35 36 7 line
+36 37 4 from
+37 38 3 data
+38 39 2 of
+39 40 1 demultiplexing
+40 41 14 below
+41 42 11 will
+42 43 13 explained
+43 44 12 be
+44 45 15 . 3.7727609381
+45
+0 46 9 the
+46 47 10 terminal
+47 48 8 to
+48 49 5 the
+49 50 6 transmission
+50 51 7 line
+51 52 4 from
+52 53 2 of
+53 54 3 data
+54 55 1 demultiplexing
+55 56 11 will
+56 57 14 below
+57 58 13 explained
+58 59 12 be
+59 60 15 . 1.3352565272
+60
+0 61 9 the
+61 62 10 terminal
+62 63 8 to
+63 64 5 the
+64 65 6 transmission
+65 66 7 line
+66 67 4 from
+67 68 2 of
+68 69 3 data
+69 70 1 demultiplexing
+70 71 14 below
+71 72 11 will
+72 73 13 explained
+73 74 12 be
+74 75 15 . 4.87137322676
+75
+0 76 5 the
+76 77 9 the
+77 78 10 terminal
+78 79 8 to
+79 80 6 transmission
+80 81 7 line
+81 82 4 from
+82 83 3 data
+83 84 2 of
+84 85 1 demultiplexing
+85 86 11 will
+86 87 14 below
+87 88 13 explained
+88 89 12 be
+89 90 15 . 3.40503615797
+90
+0 91 9 the
+91 92 10 terminal
+92 93 8 to
+93 94 5 the
+94 95 6 transmission
+95 96 7 line
+96 97 4 from
+97 98 3 data
+98 99 2 of
+99 100 1 demultiplexing
+100 101 14 below
+101 102 13 explained
+102 103 11 will
+103 104 12 be
+104 105 15 . 6.66313269599
+105
+0 106 5 the
+106 107 9 the
+107 108 10 terminal
+108 109 8 to
+109 110 6 transmission
+110 111 7 line
+111 112 4 from
+112 113 3 data
+113 114 2 of
+114 115 1 demultiplexing
+115 116 14 below
+116 117 11 will
+117 118 13 explained
+118 119 12 be
+119 120 15 . 5.27683833487
+120
+0 121 9 the
+121 122 10 terminal
+122 123 8 to
+123 124 5 the
+124 125 6 transmission
+125 126 7 line
+126 127 4 from
+127 128 3 data
+128 129 1 demultiplexing
+129 130 2 of
+130 131 11 will
+131 132 14 below
+132 133 13 explained
+133 134 12 be
+134 135 15 . 3.13677217137
+135
+0 136 5 the
+136 137 9 the
+137 138 10 terminal
+138 139 8 to
+139 140 6 transmission
+140 141 7 line
+141 142 4 from
+142 143 2 of
+143 144 3 data
+144 145 1 demultiplexing
+145 146 11 will
+146 147 14 below
+147 148 13 explained
+148 149 12 be
+149 150 15 . 4.71722254694
+150
+0 151 9 the
+151 152 10 terminal
+152 153 8 to
+153 154 5 the
+154 155 6 transmission
+155 156 7 line
+156 157 4 from
+157 158 2 of
+158 159 3 data
+159 160 11 will
+160 161 1 demultiplexing
+161 162 14 below
+162 163 13 explained
+163 164 12 be
+164 165 15 . 6.66313269599
+165
+0 166 9 the
+166 167 10 terminal
+167 168 5 the
+168 169 6 transmission
+169 170 7 line
+170 171 8 to
+171 172 4 from
+172 173 3 data
+173 174 2 of
+174 175 1 demultiplexing
+175 176 11 will
+176 177 14 below
+177 178 13 explained
+178 179 12 be
+179 180 15 . 2.9019325803
+180
+0 181 9 the
+181 182 10 terminal
+182 183 8 to
+183 184 5 the
+184 185 6 transmission
+185 186 7 line
+186 187 4 from
+187 188 3 data
+188 189 1 demultiplexing
+189 190 2 of
+190 191 14 below
+191 192 11 will
+192 193 13 explained
+193 194 12 be
+194 195 15 . 6.66313269599
+195
+0 196 9 the
+196 197 10 terminal
+197 198 8 to
+198 199 5 the
+199 200 6 transmission
+200 201 7 line
+201 202 4 from
+202 203 2 of
+203 204 3 data
+204 205 1 demultiplexing
+205 206 14 below
+206 207 13 explained
+207 208 11 will
+208 209 12 be
+209 210 15 . 5.96998551543
+210
+0 211 9 the
+211 212 10 terminal
+212 213 8 to
+213 214 5 the
+214 215 6 transmission
+215 216 7 line
+216 217 4 from
+217 218 3 data
+218 219 2 of
+219 220 1 demultiplexing
+220 221 11 will
+221 222 14 below
+222 223 12 be
+223 224 13 explained
+224 225 15 . 2.29368484352
+225
+0 226 9 the
+226 227 10 terminal
+227 228 8 to
+228 229 5 the
+229 230 6 transmission
+230 231 7 line
+231 232 4 from
+232 233 2 of
+233 234 1 demultiplexing
+234 235 3 data
+235 236 11 will
+236 237 14 below
+237 238 13 explained
+238 239 12 be
+239 240 15 . 3.71869371682
+240

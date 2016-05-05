@@ -1,0 +1,120 @@
+0 1 5 the
+1 2 6 object
+2 3 7 detector
+3 4 4 of
+4 5 1 the
+5 6 2 feedback
+6 7 3 operation
+7 8 12 object
+8 9 13 detection
+9 10 11 of
+10 11 9 the
+11 12 10 reliability
+12 13 8 enhances
+13 14 14 . 1.22450589185
+14
+0 15 5 the
+15 16 6 object
+16 17 7 detector
+17 18 4 of
+18 19 1 the
+19 20 2 feedback
+20 21 3 operation
+21 22 12 object
+22 23 13 detection
+23 24 9 the
+24 25 11 of
+25 26 10 reliability
+26 27 8 enhances
+27 28 14 . 5.61276307627
+28
+0 29 5 the
+29 30 6 object
+30 31 7 detector
+31 32 4 of
+32 33 1 the
+33 34 2 feedback
+34 35 3 operation
+35 36 12 object
+36 37 13 detection
+37 38 11 of
+38 39 10 reliability
+39 40 9 the
+40 41 8 enhances
+41 42 14 . 1.81952360683
+42
+0 43 5 the
+43 44 6 object
+44 45 7 detector
+45 46 4 of
+46 47 1 the
+47 48 2 feedback
+48 49 3 operation
+49 50 9 the
+50 51 12 object
+51 52 13 detection
+52 53 11 of
+53 54 10 reliability
+54 55 8 enhances
+55 56 14 . 1.00360086901
+56
+0 57 5 the
+57 58 6 object
+58 59 7 detector
+59 60 1 the
+60 61 2 feedback
+61 62 4 of
+62 63 3 operation
+63 64 12 object
+64 65 13 detection
+65 66 11 of
+66 67 9 the
+67 68 10 reliability
+68 69 8 enhances
+69 70 14 . 5.27629083965
+70
+0 71 1 the
+71 72 5 the
+72 73 6 object
+73 74 7 detector
+74 75 4 of
+75 76 2 feedback
+76 77 3 operation
+77 78 12 object
+78 79 13 detection
+79 80 11 of
+80 81 9 the
+81 82 10 reliability
+82 83 8 enhances
+83 84 14 . 3.36147127766
+84
+0 85 5 the
+85 86 6 object
+86 87 7 detector
+87 88 1 the
+88 89 2 feedback
+89 90 4 of
+90 91 3 operation
+91 92 12 object
+92 93 13 detection
+93 94 11 of
+94 95 10 reliability
+95 96 9 the
+96 97 8 enhances
+97 98 14 . 5.83590662758
+98
+0 99 5 the
+99 100 6 object
+100 101 7 detector
+101 102 4 of
+102 103 1 the
+103 104 2 feedback
+104 105 3 operation
+105 106 12 object
+106 107 13 detection
+107 108 11 of
+108 109 10 reliability
+109 110 8 enhances
+110 111 9 the
+111 112 14 . 2.03202578078
+112

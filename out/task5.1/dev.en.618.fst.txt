@@ -1,0 +1,98 @@
+0 1 1 the
+1 2 2 microcomputer
+2 3 3 16
+3 4 10 the
+4 5 11 position
+5 6 12 information
+6 7 8 to
+7 8 9 check
+8 9 6 step
+9 10 7 s712
+10 11 5 to
+11 12 4 goes
+12 13 13 . 0.714538370541
+13
+0 14 1 the
+14 15 2 microcomputer
+15 16 3 16
+16 17 10 the
+17 18 11 position
+18 19 12 information
+19 20 6 step
+20 21 7 s712
+21 22 8 to
+22 23 9 check
+23 24 5 to
+24 25 4 goes
+25 26 13 . 2.06369318471
+26
+0 27 1 the
+27 28 2 microcomputer
+28 29 3 16
+29 30 10 the
+30 31 11 position
+31 32 12 information
+32 33 6 step
+33 34 8 to
+34 35 7 s712
+35 36 9 check
+36 37 5 to
+37 38 4 goes
+38 39 13 . 7.32118855674
+39
+0 40 1 the
+40 41 2 microcomputer
+41 42 3 16
+42 43 10 the
+43 44 11 position
+44 45 12 information
+45 46 8 to
+46 47 6 step
+47 48 7 s712
+48 49 9 check
+49 50 5 to
+50 51 4 goes
+51 52 13 . 5.93489419562
+52
+0 53 1 the
+53 54 2 microcomputer
+54 55 3 16
+55 56 10 the
+56 57 11 position
+57 58 12 information
+58 59 9 check
+59 60 6 step
+60 61 7 s712
+61 62 8 to
+62 63 5 to
+63 64 4 goes
+64 65 13 . 2.42334875679
+65
+0 66 1 the
+66 67 2 microcomputer
+67 68 3 16
+68 69 10 the
+69 70 11 position
+70 71 12 information
+71 72 9 check
+72 73 6 step
+73 74 8 to
+74 75 7 s712
+75 76 5 to
+76 77 4 goes
+77 78 13 . 7.32118855674
+78
+0 79 1 the
+79 80 2 microcomputer
+80 81 3 16
+81 82 10 the
+82 83 11 position
+83 84 12 information
+84 85 9 check
+85 86 8 to
+86 87 6 step
+87 88 7 s712
+88 89 5 to
+89 90 4 goes
+90 91 13 . 1.23441382983
+91

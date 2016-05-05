@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 necessary
+2 3 3 cardinal
+3 4 4 number
+4 5 5 is
+5 6 6 different
+6 7 7 from
+7 8 8 one
+8 9 9 pattern
+9 10 10 to
+10 11 11 be
+11 12 12 recognized
+12 13 13 to
+13 14 14 another
+14 15 15 .
+15

@@ -1,0 +1,200 @@
+0 1 5 the
+1 2 6 socket
+2 3 7 communication
+3 4 8 log
+4 5 9 21
+5 6 4 of
+6 7 1 the
+7 8 2 concrete
+8 9 3 contents
+9 10 12 the
+10 11 13 communication
+11 12 14 message
+12 13 15 27
+13 14 11 as
+14 15 10 such
+15 16 16 is
+16 17 18 below
+17 18 17 explained
+18 19 19 . 0.405465108108
+19
+0 20 5 the
+20 21 6 socket
+21 22 7 communication
+22 23 8 log
+23 24 9 21
+24 25 4 of
+25 26 1 the
+26 27 2 concrete
+27 28 3 contents
+28 29 12 the
+29 30 13 communication
+30 31 14 message
+31 32 15 27
+32 33 11 as
+33 34 10 such
+34 35 18 below
+35 36 16 is
+36 37 17 explained
+37 38 19 . 2.26554382131
+38
+0 39 5 the
+39 40 6 socket
+40 41 7 communication
+41 42 8 log
+42 43 9 21
+43 44 4 of
+44 45 1 the
+45 46 2 concrete
+46 47 3 contents
+47 48 12 the
+48 49 13 communication
+49 50 14 message
+50 51 15 27
+51 52 11 as
+52 53 16 is
+53 54 18 below
+54 55 17 explained
+55 56 10 such
+56 57 19 . 4.15261347034
+57
+0 58 5 the
+58 59 6 socket
+59 60 7 communication
+60 61 8 log
+61 62 9 21
+62 63 4 of
+63 64 1 the
+64 65 2 concrete
+65 66 3 contents
+66 67 12 the
+67 68 13 communication
+68 69 14 message
+69 70 15 27
+70 71 16 is
+71 72 11 as
+72 73 10 such
+73 74 18 below
+74 75 17 explained
+75 76 19 . 2.67100892942
+76
+0 77 5 the
+77 78 6 socket
+78 79 7 communication
+79 80 8 log
+80 81 9 21
+81 82 4 of
+82 83 1 the
+83 84 2 concrete
+84 85 3 contents
+85 86 12 the
+86 87 13 communication
+87 88 14 message
+88 89 15 27
+89 90 10 such
+90 91 11 as
+91 92 16 is
+92 93 18 below
+93 94 17 explained
+94 95 19 . 5.76205138278
+95
+0 96 5 the
+96 97 6 socket
+97 98 7 communication
+98 99 8 log
+99 100 9 21
+100 101 4 of
+101 102 1 the
+102 103 2 concrete
+103 104 3 contents
+104 105 12 the
+105 106 13 communication
+106 107 14 message
+107 108 15 27
+108 109 16 is
+109 110 11 as
+110 111 18 below
+111 112 17 explained
+112 113 10 such
+113 114 19 . 4.66343909411
+114
+0 115 5 the
+115 116 6 socket
+116 117 7 communication
+117 118 8 log
+118 119 9 21
+119 120 1 the
+120 121 2 concrete
+121 122 4 of
+122 123 3 contents
+123 124 12 the
+124 125 13 communication
+125 126 14 message
+126 127 15 27
+127 128 11 as
+128 129 10 such
+129 130 16 is
+130 131 18 below
+131 132 17 explained
+132 133 19 . 5.76205138278
+133
+0 134 5 the
+134 135 6 socket
+135 136 7 communication
+136 137 8 log
+137 138 9 21
+138 139 4 of
+139 140 1 the
+140 141 2 concrete
+141 142 3 contents
+142 143 12 the
+143 144 13 communication
+144 145 14 message
+145 146 11 as
+146 147 10 such
+147 148 15 27
+148 149 16 is
+149 150 18 below
+150 151 17 explained
+151 152 19 . 2.09848973665
+152
+0 153 5 the
+153 154 6 socket
+154 155 7 communication
+155 156 8 log
+156 157 9 21
+157 158 4 of
+158 159 1 the
+159 160 2 concrete
+160 161 3 contents
+161 162 12 the
+162 163 13 communication
+163 164 14 message
+164 165 15 27
+165 166 11 as
+166 167 18 below
+167 168 16 is
+168 169 17 explained
+169 170 10 such
+170 171 19 . 5.76205138278
+171
+0 172 5 the
+172 173 6 socket
+173 174 7 communication
+174 175 8 log
+175 176 9 21
+176 177 4 of
+177 178 1 the
+178 179 2 concrete
+179 180 3 contents
+180 181 12 the
+181 182 13 communication
+182 183 14 message
+183 184 15 27
+184 185 11 as
+185 186 10 such
+186 187 16 is
+187 188 17 explained
+188 189 18 below
+189 190 19 . 5.76205138278
+190

@@ -1,0 +1,272 @@
+0 1 1 consequently
+1 2 2 ,
+2 3 3 it
+3 4 4 is
+4 5 13 the
+5 6 14 fd
+6 7 12 from
+7 8 8 read
+8 9 9 the
+9 10 10 allocation
+10 11 11 information
+11 12 7 to
+12 13 6 necessary
+13 14 5 not
+14 15 15 . 0.108683619902
+15
+0 16 1 consequently
+16 17 2 ,
+17 18 3 it
+18 19 4 is
+19 20 13 the
+20 21 14 fd
+21 22 8 read
+22 23 12 from
+23 24 9 the
+24 25 10 allocation
+25 26 11 information
+26 27 7 to
+27 28 6 necessary
+28 29 5 not
+29 30 15 . 8.28197705887
+30
+0 31 1 consequently
+31 32 2 ,
+32 33 3 it
+33 34 4 is
+34 35 12 from
+35 36 13 the
+36 37 14 fd
+37 38 8 read
+38 39 9 the
+39 40 10 allocation
+40 41 11 information
+41 42 7 to
+42 43 6 necessary
+43 44 5 not
+44 45 15 . 3.32615000127
+45
+0 46 1 consequently
+46 47 2 ,
+47 48 3 it
+48 49 4 is
+49 50 13 the
+50 51 14 fd
+51 52 12 from
+52 53 8 read
+53 54 9 the
+54 55 10 allocation
+55 56 11 information
+56 57 6 necessary
+57 58 7 to
+58 59 5 not
+59 60 15 . 5.79707040908
+60
+0 61 1 consequently
+61 62 2 ,
+62 63 3 it
+63 64 4 is
+64 65 13 the
+65 66 14 fd
+66 67 12 from
+67 68 8 read
+68 69 9 the
+69 70 10 allocation
+70 71 11 information
+71 72 7 to
+72 73 5 not
+73 74 6 necessary
+74 75 15 . 8.28197705887
+75
+0 76 1 consequently
+76 77 3 it
+77 78 2 ,
+78 79 4 is
+79 80 13 the
+80 81 14 fd
+81 82 12 from
+82 83 8 read
+83 84 9 the
+84 85 10 allocation
+85 86 11 information
+86 87 7 to
+87 88 6 necessary
+88 89 5 not
+89 90 15 . 4.29299301231
+90
+0 91 1 consequently
+91 92 2 ,
+92 93 4 is
+93 94 3 it
+94 95 13 the
+95 96 14 fd
+96 97 12 from
+97 98 8 read
+98 99 9 the
+99 100 10 allocation
+100 101 11 information
+101 102 7 to
+102 103 6 necessary
+103 104 5 not
+104 105 15 . 7.1833647702
+105
+0 106 1 consequently
+106 107 2 ,
+107 108 3 it
+108 109 13 the
+109 110 14 fd
+110 111 4 is
+111 112 12 from
+112 113 8 read
+113 114 9 the
+114 115 10 allocation
+115 116 11 information
+116 117 7 to
+117 118 6 necessary
+118 119 5 not
+119 120 15 . 8.28197705887
+120
+0 121 1 consequently
+121 122 2 ,
+122 123 3 it
+123 124 4 is
+124 125 8 read
+125 126 13 the
+126 127 14 fd
+127 128 12 from
+128 129 9 the
+129 130 10 allocation
+130 131 11 information
+131 132 7 to
+132 133 6 necessary
+133 134 5 not
+134 135 15 . 4.00531093985
+135
+0 136 1 consequently
+136 137 2 ,
+137 138 3 it
+138 139 4 is
+139 140 13 the
+140 141 14 fd
+141 142 8 read
+142 143 9 the
+143 144 10 allocation
+144 145 12 from
+145 146 11 information
+146 147 7 to
+147 148 6 necessary
+148 149 5 not
+149 150 15 . 8.28197705887
+150
+0 151 1 consequently
+151 152 2 ,
+152 153 3 it
+153 154 13 the
+154 155 14 fd
+155 156 12 from
+156 157 4 is
+157 158 8 read
+158 159 9 the
+159 160 10 allocation
+160 161 11 information
+161 162 7 to
+162 163 6 necessary
+163 164 5 not
+164 165 15 . 3.79334068913
+165
+0 166 1 consequently
+166 167 2 ,
+167 168 3 it
+168 169 4 is
+169 170 13 the
+170 171 14 fd
+171 172 12 from
+172 173 8 read
+173 174 9 the
+174 175 10 allocation
+175 176 7 to
+176 177 6 necessary
+177 178 11 information
+178 179 5 not
+179 180 15 . 5.79707040908
+180
+0 181 1 consequently
+181 182 2 ,
+182 183 3 it
+183 184 4 is
+184 185 13 the
+185 186 14 fd
+186 187 12 from
+187 188 8 read
+188 189 11 information
+189 190 9 the
+190 191 10 allocation
+191 192 7 to
+192 193 6 necessary
+193 194 5 not
+194 195 15 . 8.28197705887
+195
+0 196 1 consequently
+196 197 2 ,
+197 198 3 it
+198 199 4 is
+199 200 13 the
+200 201 14 fd
+201 202 12 from
+202 203 8 read
+203 204 9 the
+204 205 10 allocation
+205 206 11 information
+206 207 6 necessary
+207 208 5 not
+208 209 7 to
+209 210 15 . 8.28197705887
+210
+0 211 1 consequently
+211 212 2 ,
+212 213 3 it
+213 214 4 is
+214 215 13 the
+215 216 14 fd
+216 217 8 read
+217 218 9 the
+218 219 10 allocation
+219 220 11 information
+220 221 12 from
+221 222 7 to
+222 223 6 necessary
+223 224 5 not
+224 225 15 . 6.49021758964
+225
+0 226 1 consequently
+226 227 2 ,
+227 228 3 it
+228 229 4 is
+229 230 8 read
+230 231 12 from
+231 232 13 the
+232 233 14 fd
+233 234 9 the
+234 235 10 allocation
+235 236 11 information
+236 237 7 to
+237 238 6 necessary
+238 239 5 not
+239 240 15 . 6.89568269775
+240
+0 241 1 consequently
+241 242 2 ,
+242 243 3 it
+243 244 4 is
+244 245 13 the
+245 246 12 from
+246 247 8 read
+247 248 9 the
+248 249 10 allocation
+249 250 11 information
+250 251 14 fd
+251 252 7 to
+252 253 6 necessary
+253 254 5 not
+254 255 15 . 6.33606690981
+255

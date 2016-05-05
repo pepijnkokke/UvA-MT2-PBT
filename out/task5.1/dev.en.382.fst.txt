@@ -1,0 +1,336 @@
+0 1 1 the
+1 2 2 constituent
+2 3 3 elements
+3 4 4 overlapping
+4 5 5 those
+5 6 7 fig
+6 7 6 in
+7 8 8 .
+8 9 9 1
+9 10 10 will
+10 11 14 here
+11 12 11 also
+12 13 12 be
+13 14 13 described
+14 15 15 . 1.84965344764
+15
+0 16 1 the
+16 17 2 constituent
+17 18 3 elements
+18 19 4 overlapping
+19 20 5 those
+20 21 7 fig
+21 22 6 in
+22 23 8 .
+23 24 9 1
+24 25 10 will
+25 26 14 here
+26 27 12 be
+27 28 11 also
+28 29 13 described
+29 30 15 . 6.86693328446
+30
+0 31 1 the
+31 32 2 constituent
+32 33 3 elements
+33 34 4 overlapping
+34 35 5 those
+35 36 7 fig
+36 37 6 in
+37 38 8 .
+38 39 9 1
+39 40 14 here
+40 41 10 will
+41 42 11 also
+42 43 12 be
+43 44 13 described
+44 45 15 . 4.99513110756
+45
+0 46 1 the
+46 47 2 constituent
+47 48 3 elements
+48 49 4 overlapping
+49 50 5 those
+50 51 7 fig
+51 52 6 in
+52 53 8 .
+53 54 9 1
+54 55 10 will
+55 56 14 here
+56 57 11 also
+57 58 13 described
+58 59 12 be
+59 60 15 . 2.46633026422
+60
+0 61 1 the
+61 62 2 constituent
+62 63 3 elements
+63 64 4 overlapping
+64 65 5 those
+65 66 7 fig
+66 67 6 in
+67 68 8 .
+68 69 9 1
+69 70 10 will
+70 71 14 here
+71 72 12 be
+72 73 13 described
+73 74 11 also
+74 75 15 . 2.12635846147
+75
+0 76 1 the
+76 77 2 constituent
+77 78 3 elements
+78 79 4 overlapping
+79 80 5 those
+80 81 7 fig
+81 82 6 in
+82 83 8 .
+83 84 9 1
+84 85 10 will
+85 86 11 also
+86 87 14 here
+87 88 12 be
+88 89 13 described
+89 90 15 . 1.30625165345
+90
+0 91 1 the
+91 92 2 constituent
+92 93 3 elements
+93 94 4 overlapping
+94 95 5 those
+95 96 6 in
+96 97 7 fig
+97 98 8 .
+98 99 9 1
+99 100 10 will
+100 101 14 here
+101 102 11 also
+102 103 12 be
+103 104 13 described
+104 105 15 . 3.29740058798
+105
+0 106 1 the
+106 107 2 constituent
+107 108 3 elements
+108 109 4 overlapping
+109 110 5 those
+110 111 7 fig
+111 112 6 in
+112 113 8 .
+113 114 9 1
+114 115 10 will
+115 116 14 here
+116 117 13 described
+117 118 11 also
+118 119 12 be
+119 120 15 . 6.86693328446
+120
+0 121 1 the
+121 122 2 constituent
+122 123 3 elements
+123 124 4 overlapping
+124 125 5 those
+125 126 7 fig
+126 127 6 in
+127 128 8 .
+128 129 9 1
+129 130 14 here
+130 131 10 will
+131 132 11 also
+132 133 13 described
+133 134 12 be
+134 135 15 . 5.95064255259
+135
+0 136 1 the
+136 137 2 constituent
+137 138 3 elements
+138 139 4 overlapping
+139 140 5 those
+140 141 7 fig
+141 142 6 in
+142 143 8 .
+143 144 9 1
+144 145 14 here
+145 146 10 will
+146 147 12 be
+147 148 13 described
+148 149 11 also
+149 150 15 . 3.17805383035
+150
+0 151 1 the
+151 152 2 constituent
+152 153 3 elements
+153 154 4 overlapping
+154 155 5 those
+155 156 7 fig
+156 157 8 .
+157 158 6 in
+158 159 9 1
+159 160 10 will
+160 161 14 here
+161 162 11 also
+162 163 12 be
+163 164 13 described
+164 165 15 . 4.46903801167
+165
+0 166 1 the
+166 167 2 constituent
+167 168 3 elements
+168 169 5 those
+169 170 4 overlapping
+170 171 7 fig
+171 172 6 in
+172 173 8 .
+173 174 9 1
+174 175 10 will
+175 176 14 here
+176 177 11 also
+177 178 12 be
+178 179 13 described
+179 180 15 . 5.95064255259
+180
+0 181 1 the
+181 182 2 constituent
+182 183 3 elements
+183 184 4 overlapping
+184 185 5 those
+185 186 6 in
+186 187 7 fig
+187 188 8 .
+188 189 9 1
+189 190 14 here
+190 191 10 will
+191 192 11 also
+192 193 12 be
+193 194 13 described
+194 195 15 . 7.56008046502
+195
+0 196 1 the
+196 197 2 constituent
+197 198 4 overlapping
+198 199 3 elements
+199 200 5 those
+200 201 7 fig
+201 202 6 in
+202 203 8 .
+203 204 9 1
+204 205 10 will
+205 206 14 here
+206 207 11 also
+207 208 12 be
+208 209 13 described
+209 210 15 . 6.1737861039
+210
+0 211 1 the
+211 212 2 constituent
+212 213 3 elements
+213 214 4 overlapping
+214 215 5 those
+215 216 7 fig
+216 217 6 in
+217 218 8 .
+218 219 9 1
+219 220 10 will
+220 221 14 here
+221 222 13 described
+222 223 12 be
+223 224 11 also
+224 225 15 . 1.9288686832
+225
+0 226 1 the
+226 227 2 constituent
+227 228 3 elements
+228 229 4 overlapping
+229 230 5 those
+230 231 7 fig
+231 232 6 in
+232 233 8 .
+233 234 9 1
+234 235 10 will
+235 236 11 also
+236 237 14 here
+237 238 13 described
+238 239 12 be
+239 240 15 . 2.44809267667
+240
+0 241 1 the
+241 242 2 constituent
+242 243 3 elements
+243 244 4 overlapping
+244 245 5 those
+245 246 7 fig
+246 247 8 .
+247 248 6 in
+248 249 9 1
+249 250 14 here
+250 251 10 will
+251 252 11 also
+252 253 12 be
+253 254 13 described
+254 255 15 . 6.86693328446
+255
+0 256 1 the
+256 257 2 constituent
+257 258 3 elements
+258 259 5 those
+259 260 4 overlapping
+260 261 7 fig
+261 262 6 in
+262 263 8 .
+263 264 9 1
+264 265 14 here
+265 266 10 will
+266 267 11 also
+267 268 12 be
+268 269 13 described
+269 270 15 . 6.86693328446
+270
+0 271 1 the
+271 272 2 constituent
+272 273 3 elements
+273 274 4 overlapping
+274 275 5 those
+275 276 7 fig
+276 277 6 in
+277 278 8 .
+278 279 14 here
+279 280 9 1
+280 281 10 will
+281 282 11 also
+282 283 13 described
+283 284 12 be
+284 285 15 . 7.56008046502
+285
+0 286 1 the
+286 287 2 constituent
+287 288 3 elements
+288 289 4 overlapping
+289 290 5 those
+290 291 7 fig
+291 292 6 in
+292 293 8 .
+293 294 14 here
+294 295 9 1
+295 296 10 will
+296 297 12 be
+297 298 13 described
+298 299 11 also
+299 300 15 . 6.86693328446
+300
+0 301 1 the
+301 302 2 constituent
+302 303 3 elements
+303 304 4 overlapping
+304 305 5 those
+305 306 6 in
+306 307 7 fig
+307 308 8 .
+308 309 9 1
+309 310 10 will
+310 311 14 here
+311 312 11 also
+312 313 13 described
+313 314 12 be
+314 315 15 . 3.66826016691
+315

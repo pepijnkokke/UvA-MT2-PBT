@@ -1,0 +1,225 @@
+0 1 1 the
+1 2 2 aforementioned
+2 3 3 blistering
+3 4 5 also
+4 5 13 glass
+5 6 12 and
+6 7 11 ceramics
+7 8 10 between
+8 9 9 reaction
+9 10 8 by
+10 11 7 caused
+11 12 6 be
+12 13 4 may
+13 14 14 . 0.625562512086
+14
+0 15 1 the
+15 16 2 aforementioned
+16 17 3 blistering
+17 18 5 also
+18 19 13 glass
+19 20 12 and
+20 21 11 ceramics
+21 22 10 between
+22 23 9 reaction
+23 24 8 by
+24 25 6 be
+25 26 7 caused
+26 27 4 may
+27 28 14 . 3.39200493348
+28
+0 29 1 the
+29 30 2 aforementioned
+30 31 3 blistering
+31 32 5 also
+32 33 12 and
+33 34 13 glass
+34 35 11 ceramics
+35 36 10 between
+36 37 9 reaction
+37 38 8 by
+38 39 7 caused
+39 40 6 be
+40 41 4 may
+41 42 14 . 1.87279211264
+42
+0 43 1 the
+43 44 2 aforementioned
+44 45 3 blistering
+45 46 5 also
+46 47 13 glass
+47 48 12 and
+48 49 11 ceramics
+49 50 10 between
+50 51 9 reaction
+51 52 6 be
+52 53 8 by
+53 54 7 caused
+54 55 4 may
+55 56 14 . 6.63068338564
+56
+0 57 1 the
+57 58 2 aforementioned
+58 59 3 blistering
+59 60 5 also
+60 61 12 and
+61 62 13 glass
+62 63 11 ceramics
+63 64 10 between
+64 65 9 reaction
+65 66 8 by
+66 67 6 be
+67 68 7 caused
+68 69 4 may
+69 70 14 . 4.23278811285
+70
+0 71 1 the
+71 72 2 aforementioned
+72 73 3 blistering
+73 74 13 glass
+74 75 12 and
+75 76 5 also
+76 77 11 ceramics
+77 78 10 between
+78 79 9 reaction
+79 80 8 by
+80 81 7 caused
+81 82 6 be
+82 83 4 may
+83 84 14 . 2.38935663307
+84
+0 85 1 the
+85 86 2 aforementioned
+86 87 3 blistering
+87 88 5 also
+88 89 13 glass
+89 90 12 and
+90 91 11 ceramics
+91 92 10 between
+92 93 6 be
+93 94 9 reaction
+94 95 8 by
+95 96 7 caused
+96 97 4 may
+97 98 14 . 2.4955168289
+98
+0 99 1 the
+99 100 2 aforementioned
+100 101 3 blistering
+101 102 5 also
+102 103 12 and
+103 104 13 glass
+104 105 11 ceramics
+105 106 10 between
+106 107 9 reaction
+107 108 6 be
+108 109 8 by
+109 110 7 caused
+110 111 4 may
+111 112 14 . 7.3238305662
+112
+0 113 1 the
+113 114 2 aforementioned
+114 115 3 blistering
+115 116 5 also
+116 117 11 ceramics
+117 118 12 and
+118 119 13 glass
+119 120 10 between
+120 121 9 reaction
+121 122 8 by
+122 123 7 caused
+123 124 6 be
+124 125 4 may
+125 126 14 . 6.63068338564
+126
+0 127 1 the
+127 128 2 aforementioned
+128 129 3 blistering
+129 130 5 also
+130 131 12 and
+131 132 11 ceramics
+132 133 10 between
+133 134 13 glass
+134 135 9 reaction
+135 136 8 by
+136 137 7 caused
+137 138 6 be
+138 139 4 may
+139 140 14 . 7.3238305662
+140
+0 141 1 the
+141 142 2 aforementioned
+142 143 3 blistering
+143 144 13 glass
+144 145 12 and
+145 146 5 also
+146 147 11 ceramics
+147 148 10 between
+148 149 9 reaction
+149 150 8 by
+150 151 6 be
+151 152 7 caused
+152 153 4 may
+153 154 14 . 4.9259352934
+154
+0 155 2 aforementioned
+155 156 1 the
+156 157 3 blistering
+157 158 5 also
+158 159 13 glass
+159 160 12 and
+160 161 11 ceramics
+161 162 10 between
+162 163 9 reaction
+163 164 8 by
+164 165 7 caused
+165 166 6 be
+166 167 4 may
+167 168 14 . 4.68477323659
+168
+0 169 1 the
+169 170 2 aforementioned
+170 171 3 blistering
+171 172 5 also
+172 173 13 glass
+173 174 12 and
+174 175 11 ceramics
+175 176 10 between
+176 177 8 by
+177 178 9 reaction
+178 179 7 caused
+179 180 6 be
+180 181 4 may
+181 182 14 . 3.63495111209
+182
+0 183 1 the
+183 184 2 aforementioned
+184 185 3 blistering
+185 186 12 and
+186 187 13 glass
+187 188 5 also
+188 189 11 ceramics
+189 190 10 between
+190 191 9 reaction
+191 192 8 by
+192 193 7 caused
+193 194 6 be
+194 195 4 may
+195 196 14 . 3.68624440648
+196
+0 197 1 the
+197 198 2 aforementioned
+198 199 3 blistering
+199 200 5 also
+200 201 12 and
+201 202 13 glass
+202 203 11 ceramics
+203 204 10 between
+204 205 6 be
+205 206 9 reaction
+206 207 8 by
+207 208 7 caused
+208 209 4 may
+209 210 14 . 4.06573402818
+210

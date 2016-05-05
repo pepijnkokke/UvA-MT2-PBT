@@ -1,0 +1,204 @@
+0 1 1 the
+1 2 2 flag
+2 3 3 f
+3 4 6 a
+4 5 7 decision
+5 6 8 result
+6 7 9 storage
+7 8 10 means
+8 9 5 as
+9 10 4 constitutes
+10 11 11 . 0.295916558312
+11
+0 12 1 the
+12 13 2 flag
+13 14 3 f
+14 15 6 a
+15 16 7 decision
+16 17 8 result
+17 18 9 storage
+18 19 10 means
+19 20 4 constitutes
+20 21 5 as
+21 22 11 . 7.74211262809
+22
+0 23 1 the
+23 24 2 flag
+24 25 3 f
+25 26 6 a
+26 27 7 decision
+27 28 8 result
+28 29 5 as
+29 30 9 storage
+30 31 10 means
+31 32 4 constitutes
+32 33 11 . 4.6818418334
+33
+0 34 1 the
+34 35 2 flag
+35 36 3 f
+36 37 6 a
+37 38 7 decision
+38 39 9 storage
+39 40 10 means
+40 41 8 result
+41 42 5 as
+42 43 4 constitutes
+43 44 11 . 8.1475777362
+44
+0 45 2 flag
+45 46 3 f
+46 47 1 the
+47 48 6 a
+48 49 7 decision
+49 50 8 result
+50 51 9 storage
+51 52 10 means
+52 53 5 as
+53 54 4 constitutes
+54 55 11 . 3.33946670622
+55
+0 56 1 the
+56 57 2 flag
+57 58 3 f
+58 59 8 result
+59 60 6 a
+60 61 7 decision
+61 62 9 storage
+62 63 10 means
+63 64 5 as
+64 65 4 constitutes
+65 66 11 . 7.74211262809
+66
+0 67 3 f
+67 68 1 the
+68 69 2 flag
+69 70 6 a
+70 71 7 decision
+71 72 8 result
+72 73 9 storage
+73 74 10 means
+74 75 5 as
+75 76 4 constitutes
+76 77 11 . 8.1475777362
+77
+0 78 1 the
+78 79 2 flag
+79 80 3 f
+80 81 7 decision
+81 82 8 result
+82 83 6 a
+83 84 9 storage
+84 85 10 means
+85 86 5 as
+86 87 4 constitutes
+87 88 11 . 8.84072491676
+88
+0 89 1 the
+89 90 2 flag
+90 91 3 f
+91 92 6 a
+92 93 7 decision
+93 94 5 as
+94 95 8 result
+95 96 9 storage
+96 97 10 means
+97 98 4 constitutes
+98 99 11 . 8.84072491676
+99
+0 100 1 the
+100 101 2 flag
+101 102 3 f
+102 103 6 a
+103 104 7 decision
+104 105 8 result
+105 106 5 as
+106 107 4 constitutes
+107 108 9 storage
+108 109 10 means
+109 110 11 . 1.8606489762
+110
+0 111 2 flag
+111 112 3 f
+112 113 1 the
+113 114 6 a
+114 115 7 decision
+115 116 8 result
+116 117 5 as
+117 118 9 storage
+118 119 10 means
+119 120 4 constitutes
+120 121 11 . 7.23128700433
+121
+0 122 1 the
+122 123 2 flag
+123 124 3 f
+124 125 8 result
+125 126 6 a
+126 127 7 decision
+127 128 5 as
+128 129 9 storage
+129 130 10 means
+130 131 4 constitutes
+131 132 11 . 8.84072491676
+132
+0 133 1 the
+133 134 2 flag
+134 135 3 f
+135 136 7 decision
+136 137 8 result
+137 138 9 storage
+138 139 10 means
+139 140 6 a
+140 141 5 as
+141 142 4 constitutes
+142 143 11 . 7.04896544753
+143
+0 144 1 the
+144 145 2 flag
+145 146 3 f
+146 147 9 storage
+147 148 6 a
+148 149 7 decision
+149 150 8 result
+150 151 5 as
+151 152 4 constitutes
+152 153 10 means
+153 154 11 . 8.84072491676
+154
+0 155 2 flag
+155 156 3 f
+156 157 1 the
+157 158 8 result
+158 159 6 a
+159 160 7 decision
+160 161 9 storage
+161 162 10 means
+162 163 5 as
+163 164 4 constitutes
+164 165 11 . 8.84072491676
+165
+0 166 1 the
+166 167 2 flag
+167 168 3 f
+168 169 6 a
+169 170 7 decision
+170 171 5 as
+171 172 4 constitutes
+172 173 8 result
+173 174 9 storage
+174 175 10 means
+175 176 11 . 5.7496824634
+176
+0 177 1 the
+177 178 2 flag
+178 179 3 f
+179 180 4 constitutes
+180 181 6 a
+181 182 7 decision
+182 183 8 result
+183 184 9 storage
+184 185 10 means
+185 186 5 as
+186 187 11 . 3.01767902128
+187

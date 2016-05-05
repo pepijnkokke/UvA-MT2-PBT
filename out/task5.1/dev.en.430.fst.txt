@@ -1,0 +1,240 @@
+0 1 1 the
+1 2 18 computers
+2 3 17 on
+3 4 10 or
+4 5 11 managing
+5 6 12 the
+6 7 13 copyrights
+7 8 14 of
+8 9 15 digitized
+9 10 16 information
+10 11 9 controlling
+11 12 8 for
+12 13 6 a
+13 14 7 system
+14 15 5 to
+15 16 4 relates
+16 17 2 present
+17 18 3 invention
+18 19 19 . 0.256327649268
+19
+0 20 1 the
+20 21 18 computers
+21 22 17 on
+22 23 10 or
+23 24 11 managing
+24 25 12 the
+25 26 13 copyrights
+26 27 14 of
+27 28 15 digitized
+28 29 9 controlling
+29 30 16 information
+30 31 8 for
+31 32 6 a
+32 33 7 system
+33 34 5 to
+34 35 4 relates
+35 36 2 present
+36 37 3 invention
+37 38 19 . 5.8645776972
+38
+0 39 1 the
+39 40 18 computers
+40 41 17 on
+41 42 10 or
+42 43 11 managing
+43 44 12 the
+44 45 13 copyrights
+45 46 14 of
+46 47 15 digitized
+47 48 9 controlling
+48 49 8 for
+49 50 16 information
+50 51 6 a
+51 52 7 system
+52 53 5 to
+53 54 4 relates
+54 55 2 present
+55 56 3 invention
+56 57 19 . 6.27004280531
+57
+0 58 1 the
+58 59 18 computers
+59 60 17 on
+60 61 10 or
+61 62 11 managing
+62 63 12 the
+63 64 14 of
+64 65 13 copyrights
+65 66 15 digitized
+66 67 16 information
+67 68 9 controlling
+68 69 8 for
+69 70 6 a
+70 71 7 system
+71 72 5 to
+72 73 4 relates
+73 74 2 present
+74 75 3 invention
+75 76 19 . 3.66735311987
+76
+0 77 1 the
+77 78 18 computers
+78 79 17 on
+79 80 10 or
+80 81 11 managing
+81 82 12 the
+82 83 13 copyrights
+83 84 14 of
+84 85 15 digitized
+85 86 16 information
+86 87 8 for
+87 88 9 controlling
+88 89 6 a
+89 90 7 system
+90 91 5 to
+91 92 4 relates
+92 93 2 present
+93 94 3 invention
+94 95 19 . 4.56529471307
+95
+0 96 1 the
+96 97 18 computers
+97 98 17 on
+98 99 10 or
+99 100 11 managing
+100 101 12 the
+101 102 13 copyrights
+102 103 16 information
+103 104 14 of
+104 105 15 digitized
+105 106 9 controlling
+106 107 8 for
+107 108 6 a
+108 109 7 system
+109 110 5 to
+110 111 4 relates
+111 112 2 present
+112 113 3 invention
+113 114 19 . 6.27004280531
+114
+0 115 1 the
+115 116 18 computers
+116 117 17 on
+117 118 10 or
+118 119 11 managing
+119 120 9 controlling
+120 121 12 the
+121 122 13 copyrights
+122 123 14 of
+123 124 15 digitized
+124 125 16 information
+125 126 8 for
+126 127 6 a
+127 128 7 system
+128 129 5 to
+129 130 4 relates
+130 131 2 present
+131 132 3 invention
+132 133 19 . 6.96318998587
+133
+0 134 1 the
+134 135 18 computers
+135 136 17 on
+136 137 10 or
+137 138 11 managing
+138 139 12 the
+139 140 13 copyrights
+140 141 14 of
+141 142 15 digitized
+142 143 16 information
+143 144 9 controlling
+144 145 6 a
+145 146 7 system
+146 147 8 for
+147 148 5 to
+148 149 4 relates
+149 150 2 present
+150 151 3 invention
+151 152 19 . 3.87214753251
+152
+0 153 1 the
+153 154 18 computers
+154 155 17 on
+155 156 10 or
+156 157 11 managing
+157 158 13 copyrights
+158 159 12 the
+159 160 14 of
+160 161 15 digitized
+161 162 16 information
+162 163 9 controlling
+163 164 8 for
+164 165 6 a
+165 166 7 system
+166 167 5 to
+167 168 4 relates
+168 169 2 present
+169 170 3 invention
+170 171 19 . 6.27004280531
+171
+0 172 1 the
+172 173 18 computers
+173 174 17 on
+174 175 10 or
+175 176 11 managing
+176 177 12 the
+177 178 13 copyrights
+178 179 14 of
+179 180 9 controlling
+180 181 8 for
+181 182 15 digitized
+182 183 16 information
+183 184 6 a
+184 185 7 system
+185 186 5 to
+186 187 4 relates
+187 188 2 present
+188 189 3 invention
+189 190 19 . 6.96318998587
+190
+0 191 1 the
+191 192 17 on
+192 193 18 computers
+193 194 10 or
+194 195 11 managing
+195 196 12 the
+196 197 13 copyrights
+197 198 14 of
+198 199 15 digitized
+199 200 16 information
+200 201 9 controlling
+201 202 8 for
+202 203 6 a
+203 204 7 system
+204 205 5 to
+205 206 4 relates
+206 207 2 present
+207 208 3 invention
+208 209 19 . 5.8645776972
+209
+0 210 1 the
+210 211 18 computers
+211 212 17 on
+212 213 9 controlling
+213 214 10 or
+214 215 11 managing
+215 216 12 the
+216 217 13 copyrights
+217 218 14 of
+218 219 15 digitized
+219 220 16 information
+220 221 8 for
+221 222 6 a
+222 223 7 system
+223 224 5 to
+224 225 4 relates
+225 226 2 present
+226 227 3 invention
+227 228 19 . 1.85724451197
+228

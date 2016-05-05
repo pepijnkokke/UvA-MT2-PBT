@@ -1,0 +1,140 @@
+0 1 7 the
+1 2 8 stopper
+2 3 9 26
+3 4 6 of
+4 5 4 both
+5 6 5 sides
+6 7 3 on
+7 8 1 these
+8 9 2 regions
+9 10 11 the
+10 11 12 source
+11 12 13 region
+12 13 14 25s
+13 14 15 and
+14 15 16 drain
+15 16 17 region
+16 17 18 25d
+17 18 10 become
+18 19 19 . 0.225225749281
+19
+0 20 7 the
+20 21 8 stopper
+21 22 9 26
+22 23 6 of
+23 24 4 both
+24 25 5 sides
+25 26 3 on
+26 27 1 these
+27 28 2 regions
+28 29 11 the
+29 30 12 source
+30 31 13 region
+31 32 14 25s
+32 33 15 and
+33 34 16 drain
+34 35 17 region
+35 36 10 become
+36 37 18 25d
+37 38 19 . 4.12002815696
+38
+0 39 7 the
+39 40 8 stopper
+40 41 9 26
+41 42 6 of
+42 43 4 both
+43 44 5 sides
+44 45 3 on
+45 46 1 these
+46 47 2 regions
+47 48 11 the
+48 49 12 source
+49 50 13 region
+50 51 14 25s
+51 52 15 and
+52 53 16 drain
+53 54 10 become
+54 55 17 region
+55 56 18 25d
+56 57 19 . 6.04184075443
+57
+0 58 7 the
+58 59 8 stopper
+59 60 9 26
+60 61 6 of
+61 62 5 sides
+62 63 4 both
+63 64 3 on
+64 65 1 these
+65 66 2 regions
+66 67 11 the
+67 68 12 source
+68 69 13 region
+69 70 14 25s
+70 71 15 and
+71 72 16 drain
+72 73 17 region
+73 74 18 25d
+74 75 10 become
+75 76 19 . 1.85979061179
+76
+0 77 7 the
+77 78 8 stopper
+78 79 9 26
+79 80 6 of
+80 81 4 both
+81 82 5 sides
+82 83 3 on
+83 84 1 these
+84 85 2 regions
+85 86 11 the
+86 87 12 source
+87 88 13 region
+88 89 14 25s
+89 90 15 and
+90 91 10 become
+91 92 16 drain
+92 93 17 region
+93 94 18 25d
+94 95 19 . 3.77315721311
+95
+0 96 7 the
+96 97 8 stopper
+97 98 9 26
+98 99 6 of
+99 100 4 both
+100 101 5 sides
+101 102 1 these
+102 103 3 on
+103 104 2 regions
+104 105 11 the
+105 106 12 source
+106 107 13 region
+107 108 14 25s
+108 109 15 and
+109 110 16 drain
+110 111 17 region
+111 112 18 25d
+112 113 10 become
+113 114 19 . 7.1404530431
+114
+0 115 7 the
+115 116 8 stopper
+116 117 9 26
+117 118 6 of
+118 119 5 sides
+119 120 4 both
+120 121 3 on
+121 122 1 these
+122 123 2 regions
+123 124 11 the
+124 125 12 source
+125 126 13 region
+126 127 14 25s
+127 128 15 and
+128 129 16 drain
+129 130 17 region
+130 131 10 become
+131 132 18 25d
+132 133 19 . 5.63637564632
+133

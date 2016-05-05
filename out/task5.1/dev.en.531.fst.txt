@@ -1,0 +1,368 @@
+0 1 1 these
+1 2 2 elements
+2 3 3 and
+3 4 4 inverter
+4 5 5 i2
+5 6 13 embodiment
+6 7 14 3
+7 8 12 of
+8 9 8 output
+9 10 9 buffer
+10 11 10 circuit
+11 12 11 23
+12 13 7 to
+13 14 6 correspond
+14 15 15 . 0.0958434522048
+15
+0 16 1 these
+16 17 2 elements
+17 18 3 and
+18 19 4 inverter
+19 20 13 embodiment
+20 21 14 3
+21 22 12 of
+22 23 5 i2
+23 24 8 output
+24 25 9 buffer
+25 26 10 circuit
+26 27 11 23
+27 28 7 to
+28 29 6 correspond
+29 30 15 . 7.40321342562
+30
+0 31 3 and
+31 32 1 these
+32 33 2 elements
+33 34 4 inverter
+34 35 5 i2
+35 36 13 embodiment
+36 37 14 3
+37 38 12 of
+38 39 8 output
+39 40 9 buffer
+40 41 10 circuit
+41 42 11 23
+42 43 7 to
+43 44 6 correspond
+44 45 15 . 5.29300022527
+45
+0 46 1 these
+46 47 4 inverter
+47 48 2 elements
+48 49 3 and
+49 50 5 i2
+50 51 13 embodiment
+51 52 14 3
+52 53 12 of
+53 54 8 output
+54 55 9 buffer
+55 56 10 circuit
+56 57 11 23
+57 58 7 to
+58 59 6 correspond
+59 60 15 . 8.78950778674
+60
+0 61 1 these
+61 62 2 elements
+62 63 4 inverter
+63 64 5 i2
+64 65 3 and
+65 66 13 embodiment
+66 67 14 3
+67 68 12 of
+68 69 8 output
+69 70 9 buffer
+70 71 10 circuit
+71 72 11 23
+72 73 7 to
+73 74 6 correspond
+74 75 15 . 4.57000008156
+75
+0 76 2 elements
+76 77 3 and
+77 78 1 these
+78 79 4 inverter
+79 80 5 i2
+80 81 13 embodiment
+81 82 14 3
+82 83 12 of
+83 84 8 output
+84 85 9 buffer
+85 86 10 circuit
+86 87 11 23
+87 88 7 to
+88 89 6 correspond
+89 90 15 . 8.78950778674
+90
+0 91 1 these
+91 92 2 elements
+92 93 3 and
+93 94 4 inverter
+94 95 5 i2
+95 96 13 embodiment
+96 97 14 3
+97 98 12 of
+98 99 8 output
+99 100 9 buffer
+100 101 10 circuit
+101 102 7 to
+102 103 6 correspond
+103 104 11 23
+104 105 15 . 8.78950778674
+105
+0 106 1 these
+106 107 2 elements
+107 108 5 i2
+108 109 3 and
+109 110 4 inverter
+110 111 13 embodiment
+111 112 14 3
+112 113 12 of
+113 114 8 output
+114 115 9 buffer
+115 116 10 circuit
+116 117 11 23
+117 118 7 to
+118 119 6 correspond
+119 120 15 . 5.89913602884
+120
+0 121 1 these
+121 122 2 elements
+122 123 3 and
+123 124 4 inverter
+124 125 5 i2
+125 126 12 of
+126 127 13 embodiment
+127 128 14 3
+128 129 8 output
+129 130 9 buffer
+130 131 10 circuit
+131 132 11 23
+132 133 7 to
+133 134 6 correspond
+134 135 15 . 6.39161251394
+135
+0 136 1 these
+136 137 3 and
+137 138 4 inverter
+138 139 5 i2
+139 140 2 elements
+140 141 13 embodiment
+141 142 14 3
+142 143 12 of
+143 144 8 output
+144 145 9 buffer
+145 146 10 circuit
+146 147 11 23
+147 148 7 to
+148 149 6 correspond
+149 150 15 . 3.56915196166
+150
+0 151 1 these
+151 152 2 elements
+152 153 3 and
+153 154 13 embodiment
+154 155 14 3
+155 156 12 of
+156 157 4 inverter
+157 158 5 i2
+158 159 8 output
+159 160 9 buffer
+160 161 10 circuit
+161 162 11 23
+162 163 7 to
+163 164 6 correspond
+164 165 15 . 5.38831040508
+165
+0 166 4 inverter
+166 167 1 these
+167 168 2 elements
+168 169 3 and
+169 170 5 i2
+170 171 13 embodiment
+171 172 14 3
+172 173 12 of
+173 174 8 output
+174 175 9 buffer
+175 176 10 circuit
+176 177 11 23
+177 178 7 to
+178 179 6 correspond
+179 180 15 . 8.78950778674
+180
+0 181 1 these
+181 182 5 i2
+182 183 2 elements
+183 184 3 and
+184 185 4 inverter
+185 186 13 embodiment
+186 187 14 3
+187 188 12 of
+188 189 8 output
+189 190 9 buffer
+190 191 10 circuit
+191 192 11 23
+192 193 7 to
+193 194 6 correspond
+194 195 15 . 8.09636060618
+195
+0 196 1 these
+196 197 14 3
+197 198 2 elements
+198 199 3 and
+199 200 4 inverter
+200 201 5 i2
+201 202 13 embodiment
+202 203 12 of
+203 204 8 output
+204 205 9 buffer
+205 206 10 circuit
+206 207 11 23
+207 208 7 to
+208 209 6 correspond
+209 210 15 . 8.78950778674
+210
+0 211 1 these
+211 212 2 elements
+212 213 3 and
+213 214 4 inverter
+214 215 5 i2
+215 216 13 embodiment
+216 217 14 3
+217 218 12 of
+218 219 9 buffer
+219 220 10 circuit
+220 221 11 23
+221 222 8 output
+222 223 7 to
+223 224 6 correspond
+224 225 15 . 4.67863392256
+225
+0 226 1 these
+226 227 2 elements
+227 228 3 and
+228 229 4 inverter
+229 230 5 i2
+230 231 8 output
+231 232 13 embodiment
+232 233 14 3
+233 234 12 of
+234 235 9 buffer
+235 236 10 circuit
+236 237 11 23
+237 238 7 to
+238 239 6 correspond
+239 240 15 . 7.69089549807
+240
+0 241 1 these
+241 242 2 elements
+242 243 3 and
+243 244 4 inverter
+244 245 5 i2
+245 246 13 embodiment
+246 247 14 3
+247 248 12 of
+248 249 11 23
+249 250 8 output
+250 251 9 buffer
+251 252 10 circuit
+252 253 7 to
+253 254 6 correspond
+254 255 15 . 8.78950778674
+255
+0 256 1 these
+256 257 2 elements
+257 258 3 and
+258 259 4 inverter
+259 260 13 embodiment
+260 261 14 3
+261 262 12 of
+262 263 8 output
+263 264 9 buffer
+264 265 10 circuit
+265 266 11 23
+266 267 5 i2
+267 268 7 to
+268 269 6 correspond
+269 270 15 . 8.09636060618
+270
+0 271 1 these
+271 272 4 inverter
+272 273 5 i2
+273 274 2 elements
+274 275 3 and
+275 276 13 embodiment
+276 277 14 3
+277 278 12 of
+278 279 8 output
+279 280 9 buffer
+280 281 10 circuit
+281 282 11 23
+282 283 7 to
+283 284 6 correspond
+284 285 15 . 4.11667895228
+285
+0 286 5 i2
+286 287 1 these
+287 288 2 elements
+288 289 3 and
+289 290 4 inverter
+290 291 13 embodiment
+291 292 14 3
+292 293 12 of
+293 294 8 output
+294 295 9 buffer
+295 296 10 circuit
+296 297 11 23
+297 298 7 to
+298 299 6 correspond
+299 300 15 . 7.69089549807
+300
+0 301 1 these
+301 302 13 embodiment
+302 303 14 3
+303 304 2 elements
+304 305 3 and
+305 306 4 inverter
+306 307 5 i2
+307 308 12 of
+308 309 8 output
+309 310 9 buffer
+310 311 10 circuit
+311 312 11 23
+312 313 7 to
+313 314 6 correspond
+314 315 15 . 8.78950778674
+315
+0 316 1 these
+316 317 2 elements
+317 318 13 embodiment
+318 319 14 3
+319 320 12 of
+320 321 3 and
+321 322 4 inverter
+322 323 5 i2
+323 324 8 output
+324 325 9 buffer
+325 326 10 circuit
+326 327 11 23
+327 328 7 to
+328 329 6 correspond
+329 330 15 . 4.66237340169
+330
+0 331 1 these
+331 332 2 elements
+332 333 3 and
+333 334 4 inverter
+334 335 5 i2
+335 336 13 embodiment
+336 337 14 3
+337 338 12 of
+338 339 7 to
+339 340 8 output
+340 341 9 buffer
+341 342 10 circuit
+342 343 11 23
+343 344 6 correspond
+344 345 15 . 7.40321342562
+345

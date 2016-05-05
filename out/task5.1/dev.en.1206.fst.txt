@@ -1,0 +1,290 @@
+0 1 1 instruction
+1 2 2 information
+2 3 3 is
+3 4 6 instruction
+4 5 7 field
+5 6 8 f2
+6 7 5 in
+7 8 4 stored
+8 9 9 . 0.111710804377
+9
+0 10 1 instruction
+10 11 2 information
+11 12 3 is
+12 13 6 instruction
+13 14 7 field
+14 15 8 f2
+15 16 4 stored
+16 17 5 in
+17 18 9 . 7.3500879063
+18
+0 19 2 information
+19 20 1 instruction
+20 21 3 is
+21 22 6 instruction
+22 23 7 field
+23 24 8 f2
+24 25 5 in
+25 26 4 stored
+26 27 9 . 8.04323508686
+27
+0 28 1 instruction
+28 29 2 information
+29 30 3 is
+30 31 6 instruction
+31 32 7 field
+32 33 5 in
+33 34 4 stored
+34 35 8 f2
+35 36 9 . 3.98855578103
+36
+0 37 1 instruction
+37 38 2 information
+38 39 3 is
+39 40 6 instruction
+40 41 5 in
+41 42 7 field
+42 43 8 f2
+43 44 4 stored
+44 45 9 . 7.75555301441
+45
+0 46 3 is
+46 47 1 instruction
+47 48 2 information
+48 49 6 instruction
+49 50 7 field
+50 51 8 f2
+51 52 5 in
+52 53 4 stored
+53 54 9 . 7.3500879063
+54
+0 55 1 instruction
+55 56 2 information
+56 57 3 is
+57 58 8 f2
+58 59 6 instruction
+59 60 7 field
+60 61 5 in
+61 62 4 stored
+62 63 9 . 5.1164956848
+63
+0 64 1 instruction
+64 65 2 information
+65 66 3 is
+66 67 7 field
+67 68 8 f2
+68 69 6 instruction
+69 70 5 in
+70 71 4 stored
+71 72 9 . 6.50279004592
+72
+0 73 1 instruction
+73 74 2 information
+74 75 6 instruction
+75 76 7 field
+76 77 8 f2
+77 78 3 is
+78 79 5 in
+79 80 4 stored
+80 81 9 . 7.75555301441
+81
+0 82 1 instruction
+82 83 2 information
+83 84 8 f2
+84 85 3 is
+85 86 6 instruction
+86 87 7 field
+87 88 5 in
+88 89 4 stored
+89 90 9 . 8.44870019497
+90
+0 91 1 instruction
+91 92 2 information
+92 93 3 is
+93 94 6 instruction
+94 95 5 in
+95 96 7 field
+96 97 4 stored
+97 98 8 f2
+98 99 9 . 9.14184737553
+99
+0 100 1 instruction
+100 101 2 information
+101 102 3 is
+102 103 5 in
+103 104 6 instruction
+104 105 7 field
+105 106 8 f2
+106 107 4 stored
+107 108 9 . 4.55687989686
+108
+0 109 1 instruction
+109 110 2 information
+110 111 3 is
+111 112 8 f2
+112 113 6 instruction
+113 114 5 in
+114 115 7 field
+115 116 4 stored
+116 117 9 . 8.44870019497
+117
+0 118 1 instruction
+118 119 2 information
+119 120 3 is
+120 121 7 field
+121 122 8 f2
+122 123 5 in
+123 124 6 instruction
+124 125 4 stored
+125 126 9 . 8.04323508686
+126
+0 127 1 instruction
+127 128 2 information
+128 129 6 instruction
+129 130 7 field
+130 131 8 f2
+131 132 5 in
+132 133 3 is
+133 134 4 stored
+134 135 9 . 3.26131438913
+135
+0 136 1 instruction
+136 137 2 information
+137 138 7 field
+138 139 8 f2
+139 140 3 is
+140 141 6 instruction
+141 142 5 in
+142 143 4 stored
+143 144 9 . 9.14184737553
+144
+0 145 1 instruction
+145 146 2 information
+146 147 3 is
+147 148 6 instruction
+148 149 5 in
+149 150 4 stored
+150 151 7 field
+151 152 8 f2
+152 153 9 . 6.83926228253
+153
+0 154 1 instruction
+154 155 2 information
+155 156 3 is
+156 157 5 in
+157 158 6 instruction
+158 159 7 field
+159 160 4 stored
+160 161 8 f2
+161 162 9 . 8.04323508686
+162
+0 163 1 instruction
+163 164 2 information
+164 165 3 is
+165 166 4 stored
+166 167 6 instruction
+167 168 7 field
+168 169 8 f2
+169 170 5 in
+170 171 9 . 4.53667718954
+171
+0 172 1 instruction
+172 173 2 information
+173 174 3 is
+174 175 8 f2
+175 176 5 in
+176 177 6 instruction
+177 178 7 field
+178 179 4 stored
+179 180 9 . 6.65694072574
+180
+0 181 1 instruction
+181 182 2 information
+182 183 6 instruction
+183 184 7 field
+184 185 8 f2
+185 186 5 in
+186 187 4 stored
+187 188 3 is
+188 189 9 . 4.89335213348
+189
+0 190 1 instruction
+190 191 2 information
+191 192 6 instruction
+192 193 7 field
+193 194 5 in
+194 195 3 is
+195 196 4 stored
+196 197 8 f2
+197 198 9 . 7.19593722648
+198
+0 199 8 f2
+199 200 1 instruction
+200 201 2 information
+201 202 3 is
+202 203 6 instruction
+203 204 7 field
+204 205 5 in
+205 206 4 stored
+206 207 9 . 7.75555301441
+207
+0 208 1 instruction
+208 209 2 information
+209 210 3 is
+210 211 5 in
+211 212 6 instruction
+212 213 4 stored
+213 214 7 field
+214 215 8 f2
+215 216 9 . 9.14184737553
+216
+0 217 1 instruction
+217 218 2 information
+218 219 3 is
+219 220 4 stored
+220 221 6 instruction
+221 222 7 field
+222 223 5 in
+223 224 8 f2
+224 225 9 . 7.5324094631
+225
+0 226 1 instruction
+226 227 2 information
+227 228 6 instruction
+228 229 5 in
+229 230 7 field
+230 231 8 f2
+231 232 3 is
+232 233 4 stored
+233 234 9 . 8.04323508686
+234
+0 235 1 instruction
+235 236 2 information
+236 237 7 field
+237 238 8 f2
+238 239 6 instruction
+239 240 5 in
+240 241 3 is
+241 242 4 stored
+242 243 9 . 9.14184737553
+243
+0 244 1 instruction
+244 245 2 information
+245 246 6 instruction
+246 247 5 in
+247 248 3 is
+248 249 4 stored
+249 250 7 field
+250 251 8 f2
+251 252 9 . 8.44870019497
+252
+0 253 1 instruction
+253 254 2 information
+254 255 3 is
+255 256 5 in
+256 257 4 stored
+257 258 6 instruction
+258 259 7 field
+259 260 8 f2
+260 261 9 . 5.5042612158
+261

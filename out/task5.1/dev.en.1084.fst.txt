@@ -1,0 +1,280 @@
+0 1 2 this
+1 2 3 case
+2 3 4 ,
+3 4 1 in
+4 5 5 harmonic
+5 6 6 noise
+6 7 7 or
+7 8 8 leakage
+8 9 9 current
+9 10 16 the
+10 11 17 switching
+11 12 18 control
+12 13 15 by
+13 14 11 more
+14 15 12 effectively
+15 16 14 restrained
+16 17 13 be
+17 18 10 can
+18 19 19 . 2.96470016431
+19
+0 20 2 this
+20 21 3 case
+21 22 1 in
+22 23 4 ,
+23 24 5 harmonic
+24 25 6 noise
+25 26 7 or
+26 27 8 leakage
+27 28 9 current
+28 29 16 the
+29 30 17 switching
+30 31 18 control
+31 32 15 by
+32 33 11 more
+33 34 12 effectively
+34 35 14 restrained
+35 36 13 be
+36 37 10 can
+37 38 19 . 2.85933964865
+38
+0 39 2 this
+39 40 3 case
+40 41 1 in
+41 42 4 ,
+42 43 5 harmonic
+43 44 6 noise
+44 45 7 or
+45 46 8 leakage
+46 47 9 current
+47 48 16 the
+48 49 17 switching
+49 50 18 control
+50 51 11 more
+51 52 15 by
+52 53 12 effectively
+53 54 14 restrained
+54 55 13 be
+55 56 10 can
+56 57 19 . 5.8550719222
+57
+0 58 2 this
+58 59 3 case
+59 60 4 ,
+60 61 1 in
+61 62 5 harmonic
+62 63 6 noise
+63 64 7 or
+64 65 8 leakage
+65 66 9 current
+66 67 11 more
+67 68 16 the
+68 69 17 switching
+69 70 18 control
+70 71 15 by
+71 72 12 effectively
+72 73 14 restrained
+73 74 13 be
+74 75 10 can
+75 76 19 . 1.51126650035
+76
+0 77 2 this
+77 78 3 case
+78 79 1 in
+79 80 4 ,
+80 81 5 harmonic
+81 82 6 noise
+82 83 7 or
+83 84 8 leakage
+84 85 9 current
+85 86 11 more
+86 87 16 the
+87 88 17 switching
+88 89 18 control
+89 90 15 by
+90 91 12 effectively
+91 92 14 restrained
+92 93 13 be
+93 94 10 can
+94 95 19 . 0.942417036465
+95
+0 96 2 this
+96 97 3 case
+97 98 4 ,
+98 99 1 in
+99 100 5 harmonic
+100 101 6 noise
+101 102 7 or
+102 103 8 leakage
+103 104 9 current
+104 105 16 the
+105 106 17 switching
+106 107 18 control
+107 108 15 by
+108 109 11 more
+109 110 12 effectively
+110 111 13 be
+111 112 14 restrained
+112 113 10 can
+113 114 19 . 5.16192474164
+114
+0 115 2 this
+115 116 3 case
+116 117 1 in
+117 118 4 ,
+118 119 5 harmonic
+119 120 6 noise
+120 121 7 or
+121 122 8 leakage
+122 123 9 current
+123 124 16 the
+124 125 17 switching
+125 126 18 control
+126 127 15 by
+127 128 11 more
+128 129 12 effectively
+129 130 13 be
+130 131 14 restrained
+131 132 10 can
+132 133 19 . 3.37016527242
+133
+0 134 2 this
+134 135 3 case
+135 136 4 ,
+136 137 1 in
+137 138 5 harmonic
+138 139 6 noise
+139 140 7 or
+140 141 8 leakage
+141 142 9 current
+142 143 11 more
+143 144 16 the
+144 145 17 switching
+145 146 18 control
+146 147 15 by
+147 148 12 effectively
+148 149 13 be
+149 150 14 restrained
+150 151 10 can
+151 152 19 . 2.85933964865
+152
+0 153 2 this
+153 154 3 case
+154 155 1 in
+155 156 4 ,
+156 157 5 harmonic
+157 158 6 noise
+158 159 7 or
+159 160 8 leakage
+160 161 9 current
+161 162 11 more
+162 163 16 the
+163 164 17 switching
+164 165 18 control
+165 166 15 by
+166 167 12 effectively
+167 168 13 be
+168 169 14 restrained
+169 170 10 can
+170 171 19 . 1.92324628948
+171
+0 172 2 this
+172 173 3 case
+173 174 4 ,
+174 175 5 harmonic
+175 176 1 in
+176 177 6 noise
+177 178 7 or
+178 179 8 leakage
+179 180 9 current
+180 181 16 the
+181 182 17 switching
+182 183 18 control
+183 184 15 by
+184 185 11 more
+185 186 12 effectively
+186 187 14 restrained
+187 188 13 be
+188 189 10 can
+189 190 19 . 5.8550719222
+190
+0 191 2 this
+191 192 3 case
+192 193 4 ,
+193 194 5 harmonic
+194 195 1 in
+195 196 6 noise
+196 197 7 or
+197 198 8 leakage
+198 199 9 current
+199 200 11 more
+200 201 16 the
+201 202 17 switching
+202 203 18 control
+203 204 15 by
+204 205 12 effectively
+205 206 14 restrained
+206 207 13 be
+207 208 10 can
+208 209 19 . 5.16192474164
+209
+0 210 2 this
+210 211 3 case
+211 212 4 ,
+212 213 1 in
+213 214 5 harmonic
+214 215 6 noise
+215 216 7 or
+216 217 8 leakage
+217 218 9 current
+218 219 16 the
+219 220 17 switching
+220 221 18 control
+221 222 15 by
+222 223 11 more
+223 224 12 effectively
+224 225 13 be
+225 226 10 can
+226 227 14 restrained
+227 228 19 . 5.8550719222
+228
+0 229 2 this
+229 230 3 case
+230 231 4 ,
+231 232 5 harmonic
+232 233 6 noise
+233 234 1 in
+234 235 7 or
+235 236 8 leakage
+236 237 9 current
+237 238 16 the
+238 239 17 switching
+239 240 18 control
+240 241 15 by
+241 242 11 more
+242 243 12 effectively
+243 244 14 restrained
+244 245 13 be
+245 246 10 can
+246 247 19 . 3.90916177315
+247
+0 248 2 this
+248 249 3 case
+249 250 4 ,
+250 251 1 in
+251 252 5 harmonic
+252 253 6 noise
+253 254 7 or
+254 255 8 leakage
+255 256 16 the
+256 257 17 switching
+257 258 18 control
+258 259 15 by
+259 260 9 current
+260 261 11 more
+261 262 12 effectively
+262 263 14 restrained
+263 264 13 be
+264 265 10 can
+265 266 19 . 5.8550719222
+266

@@ -1,0 +1,300 @@
+0 1 3 the
+1 2 4 sixtieth
+2 3 5 address
+3 4 2 of
+4 5 1 data
+5 6 6 is
+6 7 11 storage
+7 8 12 device
+8 9 13 5
+9 10 10 of
+10 11 9 output
+11 12 8 as
+12 13 7 provided
+13 14 14 . 0.163505284995
+14
+0 15 3 the
+15 16 4 sixtieth
+16 17 5 address
+17 18 2 of
+18 19 1 data
+19 20 6 is
+20 21 11 storage
+21 22 12 device
+22 23 13 5
+23 24 10 of
+24 25 9 output
+25 26 7 provided
+26 27 8 as
+27 28 14 . 5.75793066431
+28
+0 29 3 the
+29 30 4 sixtieth
+30 31 5 address
+31 32 6 is
+32 33 2 of
+33 34 1 data
+34 35 11 storage
+35 36 12 device
+36 37 13 5
+37 38 10 of
+38 39 9 output
+39 40 8 as
+40 41 7 provided
+41 42 14 . 3.7585318303
+42
+0 43 3 the
+43 44 4 sixtieth
+44 45 5 address
+45 46 2 of
+46 47 1 data
+47 48 6 is
+48 49 11 storage
+49 50 12 device
+50 51 13 5
+51 52 10 of
+52 53 8 as
+53 54 9 output
+54 55 7 provided
+55 56 14 . 2.65991954163
+56
+0 57 3 the
+57 58 4 sixtieth
+58 59 5 address
+59 60 1 data
+60 61 2 of
+61 62 6 is
+62 63 11 storage
+63 64 12 device
+64 65 13 5
+65 66 10 of
+66 67 9 output
+67 68 8 as
+68 69 7 provided
+69 70 14 . 4.73936108331
+70
+0 71 4 sixtieth
+71 72 3 the
+72 73 5 address
+73 74 2 of
+74 75 1 data
+75 76 6 is
+76 77 11 storage
+77 78 12 device
+78 79 13 5
+79 80 10 of
+80 81 9 output
+81 82 8 as
+82 83 7 provided
+83 84 14 . 5.23183756841
+84
+0 85 3 the
+85 86 4 sixtieth
+86 87 5 address
+87 88 2 of
+88 89 1 data
+89 90 6 is
+90 91 11 storage
+91 92 12 device
+92 93 13 5
+93 94 9 output
+94 95 10 of
+95 96 8 as
+96 97 7 provided
+97 98 14 . 5.92498474897
+98
+0 99 3 the
+99 100 4 sixtieth
+100 101 5 address
+101 102 6 is
+102 103 2 of
+103 104 1 data
+104 105 11 storage
+105 106 12 device
+106 107 13 5
+107 108 10 of
+108 109 9 output
+109 110 7 provided
+110 111 8 as
+111 112 14 . 7.62973284121
+112
+0 113 3 the
+113 114 4 sixtieth
+114 115 5 address
+115 116 1 data
+116 117 2 of
+117 118 6 is
+118 119 11 storage
+119 120 12 device
+120 121 13 5
+121 122 10 of
+122 123 9 output
+123 124 7 provided
+124 125 8 as
+125 126 14 . 8.32288002177
+126
+0 127 3 the
+127 128 4 sixtieth
+128 129 5 address
+129 130 6 is
+130 131 2 of
+131 132 1 data
+132 133 11 storage
+133 134 12 device
+134 135 13 5
+135 136 10 of
+136 137 8 as
+137 138 9 output
+138 139 7 provided
+139 140 14 . 6.24343848009
+140
+0 141 3 the
+141 142 4 sixtieth
+142 143 5 address
+143 144 6 is
+144 145 1 data
+145 146 2 of
+146 147 11 storage
+147 148 12 device
+148 149 13 5
+149 150 10 of
+150 151 9 output
+151 152 8 as
+152 153 7 provided
+153 154 14 . 7.62973284121
+154
+0 155 3 the
+155 156 4 sixtieth
+156 157 2 of
+157 158 1 data
+158 159 5 address
+159 160 6 is
+160 161 11 storage
+161 162 12 device
+162 163 13 5
+163 164 10 of
+164 165 9 output
+165 166 8 as
+166 167 7 provided
+167 168 14 . 3.74816904327
+168
+0 169 3 the
+169 170 4 sixtieth
+170 171 5 address
+171 172 1 data
+172 173 2 of
+173 174 6 is
+174 175 11 storage
+175 176 12 device
+176 177 13 5
+177 178 10 of
+178 179 8 as
+179 180 9 output
+180 181 7 provided
+181 182 14 . 8.32288002177
+182
+0 183 4 sixtieth
+183 184 3 the
+184 185 5 address
+185 186 2 of
+186 187 1 data
+187 188 6 is
+188 189 11 storage
+189 190 12 device
+190 191 13 5
+191 192 10 of
+192 193 8 as
+193 194 9 output
+194 195 7 provided
+195 196 14 . 7.62973284121
+196
+0 197 3 the
+197 198 4 sixtieth
+198 199 5 address
+199 200 2 of
+200 201 1 data
+201 202 6 is
+202 203 11 storage
+203 204 12 device
+204 205 13 5
+205 206 10 of
+206 207 7 provided
+207 208 8 as
+208 209 9 output
+209 210 14 . 8.32288002177
+210
+0 211 3 the
+211 212 4 sixtieth
+212 213 5 address
+213 214 2 of
+214 215 1 data
+215 216 11 storage
+216 217 12 device
+217 218 13 5
+218 219 10 of
+219 220 6 is
+220 221 9 output
+221 222 8 as
+222 223 7 provided
+223 224 14 . 8.32288002177
+224
+0 225 3 the
+225 226 4 sixtieth
+226 227 5 address
+227 228 2 of
+228 229 1 data
+229 230 6 is
+230 231 11 storage
+231 232 12 device
+232 233 10 of
+233 234 9 output
+234 235 13 5
+235 236 8 as
+236 237 7 provided
+237 238 14 . 8.32288002177
+238
+0 239 4 sixtieth
+239 240 5 address
+240 241 3 the
+241 242 2 of
+242 243 1 data
+243 244 6 is
+244 245 11 storage
+245 246 12 device
+246 247 13 5
+247 248 10 of
+248 249 9 output
+249 250 8 as
+250 251 7 provided
+251 252 14 . 4.73936108331
+252
+0 253 3 the
+253 254 4 sixtieth
+254 255 5 address
+255 256 2 of
+256 257 1 data
+257 258 6 is
+258 259 13 5
+259 260 11 storage
+260 261 12 device
+261 262 10 of
+262 263 9 output
+263 264 8 as
+264 265 7 provided
+265 266 14 . 7.62973284121
+266
+0 267 3 the
+267 268 4 sixtieth
+268 269 2 of
+269 270 1 data
+270 271 5 address
+271 272 6 is
+272 273 11 storage
+273 274 12 device
+274 275 13 5
+275 276 10 of
+276 277 9 output
+277 278 7 provided
+278 279 8 as
+279 280 14 . 8.32288002177
+280

@@ -1,0 +1,120 @@
+0 1 1 the
+1 2 2 encoder
+2 3 3 18
+3 4 16 the
+4 5 17 ntsc
+5 6 18 format
+6 7 15 in
+7 8 13 a
+8 9 14 signal
+9 10 12 to
+10 11 10 converting
+11 12 11 it
+12 13 9 upon
+13 14 5 the
+14 15 6 input
+15 16 7 video
+16 17 8 signal
+17 18 4 outputs
+18 19 19 . 0.111147311241
+19
+0 20 1 the
+20 21 2 encoder
+21 22 3 18
+22 23 16 the
+23 24 17 ntsc
+24 25 18 format
+25 26 15 in
+26 27 13 a
+27 28 14 signal
+28 29 12 to
+29 30 5 the
+30 31 10 converting
+31 32 11 it
+32 33 9 upon
+33 34 6 input
+34 35 7 video
+35 36 8 signal
+36 37 4 outputs
+37 38 19 . 3.18741844728
+38
+0 39 1 the
+39 40 2 encoder
+40 41 3 18
+41 42 16 the
+42 43 17 ntsc
+43 44 18 format
+44 45 15 in
+45 46 13 a
+46 47 14 signal
+47 48 5 the
+48 49 12 to
+49 50 10 converting
+50 51 11 it
+51 52 9 upon
+52 53 6 input
+53 54 7 video
+54 55 8 signal
+55 56 4 outputs
+56 57 19 . 6.62140565176
+57
+0 58 1 the
+58 59 2 encoder
+59 60 3 18
+60 61 16 the
+61 62 17 ntsc
+62 63 18 format
+63 64 15 in
+64 65 13 a
+65 66 14 signal
+66 67 12 to
+67 68 10 converting
+68 69 11 it
+69 70 5 the
+70 71 6 input
+71 72 9 upon
+72 73 7 video
+73 74 8 signal
+74 75 4 outputs
+75 76 19 . 5.23511129064
+76
+0 77 1 the
+77 78 2 encoder
+78 79 3 18
+79 80 16 the
+80 81 17 ntsc
+81 82 18 format
+82 83 15 in
+83 84 5 the
+84 85 13 a
+85 86 14 signal
+86 87 12 to
+87 88 10 converting
+88 89 11 it
+89 90 9 upon
+90 91 6 input
+91 92 7 video
+92 93 8 signal
+93 94 4 outputs
+94 95 19 . 3.78819230771
+95
+0 96 1 the
+96 97 2 encoder
+97 98 3 18
+98 99 16 the
+99 100 17 ntsc
+100 101 18 format
+101 102 15 in
+102 103 12 to
+103 104 13 a
+104 105 14 signal
+105 106 10 converting
+106 107 11 it
+107 108 9 upon
+108 109 5 the
+109 110 6 input
+110 111 7 video
+111 112 8 signal
+112 113 4 outputs
+113 114 19 . 3.36330911374
+114

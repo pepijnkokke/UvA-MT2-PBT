@@ -1,0 +1,380 @@
+0 1 1 however
+1 2 2 ,
+2 3 3 floating
+3 4 4 gate
+4 5 5 field
+5 6 6 effect
+6 7 7 transistor
+7 8 8 55
+8 9 13 a
+9 10 14 normal
+10 11 15 n-channel
+11 12 16 mos
+12 13 17 transistor
+13 14 12 with
+14 15 10 be
+15 16 11 replaced
+16 17 9 may
+17 18 18 . 1.50742807446
+18
+0 19 1 however
+19 20 2 ,
+20 21 3 floating
+21 22 4 gate
+22 23 5 field
+23 24 6 effect
+24 25 7 transistor
+25 26 13 a
+26 27 14 normal
+27 28 15 n-channel
+28 29 16 mos
+29 30 17 transistor
+30 31 12 with
+31 32 8 55
+32 33 10 be
+33 34 11 replaced
+34 35 9 may
+35 36 18 . 6.0056491821
+36
+0 37 1 however
+37 38 2 ,
+38 39 3 floating
+39 40 4 gate
+40 41 5 field
+41 42 6 effect
+42 43 7 transistor
+43 44 8 55
+44 45 13 a
+45 46 14 normal
+46 47 15 n-channel
+47 48 16 mos
+48 49 17 transistor
+49 50 12 with
+50 51 11 replaced
+51 52 10 be
+52 53 9 may
+53 54 18 . 0.733382492752
+54
+0 55 1 however
+55 56 2 ,
+56 57 3 floating
+57 58 4 gate
+58 59 5 field
+59 60 6 effect
+60 61 7 transistor
+61 62 8 55
+62 63 13 a
+63 64 14 normal
+64 65 15 n-channel
+65 66 16 mos
+66 67 17 transistor
+67 68 10 be
+68 69 12 with
+69 70 11 replaced
+70 71 9 may
+71 72 18 . 7.95155933116
+72
+0 73 1 however
+73 74 2 ,
+74 75 3 floating
+75 76 4 gate
+76 77 5 field
+77 78 6 effect
+78 79 13 a
+79 80 14 normal
+80 81 15 n-channel
+81 82 16 mos
+82 83 17 transistor
+83 84 12 with
+84 85 7 transistor
+85 86 8 55
+86 87 10 be
+87 88 11 replaced
+88 89 9 may
+89 90 18 . 5.1183459871
+90
+0 91 1 however
+91 92 2 ,
+92 93 3 floating
+93 94 4 gate
+94 95 5 field
+95 96 6 effect
+96 97 7 transistor
+97 98 8 55
+98 99 13 a
+99 100 14 normal
+100 101 15 n-channel
+101 102 16 mos
+102 103 17 transistor
+103 104 12 with
+104 105 10 be
+105 106 9 may
+106 107 11 replaced
+107 108 18 . 7.95155933116
+108
+0 109 1 however
+109 110 2 ,
+110 111 3 floating
+111 112 4 gate
+112 113 5 field
+113 114 13 a
+114 115 14 normal
+115 116 15 n-channel
+116 117 16 mos
+117 118 17 transistor
+118 119 12 with
+119 120 6 effect
+120 121 7 transistor
+121 122 8 55
+122 123 10 be
+123 124 11 replaced
+124 125 9 may
+125 126 18 . 2.60922507919
+126
+0 127 1 however
+127 128 2 ,
+128 129 3 floating
+129 130 4 gate
+130 131 5 field
+131 132 6 effect
+132 133 7 transistor
+133 134 8 55
+134 135 13 a
+135 136 14 normal
+136 137 15 n-channel
+137 138 16 mos
+138 139 17 transistor
+139 140 11 replaced
+140 141 12 with
+141 142 10 be
+142 143 9 may
+143 144 18 . 3.6077539093
+144
+0 145 1 however
+145 146 2 ,
+146 147 3 floating
+147 148 4 gate
+148 149 5 field
+149 150 6 effect
+150 151 13 a
+151 152 14 normal
+152 153 15 n-channel
+153 154 16 mos
+154 155 17 transistor
+155 156 12 with
+156 157 7 transistor
+157 158 8 55
+158 159 11 replaced
+159 160 10 be
+160 161 9 may
+161 162 18 . 6.85294704249
+162
+0 163 1 however
+163 164 2 ,
+164 165 3 floating
+165 166 4 gate
+166 167 5 field
+167 168 6 effect
+168 169 7 transistor
+169 170 8 55
+170 171 13 a
+171 172 14 normal
+172 173 15 n-channel
+173 174 16 mos
+174 175 17 transistor
+175 176 10 be
+176 177 11 replaced
+177 178 12 with
+178 179 9 may
+179 180 18 . 5.24350913005
+180
+0 181 1 however
+181 182 2 ,
+182 183 3 floating
+183 184 4 gate
+184 185 5 field
+185 186 13 a
+186 187 14 normal
+187 188 15 n-channel
+188 189 16 mos
+189 190 17 transistor
+190 191 6 effect
+191 192 7 transistor
+192 193 8 55
+193 194 12 with
+194 195 11 replaced
+195 196 10 be
+196 197 9 may
+197 198 18 . 7.95155933116
+198
+0 199 1 however
+199 200 2 ,
+200 201 3 floating
+201 202 4 gate
+202 203 5 field
+203 204 13 a
+204 205 14 normal
+205 206 15 n-channel
+206 207 16 mos
+207 208 17 transistor
+208 209 12 with
+209 210 6 effect
+210 211 7 transistor
+211 212 8 55
+212 213 11 replaced
+213 214 10 be
+214 215 9 may
+215 216 18 . 5.17897060892
+216
+0 217 1 however
+217 218 2 ,
+218 219 3 floating
+219 220 4 gate
+220 221 5 field
+221 222 6 effect
+222 223 7 transistor
+223 224 8 55
+224 225 13 a
+225 226 14 normal
+226 227 15 n-channel
+227 228 16 mos
+228 229 17 transistor
+229 230 12 with
+230 231 9 may
+231 232 10 be
+232 233 11 replaced
+233 234 18 . 6.56526497003
+234
+0 235 1 however
+235 236 2 ,
+236 237 4 gate
+237 238 5 field
+238 239 3 floating
+239 240 6 effect
+240 241 7 transistor
+241 242 8 55
+242 243 13 a
+243 244 14 normal
+244 245 15 n-channel
+245 246 16 mos
+246 247 17 transistor
+247 248 12 with
+248 249 10 be
+249 250 11 replaced
+250 251 9 may
+251 252 18 . 6.85294704249
+252
+0 253 1 however
+253 254 2 ,
+254 255 3 floating
+255 256 4 gate
+256 257 13 a
+257 258 14 normal
+258 259 15 n-channel
+259 260 16 mos
+260 261 17 transistor
+261 262 12 with
+262 263 5 field
+263 264 6 effect
+264 265 7 transistor
+265 266 8 55
+266 267 10 be
+267 268 11 replaced
+268 269 9 may
+269 270 18 . 1.78404284027
+270
+0 271 1 however
+271 272 2 ,
+272 273 3 floating
+273 274 4 gate
+274 275 13 a
+275 276 14 normal
+276 277 15 n-channel
+277 278 16 mos
+278 279 17 transistor
+279 280 5 field
+280 281 6 effect
+281 282 7 transistor
+282 283 8 55
+283 284 12 with
+284 285 11 replaced
+285 286 10 be
+286 287 9 may
+287 288 18 . 7.25841215059
+288
+0 289 1 however
+289 290 2 ,
+290 291 3 floating
+291 292 4 gate
+292 293 5 field
+293 294 6 effect
+294 295 7 transistor
+295 296 8 55
+296 297 13 a
+297 298 14 normal
+298 299 15 n-channel
+299 300 16 mos
+300 301 17 transistor
+301 302 10 be
+302 303 11 replaced
+303 304 9 may
+304 305 12 with
+305 306 18 . 5.64897423816
+306
+0 307 1 however
+307 308 2 ,
+308 309 3 floating
+309 310 4 gate
+310 311 5 field
+311 312 13 a
+312 313 14 normal
+313 314 15 n-channel
+314 315 16 mos
+315 316 17 transistor
+316 317 12 with
+317 318 6 effect
+318 319 7 transistor
+319 320 8 55
+320 321 10 be
+321 322 9 may
+322 323 11 replaced
+323 324 18 . 7.25841215059
+324
+0 325 1 however
+325 326 2 ,
+326 327 3 floating
+327 328 4 gate
+328 329 5 field
+329 330 13 a
+330 331 14 normal
+331 332 15 n-channel
+332 333 16 mos
+333 334 17 transistor
+334 335 6 effect
+335 336 7 transistor
+336 337 8 55
+337 338 11 replaced
+338 339 12 with
+339 340 10 be
+340 341 9 may
+341 342 18 . 7.95155933116
+342
+0 343 1 however
+343 344 2 ,
+344 345 3 floating
+345 346 4 gate
+346 347 5 field
+347 348 13 a
+348 349 14 normal
+349 350 15 n-channel
+350 351 16 mos
+351 352 17 transistor
+352 353 6 effect
+353 354 7 transistor
+354 355 8 55
+355 356 10 be
+356 357 11 replaced
+357 358 12 with
+358 359 9 may
+359 360 18 . 7.95155933116
+360

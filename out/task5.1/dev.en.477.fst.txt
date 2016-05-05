@@ -1,0 +1,308 @@
+0 1 1 this
+1 2 2 leads
+2 3 10 error
+3 4 11 correction
+4 5 12 redundancy
+5 6 9 increasing
+6 7 8 without
+7 8 5 error
+8 9 6 correction
+9 10 7 capability
+10 11 3 to
+11 12 4 improved
+12 13 13 . 1.54470943974
+13
+0 14 1 this
+14 15 2 leads
+15 16 10 error
+16 17 11 correction
+17 18 9 increasing
+18 19 12 redundancy
+19 20 8 without
+20 21 5 error
+21 22 6 correction
+22 23 7 capability
+23 24 3 to
+24 25 4 improved
+25 26 13 . 1.81450868269
+26
+0 27 1 this
+27 28 2 leads
+28 29 10 error
+29 30 11 correction
+30 31 12 redundancy
+31 32 9 increasing
+32 33 8 without
+33 34 5 error
+34 35 6 correction
+35 36 7 capability
+36 37 4 improved
+37 38 3 to
+38 39 13 . 5.10291057021
+39
+0 40 1 this
+40 41 2 leads
+41 42 10 error
+42 43 11 correction
+43 44 9 increasing
+44 45 12 redundancy
+45 46 8 without
+46 47 5 error
+47 48 6 correction
+48 49 7 capability
+49 50 4 improved
+50 51 3 to
+51 52 13 . 5.20827108586
+52
+0 53 1 this
+53 54 2 leads
+54 55 10 error
+55 56 11 correction
+56 57 12 redundancy
+57 58 9 increasing
+58 59 8 without
+59 60 4 improved
+60 61 5 error
+61 62 6 correction
+62 63 7 capability
+63 64 3 to
+64 65 13 . 5.61373619397
+65
+0 66 1 this
+66 67 2 leads
+67 68 10 error
+68 69 11 correction
+69 70 9 increasing
+70 71 8 without
+71 72 12 redundancy
+72 73 5 error
+73 74 6 correction
+74 75 7 capability
+75 76 3 to
+76 77 4 improved
+77 78 13 . 4.57228231914
+78
+0 79 1 this
+79 80 2 leads
+80 81 10 error
+81 82 11 correction
+82 83 12 redundancy
+83 84 9 increasing
+84 85 8 without
+85 86 3 to
+86 87 4 improved
+87 88 5 error
+88 89 6 correction
+89 90 7 capability
+90 91 13 . 4.00429828154
+91
+0 92 1 this
+92 93 2 leads
+93 94 12 redundancy
+94 95 10 error
+95 96 11 correction
+96 97 9 increasing
+97 98 8 without
+98 99 5 error
+99 100 6 correction
+100 101 7 capability
+101 102 3 to
+102 103 4 improved
+103 104 13 . 1.32327675282
+104
+0 105 1 this
+105 106 2 leads
+106 107 10 error
+107 108 11 correction
+108 109 9 increasing
+109 110 12 redundancy
+110 111 8 without
+111 112 3 to
+112 113 4 improved
+113 114 5 error
+114 115 6 correction
+115 116 7 capability
+116 117 13 . 7.4054956632
+117
+0 118 1 this
+118 119 2 leads
+119 120 10 error
+120 121 11 correction
+121 122 12 redundancy
+122 123 8 without
+123 124 9 increasing
+124 125 5 error
+125 126 6 correction
+126 127 7 capability
+127 128 3 to
+128 129 4 improved
+129 130 13 . 6.71234848264
+130
+0 131 1 this
+131 132 2 leads
+132 133 10 error
+133 134 11 correction
+134 135 9 increasing
+135 136 8 without
+136 137 5 error
+137 138 6 correction
+138 139 7 capability
+139 140 3 to
+140 141 4 improved
+141 142 12 redundancy
+142 143 13 . 2.11219083847
+143
+0 144 1 this
+144 145 2 leads
+145 146 9 increasing
+146 147 10 error
+147 148 11 correction
+148 149 12 redundancy
+149 150 8 without
+150 151 5 error
+151 152 6 correction
+152 153 7 capability
+153 154 3 to
+154 155 4 improved
+155 156 13 . 2.11219083847
+156
+0 157 1 this
+157 158 3 to
+158 159 2 leads
+159 160 10 error
+160 161 11 correction
+161 162 12 redundancy
+162 163 9 increasing
+163 164 8 without
+164 165 5 error
+165 166 6 correction
+166 167 7 capability
+167 168 4 improved
+168 169 13 . 7.4054956632
+169
+0 170 1 this
+170 171 2 leads
+171 172 12 redundancy
+172 173 10 error
+173 174 11 correction
+174 175 9 increasing
+175 176 8 without
+176 177 5 error
+177 178 6 correction
+178 179 7 capability
+179 180 4 improved
+180 181 3 to
+181 182 13 . 4.57228231914
+182
+0 183 1 this
+183 184 2 leads
+184 185 3 to
+185 186 10 error
+186 187 11 correction
+187 188 9 increasing
+188 189 12 redundancy
+189 190 8 without
+190 191 5 error
+191 192 6 correction
+192 193 7 capability
+193 194 4 improved
+194 195 13 . 6.71234848264
+195
+0 196 1 this
+196 197 2 leads
+197 198 10 error
+198 199 11 correction
+199 200 9 increasing
+200 201 12 redundancy
+201 202 8 without
+202 203 4 improved
+203 204 3 to
+204 205 5 error
+205 206 6 correction
+206 207 7 capability
+207 208 13 . 7.4054956632
+208
+0 209 1 this
+209 210 2 leads
+210 211 10 error
+211 212 11 correction
+212 213 9 increasing
+213 214 8 without
+214 215 5 error
+215 216 6 correction
+216 217 7 capability
+217 218 4 improved
+218 219 3 to
+219 220 12 redundancy
+220 221 13 . 5.45958551414
+221
+0 222 1 this
+222 223 3 to
+223 224 2 leads
+224 225 10 error
+225 226 11 correction
+226 227 9 increasing
+227 228 12 redundancy
+228 229 8 without
+229 230 5 error
+230 231 6 correction
+231 232 7 capability
+232 233 4 improved
+233 234 13 . 6.71234848264
+234
+0 235 1 this
+235 236 2 leads
+236 237 9 increasing
+237 238 10 error
+238 239 11 correction
+239 240 12 redundancy
+240 241 8 without
+241 242 5 error
+242 243 6 correction
+243 244 7 capability
+244 245 4 improved
+245 246 3 to
+246 247 13 . 5.10291057021
+247
+0 248 1 this
+248 249 2 leads
+249 250 10 error
+250 251 11 correction
+251 252 9 increasing
+252 253 8 without
+253 254 5 error
+254 255 6 correction
+255 256 7 capability
+256 257 12 redundancy
+257 258 3 to
+258 259 4 improved
+259 260 13 . 3.24661257984
+260
+0 261 1 this
+261 262 2 leads
+262 263 3 to
+263 264 10 error
+264 265 11 correction
+265 266 12 redundancy
+266 267 9 increasing
+267 268 8 without
+268 269 4 improved
+269 270 5 error
+270 271 6 correction
+271 272 7 capability
+272 273 13 . 5.10291057021
+273
+0 274 1 this
+274 275 2 leads
+275 276 10 error
+276 277 11 correction
+277 278 9 increasing
+278 279 8 without
+279 280 5 error
+280 281 6 correction
+281 282 7 capability
+282 283 4 improved
+283 284 12 redundancy
+284 285 3 to
+285 286 13 . 7.4054956632
+286

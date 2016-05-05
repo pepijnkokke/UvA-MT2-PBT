@@ -1,0 +1,98 @@
+0 1 2 a
+1 2 3 result
+2 3 1 as
+3 4 4 ,
+4 5 5 the
+5 6 6 inverter
+6 7 7 4
+7 8 9 the
+8 9 10 low
+9 10 11 level
+10 11 12 signal
+11 12 8 outputs
+12 13 13 . 0.179512308061
+13
+0 14 2 a
+14 15 3 result
+15 16 1 as
+16 17 4 ,
+17 18 5 the
+18 19 6 inverter
+19 20 7 4
+20 21 9 the
+21 22 10 low
+22 23 11 level
+23 24 8 outputs
+24 25 12 signal
+25 26 13 . 2.97581881537
+26
+0 27 2 a
+27 28 3 result
+28 29 1 as
+29 30 4 ,
+30 31 6 inverter
+31 32 5 the
+32 33 7 4
+33 34 9 the
+34 35 10 low
+35 36 11 level
+36 37 12 signal
+37 38 8 outputs
+38 39 13 . 8.24367697444
+39
+0 40 2 a
+40 41 3 result
+41 42 1 as
+42 43 4 ,
+43 44 5 the
+44 45 6 inverter
+45 46 7 4
+46 47 10 low
+47 48 9 the
+48 49 11 level
+49 50 12 signal
+50 51 8 outputs
+51 52 13 . 6.99091400594
+52
+0 53 2 a
+53 54 3 result
+54 55 1 as
+55 56 5 the
+56 57 4 ,
+57 58 6 inverter
+58 59 7 4
+59 60 9 the
+60 61 10 low
+61 62 11 level
+62 63 12 signal
+63 64 8 outputs
+64 65 13 . 4.7027176504
+65
+0 66 2 a
+66 67 3 result
+67 68 4 ,
+68 69 1 as
+69 70 5 the
+70 71 6 inverter
+71 72 7 4
+72 73 9 the
+73 74 10 low
+74 75 11 level
+75 76 12 signal
+76 77 8 outputs
+77 78 13 . 8.936824155
+78
+0 79 2 a
+79 80 3 result
+80 81 1 as
+81 82 4 ,
+82 83 6 inverter
+83 84 7 4
+84 85 5 the
+85 86 9 the
+86 87 10 low
+87 88 11 level
+88 89 12 signal
+89 90 8 outputs
+90 91 13 . 2.27369145901
+91

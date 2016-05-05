@@ -1,0 +1,272 @@
+0 1 1 the
+1 2 2 necessary
+2 3 3 cardinal
+3 4 4 number
+4 5 8 one
+5 6 9 pattern
+6 7 10 to
+7 8 13 to
+8 9 14 another
+9 10 11 be
+10 11 12 recognized
+11 12 7 from
+12 13 5 is
+13 14 6 different
+14 15 15 . 2.29631547998
+15
+0 16 1 the
+16 17 2 necessary
+17 18 3 cardinal
+18 19 4 number
+19 20 8 one
+20 21 9 pattern
+21 22 13 to
+22 23 14 another
+23 24 10 to
+24 25 11 be
+25 26 12 recognized
+26 27 7 from
+27 28 5 is
+28 29 6 different
+29 30 15 . 3.6826098411
+30
+0 31 1 the
+31 32 2 necessary
+32 33 3 cardinal
+33 34 4 number
+34 35 8 one
+35 36 9 pattern
+36 37 10 to
+37 38 14 another
+38 39 13 to
+39 40 11 be
+40 41 12 recognized
+41 42 7 from
+42 43 5 is
+43 44 6 different
+44 45 15 . 1.8108076642
+45
+0 46 1 the
+46 47 2 necessary
+47 48 3 cardinal
+48 49 4 number
+49 50 8 one
+50 51 9 pattern
+51 52 14 another
+52 53 13 to
+53 54 10 to
+54 55 11 be
+55 56 12 recognized
+56 57 7 from
+57 58 5 is
+58 59 6 different
+59 60 15 . 3.97029191355
+60
+0 61 1 the
+61 62 2 necessary
+62 63 3 cardinal
+63 64 4 number
+64 65 8 one
+65 66 13 to
+66 67 14 another
+67 68 9 pattern
+68 69 10 to
+69 70 11 be
+70 71 12 recognized
+71 72 7 from
+72 73 5 is
+73 74 6 different
+74 75 15 . 5.06890420222
+75
+0 76 1 the
+76 77 2 necessary
+77 78 3 cardinal
+78 79 4 number
+79 80 8 one
+80 81 9 pattern
+81 82 10 to
+82 83 7 from
+83 84 5 is
+84 85 6 different
+85 86 13 to
+86 87 14 another
+87 88 11 be
+88 89 12 recognized
+89 90 15 . 2.29631547998
+90
+0 91 1 the
+91 92 2 necessary
+92 93 3 cardinal
+93 94 8 one
+94 95 9 pattern
+95 96 10 to
+96 97 7 from
+97 98 4 number
+98 99 5 is
+99 100 6 different
+100 101 13 to
+101 102 14 another
+102 103 11 be
+103 104 12 recognized
+104 105 15 . 4.37575702166
+105
+0 106 1 the
+106 107 2 necessary
+107 108 3 cardinal
+108 109 4 number
+109 110 14 another
+110 111 8 one
+111 112 9 pattern
+112 113 10 to
+113 114 13 to
+114 115 11 be
+115 116 12 recognized
+116 117 7 from
+117 118 5 is
+118 119 6 different
+119 120 15 . 5.06890420222
+120
+0 121 1 the
+121 122 2 necessary
+122 123 3 cardinal
+123 124 4 number
+124 125 8 one
+125 126 14 another
+126 127 13 to
+127 128 9 pattern
+128 129 10 to
+129 130 11 be
+130 131 12 recognized
+131 132 7 from
+132 133 5 is
+133 134 6 different
+134 135 15 . 5.06890420222
+135
+0 136 1 the
+136 137 3 cardinal
+137 138 2 necessary
+138 139 4 number
+139 140 8 one
+140 141 9 pattern
+141 142 10 to
+142 143 13 to
+143 144 14 another
+144 145 11 be
+145 146 12 recognized
+146 147 7 from
+147 148 5 is
+148 149 6 different
+149 150 15 . 3.6826098411
+150
+0 151 1 the
+151 152 2 necessary
+152 153 3 cardinal
+153 154 4 number
+154 155 8 one
+155 156 9 pattern
+156 157 10 to
+157 158 7 from
+158 159 5 is
+159 160 6 different
+160 161 14 another
+161 162 13 to
+162 163 11 be
+163 164 12 recognized
+164 165 15 . 1.85002837735
+165
+0 166 1 the
+166 167 2 necessary
+167 168 3 cardinal
+168 169 8 one
+169 170 9 pattern
+170 171 10 to
+171 172 7 from
+172 173 4 number
+173 174 5 is
+174 175 6 different
+175 176 14 another
+176 177 13 to
+177 178 11 be
+178 179 12 recognized
+179 180 15 . 4.37575702166
+180
+0 181 1 the
+181 182 2 necessary
+182 183 3 cardinal
+183 184 4 number
+184 185 13 to
+185 186 14 another
+186 187 8 one
+187 188 9 pattern
+188 189 10 to
+189 190 11 be
+190 191 12 recognized
+191 192 7 from
+192 193 5 is
+193 194 6 different
+194 195 15 . 1.85002837735
+195
+0 196 1 the
+196 197 3 cardinal
+197 198 2 necessary
+198 199 4 number
+199 200 8 one
+200 201 9 pattern
+201 202 10 to
+202 203 14 another
+203 204 13 to
+204 205 11 be
+205 206 12 recognized
+206 207 7 from
+207 208 5 is
+208 209 6 different
+209 210 15 . 4.37575702166
+210
+0 211 1 the
+211 212 2 necessary
+212 213 3 cardinal
+213 214 4 number
+214 215 8 one
+215 216 9 pattern
+216 217 10 to
+217 218 11 be
+218 219 13 to
+219 220 14 another
+220 221 12 recognized
+221 222 7 from
+222 223 5 is
+223 224 6 different
+224 225 15 . 5.06890420222
+225
+0 226 1 the
+226 227 2 necessary
+227 228 3 cardinal
+228 229 4 number
+229 230 8 one
+230 231 14 another
+231 232 13 to
+232 233 10 to
+233 234 9 pattern
+234 235 11 be
+235 236 12 recognized
+236 237 7 from
+237 238 5 is
+238 239 6 different
+239 240 15 . 5.06890420222
+240
+0 241 1 the
+241 242 2 necessary
+242 243 3 cardinal
+243 244 4 number
+244 245 14 another
+245 246 13 to
+246 247 8 one
+247 248 9 pattern
+248 249 10 to
+249 250 11 be
+250 251 12 recognized
+251 252 7 from
+252 253 5 is
+253 254 6 different
+254 255 15 . 1.70160837223
+255

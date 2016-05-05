@@ -1,0 +1,196 @@
+0 1 1 next
+1 2 2 ,
+2 3 6 manufacturing
+3 4 7 the
+4 5 8 above
+5 6 9 npn
+6 7 10 transistor
+7 8 5 for
+8 9 3 a
+9 10 4 method
+10 11 11 is
+11 12 12 explained
+12 13 13 . 0.74213432026
+13
+0 14 1 next
+14 15 2 ,
+15 16 7 the
+16 17 8 above
+17 18 6 manufacturing
+18 19 9 npn
+19 20 10 transistor
+20 21 5 for
+21 22 3 a
+22 23 4 method
+23 24 11 is
+24 25 12 explained
+25 26 13 . 6.14293306172
+26
+0 27 1 next
+27 28 2 ,
+28 29 7 the
+29 30 8 above
+30 31 9 npn
+31 32 10 transistor
+32 33 6 manufacturing
+33 34 5 for
+34 35 3 a
+35 36 4 method
+36 37 11 is
+37 38 12 explained
+38 39 13 . 1.10166079816
+39
+0 40 1 next
+40 41 2 ,
+41 42 8 above
+42 43 6 manufacturing
+43 44 7 the
+44 45 9 npn
+45 46 10 transistor
+46 47 5 for
+47 48 3 a
+48 49 4 method
+49 50 11 is
+50 51 12 explained
+51 52 13 . 6.32525461851
+52
+0 53 1 next
+53 54 2 ,
+54 55 6 manufacturing
+55 56 8 above
+56 57 7 the
+57 58 9 npn
+58 59 10 transistor
+59 60 5 for
+60 61 3 a
+61 62 4 method
+62 63 11 is
+63 64 12 explained
+64 65 13 . 4.45345244161
+65
+0 66 1 next
+66 67 2 ,
+67 68 8 above
+68 69 7 the
+69 70 6 manufacturing
+70 71 9 npn
+71 72 10 transistor
+72 73 5 for
+73 74 3 a
+74 75 4 method
+75 76 11 is
+76 77 12 explained
+77 78 13 . 7.52922742284
+78
+0 79 1 next
+79 80 2 ,
+80 81 7 the
+81 82 8 above
+82 83 9 npn
+83 84 10 transistor
+84 85 5 for
+85 86 6 manufacturing
+86 87 3 a
+87 88 4 method
+88 89 11 is
+89 90 12 explained
+90 91 13 . 1.87090732226
+91
+0 92 1 next
+92 93 2 ,
+93 94 8 above
+94 95 7 the
+95 96 9 npn
+96 97 10 transistor
+97 98 6 manufacturing
+98 99 5 for
+99 100 3 a
+100 101 4 method
+101 102 11 is
+102 103 12 explained
+103 104 13 . 4.53349514928
+104
+0 105 1 next
+105 106 2 ,
+106 107 6 manufacturing
+107 108 7 the
+108 109 8 above
+109 110 9 npn
+110 111 10 transistor
+111 112 5 for
+112 113 4 method
+113 114 3 a
+114 115 11 is
+115 116 12 explained
+116 117 13 . 8.62783971151
+117
+0 118 1 next
+118 119 2 ,
+119 120 6 manufacturing
+120 121 7 the
+121 122 8 above
+122 123 9 npn
+123 124 10 transistor
+124 125 5 for
+125 126 3 a
+126 127 4 method
+127 128 12 explained
+128 129 11 is
+129 130 13 . 7.93469253094
+130
+0 131 1 next
+131 132 2 ,
+132 133 7 the
+133 134 8 above
+134 135 9 npn
+135 136 10 transistor
+136 137 6 manufacturing
+137 138 5 for
+138 139 4 method
+139 140 3 a
+140 141 11 is
+141 142 12 explained
+142 143 13 . 7.93469253094
+143
+0 144 1 next
+144 145 2 ,
+145 146 7 the
+146 147 8 above
+147 148 9 npn
+148 149 10 transistor
+149 150 6 manufacturing
+150 151 5 for
+151 152 3 a
+152 153 4 method
+153 154 12 explained
+154 155 11 is
+155 156 13 . 7.24154535038
+156
+0 157 1 next
+157 158 2 ,
+158 159 6 manufacturing
+159 160 7 the
+160 161 8 above
+161 162 5 for
+162 163 9 npn
+163 164 10 transistor
+164 165 3 a
+165 166 4 method
+166 167 11 is
+167 168 12 explained
+168 169 13 . 6.14293306172
+169
+0 170 1 next
+170 171 2 ,
+171 172 8 above
+172 173 7 the
+173 174 9 npn
+174 175 10 transistor
+175 176 5 for
+176 177 6 manufacturing
+177 178 3 a
+178 179 4 method
+179 180 11 is
+180 181 12 explained
+181 182 13 . 4.96427806537
+182

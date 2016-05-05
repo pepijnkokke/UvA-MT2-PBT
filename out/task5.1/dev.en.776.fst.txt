@@ -1,0 +1,400 @@
+0 1 1 however
+1 2 2 ,
+2 3 3 this
+3 4 4 adjustment
+4 5 7 made
+5 6 8 unnecessary
+6 7 6 be
+7 8 5 can
+8 9 18 beforehand
+9 10 13 each
+10 11 14 component
+11 12 12 of
+12 13 10 the
+13 14 11 heights
+14 15 17 accurately
+15 16 15 are
+16 17 16 set
+17 18 9 if
+18 19 19 . 3.07136968776
+19
+0 20 1 however
+20 21 2 ,
+21 22 3 this
+22 23 4 adjustment
+23 24 7 made
+24 25 8 unnecessary
+25 26 6 be
+26 27 5 can
+27 28 18 beforehand
+28 29 13 each
+29 30 14 component
+30 31 12 of
+31 32 10 the
+32 33 11 heights
+33 34 15 are
+34 35 17 accurately
+35 36 16 set
+36 37 9 if
+37 38 19 . 5.01727983682
+38
+0 39 1 however
+39 40 2 ,
+40 41 3 this
+41 42 4 adjustment
+42 43 7 made
+43 44 8 unnecessary
+44 45 6 be
+45 46 5 can
+46 47 18 beforehand
+47 48 17 accurately
+48 49 13 each
+49 50 14 component
+50 51 12 of
+51 52 10 the
+52 53 11 heights
+53 54 15 are
+54 55 16 set
+55 56 9 if
+56 57 19 . 2.61938456402
+57
+0 58 1 however
+58 59 2 ,
+59 60 3 this
+60 61 4 adjustment
+61 62 7 made
+62 63 8 unnecessary
+63 64 6 be
+64 65 5 can
+65 66 18 beforehand
+66 67 13 each
+67 68 14 component
+68 69 12 of
+69 70 10 the
+70 71 11 heights
+71 72 15 are
+72 73 16 set
+73 74 17 accurately
+74 75 9 if
+75 76 19 . 3.63098547569
+76
+0 77 1 however
+77 78 2 ,
+78 79 3 this
+79 80 4 adjustment
+80 81 7 made
+81 82 8 unnecessary
+82 83 6 be
+83 84 5 can
+84 85 18 beforehand
+85 86 10 the
+86 87 11 heights
+87 88 13 each
+88 89 14 component
+89 90 12 of
+90 91 17 accurately
+91 92 15 are
+92 93 16 set
+93 94 9 if
+94 95 19 . 2.53237318703
+95
+0 96 1 however
+96 97 2 ,
+97 98 3 this
+98 99 4 adjustment
+99 100 18 beforehand
+100 101 7 made
+101 102 8 unnecessary
+102 103 6 be
+103 104 5 can
+104 105 13 each
+105 106 14 component
+106 107 12 of
+107 108 10 the
+108 109 11 heights
+109 110 17 accurately
+110 111 15 are
+111 112 16 set
+112 113 9 if
+113 114 19 . 5.01727983682
+114
+0 115 1 however
+115 116 2 ,
+116 117 3 this
+117 118 4 adjustment
+118 119 7 made
+119 120 8 unnecessary
+120 121 6 be
+121 122 5 can
+122 123 18 beforehand
+123 124 10 the
+124 125 11 heights
+125 126 17 accurately
+126 127 13 each
+127 128 14 component
+128 129 12 of
+129 130 15 are
+130 131 16 set
+131 132 9 if
+132 133 19 . 2.93783829514
+133
+0 134 1 however
+134 135 2 ,
+135 136 3 this
+136 137 4 adjustment
+137 138 7 made
+138 139 8 unnecessary
+139 140 6 be
+140 141 18 beforehand
+141 142 13 each
+142 143 14 component
+143 144 12 of
+144 145 10 the
+145 146 11 heights
+146 147 17 accurately
+147 148 15 are
+148 149 16 set
+149 150 9 if
+150 151 5 can
+151 152 19 . 5.01727983682
+152
+0 153 1 however
+153 154 2 ,
+154 155 3 this
+155 156 4 adjustment
+156 157 7 made
+157 158 8 unnecessary
+158 159 6 be
+159 160 5 can
+160 161 18 beforehand
+161 162 13 each
+162 163 14 component
+163 164 10 the
+164 165 11 heights
+165 166 12 of
+166 167 15 are
+167 168 16 set
+168 169 17 accurately
+169 170 9 if
+170 171 19 . 5.01727983682
+171
+0 172 1 however
+172 173 2 ,
+173 174 3 this
+174 175 4 adjustment
+175 176 7 made
+176 177 8 unnecessary
+177 178 6 be
+178 179 5 can
+179 180 18 beforehand
+180 181 10 the
+181 182 11 heights
+182 183 13 each
+183 184 14 component
+184 185 12 of
+185 186 15 are
+186 187 17 accurately
+187 188 16 set
+188 189 9 if
+189 190 19 . 3.40784192438
+190
+0 191 1 however
+191 192 2 ,
+192 193 3 this
+193 194 4 adjustment
+194 195 7 made
+195 196 8 unnecessary
+196 197 6 be
+197 198 5 can
+198 199 18 beforehand
+199 200 10 the
+200 201 11 heights
+201 202 17 accurately
+202 203 13 each
+203 204 14 component
+204 205 15 are
+205 206 12 of
+206 207 16 set
+207 208 9 if
+208 209 19 . 5.01727983682
+209
+0 210 1 however
+210 211 2 ,
+211 212 3 this
+212 213 4 adjustment
+213 214 7 made
+214 215 8 unnecessary
+215 216 6 be
+216 217 5 can
+217 218 18 beforehand
+218 219 13 each
+219 220 14 component
+220 221 12 of
+221 222 10 the
+222 223 11 heights
+223 224 9 if
+224 225 17 accurately
+225 226 15 are
+226 227 16 set
+227 228 19 . 1.10525683139
+228
+0 229 1 however
+229 230 2 ,
+230 231 3 this
+231 232 4 adjustment
+232 233 7 made
+233 234 8 unnecessary
+234 235 6 be
+235 236 5 can
+236 237 10 the
+237 238 18 beforehand
+238 239 11 heights
+239 240 13 each
+240 241 14 component
+241 242 12 of
+242 243 17 accurately
+243 244 15 are
+244 245 16 set
+245 246 9 if
+246 247 19 . 4.32413265625
+247
+0 248 1 however
+248 249 2 ,
+249 250 3 this
+250 251 4 adjustment
+251 252 7 made
+252 253 8 unnecessary
+253 254 6 be
+254 255 5 can
+255 256 18 beforehand
+256 257 10 the
+257 258 17 accurately
+258 259 11 heights
+259 260 13 each
+260 261 14 component
+261 262 12 of
+262 263 15 are
+263 264 16 set
+264 265 9 if
+265 266 19 . 5.01727983682
+266
+0 267 1 however
+267 268 2 ,
+268 269 3 this
+269 270 4 adjustment
+270 271 7 made
+271 272 8 unnecessary
+272 273 6 be
+273 274 5 can
+274 275 10 the
+275 276 18 beforehand
+276 277 11 heights
+277 278 17 accurately
+278 279 13 each
+279 280 14 component
+280 281 12 of
+281 282 15 are
+282 283 16 set
+283 284 9 if
+284 285 19 . 4.32413265625
+285
+0 286 1 however
+286 287 2 ,
+287 288 3 this
+288 289 4 adjustment
+289 290 7 made
+290 291 8 unnecessary
+291 292 6 be
+292 293 5 can
+293 294 18 beforehand
+294 295 13 each
+295 296 14 component
+296 297 12 of
+297 298 10 the
+298 299 11 heights
+299 300 9 if
+300 301 15 are
+301 302 17 accurately
+302 303 16 set
+303 304 19 . 2.3782225072
+304
+0 305 1 however
+305 306 2 ,
+306 307 3 this
+307 308 4 adjustment
+308 309 7 made
+309 310 8 unnecessary
+310 311 6 be
+311 312 5 can
+312 313 18 beforehand
+313 314 17 accurately
+314 315 13 each
+315 316 14 component
+316 317 12 of
+317 318 10 the
+318 319 11 heights
+319 320 9 if
+320 321 15 are
+321 322 16 set
+322 323 19 . 1.83922600647
+323
+0 324 1 however
+324 325 2 ,
+325 326 3 this
+326 327 4 adjustment
+327 328 7 made
+328 329 8 unnecessary
+329 330 6 be
+330 331 5 can
+331 332 18 beforehand
+332 333 13 each
+333 334 14 component
+334 335 10 the
+335 336 11 heights
+336 337 12 of
+337 338 9 if
+338 339 17 accurately
+339 340 15 are
+340 341 16 set
+341 342 19 . 4.32413265625
+342
+0 343 1 however
+343 344 2 ,
+344 345 3 this
+345 346 4 adjustment
+346 347 7 made
+347 348 8 unnecessary
+348 349 6 be
+349 350 5 can
+350 351 18 beforehand
+351 352 13 each
+352 353 14 component
+353 354 15 are
+354 355 12 of
+355 356 10 the
+356 357 11 heights
+357 358 17 accurately
+358 359 16 set
+359 360 9 if
+360 361 19 . 4.32413265625
+361
+0 362 1 however
+362 363 2 ,
+363 364 3 this
+364 365 4 adjustment
+365 366 7 made
+366 367 8 unnecessary
+367 368 6 be
+368 369 5 can
+369 370 17 accurately
+370 371 18 beforehand
+371 372 13 each
+372 373 14 component
+373 374 12 of
+374 375 10 the
+375 376 11 heights
+376 377 15 are
+377 378 16 set
+378 379 9 if
+379 380 19 . 4.32413265625
+380

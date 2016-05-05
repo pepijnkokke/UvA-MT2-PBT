@@ -1,0 +1,128 @@
+0 1 1 the
+1 2 2 captured
+2 3 3 picture
+3 4 4 data
+4 5 5 is
+5 6 13 an
+6 7 14 interface
+7 8 12 through
+8 9 8 a
+9 10 9 picture
+10 11 10 processing
+11 12 11 unit
+12 13 7 to
+13 14 6 supplied
+14 15 15 . 0.0601039240694
+15
+0 16 1 the
+16 17 2 captured
+17 18 4 data
+18 19 3 picture
+19 20 5 is
+20 21 13 an
+21 22 14 interface
+22 23 12 through
+23 24 8 a
+24 25 9 picture
+25 26 10 processing
+26 27 11 unit
+27 28 7 to
+28 29 6 supplied
+29 30 15 . 7.04925484126
+30
+0 31 1 the
+31 32 2 captured
+32 33 3 picture
+33 34 4 data
+34 35 5 is
+35 36 13 an
+36 37 14 interface
+37 38 12 through
+38 39 8 a
+39 40 9 picture
+40 41 10 processing
+41 42 11 unit
+42 43 6 supplied
+43 44 7 to
+44 45 15 . 8.65869275369
+45
+0 46 1 the
+46 47 2 captured
+47 48 3 picture
+48 49 4 data
+49 50 5 is
+50 51 14 interface
+51 52 13 an
+52 53 12 through
+53 54 8 a
+54 55 9 picture
+55 56 10 processing
+56 57 11 unit
+57 58 7 to
+58 59 6 supplied
+59 60 15 . 7.56008046502
+60
+0 61 1 the
+61 62 2 captured
+62 63 3 picture
+63 64 4 data
+64 65 5 is
+65 66 12 through
+66 67 13 an
+67 68 14 interface
+68 69 8 a
+69 70 9 picture
+70 71 10 processing
+71 72 11 unit
+72 73 7 to
+73 74 6 supplied
+74 75 15 . 4.34120464016
+75
+0 76 1 the
+76 77 4 data
+77 78 2 captured
+78 79 3 picture
+79 80 5 is
+80 81 13 an
+81 82 14 interface
+82 83 12 through
+83 84 8 a
+84 85 9 picture
+85 86 10 processing
+86 87 11 unit
+87 88 7 to
+88 89 6 supplied
+89 90 15 . 7.96554557313
+90
+0 91 1 the
+91 92 2 captured
+92 93 3 picture
+93 94 4 data
+94 95 5 is
+95 96 13 an
+96 97 14 interface
+97 98 8 a
+98 99 9 picture
+99 100 12 through
+100 101 10 processing
+101 102 11 unit
+102 103 7 to
+103 104 6 supplied
+104 105 15 . 8.65869275369
+105
+0 106 1 the
+106 107 2 captured
+107 108 3 picture
+108 109 4 data
+109 110 13 an
+110 111 14 interface
+111 112 12 through
+112 113 5 is
+113 114 8 a
+114 115 9 picture
+115 116 10 processing
+116 117 11 unit
+117 118 7 to
+118 119 6 supplied
+119 120 15 . 3.14123985722
+120

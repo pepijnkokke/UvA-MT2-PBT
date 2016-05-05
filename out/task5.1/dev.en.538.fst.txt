@@ -1,0 +1,105 @@
+0 1 1 a
+1 2 2 refresh
+2 3 3 circuit
+3 4 4 333
+4 5 5 refreshes
+5 6 6 and
+6 7 11 the
+7 8 12 dram
+8 9 13 332
+9 10 10 of
+10 11 8 the
+11 12 9 data
+12 13 7 maintains
+13 14 14 . 0.313327133617
+14
+0 15 1 a
+15 16 2 refresh
+16 17 3 circuit
+17 18 4 333
+18 19 5 refreshes
+19 20 6 and
+20 21 11 the
+21 22 12 dram
+22 23 13 332
+23 24 8 the
+24 25 10 of
+25 26 9 data
+26 27 7 maintains
+27 28 14 . 8.50451313826
+28
+0 29 1 a
+29 30 2 refresh
+30 31 3 circuit
+31 32 4 333
+32 33 5 refreshes
+33 34 6 and
+34 35 11 the
+35 36 12 dram
+36 37 13 332
+37 38 10 of
+38 39 9 data
+39 40 8 the
+40 41 7 maintains
+41 42 14 . 4.14780431157
+42
+0 43 1 a
+43 44 2 refresh
+44 45 3 circuit
+45 46 4 333
+46 47 5 refreshes
+47 48 6 and
+48 49 11 the
+49 50 12 dram
+50 51 13 332
+51 52 10 of
+52 53 7 maintains
+53 54 8 the
+54 55 9 data
+55 56 14 . 2.06836276989
+56
+0 57 1 a
+57 58 2 refresh
+58 59 3 circuit
+59 60 4 333
+60 61 5 refreshes
+61 62 6 and
+62 63 12 dram
+63 64 11 the
+64 65 13 332
+65 66 10 of
+66 67 8 the
+67 68 9 data
+68 69 7 maintains
+69 70 14 . 5.07052593377
+70
+0 71 1 a
+71 72 2 refresh
+72 73 4 333
+73 74 3 circuit
+74 75 5 refreshes
+75 76 6 and
+76 77 11 the
+77 78 12 dram
+78 79 13 332
+79 80 10 of
+80 81 8 the
+81 82 9 data
+82 83 7 maintains
+83 84 14 . 8.50451313826
+84
+0 85 1 a
+85 86 2 refresh
+86 87 3 circuit
+87 88 4 333
+88 89 5 refreshes
+89 90 6 and
+90 91 11 the
+91 92 12 dram
+92 93 13 332
+93 94 10 of
+94 95 9 data
+95 96 7 maintains
+96 97 8 the
+97 98 14 . 2.11931873926
+98

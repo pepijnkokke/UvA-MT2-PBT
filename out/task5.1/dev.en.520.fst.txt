@@ -1,0 +1,96 @@
+0 1 2 the
+1 2 3 designated
+2 3 4 file
+3 4 1 if
+4 5 5 is
+5 6 13 step
+6 7 14 s56-8
+7 8 12 to
+8 9 11 advances
+9 10 6 in
+10 11 7 communicating
+11 12 8 ,
+12 13 9 the
+13 14 10 flow
+14 15 15 . 0.713873311076
+15
+0 16 2 the
+16 17 3 designated
+17 18 4 file
+18 19 1 if
+19 20 5 is
+20 21 13 step
+21 22 14 s56-8
+22 23 6 in
+23 24 7 communicating
+24 25 8 ,
+25 26 12 to
+26 27 11 advances
+27 28 9 the
+28 29 10 flow
+29 30 15 . 6.14846829592
+30
+0 31 2 the
+31 32 3 designated
+32 33 1 if
+33 34 4 file
+34 35 5 is
+35 36 13 step
+36 37 14 s56-8
+37 38 12 to
+38 39 11 advances
+39 40 6 in
+40 41 7 communicating
+41 42 8 ,
+42 43 9 the
+43 44 10 flow
+44 45 15 . 6.14846829592
+45
+0 46 2 the
+46 47 3 designated
+47 48 4 file
+48 49 1 if
+49 50 5 is
+50 51 6 in
+51 52 7 communicating
+52 53 8 ,
+53 54 13 step
+54 55 14 s56-8
+55 56 12 to
+56 57 11 advances
+57 58 9 the
+58 59 10 flow
+59 60 15 . 2.56494935746
+60
+0 61 1 if
+61 62 2 the
+62 63 3 designated
+63 64 4 file
+64 65 5 is
+65 66 7 communicating
+66 67 8 ,
+67 68 13 step
+68 69 14 s56-8
+69 70 12 to
+70 71 11 advances
+71 72 6 in
+72 73 9 the
+73 74 10 flow
+74 75 15 . 7.75790620835
+75
+0 76 1 if
+76 77 2 the
+77 78 3 designated
+78 79 4 file
+79 80 5 is
+80 81 13 step
+81 82 14 s56-8
+82 83 12 to
+83 84 11 advances
+84 85 6 in
+85 86 7 communicating
+86 87 8 ,
+87 88 9 the
+88 89 10 flow
+89 90 15 . 0.847155420391
+90

@@ -1,0 +1,40 @@
+0 1 1 this
+1 2 2 invention
+2 3 17 a
+3 4 18 work
+4 5 16 of
+5 6 14 a
+6 7 15 surface
+7 8 13 flattening
+8 9 11 planarizing
+9 10 12 or
+10 11 10 for
+11 12 7 and
+12 13 8 an
+13 14 9 apparatus
+14 15 5 a
+15 16 6 method
+16 17 4 to
+17 18 3 relates
+18 19 19 . 0.0469602749057
+19
+0 20 1 this
+20 21 2 invention
+21 22 17 a
+22 23 18 work
+23 24 16 of
+24 25 13 flattening
+25 26 14 a
+26 27 15 surface
+27 28 11 planarizing
+28 29 12 or
+29 30 10 for
+30 31 7 and
+31 32 8 an
+32 33 9 apparatus
+33 34 5 a
+34 35 6 method
+35 36 4 to
+36 37 3 relates
+37 38 19 . 3.08184150244
+38

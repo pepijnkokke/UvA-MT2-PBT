@@ -1,0 +1,286 @@
+0 1 1 this
+1 2 2 os
+2 3 3 operation
+3 4 11 normally
+4 5 8 that
+5 6 6 a
+6 7 7 judgement
+7 8 9 os
+8 9 10 operates
+9 10 5 in
+10 11 4 results
+11 12 12 . 2.82748595154
+12
+0 13 1 this
+13 14 2 os
+14 15 3 operation
+15 16 11 normally
+16 17 8 that
+17 18 6 a
+18 19 7 judgement
+19 20 9 os
+20 21 5 in
+21 22 4 results
+22 23 10 operates
+23 24 12 . 4.02822773528
+24
+0 25 1 this
+25 26 2 os
+26 27 3 operation
+27 28 11 normally
+28 29 6 a
+29 30 7 judgement
+30 31 8 that
+31 32 9 os
+32 33 10 operates
+33 34 5 in
+34 35 4 results
+35 36 12 . 0.62595566249
+36
+0 37 1 this
+37 38 2 os
+38 39 3 operation
+39 40 11 normally
+40 41 8 that
+41 42 9 os
+42 43 6 a
+43 44 7 judgement
+44 45 10 operates
+45 46 5 in
+46 47 4 results
+47 48 12 . 1.65407244979
+48
+0 49 1 this
+49 50 2 os
+50 51 3 operation
+51 52 11 normally
+52 53 6 a
+53 54 7 judgement
+54 55 8 that
+55 56 9 os
+56 57 5 in
+57 58 10 operates
+58 59 4 results
+59 60 12 . 6.3636026511
+60
+0 61 1 this
+61 62 2 os
+62 63 3 operation
+63 64 11 normally
+64 65 6 a
+65 66 7 judgement
+66 67 8 that
+67 68 9 os
+68 69 5 in
+69 70 4 results
+70 71 10 operates
+71 72 12 . 2.55694016133
+72
+0 73 1 this
+73 74 2 os
+74 75 3 operation
+75 76 11 normally
+76 77 8 that
+77 78 9 os
+78 79 6 a
+79 80 7 judgement
+80 81 5 in
+81 82 10 operates
+82 83 4 results
+83 84 12 . 6.07592057865
+84
+0 85 1 this
+85 86 2 os
+86 87 3 operation
+87 88 11 normally
+88 89 8 that
+89 90 9 os
+90 91 6 a
+91 92 7 judgement
+92 93 5 in
+93 94 4 results
+94 95 10 operates
+95 96 12 . 2.67472319699
+96
+0 97 1 this
+97 98 2 os
+98 99 11 normally
+99 100 3 operation
+100 101 8 that
+101 102 6 a
+102 103 7 judgement
+103 104 9 os
+104 105 10 operates
+105 106 5 in
+106 107 4 results
+107 108 12 . 6.76906775921
+108
+0 109 1 this
+109 110 2 os
+110 111 11 normally
+111 112 3 operation
+112 113 8 that
+113 114 6 a
+114 115 7 judgement
+115 116 9 os
+116 117 5 in
+117 118 4 results
+118 119 10 operates
+119 120 12 . 6.76906775921
+120
+0 121 1 this
+121 122 2 os
+122 123 11 normally
+123 124 3 operation
+124 125 6 a
+125 126 7 judgement
+126 127 8 that
+127 128 9 os
+128 129 10 operates
+129 130 5 in
+130 131 4 results
+131 132 12 . 4.28416110942
+132
+0 133 1 this
+133 134 2 os
+134 135 11 normally
+135 136 3 operation
+136 137 8 that
+137 138 9 os
+138 139 6 a
+139 140 7 judgement
+140 141 10 operates
+141 142 5 in
+142 143 4 results
+143 144 12 . 5.06431966697
+144
+0 145 1 this
+145 146 2 os
+146 147 3 operation
+147 148 11 normally
+148 149 6 a
+149 150 7 judgement
+150 151 8 that
+151 152 9 os
+152 153 10 operates
+153 154 4 results
+154 155 5 in
+155 156 12 . 6.76906775921
+156
+0 157 1 this
+157 158 2 os
+158 159 11 normally
+159 160 3 operation
+160 161 6 a
+161 162 7 judgement
+162 163 8 that
+163 164 9 os
+164 165 5 in
+165 166 4 results
+166 167 10 operates
+167 168 12 . 4.75416473867
+168
+0 169 1 this
+169 170 2 os
+170 171 3 operation
+171 172 11 normally
+172 173 8 that
+173 174 6 a
+174 175 7 judgement
+175 176 5 in
+176 177 9 os
+177 178 10 operates
+178 179 4 results
+179 180 12 . 7.46221493977
+180
+0 181 1 this
+181 182 2 os
+182 183 3 operation
+183 184 6 a
+184 185 7 judgement
+185 186 11 normally
+186 187 8 that
+187 188 9 os
+188 189 10 operates
+189 190 5 in
+190 191 4 results
+191 192 12 . 5.85277702734
+192
+0 193 1 this
+193 194 2 os
+194 195 11 normally
+195 196 3 operation
+196 197 8 that
+197 198 9 os
+198 199 6 a
+199 200 7 judgement
+200 201 5 in
+201 202 4 results
+202 203 10 operates
+203 204 12 . 5.67045547054
+204
+0 205 1 this
+205 206 2 os
+206 207 3 operation
+207 208 11 normally
+208 209 6 a
+209 210 7 judgement
+210 211 8 that
+211 212 9 os
+212 213 4 results
+213 214 5 in
+214 215 10 operates
+215 216 12 . 7.46221493977
+216
+0 217 1 this
+217 218 2 os
+218 219 3 operation
+219 220 11 normally
+220 221 6 a
+221 222 7 judgement
+222 223 8 that
+223 224 5 in
+224 225 9 os
+225 226 10 operates
+226 227 4 results
+227 228 12 . 6.76906775921
+228
+0 229 1 this
+229 230 2 os
+230 231 3 operation
+231 232 11 normally
+232 233 8 that
+233 234 9 os
+234 235 6 a
+235 236 7 judgement
+236 237 4 results
+237 238 5 in
+238 239 10 operates
+239 240 12 . 5.85277702734
+240
+0 241 1 this
+241 242 2 os
+242 243 3 operation
+243 244 8 that
+244 245 6 a
+245 246 7 judgement
+246 247 11 normally
+247 248 9 os
+248 249 10 operates
+249 250 5 in
+250 251 4 results
+251 252 12 . 6.07592057865
+252
+0 253 1 this
+253 254 2 os
+254 255 3 operation
+255 256 11 normally
+256 257 6 a
+257 258 7 judgement
+258 259 9 os
+259 260 8 that
+260 261 10 operates
+261 262 5 in
+262 263 4 results
+263 264 12 . 7.46221493977
+264

@@ -1,0 +1,13 @@
+0 1 1 therefore
+1 2 2 ,
+2 3 3 impurity
+3 4 4 uniformly
+4 5 5 diffuses
+5 6 6 also
+6 7 7 into
+7 8 8 polycrystalline
+8 9 9 silicon
+9 10 10 layer
+10 11 11 10a
+11 12 12 .
+12

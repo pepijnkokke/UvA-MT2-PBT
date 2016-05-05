@@ -1,0 +1,390 @@
+0 1 1 application
+1 2 2 program
+2 3 3 20
+3 4 4 is
+4 5 9 operating
+5 6 10 system
+6 7 11 18
+7 8 8 of
+8 9 6 under
+9 10 7 support
+10 11 5 executed
+11 12 12 . 0.800081643661
+12
+0 13 1 application
+13 14 2 program
+14 15 3 20
+15 16 4 is
+16 17 9 operating
+17 18 10 system
+18 19 11 18
+19 20 8 of
+20 21 7 support
+21 22 6 under
+22 23 5 executed
+23 24 12 . 1.43794868437
+24
+0 25 1 application
+25 26 2 program
+26 27 3 20
+27 28 4 is
+28 29 9 operating
+29 30 10 system
+30 31 11 18
+31 32 7 support
+32 33 8 of
+33 34 6 under
+34 35 5 executed
+35 36 12 . 2.05138416565
+36
+0 37 1 application
+37 38 2 program
+38 39 3 20
+39 40 4 is
+40 41 9 operating
+41 42 10 system
+42 43 11 18
+43 44 8 of
+44 45 6 under
+45 46 5 executed
+46 47 7 support
+47 48 12 . 6.52985669859
+48
+0 49 1 application
+49 50 2 program
+50 51 3 20
+51 52 4 is
+52 53 9 operating
+53 54 10 system
+54 55 11 18
+55 56 6 under
+56 57 7 support
+57 58 8 of
+58 59 5 executed
+59 60 12 . 6.3475351418
+60
+0 61 1 application
+61 62 2 program
+62 63 3 20
+63 64 4 is
+64 65 9 operating
+65 66 10 system
+66 67 11 18
+67 68 8 of
+68 69 5 executed
+69 70 7 support
+70 71 6 under
+71 72 12 . 8.13929461103
+72
+0 73 1 application
+73 74 2 program
+74 75 3 20
+75 76 9 operating
+76 77 10 system
+77 78 11 18
+78 79 4 is
+79 80 8 of
+80 81 6 under
+81 82 7 support
+82 83 5 executed
+83 84 12 . 8.83244179159
+84
+0 85 1 application
+85 86 2 program
+86 87 3 20
+87 88 4 is
+88 89 8 of
+89 90 9 operating
+90 91 10 system
+91 92 11 18
+92 93 6 under
+93 94 7 support
+94 95 5 executed
+95 96 12 . 6.43454651879
+96
+0 97 1 application
+97 98 2 program
+98 99 3 20
+99 100 9 operating
+100 101 10 system
+101 102 11 18
+102 103 8 of
+103 104 4 is
+104 105 6 under
+105 106 7 support
+106 107 5 executed
+107 108 12 . 8.83244179159
+108
+0 109 1 application
+109 110 2 program
+110 111 3 20
+111 112 9 operating
+112 113 10 system
+113 114 11 18
+114 115 4 is
+115 116 7 support
+116 117 8 of
+117 118 6 under
+118 119 5 executed
+119 120 12 . 6.19338446197
+120
+0 121 1 application
+121 122 2 program
+122 123 3 20
+123 124 4 is
+124 125 8 of
+125 126 9 operating
+126 127 10 system
+127 128 11 18
+128 129 7 support
+129 130 6 under
+130 131 5 executed
+131 132 12 . 7.73382950292
+132
+0 133 1 application
+133 134 2 program
+134 135 3 20
+135 136 9 operating
+136 137 10 system
+137 138 11 18
+138 139 8 of
+139 140 4 is
+140 141 7 support
+141 142 6 under
+142 143 5 executed
+143 144 12 . 6.52985669859
+144
+0 145 1 application
+145 146 2 program
+146 147 3 20
+147 148 4 is
+148 149 10 system
+149 150 11 18
+150 151 9 operating
+151 152 7 support
+152 153 8 of
+153 154 6 under
+154 155 5 executed
+155 156 12 . 7.73382950292
+156
+0 157 1 application
+157 158 2 program
+158 159 3 20
+159 160 4 is
+160 161 7 support
+161 162 9 operating
+162 163 10 system
+163 164 11 18
+164 165 8 of
+165 166 6 under
+166 167 5 executed
+167 168 12 . 5.33593423012
+168
+0 169 1 application
+169 170 2 program
+170 171 3 20
+171 172 9 operating
+172 173 10 system
+173 174 11 18
+174 175 8 of
+175 176 7 support
+176 177 4 is
+177 178 6 under
+178 179 5 executed
+179 180 12 . 8.13929461103
+180
+0 181 1 application
+181 182 2 program
+182 183 3 20
+183 184 4 is
+184 185 9 operating
+185 186 10 system
+186 187 11 18
+187 188 5 executed
+188 189 7 support
+189 190 8 of
+190 191 6 under
+191 192 12 . 8.83244179159
+192
+0 193 1 application
+193 194 2 program
+194 195 3 20
+195 196 9 operating
+196 197 10 system
+197 198 11 18
+198 199 8 of
+199 200 4 is
+200 201 6 under
+201 202 5 executed
+202 203 7 support
+203 204 12 . 8.83244179159
+204
+0 205 1 application
+205 206 2 program
+206 207 3 20
+207 208 4 is
+208 209 9 operating
+209 210 10 system
+210 211 8 of
+211 212 6 under
+212 213 7 support
+213 214 5 executed
+214 215 11 18
+215 216 12 . 8.83244179159
+216
+0 217 1 application
+217 218 2 program
+218 219 3 20
+219 220 4 is
+220 221 9 operating
+221 222 10 system
+222 223 8 of
+223 224 7 support
+224 225 6 under
+225 226 5 executed
+226 227 11 18
+227 228 12 . 8.83244179159
+228
+0 229 1 application
+229 230 2 program
+230 231 3 20
+231 232 9 operating
+232 233 10 system
+233 234 11 18
+234 235 8 of
+235 236 6 under
+236 237 7 support
+237 238 4 is
+238 239 5 executed
+239 240 12 . 2.12070139653
+240
+0 241 1 application
+241 242 2 program
+242 243 3 20
+243 244 9 operating
+244 245 10 system
+245 246 11 18
+246 247 7 support
+247 248 8 of
+248 249 4 is
+249 250 6 under
+250 251 5 executed
+251 252 12 . 8.83244179159
+252
+0 253 1 application
+253 254 2 program
+254 255 3 20
+255 256 9 operating
+256 257 10 system
+257 258 11 18
+258 259 8 of
+259 260 7 support
+260 261 6 under
+261 262 4 is
+262 263 5 executed
+263 264 12 . 3.21567069392
+264
+0 265 1 application
+265 266 2 program
+266 267 3 20
+267 268 4 is
+268 269 7 support
+269 270 9 operating
+270 271 10 system
+271 272 8 of
+272 273 11 18
+273 274 6 under
+274 275 5 executed
+275 276 12 . 8.13929461103
+276
+0 277 1 application
+277 278 2 program
+278 279 3 20
+279 280 9 operating
+280 281 10 system
+281 282 11 18
+282 283 8 of
+283 284 6 under
+284 285 4 is
+285 286 5 executed
+286 287 7 support
+287 288 12 . 8.83244179159
+288
+0 289 1 application
+289 290 2 program
+290 291 3 20
+291 292 9 operating
+292 293 10 system
+293 294 11 18
+294 295 8 of
+295 296 4 is
+296 297 5 executed
+297 298 6 under
+298 299 7 support
+299 300 12 . 8.13929461103
+300
+0 301 1 application
+301 302 2 program
+302 303 3 20
+303 304 4 is
+304 305 9 operating
+305 306 10 system
+306 307 7 support
+307 308 8 of
+308 309 6 under
+309 310 5 executed
+310 311 11 18
+311 312 12 . 8.83244179159
+312
+0 313 1 application
+313 314 2 program
+314 315 3 20
+315 316 9 operating
+316 317 10 system
+317 318 11 18
+318 319 7 support
+319 320 8 of
+320 321 6 under
+321 322 4 is
+322 323 5 executed
+323 324 12 . 5.2770937301
+324
+0 325 1 application
+325 326 2 program
+326 327 3 20
+327 328 9 operating
+328 329 10 system
+329 330 11 18
+330 331 8 of
+331 332 6 under
+332 333 7 support
+333 334 5 executed
+334 335 4 is
+335 336 12 . 6.26749243412
+336
+0 337 1 application
+337 338 2 program
+338 339 3 20
+339 340 8 of
+340 341 9 operating
+341 342 10 system
+342 343 11 18
+343 344 4 is
+344 345 6 under
+345 346 7 support
+346 347 5 executed
+347 348 12 . 8.83244179159
+348
+0 349 1 application
+349 350 2 program
+350 351 3 20
+351 352 9 operating
+352 353 10 system
+353 354 11 18
+354 355 8 of
+355 356 7 support
+356 357 6 under
+357 358 5 executed
+358 359 4 is
+359 360 12 . 6.88653164253
+360

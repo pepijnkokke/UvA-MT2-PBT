@@ -1,0 +1,273 @@
+0 1 1 the
+1 2 6 the
+2 3 7 aforementioned
+3 4 8 construction
+4 5 9 operates
+5 6 5 having
+6 7 2 controllable
+7 8 3 antenna
+8 9 4 11
+9 10 11 follows
+10 11 10 as
+11 12 12 . 1.19917087433
+12
+0 13 1 the
+13 14 6 the
+14 15 7 aforementioned
+15 16 8 construction
+16 17 5 having
+17 18 9 operates
+18 19 2 controllable
+19 20 3 antenna
+20 21 4 11
+21 22 11 follows
+22 23 10 as
+23 24 12 . 5.91169957864
+24
+0 25 1 the
+25 26 6 the
+26 27 7 aforementioned
+27 28 8 construction
+28 29 5 having
+29 30 2 controllable
+30 31 3 antenna
+31 32 4 11
+32 33 11 follows
+33 34 10 as
+34 35 9 operates
+35 36 12 . 0.91900198523
+36
+0 37 1 the
+37 38 6 the
+38 39 7 aforementioned
+39 40 8 construction
+40 41 5 having
+41 42 2 controllable
+42 43 3 antenna
+43 44 4 11
+44 45 11 follows
+45 46 9 operates
+46 47 10 as
+47 48 12 . 7.01031186731
+48
+0 49 1 the
+49 50 6 the
+50 51 7 aforementioned
+51 52 8 construction
+52 53 5 having
+53 54 2 controllable
+54 55 3 antenna
+55 56 4 11
+56 57 9 operates
+57 58 11 follows
+58 59 10 as
+59 60 12 . 2.3468727732
+60
+0 61 1 the
+61 62 11 follows
+62 63 6 the
+63 64 7 aforementioned
+64 65 8 construction
+65 66 9 operates
+66 67 5 having
+67 68 2 controllable
+68 69 3 antenna
+69 70 4 11
+70 71 10 as
+71 72 12 . 6.31716468675
+72
+0 73 1 the
+73 74 7 aforementioned
+74 75 6 the
+75 76 8 construction
+76 77 9 operates
+77 78 5 having
+78 79 2 controllable
+79 80 3 antenna
+80 81 4 11
+81 82 11 follows
+82 83 10 as
+83 84 12 . 5.21855239808
+84
+0 85 1 the
+85 86 6 the
+86 87 7 aforementioned
+87 88 8 construction
+88 89 9 operates
+89 90 5 having
+90 91 2 controllable
+91 92 3 antenna
+92 93 4 11
+93 94 10 as
+94 95 11 follows
+95 96 12 . 3.75221532929
+96
+0 97 1 the
+97 98 6 the
+98 99 7 aforementioned
+99 100 8 construction
+100 101 9 operates
+101 102 2 controllable
+102 103 3 antenna
+103 104 4 11
+104 105 5 having
+105 106 11 follows
+106 107 10 as
+107 108 12 . 4.17709852325
+108
+0 109 1 the
+109 110 7 aforementioned
+110 111 6 the
+111 112 8 construction
+112 113 5 having
+113 114 9 operates
+114 115 2 controllable
+115 116 3 antenna
+116 117 4 11
+117 118 11 follows
+118 119 10 as
+119 120 12 . 7.01031186731
+120
+0 121 1 the
+121 122 11 follows
+122 123 6 the
+123 124 7 aforementioned
+124 125 8 construction
+125 126 5 having
+126 127 2 controllable
+127 128 3 antenna
+128 129 4 11
+129 130 10 as
+130 131 9 operates
+131 132 12 . 7.01031186731
+132
+0 133 1 the
+133 134 7 aforementioned
+134 135 6 the
+135 136 8 construction
+136 137 5 having
+137 138 2 controllable
+138 139 3 antenna
+139 140 4 11
+140 141 11 follows
+141 142 10 as
+142 143 9 operates
+143 144 12 . 4.23772314507
+144
+0 145 1 the
+145 146 11 follows
+146 147 6 the
+147 148 7 aforementioned
+148 149 8 construction
+149 150 5 having
+150 151 2 controllable
+151 152 3 antenna
+152 153 4 11
+153 154 9 operates
+154 155 10 as
+155 156 12 . 7.01031186731
+156
+0 157 6 the
+157 158 7 aforementioned
+158 159 8 construction
+159 160 9 operates
+160 161 1 the
+161 162 5 having
+162 163 2 controllable
+163 164 3 antenna
+164 165 4 11
+165 166 11 follows
+166 167 10 as
+167 168 12 . 6.31716468675
+168
+0 169 1 the
+169 170 2 controllable
+170 171 6 the
+171 172 7 aforementioned
+172 173 8 construction
+173 174 9 operates
+174 175 5 having
+175 176 3 antenna
+176 177 4 11
+177 178 11 follows
+178 179 10 as
+179 180 12 . 5.40087395487
+180
+0 181 1 the
+181 182 7 aforementioned
+182 183 6 the
+183 184 8 construction
+184 185 5 having
+185 186 2 controllable
+186 187 3 antenna
+187 188 4 11
+188 189 9 operates
+189 190 11 follows
+190 191 10 as
+191 192 12 . 7.01031186731
+192
+0 193 1 the
+193 194 6 the
+194 195 7 aforementioned
+195 196 11 follows
+196 197 10 as
+197 198 8 construction
+198 199 9 operates
+199 200 5 having
+200 201 2 controllable
+201 202 3 antenna
+202 203 4 11
+203 204 12 . 6.31716468675
+204
+0 205 1 the
+205 206 6 the
+206 207 11 follows
+207 208 10 as
+208 209 7 aforementioned
+209 210 8 construction
+210 211 9 operates
+211 212 5 having
+212 213 2 controllable
+213 214 3 antenna
+214 215 4 11
+215 216 12 . 3.75221532929
+216
+0 217 1 the
+217 218 6 the
+218 219 7 aforementioned
+219 220 8 construction
+220 221 11 follows
+221 222 10 as
+222 223 9 operates
+223 224 5 having
+224 225 2 controllable
+225 226 3 antenna
+226 227 4 11
+227 228 12 . 2.28292404859
+228
+0 229 1 the
+229 230 6 the
+230 231 7 aforementioned
+231 232 8 construction
+232 233 5 having
+233 234 2 controllable
+234 235 3 antenna
+235 236 4 11
+236 237 10 as
+237 238 11 follows
+238 239 9 operates
+239 240 12 . 6.31716468675
+240
+0 241 1 the
+241 242 6 the
+242 243 7 aforementioned
+243 244 8 construction
+244 245 9 operates
+245 246 5 having
+246 247 11 follows
+247 248 10 as
+248 249 2 controllable
+249 250 3 antenna
+250 251 4 11
+251 252 12 . 7.01031186731
+252

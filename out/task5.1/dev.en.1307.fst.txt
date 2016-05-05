@@ -1,0 +1,119 @@
+0 1 1 the
+1 2 2 photosensitive
+2 3 3 layer
+3 4 4 17
+4 5 5 is
+5 6 12 the
+6 7 13 individual
+7 8 14 electrode
+8 9 15 18
+9 10 11 of
+10 11 8 a
+11 12 9 lower
+12 13 10 surface
+13 14 7 on
+14 15 6 mounted
+15 16 16 . 0.0435933052664
+16
+0 17 1 the
+17 18 2 photosensitive
+18 19 3 layer
+19 20 4 17
+20 21 5 is
+21 22 12 the
+22 23 13 individual
+23 24 14 electrode
+24 25 15 18
+25 26 8 a
+26 27 11 of
+27 28 9 lower
+28 29 10 surface
+29 30 7 on
+30 31 6 mounted
+31 32 16 . 7.67635773796
+32
+0 33 1 the
+33 34 2 photosensitive
+34 35 3 layer
+35 36 4 17
+36 37 5 is
+37 38 12 the
+38 39 13 individual
+39 40 14 electrode
+40 41 11 of
+41 42 15 18
+42 43 8 a
+43 44 9 lower
+44 45 10 surface
+45 46 7 on
+46 47 6 mounted
+47 48 16 . 9.06265209908
+48
+0 49 1 the
+49 50 2 photosensitive
+50 51 3 layer
+51 52 4 17
+52 53 5 is
+53 54 13 individual
+54 55 12 the
+55 56 14 electrode
+56 57 15 18
+57 58 11 of
+58 59 8 a
+59 60 9 lower
+60 61 10 surface
+61 62 7 on
+62 63 6 mounted
+63 64 16 . 6.06691982552
+64
+0 65 1 the
+65 66 2 photosensitive
+66 67 3 layer
+67 68 4 17
+68 69 5 is
+69 70 12 the
+70 71 13 individual
+71 72 14 electrode
+72 73 15 18
+73 74 11 of
+74 75 8 a
+75 76 9 lower
+76 77 10 surface
+77 78 6 mounted
+78 79 7 on
+79 80 16 . 7.96403981041
+80
+0 81 1 the
+81 82 2 photosensitive
+82 83 3 layer
+83 84 4 17
+84 85 5 is
+85 86 12 the
+86 87 13 individual
+87 88 14 electrode
+88 89 15 18
+89 90 11 of
+90 91 10 surface
+91 92 8 a
+92 93 9 lower
+93 94 7 on
+94 95 6 mounted
+95 96 16 . 3.28810055353
+96
+0 97 1 the
+97 98 2 photosensitive
+98 99 3 layer
+99 100 4 17
+100 101 5 is
+101 102 12 the
+102 103 13 individual
+103 104 14 electrode
+104 105 15 18
+105 106 8 a
+106 107 9 lower
+107 108 11 of
+108 109 10 surface
+109 110 7 on
+110 111 6 mounted
+111 112 16 . 6.17228034118
+112

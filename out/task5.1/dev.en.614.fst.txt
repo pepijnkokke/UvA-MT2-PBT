@@ -1,0 +1,152 @@
+0 1 1 a
+1 2 2 surge
+2 3 3 voltage
+3 4 4 is
+4 5 17 delaying
+5 6 9 the
+6 7 14 the
+7 8 15 response
+8 9 16 is
+9 10 13 while
+10 11 10 internal
+11 12 11 cmos
+12 13 12 circuit
+13 14 8 of
+14 15 7 gates
+15 16 6 to
+16 17 5 applied
+17 18 18 . 2.25741029363
+18
+0 19 1 a
+19 20 2 surge
+20 21 3 voltage
+21 22 4 is
+22 23 17 delaying
+23 24 9 the
+24 25 14 the
+25 26 15 response
+26 27 13 while
+27 28 16 is
+28 29 10 internal
+29 30 11 cmos
+30 31 12 circuit
+31 32 8 of
+32 33 7 gates
+33 34 6 to
+34 35 5 applied
+35 36 18 . 6.80424490262
+36
+0 37 1 a
+37 38 2 surge
+38 39 3 voltage
+39 40 4 is
+40 41 17 delaying
+41 42 9 the
+42 43 14 the
+43 44 15 response
+44 45 13 while
+45 46 10 internal
+46 47 11 cmos
+47 48 12 circuit
+48 49 16 is
+49 50 8 of
+50 51 7 gates
+51 52 6 to
+52 53 5 applied
+53 54 18 . 2.77889321188
+54
+0 55 1 a
+55 56 2 surge
+56 57 3 voltage
+57 58 4 is
+58 59 17 delaying
+59 60 9 the
+60 61 10 internal
+61 62 14 the
+62 63 15 response
+63 64 16 is
+64 65 13 while
+65 66 11 cmos
+66 67 12 circuit
+67 68 8 of
+68 69 7 gates
+69 70 6 to
+70 71 5 applied
+71 72 18 . 4.90712491773
+72
+0 73 1 a
+73 74 2 surge
+74 75 3 voltage
+75 76 4 is
+76 77 17 delaying
+77 78 14 the
+78 79 15 response
+79 80 16 is
+80 81 9 the
+81 82 13 while
+82 83 10 internal
+83 84 11 cmos
+84 85 12 circuit
+85 86 8 of
+86 87 7 gates
+87 88 6 to
+88 89 5 applied
+89 90 18 . 7.20971001072
+90
+0 91 1 a
+91 92 2 surge
+92 93 3 voltage
+93 94 4 is
+94 95 17 delaying
+95 96 9 the
+96 97 14 the
+97 98 15 response
+98 99 16 is
+99 100 10 internal
+100 101 11 cmos
+101 102 12 circuit
+102 103 13 while
+103 104 8 of
+104 105 7 gates
+105 106 6 to
+106 107 5 applied
+107 108 18 . 6.80424490262
+108
+0 109 1 a
+109 110 2 surge
+110 111 3 voltage
+111 112 4 is
+112 113 9 the
+113 114 17 delaying
+114 115 14 the
+115 116 15 response
+116 117 16 is
+117 118 13 while
+118 119 10 internal
+119 120 11 cmos
+120 121 12 circuit
+121 122 8 of
+122 123 7 gates
+123 124 6 to
+124 125 5 applied
+125 126 18 . 1.94961385699
+126
+0 127 1 a
+127 128 2 surge
+128 129 3 voltage
+129 130 4 is
+130 131 17 delaying
+131 132 14 the
+132 133 15 response
+133 134 16 is
+134 135 13 while
+135 136 9 the
+136 137 10 internal
+137 138 11 cmos
+138 139 12 circuit
+139 140 8 of
+140 141 7 gates
+141 142 6 to
+142 143 5 applied
+143 144 18 . 0.384793010048
+144

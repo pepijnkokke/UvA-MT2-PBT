@@ -1,0 +1,221 @@
+0 1 1 the
+1 2 2 present
+2 3 3 invention
+3 4 4 is
+4 5 10 the
+5 6 11 drawings
+6 7 9 to
+7 8 8 reference
+8 9 7 with
+9 10 6 below
+10 11 5 described
+11 12 12 . 0.270847349271
+12
+0 13 1 the
+13 14 2 present
+14 15 3 invention
+15 16 4 is
+16 17 10 the
+17 18 11 drawings
+18 19 9 to
+19 20 8 reference
+20 21 6 below
+21 22 7 with
+22 23 5 described
+23 24 12 . 4.59078144854
+24
+0 25 2 present
+25 26 1 the
+26 27 3 invention
+27 28 4 is
+28 29 10 the
+29 30 11 drawings
+30 31 9 to
+31 32 8 reference
+32 33 7 with
+33 34 6 below
+34 35 5 described
+35 36 12 . 7.78945456609
+36
+0 37 1 the
+37 38 2 present
+38 39 3 invention
+39 40 4 is
+40 41 10 the
+41 42 11 drawings
+42 43 9 to
+43 44 8 reference
+44 45 7 with
+45 46 5 described
+46 47 6 below
+47 48 12 . 6.87316383421
+48
+0 49 1 the
+49 50 2 present
+50 51 3 invention
+51 52 4 is
+52 53 11 drawings
+53 54 10 the
+54 55 9 to
+55 56 8 reference
+56 57 7 with
+57 58 6 below
+58 59 5 described
+59 60 12 . 5.99769509686
+60
+0 61 1 the
+61 62 2 present
+62 63 3 invention
+63 64 4 is
+64 65 10 the
+65 66 11 drawings
+66 67 8 reference
+67 68 9 to
+68 69 7 with
+69 70 6 below
+70 71 5 described
+71 72 12 . 7.78945456609
+72
+0 73 1 the
+73 74 2 present
+74 75 3 invention
+75 76 4 is
+76 77 10 the
+77 78 11 drawings
+78 79 9 to
+79 80 8 reference
+80 81 6 below
+81 82 5 described
+82 83 7 with
+83 84 12 . 3.59225261842
+84
+0 85 1 the
+85 86 2 present
+86 87 3 invention
+87 88 10 the
+88 89 11 drawings
+89 90 4 is
+90 91 9 to
+91 92 8 reference
+92 93 7 with
+93 94 6 below
+94 95 5 described
+95 96 12 . 8.48260174665
+96
+0 97 2 present
+97 98 3 invention
+98 99 1 the
+99 100 4 is
+100 101 10 the
+101 102 11 drawings
+102 103 9 to
+103 104 8 reference
+104 105 7 with
+105 106 6 below
+106 107 5 described
+107 108 12 . 1.67798722658
+108
+0 109 1 the
+109 110 4 is
+110 111 2 present
+111 112 3 invention
+112 113 10 the
+113 114 11 drawings
+114 115 9 to
+115 116 8 reference
+116 117 7 with
+117 118 6 below
+118 119 5 described
+119 120 12 . 7.38398945798
+120
+0 121 1 the
+121 122 2 present
+122 123 3 invention
+123 124 4 is
+124 125 10 the
+125 126 11 drawings
+126 127 7 with
+127 128 9 to
+128 129 8 reference
+129 130 6 below
+130 131 5 described
+131 132 12 . 6.40316020497
+132
+0 133 1 the
+133 134 2 present
+134 135 3 invention
+135 136 11 drawings
+136 137 4 is
+137 138 10 the
+138 139 9 to
+139 140 8 reference
+140 141 7 with
+141 142 6 below
+142 143 5 described
+143 144 12 . 8.48260174665
+144
+0 145 1 the
+145 146 2 present
+146 147 3 invention
+147 148 10 the
+148 149 11 drawings
+149 150 9 to
+150 151 4 is
+151 152 8 reference
+152 153 7 with
+153 154 6 below
+154 155 5 described
+155 156 12 . 8.48260174665
+156
+0 157 1 the
+157 158 2 present
+158 159 3 invention
+159 160 4 is
+160 161 10 the
+161 162 11 drawings
+162 163 8 reference
+163 164 7 with
+164 165 9 to
+165 166 6 below
+166 167 5 described
+167 168 12 . 8.48260174665
+168
+0 169 2 present
+169 170 3 invention
+170 171 1 the
+171 172 4 is
+172 173 10 the
+173 174 11 drawings
+174 175 9 to
+175 176 8 reference
+176 177 6 below
+177 178 7 with
+178 179 5 described
+179 180 12 . 5.99769509686
+180
+0 181 1 the
+181 182 2 present
+182 183 3 invention
+183 184 4 is
+184 185 10 the
+185 186 11 drawings
+186 187 9 to
+187 188 8 reference
+188 189 5 described
+189 190 6 below
+190 191 7 with
+191 192 12 . 6.28537716931
+192
+0 193 1 the
+193 194 2 present
+194 195 3 invention
+195 196 4 is
+196 197 9 to
+197 198 10 the
+198 199 11 drawings
+199 200 8 reference
+200 201 7 with
+201 202 6 below
+202 203 5 described
+203 204 12 . 6.87316383421
+204

@@ -1,0 +1,112 @@
+0 1 1 the
+1 2 2 spindle
+2 3 3 motor
+3 4 4 12
+4 5 5 rotates
+5 6 11 a
+6 7 12 constant
+7 8 13 linear
+8 9 14 velocity
+9 10 10 at
+10 11 6 the
+11 12 7 checked
+12 13 8 disc
+13 14 9 10
+14 15 15 . 0.831243027581
+15
+0 16 1 the
+16 17 2 spindle
+17 18 3 motor
+18 19 4 12
+19 20 11 a
+20 21 12 constant
+21 22 13 linear
+22 23 14 velocity
+23 24 10 at
+24 25 6 the
+25 26 7 checked
+26 27 5 rotates
+27 28 8 disc
+28 29 9 10
+29 30 15 . 5.42299019324
+30
+0 31 1 the
+31 32 2 spindle
+32 33 3 motor
+33 34 4 12
+34 35 11 a
+35 36 12 constant
+36 37 13 linear
+37 38 14 velocity
+38 39 10 at
+39 40 6 the
+40 41 7 checked
+41 42 8 disc
+42 43 5 rotates
+43 44 9 10
+44 45 15 . 8.31336195114
+45
+0 46 1 the
+46 47 2 spindle
+47 48 3 motor
+48 49 4 12
+49 50 11 a
+50 51 12 constant
+51 52 13 linear
+52 53 14 velocity
+53 54 10 at
+54 55 5 rotates
+55 56 6 the
+56 57 7 checked
+57 58 8 disc
+58 59 9 10
+59 60 15 . 4.62448249702
+60
+0 61 1 the
+61 62 2 spindle
+62 63 3 motor
+63 64 4 12
+64 65 11 a
+65 66 12 constant
+66 67 13 linear
+67 68 14 velocity
+68 69 10 at
+69 70 6 the
+70 71 7 checked
+71 72 8 disc
+72 73 9 10
+73 74 5 rotates
+74 75 15 . 0.603605086681
+75
+0 76 1 the
+76 77 2 spindle
+77 78 3 motor
+78 79 4 12
+79 80 5 rotates
+80 81 11 a
+81 82 12 constant
+82 83 13 linear
+83 84 14 velocity
+84 85 6 the
+85 86 7 checked
+86 87 10 at
+87 88 8 disc
+88 89 9 10
+89 90 15 . 8.31336195114
+90
+0 91 1 the
+91 92 2 spindle
+92 93 3 motor
+93 94 4 12
+94 95 5 rotates
+95 96 11 a
+96 97 12 constant
+97 98 13 linear
+98 99 14 velocity
+99 100 10 at
+100 101 6 the
+101 102 8 disc
+102 103 9 10
+103 104 7 checked
+104 105 15 . 5.82845530135
+105

@@ -1,0 +1,15 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 2
+3 4 4 is
+4 5 5 a
+5 6 6 structural
+6 7 7 block
+7 8 8 diagram
+8 9 9 showing
+9 10 10 the
+10 11 11 control
+11 12 12 circuit
+12 13 13 27
+13 14 14 .
+14

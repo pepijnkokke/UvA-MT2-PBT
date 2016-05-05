@@ -1,0 +1,192 @@
+0 1 1 rdp
+1 2 2 indicates
+2 3 7 a
+3 4 8 cpu
+4 5 9 accesses
+5 6 10 presently
+6 7 6 which
+7 8 3 an
+8 9 4 address
+9 10 5 to
+10 11 11 . 0.931255799889
+11
+0 12 1 rdp
+12 13 2 indicates
+13 14 7 a
+14 15 8 cpu
+15 16 9 accesses
+16 17 10 presently
+17 18 3 an
+18 19 6 which
+19 20 4 address
+20 21 5 to
+21 22 11 . 8.42901750051
+22
+0 23 1 rdp
+23 24 2 indicates
+24 25 7 a
+25 26 8 cpu
+26 27 9 accesses
+27 28 10 presently
+28 29 3 an
+29 30 4 address
+30 31 5 to
+31 32 6 which
+32 33 11 . 1.75951941065
+33
+0 34 1 rdp
+34 35 2 indicates
+35 36 7 a
+36 37 8 cpu
+37 38 9 accesses
+38 39 6 which
+39 40 10 presently
+40 41 3 an
+41 42 4 address
+42 43 5 to
+43 44 11 . 8.42901750051
+44
+0 45 1 rdp
+45 46 7 a
+46 47 8 cpu
+47 48 9 accesses
+48 49 10 presently
+49 50 2 indicates
+50 51 6 which
+51 52 3 an
+52 53 4 address
+53 54 5 to
+54 55 11 . 7.04272313939
+55
+0 56 1 rdp
+56 57 2 indicates
+57 58 8 cpu
+58 59 7 a
+59 60 9 accesses
+60 61 10 presently
+61 62 6 which
+62 63 3 an
+63 64 4 address
+64 65 5 to
+65 66 11 . 7.73587031995
+66
+0 67 1 rdp
+67 68 2 indicates
+68 69 7 a
+69 70 8 cpu
+70 71 9 accesses
+71 72 10 presently
+72 73 5 to
+73 74 6 which
+74 75 3 an
+75 76 4 address
+76 77 11 . 3.02184572905
+77
+0 78 1 rdp
+78 79 2 indicates
+79 80 7 a
+80 81 8 cpu
+81 82 9 accesses
+82 83 10 presently
+83 84 6 which
+84 85 5 to
+85 86 3 an
+86 87 4 address
+87 88 11 . 2.05740565328
+88
+0 89 1 rdp
+89 90 7 a
+90 91 8 cpu
+91 92 9 accesses
+92 93 10 presently
+93 94 6 which
+94 95 2 indicates
+95 96 3 an
+96 97 4 address
+97 98 5 to
+98 99 11 . 4.66781738482
+99
+0 100 1 rdp
+100 101 7 a
+101 102 8 cpu
+102 103 9 accesses
+103 104 10 presently
+104 105 2 indicates
+105 106 3 an
+106 107 4 address
+107 108 5 to
+108 109 6 which
+109 110 11 . 4.55781648961
+110
+0 111 1 rdp
+111 112 7 a
+112 113 8 cpu
+113 114 9 accesses
+114 115 10 presently
+115 116 6 which
+116 117 3 an
+117 118 2 indicates
+118 119 4 address
+119 120 5 to
+120 121 11 . 8.42901750051
+121
+0 122 1 rdp
+122 123 2 indicates
+123 124 7 a
+124 125 8 cpu
+125 126 9 accesses
+126 127 10 presently
+127 128 5 to
+128 129 3 an
+129 130 4 address
+130 131 6 which
+131 132 11 . 7.33040521184
+132
+0 133 1 rdp
+133 134 7 a
+134 135 8 cpu
+135 136 9 accesses
+136 137 10 presently
+137 138 6 which
+138 139 3 an
+139 140 4 address
+140 141 2 indicates
+141 142 5 to
+142 143 11 . 8.42901750051
+143
+0 144 1 rdp
+144 145 7 a
+145 146 8 cpu
+146 147 9 accesses
+147 148 10 presently
+148 149 3 an
+149 150 4 address
+150 151 2 indicates
+151 152 5 to
+152 153 6 which
+153 154 11 . 7.33040521184
+154
+0 155 1 rdp
+155 156 2 indicates
+156 157 7 a
+157 158 8 cpu
+158 159 9 accesses
+159 160 10 presently
+160 161 4 address
+161 162 5 to
+162 163 6 which
+163 164 3 an
+164 165 11 . 7.73587031995
+165
+0 166 1 rdp
+166 167 7 a
+167 168 8 cpu
+168 169 9 accesses
+169 170 10 presently
+170 171 6 which
+171 172 3 an
+172 173 4 address
+173 174 5 to
+174 175 2 indicates
+175 176 11 . 1.45453858949
+176

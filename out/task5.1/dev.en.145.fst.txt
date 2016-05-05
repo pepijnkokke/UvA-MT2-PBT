@@ -1,0 +1,126 @@
+0 1 1 a
+1 2 2 lead
+2 3 3 frame
+3 4 4 92
+4 5 7 the
+5 6 8 device
+6 7 9 107
+7 8 10 has
+8 9 6 on
+9 10 5 provided
+10 11 16 the
+11 12 17 lead
+12 13 18 frame
+13 14 19 91
+14 15 15 to
+15 16 14 similarly
+16 17 11 stepwise
+17 18 12 bent
+18 19 13 portions
+19 20 20 . 2.30922963571
+20
+0 21 1 a
+21 22 2 lead
+22 23 3 frame
+23 24 4 92
+24 25 7 the
+25 26 8 device
+26 27 9 107
+27 28 6 on
+28 29 5 provided
+29 30 10 has
+30 31 16 the
+31 32 17 lead
+32 33 18 frame
+33 34 19 91
+34 35 15 to
+35 36 14 similarly
+36 37 11 stepwise
+37 38 12 bent
+38 39 13 portions
+39 40 20 . 0.783173332218
+40
+0 41 1 a
+41 42 2 lead
+42 43 3 frame
+43 44 4 92
+44 45 7 the
+45 46 8 device
+46 47 9 107
+47 48 10 has
+48 49 6 on
+49 50 5 provided
+50 51 16 the
+51 52 17 lead
+52 53 18 frame
+53 54 19 91
+54 55 15 to
+55 56 11 stepwise
+56 57 14 similarly
+57 58 12 bent
+58 59 13 portions
+59 60 20 . 3.91866754815
+60
+0 61 1 a
+61 62 2 lead
+62 63 3 frame
+63 64 4 92
+64 65 7 the
+65 66 8 device
+66 67 9 107
+67 68 10 has
+68 69 6 on
+69 70 5 provided
+70 71 16 the
+71 72 17 lead
+72 73 18 frame
+73 74 19 91
+74 75 14 similarly
+75 76 15 to
+76 77 11 stepwise
+77 78 12 bent
+78 79 13 portions
+79 80 20 . 2.33170249156
+80
+0 81 1 a
+81 82 2 lead
+82 83 3 frame
+83 84 4 92
+84 85 7 the
+85 86 8 device
+86 87 9 107
+87 88 6 on
+88 89 5 provided
+89 90 10 has
+90 91 16 the
+91 92 17 lead
+92 93 18 frame
+93 94 19 91
+94 95 15 to
+95 96 11 stepwise
+96 97 14 similarly
+97 98 12 bent
+98 99 13 portions
+99 100 20 . 3.17145314632
+100
+0 101 1 a
+101 102 2 lead
+102 103 3 frame
+103 104 4 92
+104 105 7 the
+105 106 8 device
+106 107 9 107
+107 108 6 on
+108 109 5 provided
+109 110 10 has
+110 111 16 the
+111 112 17 lead
+112 113 18 frame
+113 114 19 91
+114 115 14 similarly
+115 116 15 to
+116 117 11 stepwise
+117 118 12 bent
+118 119 13 portions
+119 120 20 . 1.25607972112
+120

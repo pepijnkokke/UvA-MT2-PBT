@@ -1,0 +1,24 @@
+0 1 7 a
+1 2 8 turn
+2 3 9 table
+3 4 10 102b
+4 5 11 and
+5 6 12 a
+6 7 13 light
+7 8 14 pickup
+8 9 15 102c
+9 10 6 including
+10 11 1 the
+11 12 2 disk
+12 13 3 playback
+13 14 4 unit
+14 15 5 102
+15 16 16 is
+16 17 19 the
+17 18 20 rectangular
+18 19 21 hole
+19 20 22 101a
+20 21 18 in
+21 22 17 arranged
+22 23 23 . -0.0
+23

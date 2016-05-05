@@ -1,0 +1,190 @@
+0 1 6 impurities
+1 2 5 with
+2 3 4 doped
+3 4 1 a
+4 5 2 silicon
+5 6 3 film
+6 7 7 is
+7 8 15 a
+8 9 16 conductive
+9 10 17 member
+10 11 14 as
+11 12 8 electrically
+12 13 9 conductive
+13 14 10 and
+14 15 12 be
+15 16 13 used
+16 17 11 can
+17 18 18 . 0.888161564153
+18
+0 19 6 impurities
+19 20 4 doped
+20 21 5 with
+21 22 1 a
+22 23 2 silicon
+23 24 3 film
+24 25 7 is
+25 26 15 a
+26 27 16 conductive
+27 28 17 member
+28 29 14 as
+29 30 8 electrically
+30 31 9 conductive
+31 32 10 and
+32 33 12 be
+33 34 13 used
+34 35 11 can
+35 36 18 . 1.44080657072
+36
+0 37 6 impurities
+37 38 5 with
+38 39 4 doped
+39 40 1 a
+40 41 2 silicon
+41 42 3 film
+42 43 7 is
+43 44 15 a
+44 45 16 conductive
+45 46 17 member
+46 47 8 electrically
+47 48 14 as
+48 49 9 conductive
+49 50 10 and
+50 51 12 be
+51 52 13 used
+52 53 11 can
+53 54 18 . 7.59990195921
+54
+0 55 6 impurities
+55 56 4 doped
+56 57 5 with
+57 58 1 a
+58 59 2 silicon
+59 60 3 film
+60 61 7 is
+61 62 15 a
+62 63 16 conductive
+63 64 17 member
+64 65 8 electrically
+65 66 14 as
+66 67 9 conductive
+67 68 10 and
+68 69 12 be
+69 70 13 used
+70 71 11 can
+71 72 18 . 7.59990195921
+72
+0 73 6 impurities
+73 74 5 with
+74 75 4 doped
+75 76 1 a
+76 77 2 silicon
+77 78 3 film
+78 79 7 is
+79 80 15 a
+80 81 16 conductive
+81 82 17 member
+82 83 14 as
+83 84 8 electrically
+84 85 9 conductive
+85 86 10 and
+86 87 13 used
+87 88 12 be
+88 89 11 can
+89 90 18 . 1.71936897281
+90
+0 91 6 impurities
+91 92 4 doped
+92 93 5 with
+93 94 1 a
+94 95 2 silicon
+95 96 3 film
+96 97 7 is
+97 98 15 a
+98 99 16 conductive
+99 100 17 member
+100 101 14 as
+101 102 8 electrically
+102 103 9 conductive
+103 104 10 and
+104 105 13 used
+105 106 12 be
+106 107 11 can
+107 108 18 . 2.27689198007
+108
+0 109 5 with
+109 110 6 impurities
+110 111 4 doped
+111 112 1 a
+112 113 2 silicon
+113 114 3 film
+114 115 7 is
+115 116 15 a
+116 117 16 conductive
+117 118 17 member
+118 119 14 as
+119 120 8 electrically
+120 121 9 conductive
+121 122 10 and
+122 123 12 be
+123 124 13 used
+124 125 11 can
+125 126 18 . 3.15725070272
+126
+0 127 6 impurities
+127 128 4 doped
+128 129 5 with
+129 130 1 a
+130 131 2 silicon
+131 132 3 film
+132 133 7 is
+133 134 15 a
+134 135 16 conductive
+135 136 17 member
+136 137 8 electrically
+137 138 14 as
+138 139 9 conductive
+139 140 10 and
+140 141 13 used
+141 142 12 be
+142 143 11 can
+143 144 18 . 7.59990195921
+144
+0 145 5 with
+145 146 6 impurities
+146 147 4 doped
+147 148 1 a
+148 149 2 silicon
+149 150 3 film
+150 151 7 is
+151 152 15 a
+152 153 16 conductive
+153 154 17 member
+154 155 14 as
+155 156 8 electrically
+156 157 9 conductive
+157 158 10 and
+158 159 13 used
+159 160 12 be
+160 161 11 can
+161 162 18 . 4.04455389772
+162
+0 163 6 impurities
+163 164 5 with
+164 165 4 doped
+165 166 1 a
+166 167 2 silicon
+167 168 3 film
+168 169 7 is
+169 170 15 a
+170 171 16 conductive
+171 172 17 member
+172 173 14 as
+173 174 8 electrically
+174 175 9 conductive
+175 176 10 and
+176 177 12 be
+177 178 11 can
+178 179 13 used
+179 180 18 . 4.76668861515
+180

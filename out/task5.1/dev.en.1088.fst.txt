@@ -1,0 +1,108 @@
+0 1 1 a
+1 2 2 gas
+2 3 3 carrying
+3 4 4 dust
+4 5 5 particles
+5 6 6 is
+6 7 15 the
+7 8 16 apparatus
+8 9 12 the
+9 10 13 arrow
+10 11 14 into
+11 12 11 of
+12 13 9 the
+13 14 10 direction
+14 15 8 in
+15 16 7 introduced
+16 17 17 . 2.01751398809
+17
+0 18 1 a
+18 19 2 gas
+19 20 3 carrying
+20 21 4 dust
+21 22 5 particles
+22 23 6 is
+23 24 12 the
+24 25 15 the
+25 26 16 apparatus
+26 27 13 arrow
+27 28 14 into
+28 29 11 of
+29 30 9 the
+30 31 10 direction
+31 32 8 in
+32 33 7 introduced
+33 34 17 . 5.13840940459
+34
+0 35 1 a
+35 36 2 gas
+36 37 3 carrying
+37 38 4 dust
+38 39 5 particles
+39 40 6 is
+40 41 12 the
+41 42 13 arrow
+42 43 15 the
+43 44 16 apparatus
+44 45 14 into
+45 46 11 of
+46 47 9 the
+47 48 10 direction
+48 49 8 in
+49 50 7 introduced
+50 51 17 . 1.87604846778
+51
+0 52 1 a
+52 53 2 gas
+53 54 3 carrying
+54 55 4 dust
+55 56 5 particles
+56 57 6 is
+57 58 12 the
+58 59 15 the
+59 60 13 arrow
+60 61 14 into
+61 62 16 apparatus
+62 63 11 of
+63 64 9 the
+64 65 10 direction
+65 66 8 in
+66 67 7 introduced
+67 68 17 . 7.33563398193
+68
+0 69 1 a
+69 70 2 gas
+70 71 3 carrying
+71 72 4 dust
+72 73 5 particles
+73 74 6 is
+74 75 12 the
+75 76 13 arrow
+76 77 15 the
+77 78 14 into
+78 79 16 apparatus
+79 80 11 of
+80 81 9 the
+81 82 10 direction
+82 83 8 in
+83 84 7 introduced
+84 85 17 . 4.39119500276
+85
+0 86 1 a
+86 87 2 gas
+87 88 3 carrying
+88 89 4 dust
+89 90 5 particles
+90 91 6 is
+91 92 15 the
+92 93 16 apparatus
+93 94 14 into
+94 95 12 the
+95 96 13 arrow
+96 97 11 of
+97 98 9 the
+98 99 10 direction
+99 100 8 in
+100 101 7 introduced
+101 102 17 . 0.363965377202
+102

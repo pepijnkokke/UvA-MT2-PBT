@@ -1,0 +1,260 @@
+0 1 2 other
+1 2 3 words
+2 3 1 in
+3 4 4 ,
+4 5 5 the
+5 6 6 other
+6 7 7 three
+7 8 8 redundant
+8 9 9 circuits
+9 10 10 are
+10 11 14 the
+11 12 15 circuit
+12 13 13 on
+13 14 11 vertically
+14 15 12 stacked
+15 16 18 above
+16 17 17 shown
+17 18 16 exemplarily
+18 19 19 . 0.381221496498
+19
+0 20 2 other
+20 21 3 words
+21 22 1 in
+22 23 4 ,
+23 24 5 the
+24 25 6 other
+25 26 7 three
+26 27 8 redundant
+27 28 9 circuits
+28 29 14 the
+29 30 15 circuit
+30 31 13 on
+31 32 10 are
+32 33 11 vertically
+33 34 12 stacked
+34 35 18 above
+35 36 17 shown
+36 37 16 exemplarily
+37 38 19 . 2.69585492801
+38
+0 39 2 other
+39 40 3 words
+40 41 1 in
+41 42 4 ,
+42 43 5 the
+43 44 6 other
+44 45 7 three
+45 46 8 redundant
+46 47 9 circuits
+47 48 10 are
+48 49 14 the
+49 50 15 circuit
+50 51 13 on
+51 52 12 stacked
+52 53 11 vertically
+53 54 18 above
+54 55 17 shown
+55 56 16 exemplarily
+56 57 19 . 5.09375020081
+57
+0 58 2 other
+58 59 3 words
+59 60 1 in
+60 61 4 ,
+61 62 5 the
+62 63 6 other
+63 64 7 three
+64 65 8 redundant
+65 66 9 circuits
+66 67 10 are
+67 68 14 the
+68 69 15 circuit
+69 70 11 vertically
+70 71 13 on
+71 72 12 stacked
+72 73 18 above
+73 74 17 shown
+74 75 16 exemplarily
+75 76 19 . 3.79446721667
+76
+0 77 2 other
+77 78 3 words
+78 79 1 in
+79 80 4 ,
+80 81 5 the
+81 82 6 other
+82 83 7 three
+83 84 8 redundant
+84 85 9 circuits
+85 86 10 are
+86 87 14 the
+87 88 15 circuit
+88 89 13 on
+89 90 18 above
+90 91 17 shown
+91 92 16 exemplarily
+92 93 11 vertically
+93 94 12 stacked
+94 95 19 . 6.19236248948
+95
+0 96 2 other
+96 97 3 words
+97 98 1 in
+98 99 4 ,
+99 100 5 the
+100 101 6 other
+101 102 7 three
+102 103 8 redundant
+103 104 9 circuits
+104 105 10 are
+105 106 18 above
+106 107 14 the
+107 108 15 circuit
+108 109 13 on
+109 110 17 shown
+110 111 16 exemplarily
+111 112 11 vertically
+112 113 12 stacked
+113 114 19 . 6.19236248948
+114
+0 115 2 other
+115 116 3 words
+116 117 1 in
+117 118 4 ,
+118 119 5 the
+119 120 6 other
+120 121 7 three
+121 122 8 redundant
+122 123 9 circuits
+123 124 18 above
+124 125 10 are
+125 126 14 the
+126 127 15 circuit
+127 128 13 on
+128 129 11 vertically
+129 130 12 stacked
+130 131 17 shown
+131 132 16 exemplarily
+132 133 19 . 5.09375020081
+133
+0 134 2 other
+134 135 3 words
+135 136 1 in
+136 137 4 ,
+137 138 5 the
+138 139 6 other
+139 140 7 three
+140 141 8 redundant
+141 142 9 circuits
+142 143 10 are
+143 144 14 the
+144 145 15 circuit
+145 146 18 above
+146 147 17 shown
+147 148 16 exemplarily
+148 149 13 on
+149 150 11 vertically
+150 151 12 stacked
+151 152 19 . 2.16701079874
+152
+0 153 2 other
+153 154 3 words
+154 155 1 in
+155 156 4 ,
+156 157 5 the
+157 158 6 other
+158 159 7 three
+159 160 8 redundant
+160 161 9 circuits
+161 162 10 are
+162 163 18 above
+163 164 14 the
+164 165 15 circuit
+165 166 17 shown
+166 167 16 exemplarily
+167 168 13 on
+168 169 11 vertically
+169 170 12 stacked
+170 171 19 . 4.24645234042
+171
+0 172 2 other
+172 173 3 words
+173 174 1 in
+174 175 4 ,
+175 176 5 the
+176 177 6 other
+177 178 7 three
+178 179 8 redundant
+179 180 9 circuits
+180 181 14 the
+181 182 15 circuit
+182 183 10 are
+183 184 11 vertically
+184 185 13 on
+185 186 12 stacked
+186 187 18 above
+187 188 17 shown
+188 189 16 exemplarily
+189 190 19 . 6.19236248948
+190
+0 191 2 other
+191 192 3 words
+192 193 1 in
+193 194 4 ,
+194 195 5 the
+195 196 6 other
+196 197 7 three
+197 198 8 redundant
+198 199 9 circuits
+199 200 10 are
+200 201 14 the
+201 202 18 above
+202 203 17 shown
+203 204 16 exemplarily
+204 205 15 circuit
+205 206 13 on
+206 207 11 vertically
+207 208 12 stacked
+208 209 19 . 3.30199073158
+209
+0 210 2 other
+210 211 3 words
+211 212 1 in
+212 213 4 ,
+213 214 6 other
+214 215 5 the
+215 216 7 three
+216 217 8 redundant
+217 218 9 circuits
+218 219 10 are
+219 220 14 the
+220 221 15 circuit
+221 222 13 on
+222 223 11 vertically
+223 224 12 stacked
+224 225 18 above
+225 226 17 shown
+226 227 16 exemplarily
+227 228 19 . 3.35914914542
+228
+0 229 2 other
+229 230 3 words
+230 231 4 ,
+231 232 1 in
+232 233 5 the
+233 234 6 other
+234 235 7 three
+235 236 8 redundant
+236 237 9 circuits
+237 238 10 are
+238 239 14 the
+239 240 15 circuit
+240 241 13 on
+241 242 11 vertically
+242 243 12 stacked
+243 244 18 above
+244 245 17 shown
+245 246 16 exemplarily
+246 247 19 . 4.80606812836
+247

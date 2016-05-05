@@ -1,0 +1,210 @@
+0 1 2 isomeric
+1 2 1 no
+2 3 3 azasilacyclobutane
+3 4 4 was
+4 5 5 produced
+5 6 6 . 1.76571452525
+6
+0 7 1 no
+7 8 2 isomeric
+8 9 3 azasilacyclobutane
+9 10 4 was
+10 11 5 produced
+11 12 6 . 0.938303082849
+12
+0 13 2 isomeric
+13 14 3 azasilacyclobutane
+14 15 1 no
+15 16 4 was
+16 17 5 produced
+17 18 6 . 1.62429642606
+18
+0 19 2 isomeric
+19 20 1 no
+20 21 3 azasilacyclobutane
+21 22 5 produced
+22 23 4 was
+23 24 6 . 4.76438365848
+24
+0 25 2 isomeric
+25 26 3 azasilacyclobutane
+26 27 4 was
+27 28 1 no
+28 29 5 produced
+29 30 6 . 7.41527544574
+30
+0 31 1 no
+31 32 2 isomeric
+32 33 3 azasilacyclobutane
+33 34 5 produced
+34 35 4 was
+35 36 6 . 3.65407533005
+36
+0 37 1 no
+37 38 3 azasilacyclobutane
+38 39 2 isomeric
+39 40 4 was
+40 41 5 produced
+41 42 6 . 8.51388773441
+42
+0 43 2 isomeric
+43 44 3 azasilacyclobutane
+44 45 1 no
+45 46 5 produced
+46 47 4 was
+47 48 6 . 3.92892025574
+48
+0 49 3 azasilacyclobutane
+49 50 2 isomeric
+50 51 1 no
+51 52 4 was
+52 53 5 produced
+53 54 6 . 4.16360979805
+54
+0 55 3 azasilacyclobutane
+55 56 1 no
+56 57 2 isomeric
+57 58 4 was
+58 59 5 produced
+59 60 6 . 5.87483040479
+60
+0 61 2 isomeric
+61 62 3 azasilacyclobutane
+62 63 4 was
+63 64 5 produced
+64 65 1 no
+65 66 6 . 2.22695897441
+66
+0 67 2 isomeric
+67 68 1 no
+68 69 5 produced
+69 70 3 azasilacyclobutane
+70 71 4 was
+71 72 6 . 9.20703491496
+72
+0 73 2 isomeric
+73 74 1 no
+74 75 4 was
+75 76 5 produced
+76 77 3 azasilacyclobutane
+77 78 6 . 5.65168685348
+78
+0 79 3 azasilacyclobutane
+79 80 2 isomeric
+80 81 1 no
+81 82 5 produced
+82 83 4 was
+83 84 6 . 6.07154069904
+84
+0 85 1 no
+85 86 2 isomeric
+86 87 4 was
+87 88 5 produced
+88 89 3 azasilacyclobutane
+89 90 6 . 6.16251247724
+90
+0 91 3 azasilacyclobutane
+91 92 1 no
+92 93 2 isomeric
+93 94 5 produced
+94 95 4 was
+95 96 6 . 9.20703491496
+96
+0 97 2 isomeric
+97 98 3 azasilacyclobutane
+98 99 5 produced
+99 100 4 was
+100 101 1 no
+101 102 6 . 5.35688731326
+102
+0 103 3 azasilacyclobutane
+103 104 2 isomeric
+104 105 4 was
+105 106 5 produced
+106 107 1 no
+107 108 6 . 9.20703491496
+108
+0 109 2 isomeric
+109 110 1 no
+110 111 5 produced
+111 112 4 was
+112 113 3 azasilacyclobutane
+113 114 6 . 9.20703491496
+114
+0 115 1 no
+115 116 3 azasilacyclobutane
+116 117 4 was
+117 118 5 produced
+118 119 2 isomeric
+119 120 6 . 8.51388773441
+120
+0 121 2 isomeric
+121 122 4 was
+122 123 5 produced
+123 124 3 azasilacyclobutane
+124 125 1 no
+125 126 6 . 9.20703491496
+126
+0 127 1 no
+127 128 4 was
+128 129 5 produced
+129 130 2 isomeric
+130 131 3 azasilacyclobutane
+131 132 6 . 7.26112476591
+132
+0 133 5 produced
+133 134 2 isomeric
+134 135 3 azasilacyclobutane
+135 136 4 was
+136 137 1 no
+137 138 6 . 8.51388773441
+138
+0 139 3 azasilacyclobutane
+139 140 4 was
+140 141 5 produced
+141 142 2 isomeric
+142 143 1 no
+143 144 6 . 3.94953954294
+144
+0 145 2 isomeric
+145 146 5 produced
+146 147 4 was
+147 148 3 azasilacyclobutane
+148 149 1 no
+149 150 6 . 9.20703491496
+150
+0 151 3 azasilacyclobutane
+151 152 4 was
+152 153 5 produced
+153 154 1 no
+154 155 2 isomeric
+155 156 6 . 6.72212826518
+156
+0 157 4 was
+157 158 5 produced
+158 159 2 isomeric
+159 160 1 no
+160 161 3 azasilacyclobutane
+161 162 6 . 8.51388773441
+162
+0 163 3 azasilacyclobutane
+163 164 5 produced
+164 165 4 was
+165 166 2 isomeric
+166 167 1 no
+167 168 6 . 8.1084226263
+168
+0 169 4 was
+169 170 5 produced
+170 171 1 no
+171 172 2 isomeric
+172 173 3 azasilacyclobutane
+173 174 6 . 5.37839351848
+174
+0 175 4 was
+175 176 5 produced
+176 177 2 isomeric
+177 178 3 azasilacyclobutane
+178 179 1 no
+179 180 6 . 3.9340353564
+180

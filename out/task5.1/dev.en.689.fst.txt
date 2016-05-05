@@ -1,0 +1,147 @@
+0 1 1 this
+1 2 2 write
+2 3 3 data
+3 4 4 is
+4 5 7 the
+5 6 8 bit
+6 7 9 line
+7 8 17 the
+8 9 18 column
+9 10 19 decoder
+10 11 16 by
+11 12 10 pair
+12 13 13 the
+13 14 14 column
+14 15 12 to
+15 16 11 corresponding
+16 17 15 selected
+17 18 6 onto
+18 19 5 transmitted
+19 20 20 . 3.86799073528
+20
+0 21 1 this
+21 22 2 write
+22 23 3 data
+23 24 4 is
+24 25 7 the
+25 26 8 bit
+26 27 9 line
+27 28 17 the
+28 29 18 column
+29 30 19 decoder
+30 31 16 by
+31 32 10 pair
+32 33 13 the
+33 34 14 column
+34 35 15 selected
+35 36 12 to
+36 37 11 corresponding
+37 38 6 onto
+38 39 5 transmitted
+39 40 20 . 4.2357155154
+40
+0 41 1 this
+41 42 2 write
+42 43 3 data
+43 44 4 is
+44 45 7 the
+45 46 8 bit
+46 47 9 line
+47 48 10 pair
+48 49 17 the
+49 50 18 column
+50 51 19 decoder
+51 52 16 by
+52 53 13 the
+53 54 14 column
+54 55 12 to
+55 56 11 corresponding
+56 57 15 selected
+57 58 6 onto
+58 59 5 transmitted
+59 60 20 . 3.13710322674
+60
+0 61 1 this
+61 62 2 write
+62 63 3 data
+63 64 4 is
+64 65 7 the
+65 66 17 the
+66 67 18 column
+67 68 19 decoder
+68 69 16 by
+69 70 8 bit
+70 71 9 line
+71 72 10 pair
+72 73 13 the
+73 74 14 column
+74 75 12 to
+75 76 11 corresponding
+76 77 15 selected
+77 78 6 onto
+78 79 5 transmitted
+79 80 20 . 2.06349224027
+80
+0 81 1 this
+81 82 2 write
+82 83 3 data
+83 84 4 is
+84 85 7 the
+85 86 8 bit
+86 87 9 line
+87 88 10 pair
+88 89 17 the
+89 90 18 column
+90 91 19 decoder
+91 92 16 by
+92 93 13 the
+93 94 14 column
+94 95 15 selected
+95 96 12 to
+96 97 11 corresponding
+97 98 6 onto
+98 99 5 transmitted
+99 100 20 . 2.48169637416
+100
+0 101 1 this
+101 102 2 write
+102 103 3 data
+103 104 4 is
+104 105 7 the
+105 106 17 the
+106 107 18 column
+107 108 19 decoder
+108 109 16 by
+109 110 8 bit
+110 111 9 line
+111 112 10 pair
+112 113 13 the
+113 114 14 column
+114 115 15 selected
+115 116 12 to
+116 117 11 corresponding
+117 118 6 onto
+118 119 5 transmitted
+119 120 20 . 4.13035499975
+120
+0 121 1 this
+121 122 2 write
+122 123 3 data
+123 124 4 is
+124 125 17 the
+125 126 18 column
+126 127 19 decoder
+127 128 16 by
+128 129 7 the
+129 130 8 bit
+130 131 9 line
+131 132 10 pair
+132 133 13 the
+133 134 14 column
+134 135 12 to
+135 136 11 corresponding
+136 137 15 selected
+137 138 6 onto
+138 139 5 transmitted
+139 140 20 . 0.364514504495
+140

@@ -1,0 +1,170 @@
+0 1 2 this
+1 2 3 way
+2 3 4 ,
+3 4 1 in
+4 5 5 the
+5 6 6 normally-closed
+6 7 7 type
+7 8 8 electromagnetic
+8 9 9 valve
+9 10 10 20
+10 11 11 is
+11 12 14 be
+12 13 15 closed
+13 14 13 to
+14 15 12 recovered
+15 16 16 . 1.93571821431
+16
+0 17 2 this
+17 18 3 way
+18 19 4 ,
+19 20 5 the
+20 21 1 in
+21 22 6 normally-closed
+22 23 7 type
+23 24 8 electromagnetic
+24 25 9 valve
+25 26 10 20
+26 27 11 is
+27 28 14 be
+28 29 15 closed
+29 30 13 to
+30 31 12 recovered
+31 32 16 . 7.41427163116
+32
+0 33 2 this
+33 34 3 way
+34 35 1 in
+35 36 4 ,
+36 37 5 the
+37 38 6 normally-closed
+38 39 7 type
+39 40 8 electromagnetic
+40 41 9 valve
+41 42 10 20
+42 43 11 is
+43 44 14 be
+44 45 15 closed
+45 46 13 to
+46 47 12 recovered
+47 48 16 . 0.915236753008
+48
+0 49 2 this
+49 50 3 way
+50 51 4 ,
+51 52 5 the
+52 53 6 normally-closed
+53 54 1 in
+54 55 7 type
+55 56 8 electromagnetic
+56 57 9 valve
+57 58 10 20
+58 59 11 is
+59 60 14 be
+60 61 15 closed
+61 62 13 to
+62 63 12 recovered
+63 64 16 . 2.70024704026
+64
+0 65 2 this
+65 66 3 way
+66 67 4 ,
+67 68 5 the
+68 69 6 normally-closed
+69 70 7 type
+70 71 1 in
+71 72 8 electromagnetic
+72 73 9 valve
+73 74 10 20
+74 75 11 is
+75 76 14 be
+76 77 15 closed
+77 78 13 to
+78 79 12 recovered
+79 80 16 . 2.19391580609
+80
+0 81 2 this
+81 82 1 in
+82 83 3 way
+83 84 4 ,
+84 85 5 the
+85 86 6 normally-closed
+86 87 7 type
+87 88 8 electromagnetic
+88 89 9 valve
+89 90 10 20
+90 91 11 is
+91 92 14 be
+92 93 15 closed
+93 94 13 to
+94 95 12 recovered
+95 96 16 . 2.95412721722
+96
+0 97 2 this
+97 98 3 way
+98 99 4 ,
+99 100 5 the
+100 101 6 normally-closed
+101 102 7 type
+102 103 8 electromagnetic
+103 104 9 valve
+104 105 1 in
+105 106 10 20
+106 107 11 is
+107 108 14 be
+108 109 15 closed
+109 110 13 to
+110 111 12 recovered
+111 112 16 . 7.41427163116
+112
+0 113 2 this
+113 114 3 way
+114 115 4 ,
+115 116 1 in
+116 117 5 the
+117 118 6 normally-closed
+118 119 7 type
+119 120 8 electromagnetic
+120 121 9 valve
+121 122 10 20
+122 123 11 is
+123 124 15 closed
+124 125 14 be
+125 126 13 to
+126 127 12 recovered
+127 128 16 . 5.62251216193
+128
+0 129 2 this
+129 130 3 way
+130 131 4 ,
+131 132 1 in
+132 133 6 normally-closed
+133 134 5 the
+134 135 7 type
+135 136 8 electromagnetic
+136 137 9 valve
+137 138 10 20
+138 139 11 is
+139 140 14 be
+140 141 15 closed
+141 142 13 to
+142 143 12 recovered
+143 144 16 . 7.41427163116
+144
+0 145 2 this
+145 146 3 way
+146 147 4 ,
+147 148 5 the
+148 149 6 normally-closed
+149 150 7 type
+150 151 8 electromagnetic
+151 152 9 valve
+152 153 10 20
+153 154 1 in
+154 155 11 is
+155 156 14 be
+156 157 15 closed
+157 158 13 to
+158 159 12 recovered
+159 160 16 . 1.51849233419
+160

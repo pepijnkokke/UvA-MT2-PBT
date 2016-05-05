@@ -1,0 +1,192 @@
+0 1 1 next
+1 2 2 ,
+2 3 6 this
+3 4 7 embodiment
+4 5 5 of
+5 6 3 the
+6 7 4 operation
+7 8 8 will
+8 9 9 be
+9 10 10 described
+10 11 11 . 1.37169856289
+11
+0 12 1 next
+12 13 2 ,
+13 14 6 this
+14 15 7 embodiment
+15 16 3 the
+16 17 5 of
+17 18 4 operation
+18 19 8 will
+19 20 9 be
+20 21 10 described
+21 22 11 . 6.69063521664
+22
+0 23 1 next
+23 24 2 ,
+24 25 6 this
+25 26 7 embodiment
+26 27 5 of
+27 28 3 the
+28 29 4 operation
+29 30 8 will
+30 31 10 described
+31 32 9 be
+32 33 11 . 1.93704502554
+33
+0 34 1 next
+34 35 2 ,
+35 36 6 this
+36 37 7 embodiment
+37 38 3 the
+38 39 5 of
+39 40 4 operation
+40 41 8 will
+41 42 10 described
+42 43 9 be
+43 44 11 . 8.48239468587
+44
+0 45 1 next
+45 46 2 ,
+46 47 3 the
+47 48 6 this
+48 49 7 embodiment
+49 50 5 of
+50 51 4 operation
+51 52 8 will
+52 53 9 be
+53 54 10 described
+54 55 11 . 1.14480694233
+55
+0 56 1 next
+56 57 2 ,
+57 58 6 this
+58 59 7 embodiment
+59 60 5 of
+60 61 3 the
+61 62 4 operation
+62 63 9 be
+63 64 8 will
+64 65 10 described
+65 66 11 . 6.87295677344
+66
+0 67 1 next
+67 68 2 ,
+68 69 6 this
+69 70 7 embodiment
+70 71 5 of
+71 72 4 operation
+72 73 3 the
+73 74 8 will
+74 75 9 be
+75 76 10 described
+76 77 11 . 2.37092734637
+77
+0 78 1 next
+78 79 2 ,
+79 80 3 the
+80 81 6 this
+81 82 7 embodiment
+82 83 5 of
+83 84 4 operation
+84 85 8 will
+85 86 10 described
+86 87 9 be
+87 88 11 . 2.09720028688
+88
+0 89 1 next
+89 90 2 ,
+90 91 6 this
+91 92 7 embodiment
+92 93 5 of
+93 94 3 the
+94 95 4 operation
+95 96 10 described
+96 97 8 will
+97 98 9 be
+98 99 11 . 8.48239468587
+99
+0 100 1 next
+100 101 2 ,
+101 102 6 this
+102 103 7 embodiment
+103 104 5 of
+104 105 8 will
+105 106 3 the
+106 107 4 operation
+107 108 9 be
+108 109 10 described
+109 110 11 . 8.48239468587
+110
+0 111 1 next
+111 112 2 ,
+112 113 6 this
+113 114 7 embodiment
+114 115 5 of
+115 116 4 operation
+116 117 3 the
+117 118 8 will
+118 119 10 described
+119 120 9 be
+120 121 11 . 2.99345695972
+121
+0 122 1 next
+122 123 2 ,
+123 124 7 embodiment
+124 125 6 this
+125 126 5 of
+126 127 3 the
+127 128 4 operation
+128 129 8 will
+129 130 9 be
+130 131 10 described
+131 132 11 . 7.38378239721
+132
+0 133 1 next
+133 134 2 ,
+134 135 3 the
+135 136 6 this
+136 137 7 embodiment
+137 138 5 of
+138 139 4 operation
+139 140 9 be
+140 141 8 will
+141 142 10 described
+142 143 11 . 5.77434448477
+143
+0 144 1 next
+144 145 2 ,
+145 146 6 this
+146 147 7 embodiment
+147 148 3 the
+148 149 4 operation
+149 150 5 of
+150 151 8 will
+151 152 9 be
+152 153 10 described
+153 154 11 . 7.78924750531
+154
+0 155 1 next
+155 156 2 ,
+156 157 6 this
+157 158 7 embodiment
+158 159 5 of
+159 160 3 the
+160 161 4 operation
+161 162 9 be
+162 163 10 described
+163 164 8 will
+164 165 11 . 4.65375328938
+165
+0 166 1 next
+166 167 2 ,
+167 168 7 embodiment
+168 169 6 this
+169 170 5 of
+170 171 3 the
+171 172 4 operation
+172 173 8 will
+173 174 10 described
+174 175 9 be
+175 176 11 . 6.87295677344
+176

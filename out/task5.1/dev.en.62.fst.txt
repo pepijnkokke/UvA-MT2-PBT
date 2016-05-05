@@ -1,0 +1,216 @@
+0 1 1 the
+1 2 6 an
+2 3 7 image
+3 4 8 recording
+4 5 9 apparatus
+5 6 5 to
+6 7 4 relates
+7 8 2 present
+8 9 3 invention
+9 10 12 a
+10 11 13 copy
+11 12 14 machine
+12 13 15 or
+13 14 16 printer
+14 15 11 in
+15 16 10 used
+16 17 17 . 0.356830573851
+17
+0 18 1 the
+18 19 12 a
+19 20 13 copy
+20 21 14 machine
+21 22 15 or
+22 23 16 printer
+23 24 11 in
+24 25 6 an
+25 26 7 image
+26 27 8 recording
+27 28 9 apparatus
+28 29 5 to
+29 30 4 relates
+30 31 2 present
+31 32 3 invention
+32 33 10 used
+33 34 17 . 2.3113378841
+34
+0 35 1 the
+35 36 6 an
+36 37 7 image
+37 38 8 recording
+38 39 9 apparatus
+39 40 12 a
+40 41 13 copy
+41 42 14 machine
+42 43 15 or
+43 44 16 printer
+44 45 11 in
+45 46 10 used
+46 47 5 to
+47 48 4 relates
+48 49 2 present
+49 50 3 invention
+50 51 17 . 2.65553216682
+51
+0 52 1 the
+52 53 12 a
+53 54 13 copy
+54 55 14 machine
+55 56 15 or
+56 57 16 printer
+57 58 6 an
+58 59 7 image
+59 60 8 recording
+60 61 9 apparatus
+61 62 5 to
+62 63 4 relates
+63 64 2 present
+64 65 3 invention
+65 66 11 in
+66 67 10 used
+67 68 17 . 7.51534457118
+68
+0 69 1 the
+69 70 6 an
+70 71 7 image
+71 72 12 a
+72 73 13 copy
+73 74 14 machine
+74 75 15 or
+75 76 16 printer
+76 77 11 in
+77 78 8 recording
+78 79 9 apparatus
+79 80 10 used
+80 81 5 to
+81 82 4 relates
+82 83 2 present
+83 84 3 invention
+84 85 17 . 6.82219739062
+85
+0 86 1 the
+86 87 12 a
+87 88 13 copy
+88 89 14 machine
+89 90 15 or
+90 91 16 printer
+91 92 11 in
+92 93 6 an
+93 94 7 image
+94 95 8 recording
+95 96 9 apparatus
+96 97 10 used
+97 98 5 to
+98 99 4 relates
+99 100 2 present
+100 101 3 invention
+101 102 17 . 2.51813229742
+102
+0 103 1 the
+103 104 12 a
+104 105 13 copy
+105 106 14 machine
+106 107 15 or
+107 108 16 printer
+108 109 11 in
+109 110 6 an
+110 111 7 image
+111 112 8 recording
+112 113 9 apparatus
+113 114 5 to
+114 115 4 relates
+115 116 10 used
+116 117 2 present
+117 118 3 invention
+118 119 17 . 3.29583686601
+119
+0 120 1 the
+120 121 6 an
+121 122 7 image
+122 123 8 recording
+123 124 9 apparatus
+124 125 5 to
+125 126 4 relates
+126 127 2 present
+127 128 3 invention
+128 129 12 a
+129 130 13 copy
+130 131 14 machine
+131 132 15 or
+132 133 11 in
+133 134 16 printer
+134 135 10 used
+135 136 17 . 6.41673228252
+136
+0 137 1 the
+137 138 12 a
+138 139 13 copy
+139 140 14 machine
+140 141 15 or
+141 142 11 in
+142 143 6 an
+143 144 7 image
+144 145 8 recording
+145 146 9 apparatus
+146 147 5 to
+147 148 4 relates
+148 149 2 present
+149 150 3 invention
+150 151 10 used
+151 152 16 printer
+152 153 17 . 4.87628724157
+153
+0 154 1 the
+154 155 12 a
+155 156 13 copy
+156 157 14 machine
+157 158 15 or
+158 159 11 in
+159 160 16 printer
+160 161 6 an
+161 162 7 image
+162 163 8 recording
+163 164 9 apparatus
+164 165 5 to
+165 166 4 relates
+166 167 2 present
+167 168 3 invention
+168 169 10 used
+169 170 17 . 7.51534457118
+170
+0 171 1 the
+171 172 6 an
+172 173 7 image
+173 174 8 recording
+174 175 9 apparatus
+175 176 5 to
+176 177 4 relates
+177 178 2 present
+178 179 3 invention
+179 180 12 a
+180 181 13 copy
+181 182 14 machine
+182 183 16 printer
+183 184 15 or
+184 185 11 in
+185 186 10 used
+186 187 17 . 7.51534457118
+187
+0 188 1 the
+188 189 6 an
+189 190 7 image
+190 191 12 a
+191 192 13 copy
+192 193 14 machine
+193 194 15 or
+194 195 11 in
+195 196 16 printer
+196 197 8 recording
+197 198 9 apparatus
+198 199 10 used
+199 200 5 to
+200 201 4 relates
+201 202 2 present
+202 203 3 invention
+203 204 17 . 6.82219739062
+204

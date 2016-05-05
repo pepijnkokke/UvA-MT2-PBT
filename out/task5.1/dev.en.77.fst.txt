@@ -1,0 +1,320 @@
+0 1 1 selection
+1 2 2 transistors
+2 3 3 st
+3 4 16 bit
+4 5 17 lines
+5 6 18 42
+6 7 12 memory
+7 8 13 transistors
+8 9 14 mt
+9 10 15 and
+10 11 11 between
+11 12 9 a
+12 13 10 signal
+13 14 6 transmit
+14 15 7 or
+15 16 8 block
+16 17 5 to
+17 18 4 behaves
+18 19 19 . 0.509331971508
+19
+0 20 1 selection
+20 21 2 transistors
+21 22 3 st
+22 23 16 bit
+23 24 17 lines
+24 25 18 42
+25 26 12 memory
+26 27 13 transistors
+27 28 14 mt
+28 29 15 and
+29 30 11 between
+30 31 9 a
+31 32 10 signal
+32 33 6 transmit
+33 34 7 or
+34 35 8 block
+35 36 4 behaves
+36 37 5 to
+37 38 19 . 2.47449763387
+38
+0 39 1 selection
+39 40 2 transistors
+40 41 3 st
+41 42 16 bit
+42 43 17 lines
+43 44 18 42
+44 45 12 memory
+45 46 13 transistors
+46 47 14 mt
+47 48 15 and
+48 49 11 between
+49 50 9 a
+50 51 10 signal
+51 52 4 behaves
+52 53 6 transmit
+53 54 7 or
+54 55 8 block
+55 56 5 to
+56 57 19 . 5.11948969901
+57
+0 58 1 selection
+58 59 2 transistors
+59 60 3 st
+60 61 16 bit
+61 62 17 lines
+62 63 18 42
+63 64 12 memory
+64 65 13 transistors
+65 66 14 mt
+66 67 11 between
+67 68 15 and
+68 69 9 a
+69 70 10 signal
+70 71 6 transmit
+71 72 7 or
+72 73 8 block
+73 74 5 to
+74 75 4 behaves
+75 76 19 . 6.91124916824
+76
+0 77 1 selection
+77 78 2 transistors
+78 79 3 st
+79 80 16 bit
+80 81 17 lines
+81 82 18 42
+82 83 12 memory
+83 84 13 transistors
+84 85 14 mt
+85 86 15 and
+86 87 11 between
+87 88 9 a
+88 89 10 signal
+89 90 5 to
+90 91 6 transmit
+91 92 7 or
+92 93 8 block
+93 94 4 behaves
+94 95 19 . 4.34629981077
+95
+0 96 1 selection
+96 97 2 transistors
+97 98 3 st
+98 99 12 memory
+99 100 16 bit
+100 101 17 lines
+101 102 18 42
+102 103 13 transistors
+103 104 14 mt
+104 105 15 and
+105 106 11 between
+106 107 9 a
+107 108 10 signal
+108 109 6 transmit
+109 110 7 or
+110 111 8 block
+111 112 5 to
+112 113 4 behaves
+113 114 19 . 7.6043963488
+114
+0 115 1 selection
+115 116 2 transistors
+116 117 3 st
+117 118 16 bit
+118 119 17 lines
+119 120 18 42
+120 121 4 behaves
+121 122 12 memory
+122 123 13 transistors
+123 124 14 mt
+124 125 15 and
+125 126 11 between
+126 127 9 a
+127 128 10 signal
+128 129 6 transmit
+129 130 7 or
+130 131 8 block
+131 132 5 to
+132 133 19 . 6.91124916824
+133
+0 134 1 selection
+134 135 2 transistors
+135 136 3 st
+136 137 4 behaves
+137 138 16 bit
+138 139 17 lines
+139 140 18 42
+140 141 12 memory
+141 142 13 transistors
+142 143 14 mt
+143 144 15 and
+144 145 11 between
+145 146 9 a
+146 147 10 signal
+147 148 6 transmit
+148 149 7 or
+149 150 8 block
+150 151 5 to
+151 152 19 . 2.95043599864
+152
+0 153 1 selection
+153 154 2 transistors
+154 155 3 st
+155 156 16 bit
+156 157 17 lines
+157 158 18 42
+158 159 12 memory
+159 160 13 transistors
+160 161 14 mt
+161 162 15 and
+162 163 11 between
+163 164 9 a
+164 165 10 signal
+165 166 7 or
+166 167 8 block
+167 168 6 transmit
+168 169 5 to
+169 170 4 behaves
+170 171 19 . 1.97677523511
+171
+0 172 1 selection
+172 173 2 transistors
+173 174 3 st
+174 175 16 bit
+175 176 17 lines
+176 177 18 42
+177 178 12 memory
+178 179 13 transistors
+179 180 14 mt
+180 181 15 and
+181 182 11 between
+182 183 9 a
+183 184 10 signal
+184 185 7 or
+185 186 8 block
+186 187 6 transmit
+187 188 4 behaves
+188 189 5 to
+189 190 19 . 3.52685890489
+190
+0 191 1 selection
+191 192 2 transistors
+192 193 3 st
+193 194 16 bit
+194 195 17 lines
+195 196 18 42
+196 197 12 memory
+197 198 13 transistors
+198 199 14 mt
+199 200 15 and
+200 201 11 between
+201 202 5 to
+202 203 9 a
+203 204 10 signal
+204 205 6 transmit
+205 206 7 or
+206 207 8 block
+207 208 4 behaves
+208 209 19 . 6.21810198768
+209
+0 210 1 selection
+210 211 2 transistors
+211 212 3 st
+212 213 16 bit
+213 214 17 lines
+214 215 18 42
+215 216 12 memory
+216 217 13 transistors
+217 218 14 mt
+218 219 15 and
+219 220 11 between
+220 221 9 a
+221 222 10 signal
+222 223 7 or
+223 224 8 block
+224 225 5 to
+225 226 6 transmit
+226 227 4 behaves
+227 228 19 . 6.50578406013
+228
+0 229 1 selection
+229 230 2 transistors
+230 231 3 st
+231 232 16 bit
+232 233 17 lines
+233 234 18 42
+234 235 12 memory
+235 236 13 transistors
+236 237 14 mt
+237 238 15 and
+238 239 11 between
+239 240 9 a
+240 241 10 signal
+241 242 5 to
+242 243 4 behaves
+243 244 6 transmit
+244 245 7 or
+245 246 8 block
+246 247 19 . 5.40717177146
+247
+0 248 1 selection
+248 249 2 transistors
+249 250 3 st
+250 251 16 bit
+251 252 17 lines
+252 253 18 42
+253 254 12 memory
+254 255 13 transistors
+255 256 14 mt
+256 257 15 and
+257 258 11 between
+258 259 9 a
+259 260 10 signal
+260 261 8 block
+261 262 6 transmit
+262 263 7 or
+263 264 5 to
+264 265 4 behaves
+265 266 19 . 6.91124916824
+266
+0 267 1 selection
+267 268 2 transistors
+268 269 3 st
+269 270 16 bit
+270 271 17 lines
+271 272 18 42
+272 273 12 memory
+273 274 13 transistors
+274 275 14 mt
+275 276 15 and
+276 277 11 between
+277 278 9 a
+278 279 10 signal
+279 280 4 behaves
+280 281 5 to
+281 282 6 transmit
+282 283 7 or
+283 284 8 block
+284 285 19 . 2.75236608488
+285
+0 286 1 selection
+286 287 2 transistors
+287 288 3 st
+288 289 16 bit
+289 290 17 lines
+290 291 18 42
+291 292 12 memory
+292 293 13 transistors
+293 294 14 mt
+294 295 15 and
+295 296 11 between
+296 297 4 behaves
+297 298 9 a
+298 299 10 signal
+299 300 5 to
+300 301 6 transmit
+301 302 7 or
+302 303 8 block
+303 304 19 . 7.6043963488
+304

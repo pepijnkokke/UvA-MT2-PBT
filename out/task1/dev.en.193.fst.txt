@@ -1,0 +1,13 @@
+0 1 1 the
+1 2 2 way
+2 3 3 words
+3 4 4 are
+4 5 5 expressed
+5 6 6 depends
+6 7 7 on
+7 8 8 the
+8 9 9 type
+9 10 10 of
+10 11 11 cpu
+11 12 12 .
+12

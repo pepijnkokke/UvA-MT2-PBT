@@ -1,0 +1,195 @@
+0 1 1 the
+1 2 2 processor
+2 3 4 this
+3 4 5 state
+4 5 9 valid
+5 6 10 data
+6 7 8 that
+7 8 6 and
+8 9 7 determines
+9 10 3 monitors
+10 11 11 is
+11 12 13 output
+12 13 12 not
+13 14 14 . 2.46207861723
+14
+0 15 1 the
+15 16 2 processor
+16 17 4 this
+17 18 5 state
+18 19 9 valid
+19 20 10 data
+20 21 6 and
+21 22 7 determines
+22 23 8 that
+23 24 3 monitors
+24 25 11 is
+25 26 13 output
+26 27 12 not
+27 28 14 . 5.64013244758
+28
+0 29 1 the
+29 30 2 processor
+30 31 4 this
+31 32 5 state
+32 33 3 monitors
+33 34 9 valid
+34 35 10 data
+35 36 8 that
+36 37 6 and
+37 38 7 determines
+38 39 11 is
+39 40 13 output
+40 41 12 not
+41 42 14 . 0.865219487003
+42
+0 43 1 the
+43 44 2 processor
+44 45 9 valid
+45 46 10 data
+46 47 4 this
+47 48 5 state
+48 49 8 that
+49 50 6 and
+50 51 7 determines
+51 52 3 monitors
+52 53 11 is
+53 54 13 output
+54 55 12 not
+55 56 14 . 3.62522942704
+56
+0 57 4 this
+57 58 5 state
+58 59 1 the
+59 60 2 processor
+60 61 3 monitors
+61 62 9 valid
+62 63 10 data
+63 64 8 that
+64 65 6 and
+65 66 7 determines
+66 67 11 is
+67 68 13 output
+68 69 12 not
+69 70 14 . 1.10217101129
+70
+0 71 1 the
+71 72 2 processor
+72 73 4 this
+73 74 5 state
+74 75 9 valid
+75 76 10 data
+76 77 8 that
+77 78 6 and
+78 79 7 determines
+79 80 11 is
+80 81 3 monitors
+81 82 13 output
+82 83 12 not
+83 84 14 . 6.33327962814
+84
+0 85 1 the
+85 86 4 this
+86 87 5 state
+87 88 3 monitors
+88 89 2 processor
+89 90 9 valid
+90 91 10 data
+91 92 8 that
+92 93 6 and
+93 94 7 determines
+94 95 11 is
+95 96 13 output
+96 97 12 not
+97 98 14 . 4.72384171571
+98
+0 99 1 the
+99 100 2 processor
+100 101 9 valid
+101 102 10 data
+102 103 8 that
+103 104 4 this
+104 105 5 state
+105 106 6 and
+106 107 7 determines
+107 108 3 monitors
+108 109 11 is
+109 110 13 output
+110 111 12 not
+111 112 14 . 3.69422229853
+112
+0 113 1 the
+113 114 2 processor
+114 115 4 this
+115 116 3 monitors
+116 117 5 state
+117 118 9 valid
+118 119 10 data
+119 120 8 that
+120 121 6 and
+121 122 7 determines
+122 123 11 is
+123 124 13 output
+124 125 12 not
+125 126 14 . 5.64013244758
+126
+0 127 1 the
+127 128 2 processor
+128 129 9 valid
+129 130 10 data
+130 131 4 this
+131 132 5 state
+132 133 3 monitors
+133 134 8 that
+134 135 6 and
+135 136 7 determines
+136 137 11 is
+137 138 13 output
+138 139 12 not
+139 140 14 . 5.64013244758
+140
+0 141 1 the
+141 142 2 processor
+142 143 4 this
+143 144 5 state
+144 145 3 monitors
+145 146 9 valid
+146 147 10 data
+147 148 6 and
+148 149 7 determines
+149 150 8 that
+150 151 11 is
+151 152 13 output
+152 153 12 not
+153 154 14 . 2.93208224648
+154
+0 155 1 the
+155 156 2 processor
+156 157 4 this
+157 158 5 state
+158 159 8 that
+159 160 9 valid
+160 161 10 data
+161 162 6 and
+162 163 7 determines
+163 164 3 monitors
+164 165 11 is
+165 166 13 output
+166 167 12 not
+167 168 14 . 4.38736947908
+168
+0 169 4 this
+169 170 1 the
+170 171 2 processor
+171 172 3 monitors
+172 173 5 state
+173 174 9 valid
+174 175 10 data
+175 176 8 that
+176 177 6 and
+177 178 7 determines
+178 179 11 is
+179 180 13 output
+180 181 12 not
+181 182 14 . 3.76833027068
+182

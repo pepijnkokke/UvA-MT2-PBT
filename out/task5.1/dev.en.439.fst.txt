@@ -1,0 +1,198 @@
+0 1 1 step
+1 2 2 183
+2 3 3 is
+3 4 15 vapor
+4 5 16 deposition
+5 6 14 by
+6 7 12 the
+7 8 13 wafer
+8 9 11 on
+9 10 9 forming
+10 11 10 electrodes
+11 12 8 for
+12 13 4 an
+13 14 5 electrode
+14 15 6 forming
+15 16 7 process
+16 17 17 . 0.615915832625
+17
+0 18 1 step
+18 19 2 183
+19 20 3 is
+20 21 15 vapor
+21 22 16 deposition
+22 23 14 by
+23 24 12 the
+24 25 13 wafer
+25 26 11 on
+26 27 9 forming
+27 28 8 for
+28 29 10 electrodes
+29 30 4 an
+30 31 5 electrode
+31 32 6 forming
+32 33 7 process
+33 34 17 . 5.03776396148
+34
+0 35 1 step
+35 36 2 183
+36 37 3 is
+37 38 15 vapor
+38 39 16 deposition
+39 40 14 by
+40 41 12 the
+41 42 13 wafer
+42 43 11 on
+43 44 8 for
+44 45 9 forming
+45 46 10 electrodes
+46 47 4 an
+47 48 5 electrode
+48 49 6 forming
+49 50 7 process
+50 51 17 . 1.33235520542
+51
+0 52 1 step
+52 53 2 183
+53 54 3 is
+54 55 15 vapor
+55 56 16 deposition
+56 57 14 by
+57 58 12 the
+58 59 13 wafer
+59 60 11 on
+60 61 10 electrodes
+61 62 9 forming
+62 63 8 for
+63 64 4 an
+64 65 5 electrode
+65 66 6 forming
+66 67 7 process
+67 68 17 . 2.48571800886
+68
+0 69 1 step
+69 70 2 183
+70 71 3 is
+71 72 16 deposition
+72 73 15 vapor
+73 74 14 by
+74 75 12 the
+75 76 13 wafer
+76 77 11 on
+77 78 9 forming
+78 79 10 electrodes
+79 80 8 for
+80 81 4 an
+81 82 5 electrode
+82 83 6 forming
+83 84 7 process
+84 85 17 . 3.15957198648
+85
+0 86 1 step
+86 87 2 183
+87 88 3 is
+88 89 15 vapor
+89 90 16 deposition
+90 91 14 by
+91 92 13 wafer
+92 93 12 the
+93 94 11 on
+94 95 9 forming
+95 96 10 electrodes
+96 97 8 for
+97 98 4 an
+98 99 5 electrode
+99 100 6 forming
+100 101 7 process
+101 102 17 . 4.55225614571
+102
+0 103 1 step
+103 104 2 183
+104 105 3 is
+105 106 15 vapor
+106 107 16 deposition
+107 108 14 by
+108 109 12 the
+109 110 13 wafer
+110 111 11 on
+111 112 10 electrodes
+112 113 8 for
+113 114 9 forming
+114 115 4 an
+115 116 5 electrode
+116 117 6 forming
+117 118 7 process
+118 119 17 . 4.01112517244
+119
+0 120 1 step
+120 121 2 183
+121 122 3 is
+122 123 16 deposition
+123 124 15 vapor
+124 125 14 by
+125 126 12 the
+126 127 13 wafer
+127 128 11 on
+128 129 9 forming
+129 130 8 for
+130 131 10 electrodes
+131 132 4 an
+132 133 5 electrode
+133 134 6 forming
+134 135 7 process
+135 136 17 . 7.11720550316
+136
+0 137 1 step
+137 138 2 183
+138 139 3 is
+139 140 15 vapor
+140 141 16 deposition
+141 142 12 the
+142 143 13 wafer
+143 144 14 by
+144 145 11 on
+145 146 9 forming
+146 147 10 electrodes
+147 148 8 for
+148 149 4 an
+149 150 5 electrode
+150 151 6 forming
+151 152 7 process
+152 153 17 . 4.81462041017
+153
+0 154 1 step
+154 155 2 183
+155 156 3 is
+156 157 15 vapor
+157 158 16 deposition
+158 159 14 by
+159 160 12 the
+160 161 13 wafer
+161 162 11 on
+162 163 9 forming
+163 164 10 electrodes
+164 165 4 an
+165 166 5 electrode
+166 167 8 for
+167 168 6 forming
+168 169 7 process
+169 170 17 . 6.6063798794
+170
+0 171 1 step
+171 172 2 183
+172 173 3 is
+173 174 14 by
+174 175 15 vapor
+175 176 16 deposition
+176 177 12 the
+177 178 13 wafer
+178 179 11 on
+179 180 9 forming
+180 181 10 electrodes
+181 182 8 for
+182 183 4 an
+183 184 5 electrode
+184 185 6 forming
+185 186 7 process
+186 187 17 . 3.69402921478
+187

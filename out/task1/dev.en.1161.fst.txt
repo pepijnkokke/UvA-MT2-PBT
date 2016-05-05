@@ -1,0 +1,13 @@
+0 1 1 the
+1 2 2 structure
+2 3 3 and
+3 4 4 function
+4 5 5 of
+5 6 6 each
+6 7 7 constituent
+7 8 8 element
+8 9 9 will
+9 10 10 be
+10 11 11 described
+11 12 12 .
+12

@@ -1,0 +1,15 @@
+0 1 1 in
+1 2 2 the
+2 3 3 following
+3 4 4 there
+4 5 5 will
+5 6 6 be
+6 7 7 explained
+7 8 8 another
+8 9 9 embodiment
+9 10 10 of
+10 11 11 the
+11 12 12 present
+12 13 13 invention
+13 14 14 .
+14

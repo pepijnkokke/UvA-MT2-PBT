@@ -1,0 +1,323 @@
+0 1 1 the
+1 2 2 uneven
+2 3 3 luster
+3 4 9 or
+4 5 16 visual
+5 6 17 inspection
+6 7 15 by
+7 8 11 it
+8 9 14 perceived
+9 10 13 be
+10 11 12 can
+11 12 10 not
+12 13 8 whether
+13 14 7 judging
+14 15 6 by
+15 16 4 was
+16 17 5 evaluated
+17 18 18 . 1.24300679355
+18
+0 19 1 the
+19 20 2 uneven
+20 21 3 luster
+21 22 9 or
+22 23 16 visual
+23 24 17 inspection
+24 25 15 by
+25 26 14 perceived
+26 27 11 it
+27 28 13 be
+28 29 12 can
+29 30 10 not
+30 31 8 whether
+31 32 7 judging
+32 33 6 by
+33 34 4 was
+34 35 5 evaluated
+35 36 18 . 5.18458860122
+36
+0 37 1 the
+37 38 2 uneven
+38 39 3 luster
+39 40 9 or
+40 41 16 visual
+41 42 17 inspection
+42 43 15 by
+43 44 11 it
+44 45 13 be
+45 46 14 perceived
+46 47 12 can
+47 48 10 not
+48 49 8 whether
+49 50 7 judging
+50 51 6 by
+51 52 4 was
+52 53 5 evaluated
+53 54 18 . 4.08597631255
+54
+0 55 1 the
+55 56 2 uneven
+56 57 3 luster
+57 58 9 or
+58 59 11 it
+59 60 16 visual
+60 61 17 inspection
+61 62 15 by
+62 63 14 perceived
+63 64 13 be
+64 65 12 can
+65 66 10 not
+66 67 8 whether
+67 68 7 judging
+68 69 6 by
+69 70 4 was
+70 71 5 evaluated
+71 72 18 . 1.15923691048
+72
+0 73 1 the
+73 74 2 uneven
+74 75 3 luster
+75 76 9 or
+76 77 16 visual
+77 78 17 inspection
+78 79 15 by
+79 80 11 it
+80 81 14 perceived
+81 82 13 be
+82 83 12 can
+83 84 10 not
+84 85 8 whether
+85 86 7 judging
+86 87 6 by
+87 88 5 evaluated
+88 89 4 was
+89 90 18 . 2.58189891578
+90
+0 91 1 the
+91 92 3 luster
+92 93 2 uneven
+93 94 9 or
+94 95 16 visual
+95 96 17 inspection
+96 97 15 by
+97 98 11 it
+98 99 14 perceived
+99 100 13 be
+100 101 12 can
+101 102 10 not
+102 103 8 whether
+103 104 7 judging
+104 105 6 by
+105 106 4 was
+106 107 5 evaluated
+107 108 18 . 4.26829786935
+108
+0 109 1 the
+109 110 2 uneven
+110 111 3 luster
+111 112 4 was
+112 113 9 or
+113 114 16 visual
+114 115 17 inspection
+115 116 15 by
+116 117 11 it
+117 118 14 perceived
+118 119 13 be
+119 120 12 can
+120 121 10 not
+121 122 8 whether
+122 123 7 judging
+123 124 6 by
+124 125 5 evaluated
+125 126 18 . 2.29421684333
+126
+0 127 1 the
+127 128 2 uneven
+128 129 3 luster
+129 130 9 or
+130 131 16 visual
+131 132 17 inspection
+132 133 15 by
+133 134 11 it
+134 135 14 perceived
+135 136 13 be
+136 137 12 can
+137 138 10 not
+138 139 8 whether
+139 140 4 was
+140 141 7 judging
+141 142 6 by
+142 143 5 evaluated
+143 144 18 . 3.39282913199
+144
+0 145 1 the
+145 146 2 uneven
+146 147 3 luster
+147 148 9 or
+148 149 16 visual
+149 150 17 inspection
+150 151 11 it
+151 152 14 perceived
+152 153 15 by
+153 154 13 be
+154 155 12 can
+155 156 10 not
+156 157 8 whether
+157 158 7 judging
+158 159 6 by
+159 160 4 was
+160 161 5 evaluated
+161 162 18 . 5.87773578178
+162
+0 163 1 the
+163 164 2 uneven
+164 165 3 luster
+165 166 9 or
+166 167 11 it
+167 168 16 visual
+168 169 17 inspection
+169 170 15 by
+170 171 13 be
+171 172 14 perceived
+172 173 12 can
+173 174 10 not
+174 175 8 whether
+175 176 7 judging
+176 177 6 by
+177 178 4 was
+178 179 5 evaluated
+179 180 18 . 4.49144142066
+180
+0 181 1 the
+181 182 2 uneven
+182 183 3 luster
+183 184 9 or
+184 185 16 visual
+185 186 17 inspection
+186 187 15 by
+187 188 14 perceived
+188 189 11 it
+189 190 13 be
+190 191 12 can
+191 192 10 not
+192 193 8 whether
+193 194 7 judging
+194 195 6 by
+195 196 5 evaluated
+196 197 4 was
+197 198 18 . 5.18458860122
+198
+0 199 1 the
+199 200 3 luster
+200 201 2 uneven
+201 202 9 or
+202 203 16 visual
+203 204 17 inspection
+204 205 15 by
+205 206 14 perceived
+206 207 11 it
+207 208 13 be
+208 209 12 can
+209 210 10 not
+210 211 8 whether
+211 212 7 judging
+212 213 6 by
+213 214 4 was
+214 215 5 evaluated
+215 216 18 . 5.87773578178
+216
+0 217 1 the
+217 218 2 uneven
+218 219 3 luster
+219 220 4 was
+220 221 9 or
+221 222 16 visual
+222 223 17 inspection
+223 224 15 by
+224 225 14 perceived
+225 226 11 it
+226 227 13 be
+227 228 12 can
+228 229 10 not
+229 230 8 whether
+230 231 7 judging
+231 232 6 by
+232 233 5 evaluated
+233 234 18 . 5.87773578178
+234
+0 235 1 the
+235 236 2 uneven
+236 237 3 luster
+237 238 9 or
+238 239 16 visual
+239 240 17 inspection
+240 241 15 by
+241 242 11 it
+242 243 13 be
+243 244 14 perceived
+244 245 12 can
+245 246 10 not
+246 247 8 whether
+247 248 7 judging
+248 249 6 by
+249 250 5 evaluated
+250 251 4 was
+251 252 18 . 5.18458860122
+252
+0 253 1 the
+253 254 2 uneven
+254 255 3 luster
+255 256 9 or
+256 257 16 visual
+257 258 17 inspection
+258 259 15 by
+259 260 14 perceived
+260 261 11 it
+261 262 13 be
+262 263 12 can
+263 264 10 not
+264 265 8 whether
+265 266 4 was
+266 267 7 judging
+267 268 6 by
+268 269 5 evaluated
+269 270 18 . 5.87773578178
+270
+0 271 1 the
+271 272 2 uneven
+272 273 3 luster
+273 274 9 or
+274 275 11 it
+275 276 16 visual
+276 277 17 inspection
+277 278 15 by
+278 279 14 perceived
+279 280 13 be
+280 281 12 can
+281 282 10 not
+282 283 8 whether
+283 284 7 judging
+284 285 6 by
+285 286 5 evaluated
+286 287 4 was
+287 288 18 . 2.21417413565
+288
+0 289 1 the
+289 290 2 uneven
+290 291 3 luster
+291 292 4 was
+292 293 9 or
+293 294 16 visual
+294 295 17 inspection
+295 296 15 by
+296 297 11 it
+297 298 13 be
+298 299 14 perceived
+299 300 12 can
+300 301 10 not
+301 302 8 whether
+302 303 7 judging
+303 304 6 by
+304 305 5 evaluated
+305 306 18 . 4.77912349311
+306

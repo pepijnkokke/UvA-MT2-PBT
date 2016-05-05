@@ -1,0 +1,13 @@
+0 1 1 the
+1 2 2 specified
+2 3 3 opposing
+3 4 4 voltage
+4 5 5 v.sub.com
+5 6 6 is
+6 7 7 applied
+7 8 8 to
+8 9 9 the
+9 10 10 opposing
+10 11 11 electrode
+11 12 12 .
+12

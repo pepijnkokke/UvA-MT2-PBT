@@ -1,0 +1,342 @@
+0 1 2 this
+1 2 3 manner
+2 3 1 in
+3 4 4 ,
+4 5 5 primary
+5 6 6 output
+6 7 7 circuit
+7 8 8 1
+8 9 9 and
+9 10 10 secondary
+10 11 11 output
+11 12 12 circuit
+12 13 13 10
+13 14 14 are
+14 15 15 operated
+15 16 16 cooperatively
+16 17 17 . 0.866986922298
+17
+0 18 2 this
+18 19 3 manner
+19 20 4 ,
+20 21 1 in
+21 22 5 primary
+22 23 6 output
+23 24 7 circuit
+24 25 8 1
+25 26 9 and
+26 27 10 secondary
+27 28 11 output
+28 29 12 circuit
+29 30 13 10
+30 31 14 are
+31 32 15 operated
+32 33 16 cooperatively
+33 34 17 . 1.9511766903
+34
+0 35 2 this
+35 36 1 in
+36 37 3 manner
+37 38 4 ,
+38 39 5 primary
+39 40 6 output
+40 41 7 circuit
+41 42 8 1
+42 43 9 and
+43 44 10 secondary
+44 45 11 output
+45 46 12 circuit
+46 47 13 10
+47 48 14 are
+48 49 15 operated
+49 50 16 cooperatively
+50 51 17 . 3.47543640683
+51
+0 52 2 this
+52 53 3 manner
+53 54 4 ,
+54 55 5 primary
+55 56 6 output
+56 57 7 circuit
+57 58 1 in
+58 59 8 1
+59 60 9 and
+60 61 10 secondary
+61 62 11 output
+62 63 12 circuit
+63 64 13 10
+64 65 14 are
+65 66 15 operated
+66 67 16 cooperatively
+67 68 17 . 7.4736371085
+68
+0 69 2 this
+69 70 3 manner
+70 71 1 in
+71 72 4 ,
+72 73 5 primary
+73 74 6 output
+74 75 7 circuit
+75 76 8 1
+76 77 9 and
+77 78 10 secondary
+78 79 11 output
+79 80 12 circuit
+80 81 13 10
+81 82 15 operated
+82 83 14 are
+83 84 16 cooperatively
+84 85 17 . 6.91402132056
+85
+0 86 3 manner
+86 87 2 this
+87 88 1 in
+88 89 4 ,
+89 90 5 primary
+90 91 6 output
+91 92 7 circuit
+92 93 8 1
+93 94 9 and
+94 95 10 secondary
+95 96 11 output
+96 97 12 circuit
+97 98 13 10
+98 99 14 are
+99 100 15 operated
+100 101 16 cooperatively
+101 102 17 . 8.85993146962
+102
+0 103 2 this
+103 104 3 manner
+104 105 4 ,
+105 106 1 in
+106 107 5 primary
+107 108 6 output
+108 109 7 circuit
+109 110 8 1
+110 111 9 and
+111 112 10 secondary
+112 113 11 output
+113 114 12 circuit
+114 115 13 10
+115 116 15 operated
+116 117 14 are
+117 118 16 cooperatively
+118 119 17 . 8.85993146962
+119
+0 120 2 this
+120 121 3 manner
+121 122 4 ,
+122 123 5 primary
+123 124 6 output
+124 125 7 circuit
+125 126 8 1
+126 127 1 in
+127 128 9 and
+128 129 10 secondary
+129 130 11 output
+130 131 12 circuit
+131 132 13 10
+132 133 14 are
+133 134 15 operated
+134 135 16 cooperatively
+135 136 17 . 4.06414092402
+136
+0 137 1 in
+137 138 2 this
+138 139 3 manner
+139 140 4 ,
+140 141 5 primary
+141 142 6 output
+142 143 7 circuit
+143 144 8 1
+144 145 9 and
+145 146 10 secondary
+146 147 11 output
+147 148 12 circuit
+148 149 13 10
+149 150 14 are
+150 151 15 operated
+151 152 16 cooperatively
+152 153 17 . 1.38686238158
+153
+0 154 2 this
+154 155 3 manner
+155 156 4 ,
+156 157 5 primary
+157 158 6 output
+158 159 7 circuit
+159 160 8 1
+160 161 9 and
+161 162 1 in
+162 163 10 secondary
+163 164 11 output
+164 165 12 circuit
+165 166 13 10
+166 167 14 are
+167 168 15 operated
+168 169 16 cooperatively
+169 170 17 . 2.0497890195
+170
+0 171 2 this
+171 172 3 manner
+172 173 1 in
+173 174 5 primary
+174 175 6 output
+175 176 4 ,
+176 177 7 circuit
+177 178 8 1
+178 179 9 and
+179 180 10 secondary
+180 181 11 output
+181 182 12 circuit
+182 183 13 10
+183 184 14 are
+184 185 15 operated
+185 186 16 cooperatively
+186 187 17 . 8.85993146962
+187
+0 188 4 ,
+188 189 2 this
+189 190 3 manner
+190 191 1 in
+191 192 5 primary
+192 193 6 output
+193 194 7 circuit
+194 195 8 1
+195 196 9 and
+196 197 10 secondary
+197 198 11 output
+198 199 12 circuit
+199 200 13 10
+200 201 14 are
+201 202 15 operated
+202 203 16 cooperatively
+203 204 17 . 8.16678428906
+204
+0 205 1 in
+205 206 2 this
+206 207 3 manner
+207 208 4 ,
+208 209 5 primary
+209 210 6 output
+210 211 7 circuit
+211 212 8 1
+212 213 9 and
+213 214 10 secondary
+214 215 11 output
+215 216 12 circuit
+216 217 13 10
+217 218 15 operated
+218 219 14 are
+219 220 16 cooperatively
+220 221 17 . 7.25049355718
+221
+0 222 2 this
+222 223 3 manner
+223 224 4 ,
+224 225 5 primary
+225 226 6 output
+226 227 7 circuit
+227 228 8 1
+228 229 9 and
+229 230 10 secondary
+230 231 11 output
+231 232 1 in
+232 233 12 circuit
+233 234 13 10
+234 235 14 are
+235 236 15 operated
+236 237 16 cooperatively
+237 238 17 . 8.85993146962
+238
+0 239 2 this
+239 240 3 manner
+240 241 4 ,
+241 242 5 primary
+242 243 6 output
+243 244 7 circuit
+244 245 8 1
+245 246 9 and
+246 247 1 in
+247 248 10 secondary
+248 249 11 output
+249 250 12 circuit
+250 251 13 10
+251 252 15 operated
+252 253 14 are
+253 254 16 cooperatively
+254 255 17 . 8.85993146962
+255
+0 256 2 this
+256 257 3 manner
+257 258 1 in
+258 259 4 ,
+259 260 5 primary
+260 261 6 output
+261 262 7 circuit
+262 263 8 1
+263 264 10 secondary
+264 265 11 output
+265 266 12 circuit
+266 267 9 and
+267 268 13 10
+268 269 14 are
+269 270 15 operated
+270 271 16 cooperatively
+271 272 17 . 7.4736371085
+272
+0 273 2 this
+273 274 3 manner
+274 275 4 ,
+275 276 7 circuit
+276 277 5 primary
+277 278 6 output
+278 279 1 in
+279 280 8 1
+280 281 9 and
+281 282 10 secondary
+282 283 11 output
+283 284 12 circuit
+284 285 13 10
+285 286 14 are
+286 287 15 operated
+287 288 16 cooperatively
+288 289 17 . 8.85993146962
+289
+0 290 2 this
+290 291 3 manner
+291 292 4 ,
+292 293 5 primary
+293 294 6 output
+294 295 7 circuit
+295 296 8 1
+296 297 9 and
+297 298 10 secondary
+298 299 11 output
+299 300 12 circuit
+300 301 1 in
+301 302 13 10
+302 303 14 are
+303 304 15 operated
+304 305 16 cooperatively
+305 306 17 . 8.16678428906
+306
+0 307 2 this
+307 308 3 manner
+308 309 4 ,
+309 310 5 primary
+310 311 6 output
+311 312 7 circuit
+312 313 8 1
+313 314 9 and
+314 315 10 secondary
+315 316 11 output
+316 317 12 circuit
+317 318 13 10
+318 319 1 in
+319 320 14 are
+320 321 15 operated
+321 322 16 cooperatively
+322 323 17 . 5.00978386791
+323

@@ -1,0 +1,234 @@
+0 1 1 nozzle
+1 2 2 clogging
+2 3 3 matters
+3 4 10 the
+4 5 11 ink
+5 6 9 of
+6 7 7 a
+7 8 8 flow
+8 9 6 with
+9 10 4 are
+10 11 5 eliminated
+11 12 12 . 0.106372209737
+12
+0 13 1 nozzle
+13 14 2 clogging
+14 15 3 matters
+15 16 10 the
+16 17 11 ink
+17 18 9 of
+18 19 7 a
+19 20 8 flow
+20 21 4 are
+21 22 5 eliminated
+22 23 6 with
+23 24 12 . 3.07827632254
+24
+0 25 1 nozzle
+25 26 2 clogging
+26 27 3 matters
+27 28 11 ink
+28 29 10 the
+29 30 9 of
+30 31 7 a
+31 32 8 flow
+32 33 6 with
+33 34 4 are
+34 35 5 eliminated
+35 36 12 . 3.63065094921
+36
+0 37 1 nozzle
+37 38 2 clogging
+38 39 3 matters
+39 40 10 the
+40 41 11 ink
+41 42 7 a
+42 43 9 of
+43 44 8 flow
+44 45 6 with
+45 46 4 are
+46 47 5 eliminated
+47 48 12 . 8.22577079935
+48
+0 49 1 nozzle
+49 50 2 clogging
+50 51 3 matters
+51 52 10 the
+52 53 11 ink
+53 54 9 of
+54 55 7 a
+55 56 8 flow
+56 57 6 with
+57 58 5 eliminated
+58 59 4 are
+59 60 12 . 5.66082144189
+60
+0 61 1 nozzle
+61 62 2 clogging
+62 63 3 matters
+63 64 11 ink
+64 65 10 the
+65 66 9 of
+66 67 7 a
+67 68 8 flow
+68 69 4 are
+69 70 5 eliminated
+70 71 6 with
+71 72 12 . 7.53262361879
+72
+0 73 1 nozzle
+73 74 2 clogging
+74 75 3 matters
+75 76 10 the
+76 77 11 ink
+77 78 9 of
+78 79 7 a
+79 80 8 flow
+80 81 5 eliminated
+81 82 4 are
+82 83 6 with
+83 84 12 . 7.53262361879
+84
+0 85 1 nozzle
+85 86 11 ink
+86 87 2 clogging
+87 88 3 matters
+88 89 10 the
+89 90 9 of
+90 91 7 a
+91 92 8 flow
+92 93 6 with
+93 94 4 are
+94 95 5 eliminated
+95 96 12 . 8.22577079935
+96
+0 97 1 nozzle
+97 98 2 clogging
+98 99 3 matters
+99 100 10 the
+100 101 11 ink
+101 102 9 of
+102 103 6 with
+103 104 7 a
+104 105 8 flow
+105 106 4 are
+106 107 5 eliminated
+107 108 12 . 5.66082144189
+108
+0 109 1 nozzle
+109 110 2 clogging
+110 111 3 matters
+111 112 10 the
+112 113 11 ink
+113 114 9 of
+114 115 8 flow
+115 116 6 with
+116 117 7 a
+117 118 4 are
+118 119 5 eliminated
+119 120 12 . 7.53262361879
+120
+0 121 1 nozzle
+121 122 2 clogging
+122 123 3 matters
+123 124 11 ink
+124 125 9 of
+125 126 10 the
+126 127 7 a
+127 128 8 flow
+128 129 6 with
+129 130 4 are
+130 131 5 eliminated
+131 132 12 . 6.83947643823
+132
+0 133 1 nozzle
+133 134 2 clogging
+134 135 3 matters
+135 136 11 ink
+136 137 10 the
+137 138 7 a
+138 139 9 of
+139 140 8 flow
+140 141 6 with
+141 142 4 are
+142 143 5 eliminated
+143 144 12 . 8.22577079935
+144
+0 145 1 nozzle
+145 146 2 clogging
+146 147 3 matters
+147 148 9 of
+148 149 10 the
+149 150 11 ink
+150 151 7 a
+151 152 8 flow
+152 153 6 with
+153 154 4 are
+154 155 5 eliminated
+155 156 12 . 7.12715851068
+156
+0 157 11 ink
+157 158 1 nozzle
+158 159 2 clogging
+159 160 3 matters
+160 161 10 the
+161 162 9 of
+162 163 7 a
+163 164 8 flow
+164 165 6 with
+165 166 4 are
+166 167 5 eliminated
+167 168 12 . 8.22577079935
+168
+0 169 1 nozzle
+169 170 2 clogging
+170 171 3 matters
+171 172 10 the
+172 173 11 ink
+173 174 7 a
+174 175 8 flow
+175 176 9 of
+176 177 6 with
+177 178 4 are
+178 179 5 eliminated
+179 180 12 . 6.43401133012
+180
+0 181 1 nozzle
+181 182 2 clogging
+182 183 10 the
+183 184 11 ink
+184 185 9 of
+185 186 7 a
+186 187 8 flow
+187 188 3 matters
+188 189 4 are
+189 190 5 eliminated
+190 191 6 with
+191 192 12 . 8.22577079935
+192
+0 193 1 nozzle
+193 194 2 clogging
+194 195 10 the
+195 196 11 ink
+196 197 9 of
+197 198 7 a
+198 199 8 flow
+199 200 6 with
+200 201 3 matters
+201 202 4 are
+202 203 5 eliminated
+203 204 12 . 8.22577079935
+204
+0 205 1 nozzle
+205 206 2 clogging
+206 207 3 matters
+207 208 4 are
+208 209 10 the
+209 210 11 ink
+210 211 9 of
+211 212 7 a
+212 213 8 flow
+213 214 6 with
+214 215 5 eliminated
+215 216 12 . 4.21843761412
+216

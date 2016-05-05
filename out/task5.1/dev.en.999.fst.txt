@@ -1,0 +1,126 @@
+0 1 1 the
+1 2 2 film
+2 3 3 supply
+3 4 4 unit
+4 5 5 520
+5 6 6 is
+6 7 14 accommodating
+7 8 15 a
+8 9 16 recording
+9 10 17 film
+10 11 18 rf
+11 12 13 for
+12 13 9 a
+13 14 10 film
+14 15 11 cassette
+15 16 12 522
+16 17 19 therein
+17 18 8 with
+18 19 7 provided
+19 20 20 . 4.50350653221
+20
+0 21 1 the
+21 22 2 film
+22 23 3 supply
+23 24 4 unit
+24 25 5 520
+25 26 6 is
+26 27 14 accommodating
+27 28 15 a
+28 29 16 recording
+29 30 17 film
+30 31 18 rf
+31 32 13 for
+32 33 9 a
+33 34 10 film
+34 35 11 cassette
+35 36 12 522
+36 37 8 with
+37 38 7 provided
+38 39 19 therein
+39 40 20 . 1.08168986335
+40
+0 41 1 the
+41 42 2 film
+42 43 3 supply
+43 44 4 unit
+44 45 5 520
+45 46 6 is
+46 47 14 accommodating
+47 48 15 a
+48 49 16 recording
+49 50 17 film
+50 51 18 rf
+51 52 19 therein
+52 53 13 for
+53 54 9 a
+54 55 10 film
+55 56 11 cassette
+56 57 12 522
+57 58 8 with
+58 59 7 provided
+59 60 20 . 0.454624344067
+60
+0 61 1 the
+61 62 2 film
+62 63 3 supply
+63 64 4 unit
+64 65 5 520
+65 66 6 is
+66 67 14 accommodating
+67 68 15 a
+68 69 16 recording
+69 70 17 film
+70 71 18 rf
+71 72 13 for
+72 73 19 therein
+73 74 9 a
+74 75 10 film
+75 76 11 cassette
+76 77 12 522
+77 78 8 with
+78 79 7 provided
+79 80 20 . 5.1166110051
+80
+0 81 1 the
+81 82 2 film
+82 83 3 supply
+83 84 4 unit
+84 85 5 520
+85 86 6 is
+86 87 14 accommodating
+87 88 15 a
+88 89 16 recording
+89 90 17 film
+90 91 13 for
+91 92 18 rf
+92 93 9 a
+93 94 10 film
+94 95 11 cassette
+95 96 12 522
+96 97 8 with
+97 98 7 provided
+98 99 19 therein
+99 100 20 . 6.07212245013
+100
+0 101 1 the
+101 102 2 film
+102 103 3 supply
+103 104 4 unit
+104 105 5 520
+105 106 6 is
+106 107 14 accommodating
+107 108 15 a
+108 109 16 recording
+109 110 17 film
+110 111 13 for
+111 112 18 rf
+112 113 19 therein
+113 114 9 a
+114 115 10 film
+115 116 11 cassette
+116 117 12 522
+117 118 8 with
+118 119 7 provided
+119 120 20 . 4.97351016146
+120

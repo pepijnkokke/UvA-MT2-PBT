@@ -1,0 +1,420 @@
+0 1 1 difference
+1 2 2 j
+2 3 10 lower
+3 4 11 lead
+4 5 12 terminal
+5 6 13 3b
+6 7 9 of
+7 8 3 in
+8 9 4 depth
+9 10 5 includes
+10 11 6 plate
+11 12 7 thickness
+12 13 8 i
+13 14 14 . 1.03103051807
+14
+0 15 1 difference
+15 16 2 j
+16 17 10 lower
+17 18 11 lead
+18 19 12 terminal
+19 20 13 3b
+20 21 9 of
+21 22 4 depth
+22 23 3 in
+23 24 5 includes
+24 25 6 plate
+25 26 7 thickness
+26 27 8 i
+27 28 14 . 3.56835829823
+28
+0 29 1 difference
+29 30 2 j
+30 31 10 lower
+31 32 11 lead
+32 33 12 terminal
+33 34 13 3b
+34 35 3 in
+35 36 9 of
+36 37 4 depth
+37 38 5 includes
+38 39 6 plate
+39 40 7 thickness
+40 41 8 i
+41 42 14 . 8.13270648969
+42
+0 43 1 difference
+43 44 2 j
+44 45 10 lower
+45 46 11 lead
+46 47 12 terminal
+47 48 13 3b
+48 49 9 of
+49 50 4 depth
+50 51 5 includes
+51 52 3 in
+52 53 6 plate
+53 54 7 thickness
+54 55 8 i
+55 56 14 . 5.13697421614
+56
+0 57 1 difference
+57 58 2 j
+58 59 10 lower
+59 60 11 lead
+60 61 12 terminal
+61 62 13 3b
+62 63 9 of
+63 64 5 includes
+64 65 3 in
+65 66 4 depth
+66 67 6 plate
+67 68 7 thickness
+68 69 8 i
+69 70 14 . 6.34094702047
+70
+0 71 1 difference
+71 72 2 j
+72 73 10 lower
+73 74 11 lead
+74 75 12 terminal
+75 76 13 3b
+76 77 9 of
+77 78 4 depth
+78 79 5 includes
+79 80 6 plate
+80 81 3 in
+81 82 7 thickness
+82 83 8 i
+83 84 14 . 7.03409420103
+84
+0 85 1 difference
+85 86 2 j
+86 87 10 lower
+87 88 11 lead
+88 89 12 terminal
+89 90 13 3b
+90 91 9 of
+91 92 3 in
+92 93 4 depth
+93 94 5 includes
+94 95 7 thickness
+95 96 6 plate
+96 97 8 i
+97 98 14 . 6.74641212857
+98
+0 99 1 difference
+99 100 10 lower
+100 101 11 lead
+101 102 12 terminal
+102 103 13 3b
+103 104 9 of
+104 105 2 j
+105 106 3 in
+106 107 4 depth
+107 108 5 includes
+108 109 6 plate
+109 110 7 thickness
+110 111 8 i
+111 112 14 . 3.57882959809
+112
+0 113 1 difference
+113 114 2 j
+114 115 10 lower
+115 116 11 lead
+116 117 12 terminal
+117 118 13 3b
+118 119 9 of
+119 120 3 in
+120 121 5 includes
+121 122 6 plate
+122 123 4 depth
+123 124 7 thickness
+124 125 8 i
+125 126 14 . 8.13270648969
+126
+0 127 1 difference
+127 128 2 j
+128 129 10 lower
+129 130 11 lead
+130 131 12 terminal
+131 132 13 3b
+132 133 9 of
+133 134 4 depth
+134 135 5 includes
+135 136 6 plate
+136 137 7 thickness
+137 138 3 in
+138 139 8 i
+139 140 14 . 5.64779983991
+140
+0 141 1 difference
+141 142 2 j
+142 143 10 lower
+143 144 11 lead
+144 145 12 terminal
+145 146 13 3b
+146 147 9 of
+147 148 3 in
+148 149 4 depth
+149 150 6 plate
+150 151 7 thickness
+151 152 5 includes
+152 153 8 i
+153 154 14 . 3.9895717633
+154
+0 155 1 difference
+155 156 10 lower
+156 157 11 lead
+157 158 12 terminal
+158 159 13 3b
+159 160 9 of
+160 161 2 j
+161 162 4 depth
+162 163 3 in
+163 164 5 includes
+164 165 6 plate
+165 166 7 thickness
+166 167 8 i
+167 168 14 . 5.04166403634
+168
+0 169 1 difference
+169 170 2 j
+170 171 10 lower
+171 172 11 lead
+172 173 12 terminal
+173 174 13 3b
+174 175 9 of
+175 176 4 depth
+176 177 5 includes
+177 178 6 plate
+178 179 7 thickness
+179 180 8 i
+180 181 3 in
+181 182 14 . 2.04366161425
+182
+0 183 1 difference
+183 184 2 j
+184 185 10 lower
+185 186 11 lead
+186 187 12 terminal
+187 188 13 3b
+188 189 9 of
+189 190 3 in
+190 191 5 includes
+191 192 6 plate
+192 193 7 thickness
+193 194 4 depth
+194 195 8 i
+195 196 14 . 8.13270648969
+196
+0 197 1 difference
+197 198 2 j
+198 199 10 lower
+199 200 11 lead
+200 201 12 terminal
+201 202 13 3b
+202 203 9 of
+203 204 5 includes
+204 205 6 plate
+205 206 3 in
+206 207 4 depth
+207 208 7 thickness
+208 209 8 i
+209 210 14 . 8.13270648969
+210
+0 211 1 difference
+211 212 2 j
+212 213 10 lower
+213 214 11 lead
+214 215 12 terminal
+215 216 13 3b
+216 217 9 of
+217 218 4 depth
+218 219 3 in
+219 220 6 plate
+220 221 7 thickness
+221 222 5 includes
+222 223 8 i
+223 224 14 . 6.34094702047
+224
+0 225 1 difference
+225 226 10 lower
+226 227 11 lead
+227 228 12 terminal
+228 229 13 3b
+229 230 9 of
+230 231 2 j
+231 232 4 depth
+232 233 5 includes
+233 234 3 in
+234 235 6 plate
+235 236 7 thickness
+236 237 8 i
+237 238 14 . 7.03409420103
+238
+0 239 1 difference
+239 240 10 lower
+240 241 11 lead
+241 242 12 terminal
+242 243 13 3b
+243 244 9 of
+244 245 2 j
+245 246 5 includes
+246 247 3 in
+247 248 4 depth
+248 249 6 plate
+249 250 7 thickness
+250 251 8 i
+251 252 14 . 7.03409420103
+252
+0 253 1 difference
+253 254 2 j
+254 255 10 lower
+255 256 11 lead
+256 257 12 terminal
+257 258 13 3b
+258 259 9 of
+259 260 3 in
+260 261 4 depth
+261 262 6 plate
+262 263 7 thickness
+263 264 8 i
+264 265 5 includes
+265 266 14 . 4.39503687141
+266
+0 267 1 difference
+267 268 2 j
+268 269 10 lower
+269 270 11 lead
+270 271 12 terminal
+271 272 13 3b
+272 273 9 of
+273 274 3 in
+274 275 4 depth
+275 276 5 includes
+276 277 7 thickness
+277 278 8 i
+278 279 6 plate
+279 280 14 . 8.13270648969
+280
+0 281 1 difference
+281 282 2 j
+282 283 11 lead
+283 284 12 terminal
+284 285 10 lower
+285 286 13 3b
+286 287 9 of
+287 288 3 in
+288 289 4 depth
+289 290 5 includes
+290 291 6 plate
+291 292 7 thickness
+292 293 8 i
+293 294 14 . 8.13270648969
+294
+0 295 1 difference
+295 296 2 j
+296 297 10 lower
+297 298 11 lead
+298 299 12 terminal
+299 300 13 3b
+300 301 9 of
+301 302 3 in
+302 303 7 thickness
+303 304 4 depth
+304 305 5 includes
+305 306 6 plate
+306 307 8 i
+307 308 14 . 8.13270648969
+308
+0 309 1 difference
+309 310 2 j
+310 311 10 lower
+311 312 11 lead
+312 313 12 terminal
+313 314 13 3b
+314 315 9 of
+315 316 3 in
+316 317 6 plate
+317 318 7 thickness
+318 319 4 depth
+319 320 5 includes
+320 321 8 i
+321 322 14 . 8.13270648969
+322
+0 323 1 difference
+323 324 10 lower
+324 325 11 lead
+325 326 12 terminal
+326 327 13 3b
+327 328 9 of
+328 329 2 j
+329 330 4 depth
+330 331 5 includes
+331 332 6 plate
+332 333 7 thickness
+333 334 3 in
+334 335 8 i
+335 336 14 . 7.03409420103
+336
+0 337 1 difference
+337 338 10 lower
+338 339 11 lead
+339 340 12 terminal
+340 341 13 3b
+341 342 9 of
+342 343 2 j
+343 344 3 in
+344 345 4 depth
+345 346 6 plate
+346 347 7 thickness
+347 348 5 includes
+348 349 8 i
+349 350 14 . 6.74641212857
+350
+0 351 10 lower
+351 352 11 lead
+352 353 12 terminal
+353 354 13 3b
+354 355 9 of
+355 356 1 difference
+356 357 2 j
+357 358 3 in
+358 359 4 depth
+359 360 5 includes
+360 361 6 plate
+361 362 7 thickness
+362 363 8 i
+363 364 14 . 0.924846618262
+364
+0 365 1 difference
+365 366 2 j
+366 367 10 lower
+367 368 11 lead
+368 369 12 terminal
+369 370 13 3b
+370 371 9 of
+371 372 5 includes
+372 373 6 plate
+373 374 7 thickness
+374 375 3 in
+375 376 4 depth
+376 377 8 i
+377 378 14 . 6.05326494801
+378
+0 379 1 difference
+379 380 10 lower
+380 381 11 lead
+381 382 12 terminal
+382 383 13 3b
+383 384 2 j
+384 385 9 of
+385 386 4 depth
+386 387 5 includes
+387 388 6 plate
+388 389 7 thickness
+389 390 8 i
+390 391 3 in
+391 392 14 . 8.13270648969
+392

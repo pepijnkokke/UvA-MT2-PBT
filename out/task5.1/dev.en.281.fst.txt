@@ -1,0 +1,170 @@
+0 1 1 wd
+1 2 2 signal
+2 3 3 is
+3 4 4 further
+4 5 7 a
+5 6 8 command
+6 7 9 decoder
+7 8 10 24
+8 9 11 and
+9 10 12 a
+10 11 13 data
+11 12 14 comparator
+12 13 15 23
+13 14 6 to
+14 15 5 applied
+15 16 16 . 0.464106484276
+16
+0 17 1 wd
+17 18 2 signal
+18 19 3 is
+19 20 4 further
+20 21 7 a
+21 22 8 command
+22 23 9 decoder
+23 24 10 24
+24 25 11 and
+25 26 12 a
+26 27 13 data
+27 28 14 comparator
+28 29 6 to
+29 30 5 applied
+30 31 15 23
+31 32 16 . 7.50988306116
+32
+0 33 1 wd
+33 34 2 signal
+34 35 3 is
+35 36 4 further
+36 37 7 a
+37 38 8 command
+38 39 9 decoder
+39 40 10 24
+40 41 11 and
+41 42 12 a
+42 43 13 data
+43 44 6 to
+44 45 5 applied
+45 46 14 comparator
+46 47 15 23
+47 48 16 . 6.12358870004
+48
+0 49 1 wd
+49 50 2 signal
+50 51 3 is
+51 52 4 further
+52 53 7 a
+53 54 8 command
+54 55 9 decoder
+55 56 10 24
+56 57 11 and
+57 58 12 a
+58 59 6 to
+59 60 5 applied
+60 61 13 data
+61 62 14 comparator
+62 63 15 23
+63 64 16 . 7.50988306116
+64
+0 65 1 wd
+65 66 2 signal
+66 67 3 is
+67 68 4 further
+68 69 7 a
+69 70 8 command
+70 71 9 decoder
+71 72 10 24
+72 73 11 and
+73 74 6 to
+74 75 5 applied
+75 76 12 a
+76 77 13 data
+77 78 14 comparator
+78 79 15 23
+79 80 16 . 2.32809951086
+80
+0 81 1 wd
+81 82 2 signal
+82 83 3 is
+83 84 4 further
+84 85 7 a
+85 86 8 command
+86 87 9 decoder
+87 88 10 24
+88 89 12 a
+89 90 13 data
+90 91 11 and
+91 92 14 comparator
+92 93 15 23
+93 94 6 to
+94 95 5 applied
+95 96 16 . 6.81673588059
+96
+0 97 1 wd
+97 98 2 signal
+98 99 3 is
+99 100 4 further
+100 101 7 a
+101 102 8 command
+102 103 12 a
+103 104 9 decoder
+104 105 10 24
+105 106 11 and
+106 107 13 data
+107 108 14 comparator
+108 109 15 23
+109 110 6 to
+110 111 5 applied
+111 112 16 . 6.41127077248
+112
+0 113 1 wd
+113 114 2 signal
+114 115 3 is
+115 116 4 further
+116 117 7 a
+117 118 8 command
+118 119 9 decoder
+119 120 10 24
+120 121 12 a
+121 122 13 data
+122 123 14 comparator
+123 124 15 23
+124 125 11 and
+125 126 6 to
+126 127 5 applied
+127 128 16 . 5.5639729121
+128
+0 129 1 wd
+129 130 2 signal
+130 131 3 is
+131 132 4 further
+132 133 7 a
+133 134 8 command
+134 135 9 decoder
+135 136 10 24
+136 137 6 to
+137 138 5 applied
+138 139 11 and
+139 140 12 a
+140 141 13 data
+141 142 14 comparator
+142 143 15 23
+143 144 16 . 1.33401579105
+144
+0 145 1 wd
+145 146 2 signal
+146 147 3 is
+147 148 4 further
+148 149 7 a
+149 150 12 a
+150 151 8 command
+151 152 9 decoder
+152 153 10 24
+153 154 11 and
+154 155 13 data
+155 156 14 comparator
+156 157 15 23
+157 158 6 to
+158 159 5 applied
+159 160 16 . 7.50988306116
+160

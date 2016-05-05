@@ -1,0 +1,209 @@
+0 1 1 the
+1 2 6 such
+2 3 7 a
+3 4 8 rear
+4 5 9 envelope
+5 6 10 10
+6 7 5 comprising
+7 8 2 cathode
+8 9 3 ray
+9 10 4 tube
+10 11 11 is
+11 12 17 follows
+12 13 16 as
+13 14 14 the
+14 15 15 method
+15 16 13 by
+16 17 12 manufactured
+17 18 18 . 2.71045694113
+18
+0 19 1 the
+19 20 6 such
+20 21 7 a
+21 22 8 rear
+22 23 9 envelope
+23 24 10 10
+24 25 2 cathode
+25 26 3 ray
+26 27 4 tube
+27 28 5 comprising
+28 29 11 is
+29 30 17 follows
+30 31 16 as
+31 32 14 the
+32 33 15 method
+33 34 13 by
+34 35 12 manufactured
+35 36 18 . 5.74300318781
+36
+0 37 6 such
+37 38 7 a
+38 39 8 rear
+39 40 9 envelope
+40 41 10 10
+41 42 5 comprising
+42 43 1 the
+43 44 2 cathode
+44 45 3 ray
+45 46 4 tube
+46 47 11 is
+47 48 17 follows
+48 49 16 as
+49 50 14 the
+50 51 15 method
+51 52 13 by
+52 53 12 manufactured
+53 54 18 . 0.179441093929
+54
+0 55 1 the
+55 56 6 such
+56 57 7 a
+57 58 8 rear
+58 59 9 envelope
+59 60 10 10
+60 61 5 comprising
+61 62 2 cathode
+62 63 3 ray
+63 64 4 tube
+64 65 11 is
+65 66 14 the
+66 67 17 follows
+67 68 16 as
+68 69 15 method
+69 70 13 by
+70 71 12 manufactured
+71 72 18 . 5.5198596365
+72
+0 73 6 such
+73 74 7 a
+74 75 8 rear
+75 76 9 envelope
+76 77 10 10
+77 78 1 the
+78 79 2 cathode
+79 80 3 ray
+80 81 4 tube
+81 82 5 comprising
+82 83 11 is
+83 84 17 follows
+84 85 16 as
+85 86 14 the
+86 87 15 method
+87 88 13 by
+88 89 12 manufactured
+89 90 18 . 3.54577861047
+90
+0 91 6 such
+91 92 7 a
+92 93 8 rear
+93 94 9 envelope
+94 95 10 10
+95 96 5 comprising
+96 97 1 the
+97 98 2 cathode
+98 99 3 ray
+99 100 4 tube
+100 101 11 is
+101 102 14 the
+102 103 17 follows
+103 104 16 as
+104 105 15 method
+105 106 13 by
+106 107 12 manufactured
+107 108 18 . 3.06885453838
+108
+0 109 6 such
+109 110 7 a
+110 111 8 rear
+111 112 9 envelope
+112 113 10 10
+113 114 5 comprising
+114 115 1 the
+115 116 2 cathode
+116 117 3 ray
+117 118 4 tube
+118 119 11 is
+119 120 17 follows
+120 121 14 the
+121 122 15 method
+122 123 16 as
+123 124 13 by
+124 125 12 manufactured
+125 126 18 . 7.12929754893
+126
+0 127 6 such
+127 128 7 a
+128 129 8 rear
+129 130 9 envelope
+130 131 10 10
+131 132 1 the
+132 133 2 cathode
+133 134 3 ray
+134 135 4 tube
+135 136 5 comprising
+136 137 11 is
+137 138 14 the
+138 139 17 follows
+139 140 16 as
+140 141 15 method
+141 142 13 by
+142 143 12 manufactured
+143 144 18 . 6.03068526026
+144
+0 145 6 such
+145 146 7 a
+146 147 8 rear
+147 148 9 envelope
+148 149 10 10
+149 150 1 the
+150 151 2 cathode
+151 152 3 ray
+152 153 4 tube
+153 154 5 comprising
+154 155 11 is
+155 156 17 follows
+156 157 14 the
+157 158 15 method
+158 159 16 as
+159 160 13 by
+160 161 12 manufactured
+161 162 18 . 7.12929754893
+162
+0 163 1 the
+163 164 6 such
+164 165 7 a
+165 166 8 rear
+166 167 9 envelope
+167 168 10 10
+168 169 5 comprising
+169 170 2 cathode
+170 171 3 ray
+171 172 4 tube
+172 173 11 is
+173 174 14 the
+174 175 15 method
+175 176 17 follows
+176 177 16 as
+177 178 13 by
+178 179 12 manufactured
+179 180 18 . 6.43615036837
+180
+0 181 6 such
+181 182 7 a
+182 183 8 rear
+183 184 9 envelope
+184 185 10 10
+185 186 5 comprising
+186 187 1 the
+187 188 2 cathode
+188 189 3 ray
+189 190 4 tube
+190 191 11 is
+191 192 14 the
+192 193 15 method
+193 194 17 follows
+194 195 16 as
+195 196 13 by
+196 197 12 manufactured
+197 198 18 . 4.64439089914
+198

@@ -1,0 +1,114 @@
+0 1 1 description
+1 2 2 will
+2 3 3 now
+3 4 15 the
+4 5 16 one-way
+5 6 17 clutch
+6 7 14 of
+7 8 13 assembly
+8 9 12 of
+9 10 10 the
+10 11 11 order
+11 12 9 of
+12 13 7 an
+13 14 8 example
+14 15 6 of
+15 16 5 made
+16 17 4 be
+17 18 18 . 0.146314648842
+18
+0 19 1 description
+19 20 2 will
+20 21 3 now
+21 22 15 the
+22 23 16 one-way
+23 24 17 clutch
+24 25 14 of
+25 26 13 assembly
+26 27 12 of
+27 28 10 the
+28 29 11 order
+29 30 9 of
+30 31 7 an
+31 32 8 example
+32 33 6 of
+33 34 4 be
+34 35 5 made
+35 36 18 . 4.8686327482
+36
+0 37 1 description
+37 38 2 will
+38 39 3 now
+39 40 15 the
+40 41 16 one-way
+41 42 17 clutch
+42 43 14 of
+43 44 13 assembly
+44 45 12 of
+45 46 10 the
+46 47 11 order
+47 48 9 of
+48 49 7 an
+49 50 8 example
+50 51 4 be
+51 52 6 of
+52 53 5 made
+53 54 18 . 4.51195780427
+54
+0 55 1 description
+55 56 2 will
+56 57 3 now
+57 58 15 the
+58 59 16 one-way
+59 60 17 clutch
+60 61 14 of
+61 62 13 assembly
+62 63 12 of
+63 64 10 the
+64 65 11 order
+65 66 9 of
+66 67 4 be
+67 68 7 an
+68 69 8 example
+69 70 6 of
+70 71 5 made
+71 72 18 . 4.17548556764
+72
+0 73 1 description
+73 74 2 will
+74 75 3 now
+75 76 15 the
+76 77 16 one-way
+77 78 17 clutch
+78 79 14 of
+79 80 13 assembly
+80 81 12 of
+81 82 10 the
+82 83 11 order
+83 84 4 be
+84 85 9 of
+85 86 7 an
+86 87 8 example
+87 88 6 of
+88 89 5 made
+89 90 18 . 5.20510498483
+90
+0 91 1 description
+91 92 2 will
+92 93 3 now
+93 94 15 the
+94 95 16 one-way
+95 96 17 clutch
+96 97 14 of
+97 98 13 assembly
+98 99 12 of
+99 100 4 be
+100 101 10 the
+101 102 11 order
+102 103 9 of
+103 104 7 an
+104 105 8 example
+105 106 6 of
+106 107 5 made
+107 108 18 . 2.33720608278
+108

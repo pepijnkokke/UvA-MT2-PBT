@@ -1,0 +1,300 @@
+0 1 1 next
+1 2 2 ,
+2 3 8 the
+3 4 9 connector
+4 5 10 assembly
+5 6 13 the
+6 7 14 present
+7 8 15 embodiment
+8 9 12 to
+9 10 11 according
+10 11 7 of
+11 12 6 use
+12 13 5 of
+13 14 3 the
+14 15 4 method
+15 16 16 will
+16 17 17 be
+17 18 18 explained
+18 19 19 . 0.995717865505
+19
+0 20 1 next
+20 21 2 ,
+21 22 8 the
+22 23 9 connector
+23 24 10 assembly
+24 25 13 the
+25 26 14 present
+26 27 15 embodiment
+27 28 12 to
+28 29 11 according
+29 30 7 of
+30 31 6 use
+31 32 5 of
+32 33 3 the
+33 34 4 method
+34 35 16 will
+35 36 18 explained
+36 37 17 be
+37 38 19 . 1.00914088584
+38
+0 39 1 next
+39 40 2 ,
+40 41 8 the
+41 42 9 connector
+42 43 13 the
+43 44 14 present
+44 45 15 embodiment
+45 46 12 to
+46 47 11 according
+47 48 10 assembly
+48 49 7 of
+49 50 6 use
+50 51 5 of
+51 52 3 the
+52 53 4 method
+53 54 16 will
+54 55 18 explained
+55 56 17 be
+56 57 19 . 3.92691161792
+57
+0 58 1 next
+58 59 2 ,
+59 60 8 the
+60 61 9 connector
+61 62 10 assembly
+62 63 13 the
+63 64 14 present
+64 65 15 embodiment
+65 66 12 to
+66 67 11 according
+67 68 7 of
+68 69 6 use
+69 70 5 of
+70 71 3 the
+71 72 4 method
+72 73 17 be
+73 74 16 will
+74 75 18 explained
+75 76 19 . 3.52144650981
+76
+0 77 1 next
+77 78 2 ,
+78 79 8 the
+79 80 9 connector
+80 81 10 assembly
+81 82 13 the
+82 83 14 present
+83 84 15 embodiment
+84 85 12 to
+85 86 11 according
+86 87 7 of
+87 88 6 use
+88 89 5 of
+89 90 3 the
+90 91 4 method
+91 92 18 explained
+92 93 16 will
+93 94 17 be
+94 95 19 . 5.31320597904
+95
+0 96 1 next
+96 97 2 ,
+97 98 8 the
+98 99 9 connector
+99 100 10 assembly
+100 101 7 of
+101 102 13 the
+102 103 14 present
+103 104 15 embodiment
+104 105 12 to
+105 106 11 according
+106 107 6 use
+107 108 5 of
+108 109 3 the
+109 110 4 method
+110 111 16 will
+111 112 18 explained
+112 113 17 be
+113 114 19 . 5.31320597904
+114
+0 115 1 next
+115 116 2 ,
+116 117 8 the
+117 118 13 the
+118 119 14 present
+119 120 15 embodiment
+120 121 12 to
+121 122 11 according
+122 123 9 connector
+123 124 10 assembly
+124 125 7 of
+125 126 6 use
+126 127 5 of
+127 128 3 the
+128 129 4 method
+129 130 16 will
+130 131 17 be
+131 132 18 explained
+132 133 19 . 3.36729582999
+133
+0 134 1 next
+134 135 2 ,
+135 136 8 the
+136 137 13 the
+137 138 14 present
+138 139 15 embodiment
+139 140 12 to
+140 141 11 according
+141 142 9 connector
+142 143 10 assembly
+143 144 7 of
+144 145 6 use
+145 146 5 of
+146 147 3 the
+147 148 4 method
+148 149 16 will
+149 150 18 explained
+150 151 17 be
+151 152 19 . 2.82829932925
+152
+0 153 1 next
+153 154 2 ,
+154 155 13 the
+155 156 14 present
+156 157 15 embodiment
+157 158 8 the
+158 159 9 connector
+159 160 10 assembly
+160 161 12 to
+161 162 11 according
+162 163 7 of
+163 164 6 use
+164 165 5 of
+165 166 3 the
+166 167 4 method
+167 168 16 will
+168 169 17 be
+169 170 18 explained
+170 171 19 . 4.62005879848
+171
+0 172 1 next
+172 173 2 ,
+173 174 13 the
+174 175 14 present
+175 176 15 embodiment
+176 177 8 the
+177 178 9 connector
+178 179 10 assembly
+179 180 12 to
+180 181 11 according
+181 182 7 of
+182 183 6 use
+183 184 5 of
+184 185 3 the
+185 186 4 method
+186 187 16 will
+187 188 18 explained
+188 189 17 be
+189 190 19 . 5.31320597904
+190
+0 191 1 next
+191 192 2 ,
+192 193 8 the
+193 194 9 connector
+194 195 10 assembly
+195 196 13 the
+196 197 14 present
+197 198 15 embodiment
+198 199 12 to
+199 200 11 according
+200 201 7 of
+201 202 6 use
+202 203 5 of
+203 204 4 method
+204 205 3 the
+205 206 16 will
+206 207 17 be
+207 208 18 explained
+208 209 19 . 5.31320597904
+209
+0 210 1 next
+210 211 2 ,
+211 212 8 the
+212 213 9 connector
+213 214 10 assembly
+214 215 13 the
+215 216 14 present
+216 217 15 embodiment
+217 218 12 to
+218 219 11 according
+219 220 7 of
+220 221 5 of
+221 222 6 use
+222 223 3 the
+223 224 4 method
+224 225 16 will
+225 226 18 explained
+226 227 17 be
+227 228 19 . 5.31320597904
+228
+0 229 1 next
+229 230 2 ,
+230 231 8 the
+231 232 9 connector
+232 233 10 assembly
+233 234 13 the
+234 235 14 present
+235 236 15 embodiment
+236 237 12 to
+237 238 11 according
+238 239 7 of
+239 240 6 use
+240 241 5 of
+241 242 4 method
+242 243 3 the
+243 244 16 will
+244 245 18 explained
+245 246 17 be
+246 247 19 . 4.21459369037
+247
+0 248 1 next
+248 249 2 ,
+249 250 8 the
+250 251 9 connector
+251 252 10 assembly
+252 253 13 the
+253 254 14 present
+254 255 15 embodiment
+255 256 12 to
+256 257 11 according
+257 258 7 of
+258 259 6 use
+259 260 16 will
+260 261 5 of
+261 262 3 the
+262 263 4 method
+263 264 17 be
+264 265 18 explained
+265 266 19 . 2.74825662158
+266
+0 267 1 next
+267 268 2 ,
+268 269 8 the
+269 270 9 connector
+270 271 10 assembly
+271 272 13 the
+272 273 14 present
+273 274 15 embodiment
+274 275 12 to
+275 276 11 according
+276 277 7 of
+277 278 6 use
+278 279 16 will
+279 280 5 of
+280 281 3 the
+281 282 4 method
+282 283 18 explained
+283 284 17 be
+284 285 19 . 4.62005879848
+285

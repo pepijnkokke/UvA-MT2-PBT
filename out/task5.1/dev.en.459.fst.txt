@@ -1,0 +1,126 @@
+0 1 2 other
+1 2 3 words
+2 3 1 in
+3 4 4 ,
+4 5 5 the
+5 6 8 the
+6 7 9 main
+7 8 10 condenser
+8 9 6 charging
+9 10 7 to
+10 11 11 c4
+11 12 12 stops
+12 13 13 . 2.59569793663
+13
+0 14 2 other
+14 15 3 words
+15 16 1 in
+16 17 4 ,
+17 18 5 the
+18 19 8 the
+19 20 9 main
+20 21 10 condenser
+21 22 7 to
+22 23 6 charging
+23 24 11 c4
+24 25 12 stops
+25 26 13 . 1.54093753049
+26
+0 27 2 other
+27 28 3 words
+28 29 1 in
+29 30 4 ,
+30 31 8 the
+31 32 9 main
+32 33 10 condenser
+33 34 5 the
+34 35 6 charging
+35 36 7 to
+36 37 11 c4
+37 38 12 stops
+38 39 13 . 1.90751354541
+39
+0 40 2 other
+40 41 3 words
+41 42 1 in
+42 43 4 ,
+43 44 5 the
+44 45 8 the
+45 46 9 main
+46 47 10 condenser
+47 48 11 c4
+48 49 6 charging
+49 50 7 to
+50 51 12 stops
+51 52 13 . 3.52193899936
+52
+0 53 2 other
+53 54 3 words
+54 55 1 in
+55 56 4 ,
+56 57 5 the
+57 58 8 the
+58 59 9 main
+59 60 10 condenser
+60 61 11 c4
+61 62 7 to
+62 63 6 charging
+63 64 12 stops
+64 65 13 . 2.36663136701
+65
+0 66 2 other
+66 67 3 words
+67 68 1 in
+68 69 4 ,
+69 70 8 the
+70 71 9 main
+71 72 10 condenser
+72 73 7 to
+73 74 5 the
+74 75 6 charging
+75 76 11 c4
+76 77 12 stops
+77 78 13 . 0.834091505574
+78
+0 79 2 other
+79 80 3 words
+80 81 1 in
+81 82 4 ,
+82 83 5 the
+83 84 8 the
+84 85 9 main
+85 86 6 charging
+86 87 7 to
+87 88 10 condenser
+88 89 11 c4
+89 90 12 stops
+90 91 13 . 6.1122061648
+91
+0 92 2 other
+92 93 3 words
+93 94 1 in
+94 95 4 ,
+95 96 5 the
+96 97 8 the
+97 98 9 main
+98 99 7 to
+99 100 6 charging
+100 101 10 condenser
+101 102 11 c4
+102 103 12 stops
+103 104 13 . 6.51767127291
+104
+0 105 2 other
+105 106 3 words
+106 107 1 in
+107 108 4 ,
+108 109 8 the
+109 110 9 main
+110 111 5 the
+111 112 6 charging
+112 113 7 to
+113 114 10 condenser
+114 115 11 c4
+115 116 12 stops
+116 117 13 . 6.51767127291
+117

@@ -1,0 +1,255 @@
+0 1 1 this
+1 2 2 brings
+2 3 11 the
+3 4 12 pads
+4 5 13 22
+5 6 7 the
+6 7 8 bumps
+7 8 9 21
+8 9 10 and
+9 10 6 between
+10 11 4 electrical
+11 12 5 connection
+12 13 3 about
+13 14 14 . 0.368406006905
+14
+0 15 1 this
+15 16 2 brings
+16 17 11 the
+17 18 7 the
+18 19 12 pads
+19 20 13 22
+20 21 8 bumps
+21 22 9 21
+22 23 10 and
+23 24 6 between
+24 25 4 electrical
+25 26 5 connection
+26 27 3 about
+27 28 14 . 8.31360713932
+28
+0 29 1 this
+29 30 2 brings
+30 31 7 the
+31 32 11 the
+32 33 12 pads
+33 34 13 22
+34 35 8 bumps
+35 36 9 21
+36 37 10 and
+37 38 6 between
+38 39 4 electrical
+39 40 5 connection
+40 41 3 about
+41 42 14 . 4.87961993483
+42
+0 43 1 this
+43 44 2 brings
+44 45 7 the
+45 46 11 the
+46 47 12 pads
+47 48 8 bumps
+48 49 9 21
+49 50 10 and
+50 51 13 22
+51 52 6 between
+52 53 4 electrical
+53 54 5 connection
+54 55 3 about
+55 56 14 . 7.62045995876
+56
+0 57 1 this
+57 58 2 brings
+58 59 7 the
+59 60 8 bumps
+60 61 9 21
+61 62 11 the
+62 63 12 pads
+63 64 13 22
+64 65 10 and
+65 66 6 between
+66 67 4 electrical
+67 68 5 connection
+68 69 3 about
+69 70 14 . 5.74865778186
+70
+0 71 1 this
+71 72 2 brings
+72 73 11 the
+73 74 7 the
+74 75 8 bumps
+75 76 9 21
+76 77 10 and
+77 78 12 pads
+78 79 13 22
+79 80 6 between
+80 81 4 electrical
+81 82 5 connection
+82 83 3 about
+83 84 14 . 7.62045995876
+84
+0 85 1 this
+85 86 2 brings
+86 87 7 the
+87 88 8 bumps
+88 89 9 21
+89 90 10 and
+90 91 11 the
+91 92 12 pads
+92 93 13 22
+93 94 6 between
+94 95 4 electrical
+95 96 5 connection
+96 97 3 about
+97 98 14 . 1.25829429598
+98
+0 99 1 this
+99 100 2 brings
+100 101 7 the
+101 102 8 bumps
+102 103 9 21
+103 104 11 the
+104 105 12 pads
+105 106 10 and
+106 107 13 22
+107 108 6 between
+108 109 4 electrical
+109 110 5 connection
+110 111 3 about
+111 112 14 . 8.31360713932
+112
+0 113 1 this
+113 114 2 brings
+114 115 7 the
+115 116 11 the
+116 117 8 bumps
+117 118 9 21
+118 119 10 and
+119 120 12 pads
+120 121 13 22
+121 122 6 between
+122 123 4 electrical
+123 124 5 connection
+124 125 3 about
+125 126 14 . 8.31360713932
+126
+0 127 1 this
+127 128 2 brings
+128 129 7 the
+129 130 8 bumps
+130 131 9 21
+131 132 11 the
+132 133 10 and
+133 134 12 pads
+134 135 13 22
+135 136 6 between
+136 137 4 electrical
+137 138 5 connection
+138 139 3 about
+139 140 14 . 8.31360713932
+140
+0 141 1 this
+141 142 2 brings
+142 143 11 the
+143 144 12 pads
+144 145 13 22
+145 146 7 the
+146 147 8 bumps
+147 148 9 21
+148 149 10 and
+149 150 6 between
+150 151 4 electrical
+151 152 3 about
+152 153 5 connection
+153 154 14 . 6.23416559764
+154
+0 155 1 this
+155 156 2 brings
+156 157 11 the
+157 158 12 pads
+158 159 7 the
+159 160 8 bumps
+160 161 9 21
+161 162 10 and
+162 163 6 between
+163 164 13 22
+164 165 4 electrical
+165 166 5 connection
+166 167 3 about
+167 168 14 . 8.31360713932
+168
+0 169 1 this
+169 170 2 brings
+170 171 7 the
+171 172 8 bumps
+172 173 9 21
+173 174 10 and
+174 175 11 the
+175 176 12 pads
+176 177 6 between
+177 178 13 22
+178 179 4 electrical
+179 180 5 connection
+180 181 3 about
+181 182 14 . 8.31360713932
+182
+0 183 1 this
+183 184 2 brings
+184 185 11 the
+185 186 12 pads
+186 187 13 22
+187 188 8 bumps
+188 189 7 the
+189 190 9 21
+190 191 10 and
+191 192 6 between
+192 193 4 electrical
+193 194 5 connection
+194 195 3 about
+195 196 14 . 8.31360713932
+196
+0 197 1 this
+197 198 2 brings
+198 199 11 the
+199 200 12 pads
+200 201 13 22
+201 202 7 the
+202 203 8 bumps
+203 204 9 21
+204 205 10 and
+205 206 6 between
+206 207 5 connection
+207 208 4 electrical
+208 209 3 about
+209 210 14 . 4.84787123652
+210
+0 211 2 brings
+211 212 1 this
+212 213 11 the
+213 214 12 pads
+214 215 13 22
+215 216 7 the
+216 217 8 bumps
+217 218 9 21
+218 219 10 and
+219 220 6 between
+220 221 4 electrical
+221 222 5 connection
+222 223 3 about
+223 224 14 . 8.31360713932
+224
+0 225 1 this
+225 226 2 brings
+226 227 7 the
+227 228 8 bumps
+228 229 9 21
+229 230 10 and
+230 231 11 the
+231 232 12 pads
+232 233 13 22
+233 234 4 electrical
+234 235 6 between
+235 236 5 connection
+236 237 3 about
+237 238 14 . 7.62045995876
+238

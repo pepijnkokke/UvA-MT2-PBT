@@ -1,0 +1,234 @@
+0 1 1 this
+1 2 2 influence
+2 3 6 the
+3 4 7 high
+4 5 8 density
+5 6 9 wavelength
+6 7 10 multiplexing
+7 8 5 in
+8 9 3 is
+9 10 4 serious
+10 11 11 system
+11 12 12 . 2.91729646127
+12
+0 13 1 this
+13 14 2 influence
+14 15 6 the
+15 16 7 high
+16 17 8 density
+17 18 9 wavelength
+18 19 5 in
+19 20 3 is
+20 21 4 serious
+21 22 10 multiplexing
+22 23 11 system
+23 24 12 . 2.48301091462
+24
+0 25 1 this
+25 26 2 influence
+26 27 6 the
+27 28 7 high
+28 29 8 density
+29 30 9 wavelength
+30 31 10 multiplexing
+31 32 11 system
+32 33 5 in
+33 34 3 is
+34 35 4 serious
+35 36 12 . 2.19249196083
+36
+0 37 1 this
+37 38 2 influence
+38 39 6 the
+39 40 7 high
+40 41 8 density
+41 42 9 wavelength
+42 43 5 in
+43 44 10 multiplexing
+44 45 3 is
+45 46 4 serious
+46 47 11 system
+47 48 12 . 8.05896001777
+48
+0 49 1 this
+49 50 2 influence
+50 51 6 the
+51 52 7 high
+52 53 8 density
+53 54 9 wavelength
+54 55 10 multiplexing
+55 56 5 in
+56 57 11 system
+57 58 3 is
+58 59 4 serious
+59 60 12 . 8.05896001777
+60
+0 61 1 this
+61 62 6 the
+62 63 7 high
+63 64 8 density
+64 65 9 wavelength
+65 66 5 in
+66 67 2 influence
+67 68 3 is
+68 69 4 serious
+69 70 10 multiplexing
+70 71 11 system
+71 72 12 . 3.60461272152
+72
+0 73 1 this
+73 74 6 the
+74 75 7 high
+75 76 8 density
+76 77 9 wavelength
+77 78 10 multiplexing
+78 79 5 in
+79 80 2 influence
+80 81 3 is
+81 82 4 serious
+82 83 11 system
+83 84 12 . 3.85426739838
+84
+0 85 1 this
+85 86 2 influence
+86 87 6 the
+87 88 7 high
+88 89 8 density
+89 90 5 in
+90 91 9 wavelength
+91 92 3 is
+92 93 4 serious
+93 94 10 multiplexing
+94 95 11 system
+95 96 12 . 6.9603477291
+96
+0 97 1 this
+97 98 2 influence
+98 99 6 the
+99 100 7 high
+100 101 8 density
+101 102 9 wavelength
+102 103 3 is
+103 104 4 serious
+104 105 5 in
+105 106 10 multiplexing
+106 107 11 system
+107 108 12 . 8.05896001777
+108
+0 109 1 this
+109 110 2 influence
+110 111 6 the
+111 112 7 high
+112 113 8 density
+113 114 9 wavelength
+114 115 10 multiplexing
+115 116 11 system
+116 117 3 is
+117 118 4 serious
+118 119 5 in
+119 120 12 . 8.05896001777
+120
+0 121 1 this
+121 122 6 the
+122 123 7 high
+123 124 8 density
+124 125 9 wavelength
+125 126 10 multiplexing
+126 127 11 system
+127 128 5 in
+128 129 2 influence
+129 130 3 is
+130 131 4 serious
+131 132 12 . 0.640779195043
+132
+0 133 1 this
+133 134 2 influence
+134 135 6 the
+135 136 7 high
+136 137 8 density
+137 138 5 in
+138 139 3 is
+139 140 4 serious
+140 141 9 wavelength
+141 142 10 multiplexing
+142 143 11 system
+143 144 12 . 2.52557052904
+144
+0 145 1 this
+145 146 6 the
+146 147 7 high
+147 148 8 density
+148 149 5 in
+149 150 2 influence
+150 151 3 is
+151 152 4 serious
+152 153 9 wavelength
+153 154 10 multiplexing
+154 155 11 system
+155 156 12 . 2.43855915205
+156
+0 157 1 this
+157 158 6 the
+158 159 7 high
+159 160 8 density
+160 161 5 in
+161 162 9 wavelength
+162 163 2 influence
+163 164 3 is
+164 165 4 serious
+165 166 10 multiplexing
+166 167 11 system
+167 168 12 . 7.36581283721
+168
+0 169 1 this
+169 170 6 the
+170 171 7 high
+171 172 8 density
+172 173 9 wavelength
+173 174 10 multiplexing
+174 175 5 in
+175 176 11 system
+176 177 2 influence
+177 178 3 is
+178 179 4 serious
+179 180 12 . 6.9603477291
+180
+0 181 1 this
+181 182 2 influence
+182 183 6 the
+183 184 7 high
+184 185 8 density
+185 186 5 in
+186 187 9 wavelength
+187 188 10 multiplexing
+188 189 11 system
+189 190 3 is
+190 191 4 serious
+191 192 12 . 8.05896001777
+192
+0 193 1 this
+193 194 6 the
+194 195 7 high
+195 196 8 density
+196 197 9 wavelength
+197 198 5 in
+198 199 10 multiplexing
+199 200 11 system
+200 201 2 influence
+201 202 3 is
+202 203 4 serious
+203 204 12 . 7.36581283721
+204
+0 205 1 this
+205 206 6 the
+206 207 7 high
+207 208 8 density
+208 209 9 wavelength
+209 210 10 multiplexing
+210 211 11 system
+211 212 2 influence
+212 213 3 is
+213 214 4 serious
+214 215 5 in
+215 216 12 . 5.66106474497
+216

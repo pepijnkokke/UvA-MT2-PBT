@@ -1,0 +1,209 @@
+0 1 2 this
+1 2 3 manner
+2 3 1 in
+3 4 4 ,
+4 5 8 the
+5 6 9 flywheel
+6 7 10 2
+7 8 11 and
+8 9 12 the
+9 10 13 clutch
+10 11 14 cover
+11 12 15 21
+12 13 7 between
+13 14 5 relative
+14 15 6 rotation
+15 16 16 is
+16 17 17 prevented
+17 18 18 . 0.311871666923
+18
+0 19 2 this
+19 20 3 manner
+20 21 4 ,
+21 22 1 in
+22 23 8 the
+23 24 9 flywheel
+24 25 10 2
+25 26 11 and
+26 27 12 the
+27 28 13 clutch
+28 29 14 cover
+29 30 15 21
+30 31 7 between
+31 32 5 relative
+32 33 6 rotation
+33 34 16 is
+34 35 17 prevented
+35 36 18 . 1.96881191335
+36
+0 37 2 this
+37 38 1 in
+38 39 3 manner
+39 40 4 ,
+40 41 8 the
+41 42 9 flywheel
+42 43 10 2
+43 44 11 and
+44 45 12 the
+45 46 13 clutch
+46 47 14 cover
+47 48 15 21
+48 49 7 between
+49 50 5 relative
+50 51 6 rotation
+51 52 16 is
+52 53 17 prevented
+53 54 18 . 2.74651648193
+54
+0 55 2 this
+55 56 3 manner
+56 57 1 in
+57 58 4 ,
+58 59 8 the
+59 60 9 flywheel
+60 61 10 2
+61 62 11 and
+62 63 12 the
+63 64 13 clutch
+64 65 14 cover
+65 66 15 21
+66 67 5 relative
+67 68 7 between
+68 69 6 rotation
+69 70 16 is
+70 71 17 prevented
+71 72 18 . 5.57972982599
+72
+0 73 2 this
+73 74 3 manner
+74 75 1 in
+75 76 4 ,
+76 77 8 the
+77 78 9 flywheel
+78 79 10 2
+79 80 11 and
+80 81 12 the
+81 82 13 clutch
+82 83 14 cover
+83 84 7 between
+84 85 5 relative
+85 86 6 rotation
+86 87 15 21
+87 88 16 is
+88 89 17 prevented
+89 90 18 . 4.48111753732
+90
+0 91 2 this
+91 92 3 manner
+92 93 4 ,
+93 94 1 in
+94 95 8 the
+95 96 9 flywheel
+96 97 10 2
+97 98 11 and
+98 99 12 the
+99 100 13 clutch
+100 101 14 cover
+101 102 15 21
+102 103 5 relative
+103 104 7 between
+104 105 6 rotation
+105 106 16 is
+106 107 17 prevented
+107 108 18 . 5.57972982599
+108
+0 109 2 this
+109 110 3 manner
+110 111 4 ,
+111 112 1 in
+112 113 8 the
+113 114 9 flywheel
+114 115 10 2
+115 116 11 and
+116 117 12 the
+117 118 13 clutch
+118 119 14 cover
+119 120 7 between
+120 121 5 relative
+121 122 6 rotation
+122 123 15 21
+123 124 16 is
+124 125 17 prevented
+125 126 18 . 4.88658264543
+126
+0 127 2 this
+127 128 3 manner
+128 129 1 in
+129 130 4 ,
+130 131 8 the
+131 132 9 flywheel
+132 133 10 2
+133 134 11 and
+134 135 12 the
+135 136 13 clutch
+136 137 14 cover
+137 138 15 21
+138 139 7 between
+139 140 6 rotation
+140 141 5 relative
+141 142 16 is
+142 143 17 prevented
+143 144 18 . 5.57972982599
+144
+0 145 2 this
+145 146 3 manner
+146 147 1 in
+147 148 4 ,
+148 149 8 the
+149 150 9 flywheel
+150 151 10 2
+151 152 12 the
+152 153 13 clutch
+153 154 14 cover
+154 155 15 21
+155 156 11 and
+156 157 7 between
+157 158 5 relative
+158 159 6 rotation
+159 160 16 is
+160 161 17 prevented
+161 162 18 . 4.48111753732
+162
+0 163 2 this
+163 164 3 manner
+164 165 1 in
+165 166 4 ,
+166 167 8 the
+167 168 9 flywheel
+168 169 10 2
+169 170 11 and
+170 171 13 clutch
+171 172 12 the
+172 173 14 cover
+173 174 15 21
+174 175 7 between
+175 176 5 relative
+176 177 6 rotation
+177 178 16 is
+178 179 17 prevented
+179 180 18 . 5.57972982599
+180
+0 181 2 this
+181 182 3 manner
+182 183 1 in
+183 184 4 ,
+184 185 8 the
+185 186 9 flywheel
+186 187 10 2
+187 188 11 and
+188 189 12 the
+189 190 13 clutch
+190 191 14 cover
+191 192 15 21
+192 193 7 between
+193 194 5 relative
+194 195 6 rotation
+195 196 17 prevented
+196 197 16 is
+197 198 18 . 3.97029191355
+198

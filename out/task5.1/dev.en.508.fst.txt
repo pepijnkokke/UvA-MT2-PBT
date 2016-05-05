@@ -1,0 +1,182 @@
+0 1 1 this
+1 2 2 embodiment
+2 3 3 is
+3 4 11 other
+4 5 12 points
+5 6 10 in
+6 7 7 the
+7 8 8 first
+8 9 9 embodiment
+9 10 6 as
+10 11 4 the
+11 12 5 same
+12 13 13 . 0.184906581256
+13
+0 14 1 this
+14 15 2 embodiment
+15 16 3 is
+16 17 11 other
+17 18 12 points
+18 19 10 in
+19 20 8 first
+20 21 7 the
+21 22 9 embodiment
+22 23 6 as
+23 24 4 the
+24 25 5 same
+25 26 13 . 2.38626490308
+26
+0 27 1 this
+27 28 2 embodiment
+28 29 3 is
+29 30 11 other
+30 31 12 points
+31 32 10 in
+32 33 7 the
+33 34 8 first
+34 35 9 embodiment
+35 36 6 as
+36 37 5 same
+37 38 4 the
+38 39 13 . 2.94807608158
+39
+0 40 1 this
+40 41 2 embodiment
+41 42 3 is
+42 43 11 other
+43 44 12 points
+44 45 7 the
+45 46 10 in
+46 47 8 first
+47 48 9 embodiment
+48 49 6 as
+49 50 4 the
+50 51 5 same
+51 52 13 . 8.5087577126
+52
+0 53 1 this
+53 54 2 embodiment
+54 55 3 is
+55 56 11 other
+56 57 12 points
+57 58 10 in
+58 59 7 the
+59 60 8 first
+60 61 6 as
+61 62 9 embodiment
+62 63 4 the
+63 64 5 same
+64 65 13 . 7.81561053204
+65
+0 66 1 this
+66 67 2 embodiment
+67 68 3 is
+68 69 11 other
+69 70 12 points
+70 71 10 in
+71 72 7 the
+72 73 8 first
+73 74 9 embodiment
+74 75 4 the
+75 76 5 same
+76 77 6 as
+77 78 13 . 4.70209522283
+78
+0 79 1 this
+79 80 2 embodiment
+80 81 3 is
+81 82 11 other
+82 83 10 in
+83 84 12 points
+84 85 7 the
+85 86 8 first
+86 87 9 embodiment
+87 88 6 as
+88 89 4 the
+89 90 5 same
+90 91 13 . 5.86970038298
+91
+0 92 1 this
+92 93 2 embodiment
+93 94 3 is
+94 95 11 other
+95 96 12 points
+96 97 10 in
+97 98 7 the
+98 99 9 embodiment
+99 100 8 first
+100 101 6 as
+101 102 4 the
+102 103 5 same
+103 104 13 . 5.6183859547
+104
+0 105 1 this
+105 106 2 embodiment
+106 107 3 is
+107 108 12 points
+108 109 11 other
+109 110 10 in
+110 111 7 the
+111 112 8 first
+112 113 9 embodiment
+113 114 6 as
+114 115 4 the
+115 116 5 same
+116 117 13 . 8.5087577126
+117
+0 118 2 embodiment
+118 119 1 this
+119 120 3 is
+120 121 11 other
+121 122 12 points
+122 123 10 in
+123 124 7 the
+124 125 8 first
+125 126 9 embodiment
+126 127 6 as
+127 128 4 the
+128 129 5 same
+129 130 13 . 8.5087577126
+130
+0 131 1 this
+131 132 2 embodiment
+132 133 3 is
+133 134 11 other
+134 135 12 points
+135 136 10 in
+136 137 7 the
+137 138 8 first
+138 139 9 embodiment
+139 140 5 same
+140 141 6 as
+141 142 4 the
+142 143 13 . 6.71699824337
+143
+0 144 1 this
+144 145 2 embodiment
+145 146 3 is
+146 147 11 other
+147 148 12 points
+148 149 10 in
+149 150 8 first
+150 151 7 the
+151 152 9 embodiment
+152 153 6 as
+153 154 5 same
+154 155 4 the
+155 156 13 . 5.17655320242
+156
+0 157 1 this
+157 158 2 embodiment
+158 159 3 is
+159 160 11 other
+160 161 12 points
+161 162 10 in
+162 163 8 first
+163 164 7 the
+164 165 6 as
+165 166 9 embodiment
+166 167 4 the
+167 168 5 same
+168 169 13 . 6.89931980017
+169

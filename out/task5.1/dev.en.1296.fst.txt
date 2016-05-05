@@ -1,0 +1,351 @@
+0 1 1 analytic
+1 2 2 results
+2 3 3 :
+3 4 4 infrared
+4 5 5 spectrum
+5 6 6 :
+6 7 7 residual
+7 8 8 silanol
+8 9 9 was
+9 10 11 observed
+10 11 10 not
+11 12 12 . 0.143718017613
+12
+0 13 1 analytic
+13 14 2 results
+14 15 3 :
+15 16 4 infrared
+16 17 5 spectrum
+17 18 6 :
+18 19 7 residual
+19 20 8 silanol
+20 21 9 was
+21 22 10 not
+22 23 11 observed
+23 24 12 . 3.17219663856
+24
+0 25 1 analytic
+25 26 2 results
+26 27 3 :
+27 28 4 infrared
+28 29 5 spectrum
+29 30 6 :
+30 31 7 residual
+31 32 8 silanol
+32 33 11 observed
+33 34 9 was
+34 35 10 not
+35 36 12 . 5.45081254144
+36
+0 37 1 analytic
+37 38 2 results
+38 39 3 :
+39 40 4 infrared
+40 41 5 spectrum
+41 42 6 :
+42 43 8 silanol
+43 44 7 residual
+44 45 9 was
+45 46 11 observed
+46 47 10 not
+47 48 12 . 7.47896078874
+48
+0 49 1 analytic
+49 50 3 :
+50 51 2 results
+51 52 4 infrared
+52 53 5 spectrum
+53 54 6 :
+54 55 7 residual
+55 56 8 silanol
+56 57 9 was
+57 58 11 observed
+58 59 10 not
+59 60 12 . 9.08839870117
+60
+0 61 1 analytic
+61 62 2 results
+62 63 3 :
+63 64 4 infrared
+64 65 5 spectrum
+65 66 7 residual
+66 67 8 silanol
+67 68 6 :
+68 69 9 was
+69 70 11 observed
+70 71 10 not
+71 72 12 . 9.08839870117
+72
+0 73 1 analytic
+73 74 2 results
+74 75 3 :
+75 76 4 infrared
+76 77 5 spectrum
+77 78 6 :
+78 79 9 was
+79 80 7 residual
+80 81 8 silanol
+81 82 11 observed
+82 83 10 not
+83 84 12 . 6.78581360817
+84
+0 85 1 analytic
+85 86 2 results
+86 87 3 :
+87 88 4 infrared
+88 89 5 spectrum
+89 90 6 :
+90 91 8 silanol
+91 92 9 was
+92 93 7 residual
+93 94 11 observed
+94 95 10 not
+95 96 12 . 9.08839870117
+96
+0 97 1 analytic
+97 98 2 results
+98 99 3 :
+99 100 4 infrared
+100 101 5 spectrum
+101 102 6 :
+102 103 7 residual
+103 104 8 silanol
+104 105 11 observed
+105 106 10 not
+106 107 9 was
+107 108 12 . 4.22086425072
+108
+0 109 1 analytic
+109 110 2 results
+110 111 4 infrared
+111 112 5 spectrum
+112 113 3 :
+113 114 6 :
+114 115 7 residual
+115 116 8 silanol
+116 117 9 was
+117 118 11 observed
+118 119 10 not
+119 120 12 . 8.39525152061
+120
+0 121 1 analytic
+121 122 2 results
+122 123 3 :
+123 124 6 :
+124 125 4 infrared
+125 126 5 spectrum
+126 127 7 residual
+127 128 8 silanol
+128 129 9 was
+129 130 11 observed
+130 131 10 not
+131 132 12 . 7.9897864125
+132
+0 133 3 :
+133 134 1 analytic
+134 135 2 results
+135 136 4 infrared
+136 137 5 spectrum
+137 138 6 :
+138 139 7 residual
+139 140 8 silanol
+140 141 9 was
+141 142 11 observed
+142 143 10 not
+143 144 12 . 8.39525152061
+144
+0 145 1 analytic
+145 146 2 results
+146 147 3 :
+147 148 4 infrared
+148 149 5 spectrum
+149 150 6 :
+150 151 7 residual
+151 152 9 was
+152 153 11 observed
+153 154 10 not
+154 155 8 silanol
+155 156 12 . 7.29663923194
+156
+0 157 1 analytic
+157 158 2 results
+158 159 3 :
+159 160 4 infrared
+160 161 5 spectrum
+161 162 6 :
+162 163 11 observed
+163 164 7 residual
+164 165 8 silanol
+165 166 9 was
+166 167 10 not
+167 168 12 . 5.91034487082
+168
+0 169 1 analytic
+169 170 2 results
+170 171 3 :
+171 172 4 infrared
+172 173 5 spectrum
+173 174 6 :
+174 175 7 residual
+175 176 8 silanol
+176 177 10 not
+177 178 11 observed
+178 179 9 was
+179 180 12 . 9.08839870117
+180
+0 181 1 analytic
+181 182 2 results
+182 183 3 :
+183 184 4 infrared
+184 185 7 residual
+185 186 8 silanol
+186 187 5 spectrum
+187 188 6 :
+188 189 9 was
+189 190 11 observed
+190 191 10 not
+191 192 12 . 8.39525152061
+192
+0 193 1 analytic
+193 194 2 results
+194 195 3 :
+195 196 4 infrared
+196 197 5 spectrum
+197 198 6 :
+198 199 8 silanol
+199 200 9 was
+200 201 11 observed
+201 202 10 not
+202 203 7 residual
+203 204 12 . 5.95290448524
+204
+0 205 1 analytic
+205 206 2 results
+206 207 3 :
+207 208 4 infrared
+208 209 5 spectrum
+209 210 6 :
+210 211 8 silanol
+211 212 9 was
+212 213 10 not
+213 214 7 residual
+214 215 11 observed
+215 216 12 . 9.08839870117
+216
+0 217 1 analytic
+217 218 4 infrared
+218 219 5 spectrum
+219 220 2 results
+220 221 3 :
+221 222 6 :
+222 223 7 residual
+223 224 8 silanol
+224 225 9 was
+225 226 11 observed
+226 227 10 not
+227 228 12 . 9.08839870117
+228
+0 229 5 spectrum
+229 230 1 analytic
+230 231 2 results
+231 232 3 :
+232 233 4 infrared
+233 234 6 :
+234 235 7 residual
+235 236 8 silanol
+236 237 9 was
+237 238 11 observed
+238 239 10 not
+239 240 12 . 9.08839870117
+240
+0 241 1 analytic
+241 242 2 results
+242 243 3 :
+243 244 4 infrared
+244 245 5 spectrum
+245 246 6 :
+246 247 9 was
+247 248 10 not
+248 249 7 residual
+249 250 8 silanol
+250 251 11 observed
+251 252 12 . 7.70210434005
+252
+0 253 1 analytic
+253 254 2 results
+254 255 3 :
+255 256 9 was
+256 257 4 infrared
+257 258 5 spectrum
+258 259 6 :
+259 260 7 residual
+260 261 8 silanol
+261 262 11 observed
+262 263 10 not
+263 264 12 . 8.39525152061
+264
+0 265 1 analytic
+265 266 2 results
+266 267 3 :
+267 268 4 infrared
+268 269 5 spectrum
+269 270 7 residual
+270 271 8 silanol
+271 272 9 was
+272 273 11 observed
+273 274 10 not
+274 275 6 :
+275 276 12 . 7.00895715949
+276
+0 277 1 analytic
+277 278 2 results
+278 279 3 :
+279 280 4 infrared
+280 281 5 spectrum
+281 282 6 :
+282 283 8 silanol
+283 284 9 was
+284 285 10 not
+285 286 11 observed
+286 287 7 residual
+287 288 12 . 9.08839870117
+288
+0 289 1 analytic
+289 290 2 results
+290 291 3 :
+291 292 7 residual
+292 293 8 silanol
+293 294 4 infrared
+294 295 5 spectrum
+295 296 6 :
+296 297 9 was
+297 298 11 observed
+298 299 10 not
+299 300 12 . 5.23825109946
+300
+0 301 1 analytic
+301 302 2 results
+302 303 3 :
+303 304 4 infrared
+304 305 5 spectrum
+305 306 6 :
+306 307 9 was
+307 308 11 observed
+308 309 10 not
+309 310 7 residual
+310 311 8 silanol
+311 312 12 . 2.87579260542
+312
+0 313 1 analytic
+313 314 2 results
+314 315 3 :
+315 316 4 infrared
+316 317 7 residual
+317 318 8 silanol
+318 319 9 was
+319 320 5 spectrum
+320 321 6 :
+321 322 11 observed
+322 323 10 not
+323 324 12 . 9.08839870117
+324

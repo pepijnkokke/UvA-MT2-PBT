@@ -1,0 +1,105 @@
+0 1 1 simultaneously
+1 2 2 ,
+2 3 3 the
+3 4 4 thermal
+4 5 5 energy
+5 6 8 the
+6 7 9 slcs
+7 8 10 1
+8 9 11 and
+9 10 12 the
+10 11 13 egcs
+11 12 14 2
+12 13 15 will
+13 14 16 be
+14 15 17 maintained
+15 16 7 from
+16 17 6 exhausted
+17 18 18 relatively
+18 19 19 constant
+19 20 20 . 0.517651588836
+20
+0 21 1 simultaneously
+21 22 2 ,
+22 23 3 the
+23 24 4 thermal
+24 25 5 energy
+25 26 8 the
+26 27 9 slcs
+27 28 10 1
+28 29 11 and
+29 30 12 the
+30 31 13 egcs
+31 32 14 2
+32 33 15 will
+33 34 16 be
+34 35 7 from
+35 36 6 exhausted
+36 37 17 maintained
+37 38 18 relatively
+38 39 19 constant
+39 40 20 . 5.50125821055
+40
+0 41 1 simultaneously
+41 42 2 ,
+42 43 3 the
+43 44 4 thermal
+44 45 5 energy
+45 46 8 the
+46 47 9 slcs
+47 48 10 1
+48 49 11 and
+49 50 12 the
+50 51 13 egcs
+51 52 14 2
+52 53 15 will
+53 54 7 from
+54 55 16 be
+55 56 17 maintained
+56 57 6 exhausted
+57 58 18 relatively
+58 59 19 constant
+59 60 20 . 4.80811102999
+60
+0 61 1 simultaneously
+61 62 2 ,
+62 63 3 the
+63 64 4 thermal
+64 65 5 energy
+65 66 8 the
+66 67 9 slcs
+67 68 10 1
+68 69 11 and
+69 70 12 the
+70 71 13 egcs
+71 72 14 2
+72 73 15 will
+73 74 17 maintained
+74 75 16 be
+75 76 7 from
+76 77 6 exhausted
+77 78 18 relatively
+78 79 19 constant
+79 80 20 . 1.8903402979
+80
+0 81 1 simultaneously
+81 82 2 ,
+82 83 3 the
+83 84 4 thermal
+84 85 5 energy
+85 86 8 the
+86 87 9 slcs
+87 88 10 1
+88 89 11 and
+89 90 12 the
+90 91 13 egcs
+91 92 14 2
+92 93 15 will
+93 94 7 from
+94 95 6 exhausted
+95 96 16 be
+96 97 17 maintained
+97 98 18 relatively
+98 99 19 constant
+99 100 20 . 1.42372076664
+100

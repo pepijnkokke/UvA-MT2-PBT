@@ -1,0 +1,208 @@
+0 1 1 the
+1 2 2 specified
+2 3 3 opposing
+3 4 4 voltage
+4 5 5 v.sub.com
+5 6 6 is
+6 7 9 the
+7 8 10 opposing
+8 9 11 electrode
+9 10 8 to
+10 11 7 applied
+11 12 12 . 0.101292636295
+12
+0 13 2 specified
+13 14 1 the
+14 15 3 opposing
+15 16 4 voltage
+16 17 5 v.sub.com
+17 18 6 is
+18 19 9 the
+19 20 10 opposing
+20 21 11 electrode
+21 22 8 to
+22 23 7 applied
+23 24 12 . 2.72695533491
+24
+0 25 1 the
+25 26 3 opposing
+26 27 2 specified
+27 28 4 voltage
+28 29 5 v.sub.com
+29 30 6 is
+30 31 9 the
+31 32 10 opposing
+32 33 11 electrode
+33 34 8 to
+34 35 7 applied
+35 36 12 . 7.86275377196
+36
+0 37 1 the
+37 38 2 specified
+38 39 4 voltage
+39 40 3 opposing
+40 41 5 v.sub.com
+41 42 6 is
+42 43 9 the
+43 44 10 opposing
+44 45 11 electrode
+45 46 8 to
+46 47 7 applied
+47 48 12 . 7.86275377196
+48
+0 49 1 the
+49 50 2 specified
+50 51 3 opposing
+51 52 5 v.sub.com
+52 53 4 voltage
+53 54 6 is
+54 55 9 the
+55 56 10 opposing
+56 57 11 electrode
+57 58 8 to
+58 59 7 applied
+59 60 12 . 8.26821888007
+60
+0 61 1 the
+61 62 2 specified
+62 63 3 opposing
+63 64 4 voltage
+64 65 5 v.sub.com
+65 66 6 is
+66 67 9 the
+67 68 10 opposing
+68 69 11 electrode
+69 70 7 applied
+70 71 8 to
+71 72 12 . 8.96136606063
+72
+0 73 1 the
+73 74 2 specified
+74 75 3 opposing
+75 76 4 voltage
+76 77 5 v.sub.com
+77 78 6 is
+78 79 9 the
+79 80 11 electrode
+80 81 10 opposing
+81 82 8 to
+82 83 7 applied
+83 84 12 . 8.96136606063
+84
+0 85 3 opposing
+85 86 1 the
+86 87 2 specified
+87 88 4 voltage
+88 89 5 v.sub.com
+89 90 6 is
+90 91 9 the
+91 92 10 opposing
+92 93 11 electrode
+93 94 8 to
+94 95 7 applied
+95 96 12 . 5.09016504972
+96
+0 97 2 specified
+97 98 1 the
+98 99 4 voltage
+99 100 3 opposing
+100 101 5 v.sub.com
+101 102 6 is
+102 103 9 the
+103 104 10 opposing
+104 105 11 electrode
+105 106 8 to
+106 107 7 applied
+107 108 12 . 8.96136606063
+108
+0 109 1 the
+109 110 3 opposing
+110 111 4 voltage
+111 112 2 specified
+112 113 5 v.sub.com
+113 114 6 is
+114 115 9 the
+115 116 10 opposing
+116 117 11 electrode
+117 118 8 to
+118 119 7 applied
+119 120 12 . 7.1696065914
+120
+0 121 2 specified
+121 122 1 the
+122 123 3 opposing
+123 124 4 voltage
+124 125 5 v.sub.com
+125 126 6 is
+126 127 9 the
+127 128 11 electrode
+128 129 10 opposing
+129 130 8 to
+130 131 7 applied
+131 132 12 . 8.96136606063
+132
+0 133 1 the
+133 134 2 specified
+134 135 4 voltage
+135 136 5 v.sub.com
+136 137 3 opposing
+137 138 6 is
+138 139 9 the
+139 140 10 opposing
+140 141 11 electrode
+141 142 8 to
+142 143 7 applied
+143 144 12 . 7.01545591157
+144
+0 145 1 the
+145 146 2 specified
+146 147 5 v.sub.com
+147 148 3 opposing
+148 149 4 voltage
+149 150 6 is
+150 151 9 the
+151 152 10 opposing
+152 153 11 electrode
+153 154 8 to
+154 155 7 applied
+155 156 12 . 7.35192814819
+156
+0 157 1 the
+157 158 2 specified
+158 159 3 opposing
+159 160 4 voltage
+160 161 5 v.sub.com
+161 162 6 is
+162 163 10 opposing
+163 164 11 electrode
+164 165 9 the
+165 166 8 to
+166 167 7 applied
+167 168 12 . 4.11717897417
+168
+0 169 2 specified
+169 170 3 opposing
+170 171 4 voltage
+171 172 1 the
+172 173 5 v.sub.com
+173 174 6 is
+174 175 9 the
+175 176 10 opposing
+176 177 11 electrode
+177 178 8 to
+178 179 7 applied
+179 180 12 . 5.56016867897
+180
+0 181 3 opposing
+181 182 2 specified
+182 183 1 the
+183 184 4 voltage
+184 185 5 v.sub.com
+185 186 6 is
+186 187 9 the
+187 188 10 opposing
+188 189 11 electrode
+189 190 8 to
+190 191 7 applied
+191 192 12 . 7.1696065914
+192

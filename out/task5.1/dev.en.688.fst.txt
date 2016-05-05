@@ -1,0 +1,44 @@
+0 1 2 this
+1 2 3 embodiment
+2 3 1 in
+3 4 4 ,
+4 5 9 the
+5 6 10 contrast
+6 7 11 voltage
+7 8 8 of
+8 9 5 the
+9 10 6 renewal
+10 11 7 amount
+11 12 18 the
+12 13 19 low-density
+13 14 20 region
+14 15 17 of
+15 16 15 the
+16 17 16 deviation
+17 18 14 on
+18 19 13 depends
+19 20 12 hardly
+20 21 21 . 0.153392529677
+21
+0 22 2 this
+22 23 3 embodiment
+23 24 4 ,
+24 25 1 in
+25 26 9 the
+26 27 10 contrast
+27 28 11 voltage
+28 29 8 of
+29 30 5 the
+30 31 6 renewal
+31 32 7 amount
+32 33 18 the
+33 34 19 low-density
+34 35 20 region
+35 36 17 of
+36 37 15 the
+37 38 16 deviation
+38 39 14 on
+39 40 13 depends
+40 41 12 hardly
+41 42 21 . 1.95047116038
+42

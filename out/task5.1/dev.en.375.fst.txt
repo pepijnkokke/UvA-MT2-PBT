@@ -1,0 +1,190 @@
+0 1 2 the
+1 2 3 address
+2 3 4 change
+3 4 5 detection
+4 5 6 signal
+5 6 7 atd
+6 7 1 when
+7 8 8 falls
+8 9 9 ,
+9 10 10 valid
+10 11 11 data
+11 12 12 is
+12 13 15 the
+13 14 16 output
+14 15 17 data
+15 16 18 d.sub.out.
+16 17 14 as
+17 18 13 output 2.74787169529
+18
+0 19 2 the
+19 20 3 address
+20 21 4 change
+21 22 5 detection
+22 23 6 signal
+23 24 7 atd
+24 25 8 falls
+25 26 1 when
+26 27 9 ,
+27 28 10 valid
+28 29 11 data
+29 30 12 is
+30 31 15 the
+31 32 16 output
+32 33 17 data
+33 34 18 d.sub.out.
+34 35 14 as
+35 36 13 output 0.238526530231
+36
+0 37 2 the
+37 38 3 address
+38 39 4 change
+39 40 5 detection
+40 41 6 signal
+41 42 1 when
+42 43 7 atd
+43 44 8 falls
+44 45 9 ,
+45 46 10 valid
+46 47 11 data
+47 48 12 is
+48 49 15 the
+49 50 16 output
+50 51 17 data
+51 52 18 d.sub.out.
+52 53 14 as
+53 54 13 output 5.03495260175
+54
+0 55 2 the
+55 56 3 address
+56 57 4 change
+57 58 5 detection
+58 59 1 when
+59 60 6 signal
+60 61 7 atd
+61 62 8 falls
+62 63 9 ,
+63 64 10 valid
+64 65 11 data
+65 66 12 is
+66 67 15 the
+67 68 16 output
+68 69 17 data
+69 70 18 d.sub.out.
+70 71 14 as
+71 72 13 output 5.65399181015
+72
+0 73 2 the
+73 74 3 address
+74 75 4 change
+75 76 1 when
+76 77 5 detection
+77 78 6 signal
+78 79 7 atd
+79 80 8 falls
+80 81 9 ,
+81 82 10 valid
+82 83 11 data
+83 84 12 is
+84 85 15 the
+85 86 16 output
+86 87 17 data
+87 88 18 d.sub.out.
+88 89 14 as
+89 90 13 output 3.07811338216
+90
+0 91 2 the
+91 92 3 address
+92 93 1 when
+93 94 4 change
+94 95 5 detection
+95 96 6 signal
+96 97 7 atd
+97 98 8 falls
+98 99 9 ,
+99 100 10 valid
+100 101 11 data
+101 102 12 is
+102 103 15 the
+103 104 16 output
+104 105 17 data
+105 106 18 d.sub.out.
+106 107 14 as
+107 108 13 output 2.9364628651
+108
+0 109 2 the
+109 110 3 address
+110 111 4 change
+111 112 5 detection
+112 113 6 signal
+113 114 7 atd
+114 115 8 falls
+115 116 9 ,
+116 117 1 when
+117 118 10 valid
+118 119 11 data
+119 120 12 is
+120 121 15 the
+121 122 16 output
+122 123 17 data
+123 124 18 d.sub.out.
+124 125 14 as
+125 126 13 output 4.42184812886
+126
+0 127 2 the
+127 128 3 address
+128 129 4 change
+129 130 5 detection
+130 131 6 signal
+131 132 7 atd
+132 133 1 when
+133 134 8 falls
+134 135 9 ,
+135 136 10 valid
+136 137 11 data
+137 138 12 is
+138 139 15 the
+139 140 16 output
+140 141 17 data
+141 142 18 d.sub.out.
+142 143 13 output
+143 144 14 as 6.90675477865
+144
+0 145 2 the
+145 146 3 address
+146 147 4 change
+147 148 5 detection
+148 149 6 signal
+149 150 7 atd
+150 151 8 falls
+151 152 1 when
+152 153 9 ,
+153 154 10 valid
+154 155 11 data
+155 156 12 is
+156 157 15 the
+157 158 16 output
+158 159 17 data
+159 160 18 d.sub.out.
+160 161 13 output
+161 162 14 as 3.7287009483
+162
+0 163 2 the
+163 164 1 when
+164 165 3 address
+165 166 4 change
+166 167 5 detection
+167 168 6 signal
+168 169 7 atd
+169 170 8 falls
+170 171 9 ,
+171 172 10 valid
+172 173 11 data
+173 174 12 is
+174 175 15 the
+175 176 16 output
+176 177 17 data
+177 178 18 d.sub.out.
+178 179 14 as
+179 180 13 output 6.21360759809
+180

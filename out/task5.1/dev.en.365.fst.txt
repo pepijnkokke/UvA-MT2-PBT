@@ -1,0 +1,234 @@
+0 1 5 a
+1 2 6 priority
+2 3 7 decisional
+3 4 8 method
+4 5 4 of
+5 6 1 one
+6 7 2 conventional
+7 8 3 example
+8 9 11 such
+9 10 12 cases
+10 11 13 will
+11 12 10 in
+12 13 9 used
+13 14 14 now
+14 15 15 be
+15 16 16 explained
+16 17 17 . 0.928125189521
+17
+0 18 5 a
+18 19 6 priority
+19 20 7 decisional
+20 21 8 method
+21 22 1 one
+22 23 4 of
+23 24 2 conventional
+24 25 3 example
+25 26 11 such
+26 27 12 cases
+27 28 13 will
+28 29 10 in
+29 30 9 used
+30 31 14 now
+31 32 15 be
+32 33 16 explained
+33 34 17 . 5.35894198836
+34
+0 35 5 a
+35 36 6 priority
+36 37 7 decisional
+37 38 8 method
+38 39 4 of
+39 40 1 one
+40 41 2 conventional
+41 42 3 example
+42 43 11 such
+43 44 12 cases
+44 45 10 in
+45 46 9 used
+46 47 13 will
+47 48 14 now
+48 49 15 be
+49 50 16 explained
+50 51 17 . 1.70828374707
+51
+0 52 5 a
+52 53 6 priority
+53 54 7 decisional
+54 55 8 method
+55 56 1 one
+56 57 2 conventional
+57 58 4 of
+58 59 3 example
+59 60 11 such
+60 61 12 cases
+61 62 13 will
+62 63 10 in
+63 64 9 used
+64 65 14 now
+65 66 15 be
+66 67 16 explained
+67 68 17 . 6.05208916892
+68
+0 69 1 one
+69 70 5 a
+70 71 6 priority
+71 72 7 decisional
+72 73 8 method
+73 74 4 of
+74 75 2 conventional
+75 76 3 example
+76 77 11 such
+77 78 12 cases
+78 79 13 will
+79 80 10 in
+80 81 9 used
+81 82 14 now
+82 83 15 be
+83 84 16 explained
+84 85 17 . 2.46857023047
+85
+0 86 5 a
+86 87 6 priority
+87 88 7 decisional
+88 89 8 method
+89 90 4 of
+90 91 1 one
+91 92 2 conventional
+92 93 3 example
+93 94 11 such
+94 95 12 cases
+95 96 13 will
+96 97 10 in
+97 98 9 used
+98 99 14 now
+99 100 16 explained
+100 101 15 be
+101 102 17 . 2.33851710222
+102
+0 103 1 one
+103 104 5 a
+104 105 6 priority
+105 106 7 decisional
+106 107 8 method
+107 108 4 of
+108 109 2 conventional
+109 110 3 example
+110 111 11 such
+111 112 12 cases
+112 113 10 in
+113 114 9 used
+114 115 13 will
+115 116 14 now
+116 117 15 be
+117 118 16 explained
+118 119 17 . 2.31441955064
+119
+0 120 1 one
+120 121 5 a
+121 122 6 priority
+122 123 7 decisional
+123 124 8 method
+124 125 2 conventional
+125 126 4 of
+126 127 3 example
+127 128 11 such
+128 129 12 cases
+129 130 13 will
+130 131 10 in
+131 132 9 used
+132 133 14 now
+133 134 15 be
+134 135 16 explained
+135 136 17 . 5.35894198836
+136
+0 137 5 a
+137 138 6 priority
+138 139 7 decisional
+139 140 8 method
+140 141 4 of
+141 142 1 one
+142 143 2 conventional
+143 144 3 example
+144 145 11 such
+145 146 12 cases
+146 147 10 in
+147 148 9 used
+148 149 13 will
+149 150 14 now
+150 151 16 explained
+151 152 15 be
+152 153 17 . 3.05635689537
+153
+0 154 5 a
+154 155 6 priority
+155 156 7 decisional
+156 157 8 method
+157 158 4 of
+158 159 1 one
+159 160 2 conventional
+160 161 3 example
+161 162 11 such
+162 163 12 cases
+163 164 10 in
+164 165 9 used
+165 166 13 will
+166 167 15 be
+167 168 14 now
+168 169 16 explained
+169 170 17 . 4.95347688026
+170
+0 171 5 a
+171 172 6 priority
+172 173 7 decisional
+173 174 8 method
+174 175 4 of
+175 176 1 one
+176 177 2 conventional
+177 178 3 example
+178 179 11 such
+179 180 10 in
+180 181 12 cases
+181 182 13 will
+182 183 9 used
+183 184 14 now
+184 185 15 be
+185 186 16 explained
+186 187 17 . 6.05208916892
+187
+0 188 5 a
+188 189 6 priority
+189 190 7 decisional
+190 191 4 of
+191 192 1 one
+192 193 2 conventional
+193 194 3 example
+194 195 11 such
+195 196 12 cases
+196 197 10 in
+197 198 8 method
+198 199 9 used
+199 200 13 will
+200 201 14 now
+201 202 15 be
+202 203 16 explained
+203 204 17 . 3.16171741103
+204
+0 205 5 a
+205 206 6 priority
+206 207 7 decisional
+207 208 4 of
+208 209 1 one
+209 210 2 conventional
+210 211 3 example
+211 212 8 method
+212 213 11 such
+213 214 12 cases
+214 215 13 will
+215 216 10 in
+216 217 9 used
+217 218 14 now
+218 219 15 be
+219 220 16 explained
+220 221 17 . 3.41303183931
+221

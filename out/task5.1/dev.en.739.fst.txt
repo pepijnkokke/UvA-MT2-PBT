@@ -1,0 +1,240 @@
+0 1 3 the
+1 2 4 present
+2 3 5 invention
+3 4 2 to
+4 5 1 according
+5 6 6 ,
+6 7 10 low
+7 8 11 power
+8 9 12 consumption
+9 10 13 and
+10 11 14 high
+11 12 15 performance
+12 13 9 of
+13 14 7 a
+14 15 8 transistor
+15 16 17 be
+16 17 18 obtained
+17 18 16 can
+18 19 19 . 0.252737916066
+19
+0 20 3 the
+20 21 4 present
+21 22 5 invention
+22 23 2 to
+23 24 1 according
+24 25 6 ,
+25 26 10 low
+26 27 12 consumption
+27 28 11 power
+28 29 13 and
+29 30 14 high
+30 31 15 performance
+31 32 9 of
+32 33 7 a
+33 34 8 transistor
+34 35 17 be
+35 36 18 obtained
+36 37 16 can
+37 38 19 . 2.92658136177
+38
+0 39 3 the
+39 40 4 present
+40 41 5 invention
+41 42 2 to
+42 43 1 according
+43 44 6 ,
+44 45 10 low
+45 46 11 power
+46 47 12 consumption
+47 48 13 and
+48 49 14 high
+49 50 9 of
+50 51 7 a
+51 52 8 transistor
+52 53 15 performance
+53 54 17 be
+54 55 18 obtained
+55 56 16 can
+56 57 19 . 6.26767481936
+57
+0 58 3 the
+58 59 4 present
+59 60 5 invention
+60 61 2 to
+61 62 1 according
+62 63 6 ,
+63 64 10 low
+64 65 11 power
+65 66 12 consumption
+66 67 9 of
+67 68 13 and
+68 69 14 high
+69 70 15 performance
+70 71 7 a
+71 72 8 transistor
+72 73 17 be
+73 74 18 obtained
+74 75 16 can
+75 76 19 . 6.96082199992
+76
+0 77 3 the
+77 78 4 present
+78 79 5 invention
+79 80 2 to
+80 81 1 according
+81 82 6 ,
+82 83 10 low
+83 84 11 power
+84 85 12 consumption
+85 86 13 and
+86 87 14 high
+87 88 15 performance
+88 89 9 of
+89 90 7 a
+90 91 8 transistor
+91 92 18 obtained
+92 93 17 be
+93 94 16 can
+94 95 19 . 2.84178482511
+95
+0 96 3 the
+96 97 4 present
+97 98 5 invention
+98 99 2 to
+99 100 1 according
+100 101 6 ,
+101 102 10 low
+102 103 11 power
+103 104 12 consumption
+104 105 13 and
+105 106 14 high
+106 107 15 performance
+107 108 9 of
+108 109 8 transistor
+109 110 7 a
+110 111 17 be
+111 112 18 obtained
+112 113 16 can
+113 114 19 . 4.88138045824
+114
+0 115 3 the
+115 116 4 present
+116 117 5 invention
+117 118 2 to
+118 119 1 according
+119 120 6 ,
+120 121 10 low
+121 122 11 power
+122 123 12 consumption
+123 124 13 and
+124 125 15 performance
+125 126 14 high
+126 127 9 of
+127 128 7 a
+128 129 8 transistor
+129 130 17 be
+130 131 18 obtained
+131 132 16 can
+132 133 19 . 7.65396918048
+133
+0 134 3 the
+134 135 4 present
+135 136 5 invention
+136 137 2 to
+137 138 1 according
+138 139 6 ,
+139 140 10 low
+140 141 13 and
+141 142 11 power
+142 143 12 consumption
+143 144 14 high
+144 145 15 performance
+145 146 9 of
+146 147 7 a
+147 148 8 transistor
+148 149 17 be
+149 150 18 obtained
+150 151 16 can
+151 152 19 . 6.96082199992
+152
+0 153 3 the
+153 154 4 present
+154 155 5 invention
+155 156 6 ,
+156 157 2 to
+157 158 1 according
+158 159 10 low
+159 160 11 power
+160 161 12 consumption
+161 162 13 and
+162 163 14 high
+163 164 15 performance
+164 165 9 of
+165 166 7 a
+166 167 8 transistor
+167 168 17 be
+168 169 18 obtained
+169 170 16 can
+170 171 19 . 5.5745276388
+171
+0 172 3 the
+172 173 4 present
+173 174 5 invention
+174 175 2 to
+175 176 1 according
+176 177 6 ,
+177 178 10 low
+178 179 12 consumption
+179 180 11 power
+180 181 13 and
+181 182 14 high
+182 183 9 of
+183 184 7 a
+184 185 8 transistor
+185 186 15 performance
+186 187 17 be
+187 188 18 obtained
+188 189 16 can
+189 190 19 . 7.65396918048
+190
+0 191 3 the
+191 192 4 present
+192 193 5 invention
+193 194 2 to
+194 195 1 according
+195 196 6 ,
+196 197 10 low
+197 198 11 power
+198 199 12 consumption
+199 200 13 and
+200 201 9 of
+201 202 7 a
+202 203 8 transistor
+203 204 14 high
+204 205 15 performance
+205 206 17 be
+206 207 18 obtained
+207 208 16 can
+208 209 19 . 2.38096962191
+209
+0 210 3 the
+210 211 4 present
+211 212 5 invention
+212 213 2 to
+213 214 1 according
+214 215 6 ,
+215 216 10 low
+216 217 12 consumption
+217 218 11 power
+218 219 13 and
+219 220 14 high
+220 221 15 performance
+221 222 9 of
+222 223 7 a
+223 224 8 transistor
+224 225 18 obtained
+225 226 17 be
+226 227 16 can
+227 228 19 . 5.86220971125
+228

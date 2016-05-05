@@ -1,0 +1,210 @@
+0 1 1 this
+1 2 2 makes
+2 3 3 it
+3 4 9 the
+4 5 10 shallow
+5 6 11 groove
+6 7 12 5a1
+7 8 8 in
+8 9 7 overetch
+9 10 5 to
+10 11 6 prevent
+11 12 4 possible
+12 13 13 . 1.25364035394
+13
+0 14 1 this
+14 15 2 makes
+15 16 3 it
+16 17 9 the
+17 18 10 shallow
+18 19 11 groove
+19 20 12 5a1
+20 21 8 in
+21 22 7 overetch
+22 23 6 prevent
+23 24 5 to
+24 25 4 possible
+25 26 13 . 1.03080406949
+26
+0 27 1 this
+27 28 2 makes
+28 29 9 the
+29 30 10 shallow
+30 31 11 groove
+31 32 12 5a1
+32 33 3 it
+33 34 8 in
+34 35 7 overetch
+35 36 5 to
+36 37 6 prevent
+37 38 4 possible
+38 39 13 . 8.42529717671
+39
+0 40 1 this
+40 41 2 makes
+41 42 9 the
+42 43 10 shallow
+43 44 11 groove
+44 45 12 5a1
+45 46 8 in
+46 47 3 it
+47 48 7 overetch
+48 49 5 to
+49 50 6 prevent
+50 51 4 possible
+51 52 13 . 1.79197874343
+52
+0 53 1 this
+53 54 2 makes
+54 55 9 the
+55 56 10 shallow
+56 57 11 groove
+57 58 12 5a1
+58 59 3 it
+59 60 8 in
+60 61 7 overetch
+61 62 6 prevent
+62 63 5 to
+63 64 4 possible
+64 65 13 . 7.32668488804
+65
+0 66 1 this
+66 67 2 makes
+67 68 3 it
+68 69 9 the
+69 70 10 shallow
+70 71 11 groove
+71 72 12 5a1
+72 73 8 in
+73 74 5 to
+74 75 7 overetch
+75 76 6 prevent
+76 77 4 possible
+77 78 13 . 5.94039052692
+78
+0 79 1 this
+79 80 2 makes
+80 81 3 it
+81 82 9 the
+82 83 10 shallow
+83 84 11 groove
+84 85 12 5a1
+85 86 7 overetch
+86 87 8 in
+87 88 5 to
+88 89 6 prevent
+89 90 4 possible
+90 91 13 . 4.7364177226
+91
+0 92 1 this
+92 93 2 makes
+93 94 9 the
+94 95 10 shallow
+95 96 11 groove
+96 97 12 5a1
+97 98 8 in
+98 99 3 it
+99 100 7 overetch
+100 101 6 prevent
+101 102 5 to
+102 103 4 possible
+103 104 13 . 1.91652803974
+104
+0 105 1 this
+105 106 2 makes
+106 107 3 it
+107 108 9 the
+108 109 10 shallow
+109 110 11 groove
+110 111 12 5a1
+111 112 8 in
+112 113 6 prevent
+113 114 7 overetch
+114 115 5 to
+115 116 4 possible
+116 117 13 . 4.00645656892
+117
+0 118 1 this
+118 119 2 makes
+119 120 3 it
+120 121 9 the
+121 122 10 shallow
+122 123 11 groove
+123 124 12 5a1
+124 125 8 in
+125 126 7 overetch
+126 127 5 to
+127 128 4 possible
+128 129 6 prevent
+129 130 13 . 8.42529717671
+130
+0 131 1 this
+131 132 2 makes
+132 133 3 it
+133 134 9 the
+134 135 10 shallow
+135 136 11 groove
+136 137 12 5a1
+137 138 7 overetch
+138 139 8 in
+139 140 6 prevent
+140 141 5 to
+141 142 4 possible
+142 143 13 . 4.51327417128
+143
+0 144 1 this
+144 145 2 makes
+145 146 9 the
+146 147 3 it
+147 148 10 shallow
+148 149 11 groove
+149 150 12 5a1
+150 151 7 overetch
+151 152 8 in
+152 153 6 prevent
+153 154 5 to
+154 155 4 possible
+155 156 13 . 8.42529717671
+156
+0 157 1 this
+157 158 2 makes
+158 159 3 it
+159 160 9 the
+160 161 10 shallow
+161 162 11 groove
+162 163 12 5a1
+163 164 8 in
+164 165 7 overetch
+165 166 6 prevent
+166 167 4 possible
+167 168 5 to
+168 169 13 . 7.73214999615
+169
+0 170 1 this
+170 171 2 makes
+171 172 3 it
+172 173 9 the
+173 174 10 shallow
+174 175 11 groove
+175 176 8 in
+176 177 12 5a1
+177 178 7 overetch
+178 179 6 prevent
+179 180 5 to
+180 181 4 possible
+181 182 13 . 8.42529717671
+182
+0 183 1 this
+183 184 2 makes
+184 185 9 the
+185 186 10 shallow
+186 187 11 groove
+187 188 12 5a1
+188 189 8 in
+189 190 7 overetch
+190 191 3 it
+191 192 5 to
+192 193 6 prevent
+193 194 4 possible
+194 195 13 . 6.47938702766
+195

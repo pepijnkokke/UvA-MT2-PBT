@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 cam
+2 3 3 channel
+3 4 4 33
+4 5 5 receives
+5 6 6 an
+6 7 7 engaging
+7 8 8 portion
+8 9 9 of
+9 10 10 the
+10 11 11 cam
+11 12 12 member
+12 13 13 hereinafter
+13 14 14 described
+14 15 15 .
+15

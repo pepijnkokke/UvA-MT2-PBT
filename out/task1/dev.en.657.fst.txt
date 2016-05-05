@@ -1,0 +1,16 @@
+0 1 1 bit
+1 2 2 line
+2 3 3 bl1
+3 4 4 is
+4 5 5 connected
+5 6 6 to
+6 7 7 common
+7 8 8 data
+8 9 9 line
+9 10 10 cd1
+10 11 11 via
+11 12 12 transfer
+12 13 13 gate
+13 14 14 107
+14 15 15 .
+15

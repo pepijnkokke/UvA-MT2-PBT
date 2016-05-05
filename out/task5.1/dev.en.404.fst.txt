@@ -1,0 +1,228 @@
+0 1 1 anti-fall
+1 2 2 stopper
+2 3 3 19
+3 4 4 is
+4 5 15 barrel
+5 6 16 cylinder
+6 7 17 1
+7 8 14 of
+8 9 11 the
+9 10 12 rear
+10 11 13 end
+11 12 10 at
+12 13 7 the
+13 14 8 interior
+14 15 9 surface
+15 16 6 into
+16 17 5 fitted
+17 18 18 . 0.217006362323
+18
+0 19 1 anti-fall
+19 20 2 stopper
+20 21 3 19
+21 22 4 is
+22 23 15 barrel
+23 24 16 cylinder
+24 25 17 1
+25 26 11 the
+26 27 14 of
+27 28 12 rear
+28 29 13 end
+29 30 10 at
+30 31 7 the
+31 32 8 interior
+32 33 9 surface
+33 34 6 into
+34 35 5 fitted
+35 36 18 . 6.1019192084
+36
+0 37 1 anti-fall
+37 38 2 stopper
+38 39 3 19
+39 40 4 is
+40 41 15 barrel
+41 42 16 cylinder
+42 43 17 1
+43 44 14 of
+44 45 11 the
+45 46 12 rear
+46 47 13 end
+47 48 7 the
+48 49 10 at
+49 50 8 interior
+50 51 9 surface
+51 52 6 into
+52 53 5 fitted
+53 54 18 . 7.3546821769
+54
+0 55 1 anti-fall
+55 56 2 stopper
+56 57 3 19
+57 58 4 is
+58 59 15 barrel
+59 60 16 cylinder
+60 61 17 1
+61 62 11 the
+62 63 12 rear
+63 64 14 of
+64 65 13 end
+65 66 10 at
+66 67 7 the
+67 68 8 interior
+68 69 9 surface
+69 70 6 into
+70 71 5 fitted
+71 72 18 . 5.74524426446
+72
+0 73 1 anti-fall
+73 74 2 stopper
+74 75 3 19
+75 76 4 is
+76 77 15 barrel
+77 78 16 cylinder
+78 79 17 1
+79 80 14 of
+80 81 11 the
+81 82 12 rear
+82 83 13 end
+83 84 7 the
+84 85 8 interior
+85 86 10 at
+86 87 9 surface
+87 88 6 into
+88 89 5 fitted
+89 90 18 . 6.94921706879
+90
+0 91 1 anti-fall
+91 92 2 stopper
+92 93 3 19
+93 94 4 is
+94 95 16 cylinder
+95 96 17 1
+96 97 14 of
+97 98 15 barrel
+98 99 11 the
+99 100 12 rear
+100 101 13 end
+101 102 10 at
+102 103 7 the
+103 104 8 interior
+104 105 9 surface
+105 106 6 into
+106 107 5 fitted
+107 108 18 . 2.50265191298
+108
+0 109 1 anti-fall
+109 110 2 stopper
+110 111 3 19
+111 112 4 is
+112 113 15 barrel
+113 114 16 cylinder
+114 115 17 1
+115 116 14 of
+116 117 11 the
+117 118 12 rear
+118 119 13 end
+119 120 10 at
+120 121 7 the
+121 122 8 interior
+122 123 6 into
+123 124 5 fitted
+124 125 9 surface
+125 126 18 . 6.94921706879
+126
+0 127 1 anti-fall
+127 128 2 stopper
+128 129 3 19
+129 130 4 is
+130 131 17 1
+131 132 15 barrel
+132 133 16 cylinder
+133 134 14 of
+134 135 11 the
+135 136 12 rear
+136 137 13 end
+137 138 10 at
+138 139 7 the
+139 140 8 interior
+140 141 9 surface
+141 142 6 into
+142 143 5 fitted
+143 144 18 . 7.3546821769
+144
+0 145 1 anti-fall
+145 146 2 stopper
+146 147 3 19
+147 148 4 is
+148 149 15 barrel
+149 150 16 cylinder
+150 151 17 1
+151 152 14 of
+152 153 12 rear
+153 154 13 end
+154 155 11 the
+155 156 10 at
+156 157 7 the
+157 158 8 interior
+158 159 9 surface
+159 160 6 into
+160 161 5 fitted
+161 162 18 . 3.5934820612
+162
+0 163 1 anti-fall
+163 164 2 stopper
+164 165 3 19
+165 166 4 is
+166 167 15 barrel
+167 168 16 cylinder
+168 169 17 1
+169 170 14 of
+170 171 13 end
+171 172 11 the
+172 173 12 rear
+173 174 10 at
+174 175 7 the
+175 176 8 interior
+176 177 9 surface
+177 178 6 into
+178 179 5 fitted
+179 180 18 . 3.26033761468
+180
+0 181 1 anti-fall
+181 182 2 stopper
+182 183 3 19
+183 184 4 is
+184 185 15 barrel
+185 186 16 cylinder
+186 187 17 1
+187 188 14 of
+188 189 11 the
+189 190 12 rear
+190 191 13 end
+191 192 10 at
+192 193 8 interior
+193 194 9 surface
+194 195 7 the
+195 196 6 into
+196 197 5 fitted
+197 198 18 . 3.60517810097
+198
+0 199 1 anti-fall
+199 200 2 stopper
+200 201 3 19
+201 202 4 is
+202 203 15 barrel
+203 204 16 cylinder
+204 205 17 1
+205 206 14 of
+206 207 11 the
+207 208 12 rear
+208 209 13 end
+209 210 10 at
+210 211 9 surface
+211 212 7 the
+212 213 8 interior
+213 214 6 into
+214 215 5 fitted
+215 216 18 . 4.464310419
+216

@@ -1,0 +1,240 @@
+0 1 1 a
+1 2 2 preparatory
+2 3 3 procedure
+3 4 4 termed
+4 5 5 prescanning
+5 6 6 is
+6 7 13 ae
+7 8 12 for
+8 9 14 and
+9 10 15 detecting
+10 11 16 the
+11 12 17 image
+12 13 18 frame
+13 14 9 the
+14 15 10 main
+15 16 11 scanning
+16 17 8 before
+17 18 7 performed
+18 19 19 . 4.60641940539
+19
+0 20 1 a
+20 21 2 preparatory
+21 22 3 procedure
+22 23 4 termed
+23 24 5 prescanning
+24 25 6 is
+25 26 13 ae
+26 27 12 for
+27 28 9 the
+28 29 10 main
+29 30 11 scanning
+30 31 14 and
+31 32 15 detecting
+32 33 16 the
+33 34 17 image
+34 35 18 frame
+35 36 8 before
+36 37 7 performed
+37 38 19 . 3.50780711672
+38
+0 39 1 a
+39 40 2 preparatory
+40 41 3 procedure
+41 42 4 termed
+42 43 5 prescanning
+43 44 6 is
+44 45 13 ae
+45 46 14 and
+46 47 15 detecting
+47 48 16 the
+48 49 12 for
+49 50 17 image
+50 51 18 frame
+51 52 9 the
+52 53 10 main
+53 54 11 scanning
+54 55 8 before
+55 56 7 performed
+56 57 19 . 6.68586094707
+57
+0 58 1 a
+58 59 2 preparatory
+59 60 3 procedure
+60 61 4 termed
+61 62 5 prescanning
+62 63 6 is
+63 64 13 ae
+64 65 14 and
+65 66 15 detecting
+66 67 16 the
+67 68 17 image
+68 69 18 frame
+69 70 12 for
+70 71 9 the
+71 72 10 main
+72 73 11 scanning
+73 74 8 before
+74 75 7 performed
+75 76 19 . 0.199700158125
+76
+0 77 1 a
+77 78 2 preparatory
+78 79 3 procedure
+79 80 4 termed
+80 81 5 prescanning
+81 82 6 is
+82 83 13 ae
+83 84 14 and
+84 85 12 for
+85 86 9 the
+86 87 10 main
+87 88 11 scanning
+88 89 15 detecting
+89 90 16 the
+90 91 17 image
+91 92 18 frame
+92 93 8 before
+93 94 7 performed
+94 95 19 . 6.68586094707
+95
+0 96 1 a
+96 97 2 preparatory
+97 98 3 procedure
+98 99 5 prescanning
+99 100 4 termed
+100 101 6 is
+101 102 13 ae
+102 103 12 for
+103 104 14 and
+104 105 15 detecting
+105 106 16 the
+106 107 17 image
+107 108 18 frame
+108 109 9 the
+109 110 10 main
+110 111 11 scanning
+111 112 8 before
+112 113 7 performed
+113 114 19 . 6.68586094707
+114
+0 115 1 a
+115 116 2 preparatory
+116 117 3 procedure
+117 118 4 termed
+118 119 5 prescanning
+119 120 6 is
+120 121 12 for
+121 122 13 ae
+122 123 14 and
+123 124 15 detecting
+124 125 16 the
+125 126 17 image
+126 127 18 frame
+127 128 9 the
+128 129 10 main
+129 130 11 scanning
+130 131 8 before
+131 132 7 performed
+132 133 19 . 2.52697786371
+133
+0 134 1 a
+134 135 2 preparatory
+135 136 3 procedure
+136 137 5 prescanning
+137 138 4 termed
+138 139 6 is
+139 140 13 ae
+140 141 12 for
+141 142 9 the
+142 143 10 main
+143 144 11 scanning
+144 145 14 and
+145 146 15 detecting
+146 147 16 the
+147 148 17 image
+148 149 18 frame
+149 150 8 before
+150 151 7 performed
+151 152 19 . 5.99271376651
+152
+0 153 1 a
+153 154 2 preparatory
+154 155 3 procedure
+155 156 4 termed
+156 157 5 prescanning
+157 158 6 is
+158 159 13 ae
+159 160 14 and
+160 161 15 detecting
+161 162 16 the
+162 163 17 image
+163 164 12 for
+164 165 9 the
+165 166 10 main
+166 167 11 scanning
+167 168 8 before
+168 169 7 performed
+169 170 18 frame
+170 171 19 . 6.68586094707
+171
+0 172 1 a
+172 173 2 preparatory
+173 174 3 procedure
+174 175 5 prescanning
+175 176 4 termed
+176 177 6 is
+177 178 13 ae
+178 179 14 and
+179 180 15 detecting
+180 181 16 the
+181 182 17 image
+182 183 18 frame
+183 184 12 for
+184 185 9 the
+185 186 10 main
+186 187 11 scanning
+187 188 8 before
+188 189 7 performed
+189 190 19 . 3.02229930094
+190
+0 191 1 a
+191 192 2 preparatory
+192 193 3 procedure
+193 194 4 termed
+194 195 5 prescanning
+195 196 6 is
+196 197 13 ae
+197 198 14 and
+198 199 15 detecting
+199 200 16 the
+200 201 17 image
+201 202 18 frame
+202 203 9 the
+203 204 12 for
+204 205 10 main
+205 206 11 scanning
+206 207 8 before
+207 208 7 performed
+208 209 19 . 6.68586094707
+209
+0 210 1 a
+210 211 2 preparatory
+211 212 3 procedure
+212 213 5 prescanning
+213 214 4 termed
+214 215 6 is
+215 216 12 for
+216 217 13 ae
+217 218 14 and
+218 219 15 detecting
+219 220 16 the
+220 221 17 image
+221 222 18 frame
+222 223 9 the
+223 224 10 main
+224 225 11 scanning
+225 226 8 before
+226 227 7 performed
+227 228 19 . 5.5872486584
+228

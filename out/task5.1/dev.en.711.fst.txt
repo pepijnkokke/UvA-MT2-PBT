@@ -1,0 +1,63 @@
+0 1 1 moreover
+1 2 2 ,
+2 3 3 the
+3 4 4 voice
+4 5 5 recognizer
+5 6 13 each
+6 7 14 word
+7 8 17 the
+8 9 18 inputting
+9 10 19 operation
+10 11 16 to
+11 12 15 according
+12 13 12 to
+13 14 11 corresponding
+14 15 8 the
+15 16 9 symbol
+16 17 10 string
+17 18 7 produce
+18 19 6 may
+19 20 20 . 0.060424748402
+20
+0 21 1 moreover
+21 22 2 ,
+22 23 3 the
+23 24 4 voice
+24 25 5 recognizer
+25 26 8 the
+26 27 13 each
+27 28 14 word
+28 29 17 the
+29 30 18 inputting
+30 31 19 operation
+31 32 16 to
+32 33 15 according
+33 34 12 to
+34 35 11 corresponding
+35 36 9 symbol
+36 37 10 string
+37 38 7 produce
+38 39 6 may
+39 40 20 . 2.91192431628
+40
+0 41 1 moreover
+41 42 2 ,
+42 43 3 the
+43 44 4 voice
+44 45 5 recognizer
+45 46 13 each
+46 47 14 word
+47 48 17 the
+48 49 18 inputting
+49 50 19 operation
+50 51 16 to
+51 52 15 according
+52 53 8 the
+53 54 9 symbol
+54 55 10 string
+55 56 12 to
+56 57 11 corresponding
+57 58 7 produce
+58 59 6 may
+59 60 20 . 5.45745558789
+60

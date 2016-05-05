@@ -1,0 +1,98 @@
+0 1 1 the
+1 2 2 demodulator
+2 3 3 65
+3 4 4 demodulates
+4 5 9 the
+5 6 10 signal
+6 7 8 with
+7 8 5 the
+8 9 6 modulated
+9 10 7 signal
+10 11 12 thereto
+11 12 11 sent
+12 13 13 . 0.479321893402
+13
+0 14 1 the
+14 15 2 demodulator
+15 16 3 65
+16 17 4 demodulates
+17 18 9 the
+18 19 10 signal
+19 20 8 with
+20 21 5 the
+21 22 6 modulated
+22 23 7 signal
+23 24 11 sent
+24 25 12 thereto
+25 26 13 . 2.18038480116
+26
+0 27 1 the
+27 28 2 demodulator
+28 29 3 65
+29 30 4 demodulates
+30 31 5 the
+31 32 9 the
+32 33 10 signal
+33 34 8 with
+34 35 6 modulated
+35 36 7 signal
+36 37 12 thereto
+37 38 11 sent
+38 39 13 . 1.89995439211
+39
+0 40 1 the
+40 41 2 demodulator
+41 42 3 65
+42 43 4 demodulates
+43 44 5 the
+44 45 9 the
+45 46 10 signal
+46 47 8 with
+47 48 6 modulated
+48 49 7 signal
+49 50 11 sent
+50 51 12 thereto
+51 52 13 . 2.43583659571
+52
+0 53 1 the
+53 54 2 demodulator
+54 55 3 65
+55 56 4 demodulates
+56 57 9 the
+57 58 10 signal
+58 59 5 the
+59 60 6 modulated
+60 61 7 signal
+61 62 8 with
+62 63 12 thereto
+63 64 11 sent
+64 65 13 . 3.69609023593
+65
+0 66 1 the
+66 67 2 demodulator
+67 68 3 65
+68 69 4 demodulates
+69 70 9 the
+70 71 10 signal
+71 72 8 with
+72 73 11 sent
+73 74 5 the
+74 75 6 modulated
+75 76 7 signal
+76 77 12 thereto
+77 78 13 . 6.6405292151
+78
+0 79 1 the
+79 80 2 demodulator
+80 81 3 65
+81 82 4 demodulates
+82 83 9 the
+83 84 10 signal
+84 85 5 the
+85 86 6 modulated
+86 87 7 signal
+87 88 8 with
+88 89 11 sent
+89 90 12 thereto
+90 91 13 . 5.3877662466
+91

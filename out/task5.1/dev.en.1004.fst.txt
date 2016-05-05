@@ -1,0 +1,170 @@
+0 1 2 a
+1 2 3 charge
+2 3 4 generation
+3 4 5 material
+4 5 1 as
+5 6 6 ,
+6 7 7 various
+7 8 8 organic
+8 9 9 dyes
+9 10 10 and
+10 11 11 organic
+11 12 12 pigments
+12 13 13 have
+13 14 15 disclosed
+14 15 14 been
+15 16 16 . 0.102412078015
+16
+0 17 2 a
+17 18 3 charge
+18 19 4 generation
+19 20 5 material
+20 21 6 ,
+21 22 1 as
+22 23 7 various
+23 24 8 organic
+24 25 9 dyes
+25 26 10 and
+26 27 11 organic
+27 28 12 pigments
+28 29 13 have
+29 30 15 disclosed
+30 31 14 been
+31 32 16 . 4.82058020679
+32
+0 33 2 a
+33 34 3 charge
+34 35 4 generation
+35 36 5 material
+36 37 1 as
+37 38 6 ,
+38 39 7 various
+39 40 8 organic
+40 41 9 dyes
+41 42 10 and
+42 43 11 organic
+43 44 13 have
+44 45 12 pigments
+45 46 15 disclosed
+46 47 14 been
+47 48 16 . 8.80956425336
+48
+0 49 2 a
+49 50 3 charge
+50 51 4 generation
+51 52 5 material
+52 53 1 as
+53 54 6 ,
+54 55 7 various
+55 56 8 organic
+56 57 9 dyes
+57 58 10 and
+58 59 11 organic
+59 60 12 pigments
+60 61 15 disclosed
+61 62 13 have
+62 63 14 been
+63 64 16 . 5.91919249546
+64
+0 65 2 a
+65 66 3 charge
+66 67 4 generation
+67 68 5 material
+68 69 1 as
+69 70 6 ,
+70 71 7 various
+71 72 8 organic
+72 73 9 dyes
+73 74 10 and
+74 75 11 organic
+75 76 12 pigments
+76 77 13 have
+77 78 14 been
+78 79 15 disclosed
+79 80 16 . 3.76613913644
+80
+0 81 2 a
+81 82 3 charge
+82 83 4 generation
+83 84 5 material
+84 85 1 as
+85 86 6 ,
+86 87 7 various
+87 88 8 organic
+88 89 9 dyes
+89 90 11 organic
+90 91 12 pigments
+91 92 10 and
+92 93 13 have
+93 94 15 disclosed
+94 95 14 been
+95 96 16 . 4.19444373652
+96
+0 97 2 a
+97 98 3 charge
+98 99 4 generation
+99 100 5 material
+100 101 6 ,
+101 102 7 various
+102 103 1 as
+103 104 8 organic
+104 105 9 dyes
+105 106 10 and
+106 107 11 organic
+107 108 12 pigments
+108 109 13 have
+109 110 15 disclosed
+110 111 14 been
+111 112 16 . 8.11641707279
+112
+0 113 2 a
+113 114 3 charge
+114 115 4 generation
+115 116 5 material
+116 117 1 as
+117 118 6 ,
+118 119 7 various
+119 120 8 organic
+120 121 9 dyes
+121 122 10 and
+122 123 13 have
+123 124 11 organic
+124 125 12 pigments
+125 126 15 disclosed
+126 127 14 been
+127 128 16 . 3.99737989798
+128
+0 129 2 a
+129 130 3 charge
+130 131 4 generation
+131 132 5 material
+132 133 1 as
+133 134 6 ,
+134 135 7 various
+135 136 8 organic
+136 137 9 dyes
+137 138 12 pigments
+138 139 10 and
+139 140 11 organic
+140 141 13 have
+141 142 15 disclosed
+142 143 14 been
+143 144 16 . 6.17050692374
+144
+0 145 2 a
+145 146 3 charge
+146 147 4 generation
+147 148 5 material
+148 149 1 as
+149 150 6 ,
+150 151 8 organic
+151 152 9 dyes
+152 153 7 various
+153 154 10 and
+154 155 11 organic
+155 156 12 pigments
+156 157 13 have
+157 158 15 disclosed
+158 159 14 been
+159 160 16 . 3.59462849574
+160

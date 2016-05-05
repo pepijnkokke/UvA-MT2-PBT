@@ -1,0 +1,238 @@
+0 1 1 the
+1 2 2 digital-to-analog
+2 3 3 converter
+3 4 4 7
+4 5 11 the
+5 6 12 voltage
+6 7 10 into
+7 8 6 the
+8 9 7 central
+9 10 8 frequency
+10 11 9 k
+11 12 5 converts
+12 13 13 . 0.407935770267
+13
+0 14 1 the
+14 15 2 digital-to-analog
+15 16 3 converter
+16 17 4 7
+17 18 11 the
+18 19 12 voltage
+19 20 10 into
+20 21 6 the
+21 22 7 central
+22 23 8 frequency
+23 24 5 converts
+24 25 9 k
+25 26 13 . 1.47324965758
+26
+0 27 1 the
+27 28 2 digital-to-analog
+28 29 3 converter
+29 30 4 7
+30 31 11 the
+31 32 12 voltage
+32 33 6 the
+33 34 10 into
+34 35 7 central
+35 36 8 frequency
+36 37 9 k
+37 38 5 converts
+38 39 13 . 7.39079852174
+39
+0 40 1 the
+40 41 2 digital-to-analog
+41 42 3 converter
+42 43 4 7
+43 44 11 the
+44 45 12 voltage
+45 46 6 the
+46 47 7 central
+47 48 10 into
+48 49 8 frequency
+49 50 9 k
+50 51 5 converts
+51 52 13 . 7.39079852174
+52
+0 53 1 the
+53 54 2 digital-to-analog
+54 55 3 converter
+55 56 4 7
+56 57 11 the
+57 58 12 voltage
+58 59 10 into
+59 60 6 the
+60 61 7 central
+61 62 5 converts
+62 63 8 frequency
+63 64 9 k
+64 65 13 . 5.6860504295
+65
+0 66 1 the
+66 67 2 digital-to-analog
+67 68 3 converter
+68 69 4 7
+69 70 6 the
+70 71 11 the
+71 72 12 voltage
+72 73 10 into
+73 74 7 central
+74 75 8 frequency
+75 76 9 k
+76 77 5 converts
+77 78 13 . 2.65022369874
+78
+0 79 1 the
+79 80 2 digital-to-analog
+80 81 3 converter
+81 82 4 7
+82 83 11 the
+83 84 12 voltage
+84 85 10 into
+85 86 7 central
+86 87 6 the
+87 88 8 frequency
+88 89 9 k
+89 90 5 converts
+90 91 13 . 6.13803555324
+91
+0 92 1 the
+92 93 2 digital-to-analog
+93 94 3 converter
+94 95 4 7
+95 96 12 voltage
+96 97 11 the
+97 98 10 into
+98 99 6 the
+99 100 7 central
+100 101 8 frequency
+101 102 9 k
+102 103 5 converts
+103 104 13 . 5.6860504295
+104
+0 105 1 the
+105 106 2 digital-to-analog
+106 107 3 converter
+107 108 4 7
+108 109 11 the
+109 110 12 voltage
+110 111 10 into
+111 112 6 the
+112 113 8 frequency
+113 114 7 central
+114 115 9 k
+115 116 5 converts
+116 117 13 . 8.0839457023
+117
+0 118 1 the
+118 119 2 digital-to-analog
+119 120 3 converter
+120 121 4 7
+121 122 12 voltage
+122 123 11 the
+123 124 10 into
+124 125 6 the
+125 126 7 central
+126 127 8 frequency
+127 128 5 converts
+128 129 9 k
+129 130 13 . 6.69765134118
+130
+0 131 1 the
+131 132 2 digital-to-analog
+132 133 3 converter
+133 134 4 7
+134 135 6 the
+135 136 11 the
+136 137 12 voltage
+137 138 7 central
+138 139 10 into
+139 140 8 frequency
+140 141 9 k
+141 142 5 converts
+142 143 13 . 8.0839457023
+143
+0 144 1 the
+144 145 2 digital-to-analog
+145 146 3 converter
+146 147 4 7
+147 148 11 the
+148 149 12 voltage
+149 150 6 the
+150 151 7 central
+151 152 8 frequency
+152 153 9 k
+153 154 10 into
+154 155 5 converts
+155 156 13 . 4.99290324894
+156
+0 157 1 the
+157 158 2 digital-to-analog
+158 159 3 converter
+159 160 4 7
+160 161 11 the
+161 162 12 voltage
+162 163 6 the
+163 164 7 central
+164 165 8 frequency
+165 166 9 k
+166 167 5 converts
+167 168 10 into
+168 169 13 . 5.51899634483
+169
+0 170 1 the
+170 171 2 digital-to-analog
+171 172 3 converter
+172 173 4 7
+173 174 11 the
+174 175 12 voltage
+175 176 10 into
+176 177 7 central
+177 178 6 the
+178 179 5 converts
+179 180 8 frequency
+180 181 9 k
+181 182 13 . 7.39079852174
+182
+0 183 1 the
+183 184 2 digital-to-analog
+184 185 3 converter
+185 186 4 7
+186 187 11 the
+187 188 12 voltage
+188 189 6 the
+189 190 7 central
+190 191 8 frequency
+191 192 5 converts
+192 193 9 k
+193 194 10 into
+194 195 13 . 6.69765134118
+195
+0 196 1 the
+196 197 2 digital-to-analog
+197 198 3 converter
+198 199 4 7
+199 200 6 the
+200 201 7 central
+201 202 11 the
+202 203 12 voltage
+203 204 10 into
+204 205 8 frequency
+205 206 9 k
+206 207 5 converts
+207 208 13 . 4.58743814083
+208
+0 209 1 the
+209 210 2 digital-to-analog
+210 211 3 converter
+211 212 4 7
+212 213 6 the
+213 214 11 the
+214 215 12 voltage
+215 216 10 into
+216 217 7 central
+217 218 8 frequency
+218 219 9 k
+219 220 13 .
+220 221 5 converts 8.0839457023
+221

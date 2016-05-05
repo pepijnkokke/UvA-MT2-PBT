@@ -1,0 +1,144 @@
+0 1 1 the
+1 2 2 dis
+2 3 9 the
+3 4 10 receiving
+4 5 11 station
+5 6 8 of
+6 7 4 a
+7 8 5 standard
+8 9 6 ccitt
+9 10 7 ability
+10 11 3 indicates
+11 12 12 and
+12 13 14 a
+13 14 15 predetermined
+14 15 16 format
+15 16 13 has
+16 17 17 . 1.71137795078
+17
+0 18 1 the
+18 19 2 dis
+19 20 9 the
+20 21 10 receiving
+21 22 11 station
+22 23 8 of
+23 24 4 a
+24 25 5 standard
+25 26 6 ccitt
+26 27 7 ability
+27 28 3 indicates
+28 29 14 a
+29 30 15 predetermined
+30 31 16 format
+31 32 12 and
+32 33 13 has
+33 34 17 . 0.657903965859
+34
+0 35 1 the
+35 36 2 dis
+36 37 9 the
+37 38 10 receiving
+38 39 11 station
+39 40 8 of
+40 41 4 a
+41 42 5 standard
+42 43 6 ccitt
+43 44 3 indicates
+44 45 7 ability
+45 46 14 a
+46 47 15 predetermined
+47 48 16 format
+48 49 12 and
+49 50 13 has
+50 51 17 . 6.67771298598
+51
+0 52 1 the
+52 53 2 dis
+53 54 9 the
+54 55 10 receiving
+55 56 11 station
+56 57 8 of
+57 58 3 indicates
+58 59 4 a
+59 60 5 standard
+60 61 6 ccitt
+61 62 7 ability
+62 63 12 and
+63 64 14 a
+64 65 15 predetermined
+65 66 16 format
+66 67 13 has
+67 68 17 . 5.29141862486
+68
+0 69 1 the
+69 70 2 dis
+70 71 9 the
+71 72 10 receiving
+72 73 11 station
+73 74 8 of
+74 75 4 a
+75 76 5 standard
+76 77 6 ccitt
+77 78 7 ability
+78 79 3 indicates
+79 80 14 a
+80 81 12 and
+81 82 13 has
+82 83 15 predetermined
+83 84 16 format
+84 85 17 . 6.67771298598
+85
+0 86 1 the
+86 87 2 dis
+87 88 9 the
+88 89 10 receiving
+89 90 11 station
+90 91 8 of
+91 92 4 a
+92 93 5 standard
+93 94 6 ccitt
+94 95 7 ability
+95 96 12 and
+96 97 3 indicates
+97 98 14 a
+98 99 15 predetermined
+99 100 16 format
+100 101 13 has
+101 102 17 . 7.37086016654
+102
+0 103 1 the
+103 104 2 dis
+104 105 9 the
+105 106 10 receiving
+106 107 11 station
+107 108 8 of
+108 109 3 indicates
+109 110 4 a
+110 111 5 standard
+111 112 6 ccitt
+112 113 7 ability
+113 114 14 a
+114 115 15 predetermined
+115 116 16 format
+116 117 12 and
+117 118 13 has
+118 119 17 . 4.27981771318
+119
+0 120 1 the
+120 121 2 dis
+121 122 9 the
+122 123 10 receiving
+123 124 11 station
+124 125 8 of
+125 126 4 a
+126 127 5 standard
+127 128 6 ccitt
+128 129 7 ability
+129 130 3 indicates
+130 131 12 and
+131 132 13 has
+132 133 14 a
+133 134 15 predetermined
+134 135 16 format
+135 136 17 . 1.2750356041
+136

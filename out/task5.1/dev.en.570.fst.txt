@@ -1,0 +1,285 @@
+0 1 3 the
+1 2 6 the
+2 3 7 generating
+3 4 8 regulation
+4 5 9 ,
+5 6 10 the
+6 7 11 generated
+7 8 12 text
+8 9 5 of
+9 10 4 definition
+10 11 2 upon
+11 12 1 depending
+12 13 17 sgml
+13 14 16 of
+14 15 14 an
+15 16 15 instance
+16 17 13 becomes
+17 18 18 . 0.703628458027
+18
+0 19 3 the
+19 20 6 the
+20 21 7 generating
+21 22 8 regulation
+22 23 9 ,
+23 24 10 the
+24 25 11 generated
+25 26 5 of
+26 27 4 definition
+27 28 12 text
+28 29 2 upon
+29 30 1 depending
+30 31 17 sgml
+31 32 16 of
+32 33 14 an
+33 34 15 instance
+34 35 13 becomes
+35 36 18 . 3.1111484442
+36
+0 37 3 the
+37 38 6 the
+38 39 7 generating
+39 40 8 regulation
+40 41 9 ,
+41 42 10 the
+42 43 5 of
+43 44 4 definition
+44 45 11 generated
+45 46 12 text
+46 47 2 upon
+47 48 1 depending
+48 49 17 sgml
+49 50 16 of
+50 51 14 an
+51 52 15 instance
+52 53 13 becomes
+53 54 18 . 6.96129604591
+54
+0 55 3 the
+55 56 6 the
+56 57 7 generating
+57 58 8 regulation
+58 59 9 ,
+59 60 5 of
+60 61 4 definition
+61 62 10 the
+62 63 11 generated
+63 64 12 text
+64 65 2 upon
+65 66 1 depending
+66 67 17 sgml
+67 68 16 of
+68 69 14 an
+69 70 15 instance
+70 71 13 becomes
+71 72 18 . 3.01005232733
+72
+0 73 3 the
+73 74 6 the
+74 75 7 generating
+75 76 8 regulation
+76 77 9 ,
+77 78 10 the
+78 79 11 generated
+79 80 5 of
+80 81 4 definition
+81 82 2 upon
+82 83 1 depending
+83 84 12 text
+84 85 17 sgml
+85 86 16 of
+86 87 14 an
+87 88 15 instance
+88 89 13 becomes
+89 90 18 . 5.01538589685
+90
+0 91 3 the
+91 92 6 the
+92 93 7 generating
+93 94 8 regulation
+94 95 9 ,
+95 96 10 the
+96 97 5 of
+97 98 4 definition
+98 99 11 generated
+99 100 2 upon
+100 101 1 depending
+101 102 12 text
+102 103 17 sgml
+103 104 16 of
+104 105 14 an
+105 106 15 instance
+106 107 13 becomes
+107 108 18 . 6.96129604591
+108
+0 109 3 the
+109 110 6 the
+110 111 7 generating
+111 112 8 regulation
+112 113 10 the
+113 114 9 ,
+114 115 11 generated
+115 116 12 text
+116 117 5 of
+117 118 4 definition
+118 119 2 upon
+119 120 1 depending
+120 121 17 sgml
+121 122 16 of
+122 123 14 an
+123 124 15 instance
+124 125 13 becomes
+125 126 18 . 2.67083660476
+126
+0 127 3 the
+127 128 6 the
+128 129 7 generating
+129 130 8 regulation
+130 131 5 of
+131 132 4 definition
+132 133 9 ,
+133 134 10 the
+134 135 11 generated
+135 136 12 text
+136 137 2 upon
+137 138 1 depending
+138 139 17 sgml
+139 140 16 of
+140 141 14 an
+141 142 15 instance
+142 143 13 becomes
+143 144 18 . 2.59184819344
+144
+0 145 3 the
+145 146 6 the
+146 147 7 generating
+147 148 8 regulation
+148 149 10 the
+149 150 9 ,
+150 151 11 generated
+151 152 5 of
+152 153 4 definition
+153 154 12 text
+154 155 2 upon
+155 156 1 depending
+156 157 17 sgml
+157 158 16 of
+158 159 14 an
+159 160 15 instance
+160 161 13 becomes
+161 162 18 . 3.40594798442
+162
+0 163 3 the
+163 164 6 the
+164 165 7 generating
+165 166 8 regulation
+166 167 9 ,
+167 168 5 of
+168 169 4 definition
+169 170 10 the
+170 171 11 generated
+171 172 2 upon
+172 173 1 depending
+173 174 12 text
+174 175 17 sgml
+175 176 16 of
+176 177 14 an
+177 178 15 instance
+178 179 13 becomes
+179 180 18 . 6.96129604591
+180
+0 181 3 the
+181 182 6 the
+182 183 7 generating
+183 184 8 regulation
+184 185 10 the
+185 186 9 ,
+186 187 5 of
+187 188 4 definition
+188 189 11 generated
+189 190 12 text
+190 191 2 upon
+191 192 1 depending
+192 193 17 sgml
+193 194 16 of
+194 195 14 an
+195 196 15 instance
+196 197 13 becomes
+197 198 18 . 5.57500168479
+198
+0 199 3 the
+199 200 6 the
+200 201 7 generating
+201 202 8 regulation
+202 203 9 ,
+203 204 10 the
+204 205 11 generated
+205 206 12 text
+206 207 5 of
+207 208 4 definition
+208 209 2 upon
+209 210 1 depending
+210 211 17 sgml
+211 212 13 becomes
+212 213 16 of
+213 214 14 an
+214 215 15 instance
+215 216 18 . 6.96129604591
+216
+0 217 3 the
+217 218 6 the
+218 219 7 generating
+219 220 8 regulation
+220 221 9 ,
+221 222 11 generated
+222 223 10 the
+223 224 12 text
+224 225 5 of
+225 226 4 definition
+226 227 2 upon
+227 228 1 depending
+228 229 17 sgml
+229 230 16 of
+230 231 14 an
+231 232 15 instance
+232 233 13 becomes
+233 234 18 . 5.86268375724
+234
+0 235 3 the
+235 236 6 the
+236 237 7 generating
+237 238 8 regulation
+238 239 9 ,
+239 240 5 of
+240 241 4 definition
+241 242 10 the
+242 243 11 generated
+243 244 12 text
+244 245 2 upon
+245 246 1 depending
+246 247 16 of
+247 248 17 sgml
+248 249 14 an
+249 250 15 instance
+250 251 13 becomes
+251 252 18 . 6.96129604591
+252
+0 253 3 the
+253 254 6 the
+254 255 7 generating
+255 256 8 regulation
+256 257 9 ,
+257 258 10 the
+258 259 11 generated
+259 260 12 text
+260 261 5 of
+261 262 4 definition
+262 263 2 upon
+263 264 1 depending
+264 265 13 becomes
+265 266 17 sgml
+266 267 16 of
+267 268 14 an
+268 269 15 instance
+269 270 18 . 1.53195041695
+270

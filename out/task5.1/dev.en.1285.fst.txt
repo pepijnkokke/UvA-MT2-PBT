@@ -1,0 +1,224 @@
+0 1 4 the
+1 2 5 invention
+2 3 3 of
+3 4 1 an
+4 5 2 embodiment
+5 6 6 will
+6 7 7 now
+7 8 13 the
+8 9 14 drawings
+9 10 12 to
+10 11 11 reference
+11 12 10 with
+12 13 9 explained
+13 14 8 be
+14 15 15 . 0.581495197116
+15
+0 16 4 the
+16 17 5 invention
+17 18 3 of
+18 19 1 an
+19 20 2 embodiment
+20 21 6 will
+21 22 7 now
+22 23 13 the
+23 24 14 drawings
+24 25 12 to
+25 26 10 with
+26 27 11 reference
+27 28 9 explained
+28 29 8 be
+29 30 15 . 7.76004068088
+30
+0 31 4 the
+31 32 5 invention
+32 33 3 of
+33 34 1 an
+34 35 2 embodiment
+35 36 6 will
+36 37 7 now
+37 38 13 the
+38 39 14 drawings
+39 40 12 to
+40 41 11 reference
+41 42 10 with
+42 43 8 be
+43 44 9 explained
+44 45 15 . 2.86969155266
+45
+0 46 4 the
+46 47 5 invention
+47 48 3 of
+48 49 1 an
+49 50 2 embodiment
+50 51 6 will
+51 52 7 now
+52 53 13 the
+53 54 14 drawings
+54 55 10 with
+55 56 12 to
+56 57 11 reference
+57 58 9 explained
+58 59 8 be
+59 60 15 . 7.76004068088
+60
+0 61 4 the
+61 62 5 invention
+62 63 3 of
+63 64 1 an
+64 65 2 embodiment
+65 66 6 will
+66 67 7 now
+67 68 8 be
+68 69 13 the
+69 70 14 drawings
+70 71 12 to
+71 72 11 reference
+72 73 10 with
+73 74 9 explained
+74 75 15 . 1.07918600209
+75
+0 76 4 the
+76 77 5 invention
+77 78 3 of
+78 79 1 an
+79 80 2 embodiment
+80 81 6 will
+81 82 7 now
+82 83 13 the
+83 84 14 drawings
+84 85 8 be
+85 86 12 to
+86 87 11 reference
+87 88 10 with
+88 89 9 explained
+89 90 15 . 7.06689350032
+90
+0 91 4 the
+91 92 5 invention
+92 93 3 of
+93 94 1 an
+94 95 2 embodiment
+95 96 6 will
+96 97 7 now
+97 98 13 the
+98 99 14 drawings
+99 100 12 to
+100 101 8 be
+101 102 11 reference
+102 103 10 with
+103 104 9 explained
+104 105 15 . 7.76004068088
+105
+0 106 4 the
+106 107 5 invention
+107 108 3 of
+108 109 1 an
+109 110 2 embodiment
+110 111 6 will
+111 112 7 now
+112 113 13 the
+113 114 14 drawings
+114 115 12 to
+115 116 11 reference
+116 117 8 be
+117 118 10 with
+118 119 9 explained
+119 120 15 . 3.37801404621
+120
+0 121 4 the
+121 122 5 invention
+122 123 3 of
+123 124 1 an
+124 125 2 embodiment
+125 126 7 now
+126 127 6 will
+127 128 13 the
+128 129 14 drawings
+129 130 12 to
+130 131 11 reference
+131 132 10 with
+132 133 9 explained
+133 134 8 be
+134 135 15 . 7.06689350032
+135
+0 136 4 the
+136 137 5 invention
+137 138 3 of
+138 139 1 an
+139 140 2 embodiment
+140 141 6 will
+141 142 7 now
+142 143 13 the
+143 144 14 drawings
+144 145 12 to
+145 146 11 reference
+146 147 9 explained
+147 148 10 with
+148 149 8 be
+149 150 15 . 6.15060276844
+150
+0 151 4 the
+151 152 5 invention
+152 153 3 of
+153 154 1 an
+154 155 2 embodiment
+155 156 6 will
+156 157 7 now
+157 158 13 the
+158 159 14 drawings
+159 160 10 with
+160 161 9 explained
+161 162 8 be
+162 163 12 to
+163 164 11 reference
+164 165 15 . 7.76004068088
+165
+0 166 4 the
+166 167 5 invention
+167 168 3 of
+168 169 1 an
+169 170 2 embodiment
+170 171 6 will
+171 172 13 the
+172 173 14 drawings
+173 174 7 now
+174 175 12 to
+175 176 11 reference
+176 177 10 with
+177 178 9 explained
+178 179 8 be
+179 180 15 . 7.76004068088
+180
+0 181 4 the
+181 182 5 invention
+182 183 3 of
+183 184 1 an
+184 185 2 embodiment
+185 186 6 will
+186 187 7 now
+187 188 10 with
+188 189 13 the
+189 190 14 drawings
+190 191 12 to
+191 192 11 reference
+192 193 9 explained
+193 194 8 be
+194 195 15 . 5.81413053182
+195
+0 196 4 the
+196 197 5 invention
+197 198 3 of
+198 199 1 an
+199 200 2 embodiment
+200 201 6 will
+201 202 7 now
+202 203 14 drawings
+203 204 13 the
+204 205 12 to
+205 206 11 reference
+206 207 10 with
+207 208 9 explained
+208 209 8 be
+209 210 15 . 6.66142839221
+210

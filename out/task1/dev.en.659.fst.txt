@@ -1,0 +1,13 @@
+0 1 1 this
+1 2 2 influence
+2 3 3 is
+3 4 4 serious
+4 5 5 in
+5 6 6 the
+6 7 7 high
+7 8 8 density
+8 9 9 wavelength
+9 10 10 multiplexing
+10 11 11 system
+11 12 12 .
+12

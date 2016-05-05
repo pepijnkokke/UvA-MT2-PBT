@@ -1,0 +1,144 @@
+0 1 5 the
+1 2 6 buffer
+2 3 7 counter
+3 4 4 of
+4 5 1 the
+5 6 2 initial
+6 7 3 value
+7 8 8 is
+8 9 10 to
+9 10 9 set
+10 11 11 n. 0.81933810517
+11
+0 12 5 the
+12 13 6 buffer
+13 14 7 counter
+14 15 1 the
+15 16 4 of
+16 17 2 initial
+17 18 3 value
+18 19 8 is
+19 20 10 to
+20 21 9 set
+21 22 11 n. 8.06463647577
+22
+0 23 5 the
+23 24 6 buffer
+24 25 7 counter
+25 26 4 of
+26 27 2 initial
+27 28 1 the
+28 29 3 value
+29 30 8 is
+30 31 10 to
+31 32 9 set
+32 33 11 n. 6.04973345523
+33
+0 34 1 the
+34 35 5 the
+35 36 6 buffer
+36 37 7 counter
+37 38 4 of
+38 39 2 initial
+39 40 3 value
+40 41 8 is
+41 42 10 to
+42 43 9 set
+43 44 11 n. 1.24516611166
+44
+0 45 5 the
+45 46 6 buffer
+46 47 7 counter
+47 48 4 of
+48 49 1 the
+49 50 2 initial
+50 51 3 value
+51 52 8 is
+52 53 9 set
+53 54 10 to
+54 55 11 n. 3.40119738166
+55
+0 56 5 the
+56 57 6 buffer
+57 58 7 counter
+58 59 4 of
+59 60 1 the
+60 61 2 initial
+61 62 3 value
+62 63 10 to
+63 64 8 is
+64 65 9 set
+65 66 11 n. 6.560559079
+66
+0 67 5 the
+67 68 6 buffer
+68 69 7 counter
+69 70 1 the
+70 71 2 initial
+71 72 4 of
+72 73 3 value
+73 74 8 is
+74 75 10 to
+75 76 9 set
+76 77 11 n. 8.75778365633
+77
+0 78 5 the
+78 79 6 buffer
+79 80 7 counter
+80 81 4 of
+81 82 2 initial
+82 83 3 value
+83 84 1 the
+84 85 8 is
+85 86 10 to
+86 87 9 set
+87 88 11 n. 1.55885241564
+88
+0 89 5 the
+89 90 6 buffer
+90 91 7 counter
+91 92 4 of
+92 93 2 initial
+93 94 1 the
+94 95 3 value
+95 96 8 is
+96 97 9 set
+97 98 10 to
+98 99 11 n. 8.75778365633
+99
+0 100 1 the
+100 101 5 the
+101 102 6 buffer
+102 103 7 counter
+103 104 4 of
+104 105 2 initial
+105 106 3 value
+106 107 8 is
+107 108 9 set
+108 109 10 to
+109 110 11 n. 3.8451287706
+110
+0 111 1 the
+111 112 5 the
+112 113 6 buffer
+113 114 7 counter
+114 115 4 of
+115 116 2 initial
+116 117 3 value
+117 118 10 to
+118 119 8 is
+119 120 9 set
+120 121 11 n. 6.35988838353
+121
+0 122 1 the
+122 123 6 buffer
+123 124 5 the
+124 125 7 counter
+125 126 4 of
+126 127 2 initial
+127 128 3 value
+128 129 8 is
+129 130 10 to
+130 131 9 set
+131 132 11 n. 8.75778365633
+132

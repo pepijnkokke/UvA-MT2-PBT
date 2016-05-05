@@ -1,0 +1,136 @@
+0 1 5 the
+1 2 6 data
+2 3 7 recording
+3 4 8 /
+4 5 9 reproducing
+5 6 10 device
+6 7 11 40
+7 8 4 of
+8 9 1 the
+9 10 2 cpu
+10 11 3 41
+11 12 13 this
+12 13 14 open-play
+13 14 15 command
+14 15 12 receives
+15 16 16 . 0.277618250513
+16
+0 17 5 the
+17 18 6 data
+18 19 7 recording
+19 20 8 /
+20 21 9 reproducing
+21 22 10 device
+22 23 11 40
+23 24 4 of
+24 25 1 the
+25 26 2 cpu
+26 27 3 41
+27 28 13 this
+28 29 14 open-play
+29 30 12 receives
+30 31 15 command
+31 32 16 . 6.04905937364
+32
+0 33 5 the
+33 34 6 data
+34 35 7 recording
+35 36 8 /
+36 37 9 reproducing
+37 38 10 device
+38 39 11 40
+39 40 4 of
+40 41 2 cpu
+41 42 1 the
+42 43 3 41
+43 44 13 this
+44 45 14 open-play
+45 46 15 command
+46 47 12 receives
+47 48 16 . 6.60867516158
+48
+0 49 5 the
+49 50 6 data
+50 51 7 recording
+51 52 8 /
+52 53 9 reproducing
+53 54 10 device
+54 55 11 40
+55 56 4 of
+56 57 1 the
+57 58 2 cpu
+58 59 3 41
+59 60 13 this
+60 61 12 receives
+61 62 14 open-play
+62 63 15 command
+63 64 16 . 4.85947530677
+64
+0 65 6 data
+65 66 5 the
+66 67 7 recording
+67 68 8 /
+68 69 9 reproducing
+69 70 10 device
+70 71 11 40
+71 72 4 of
+72 73 1 the
+73 74 2 cpu
+74 75 3 41
+75 76 13 this
+76 77 14 open-play
+77 78 15 command
+78 79 12 receives
+79 80 16 . 6.89635723403
+80
+0 81 5 the
+81 82 6 data
+82 83 7 recording
+83 84 8 /
+84 85 9 reproducing
+85 86 10 device
+86 87 11 40
+87 88 4 of
+88 89 1 the
+89 90 2 cpu
+90 91 3 41
+91 92 14 open-play
+92 93 13 this
+93 94 15 command
+94 95 12 receives
+95 96 16 . 7.30182234214
+96
+0 97 5 the
+97 98 6 data
+98 99 7 recording
+99 100 8 /
+100 101 9 reproducing
+101 102 10 device
+102 103 11 40
+103 104 4 of
+104 105 1 the
+105 106 2 cpu
+106 107 3 41
+107 108 13 this
+108 109 15 command
+109 110 14 open-play
+110 111 12 receives
+111 112 16 . 6.20321005347
+112
+0 113 5 the
+113 114 6 data
+114 115 7 recording
+115 116 8 /
+116 117 9 reproducing
+117 118 10 device
+118 119 11 40
+119 120 4 of
+120 121 1 the
+121 122 2 cpu
+122 123 3 41
+123 124 12 receives
+124 125 13 this
+125 126 14 open-play
+126 127 15 command
+127 128 16 . 1.48173941179
+128

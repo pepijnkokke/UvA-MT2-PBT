@@ -1,0 +1,17 @@
+0 1 1 referring
+1 2 2 figures
+2 3 3 ,
+3 4 4 an
+4 5 5 embodiment
+5 6 6 of
+6 7 7 the
+7 8 8 present
+8 9 9 invention
+9 10 10 will
+10 11 11 be
+11 12 12 described
+12 13 13 below
+13 14 14 in
+14 15 15 detail
+15 16 16 .
+16

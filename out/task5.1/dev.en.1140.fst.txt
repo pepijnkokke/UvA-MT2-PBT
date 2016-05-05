@@ -1,0 +1,23 @@
+0 1 1 the
+1 2 2 photofinisher
+2 3 3 12
+3 4 4 is
+4 5 7 a
+5 6 8 photofinisher
+6 7 9 list
+7 8 6 from
+8 9 5 selected
+9 10 10 ,
+10 11 11 and
+11 12 12 this
+12 13 13 photofinisher
+13 14 14 list
+14 15 15 25
+15 16 16 is
+16 17 19 the
+17 18 20 network
+18 19 21 23
+19 20 18 from
+20 21 17 downloaded
+21 22 22 . -0.0
+22

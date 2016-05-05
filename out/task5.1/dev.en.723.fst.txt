@@ -1,0 +1,300 @@
+0 1 2 the
+1 2 3 following
+2 3 1 in
+3 4 5 will
+4 5 11 the
+5 6 12 present
+6 7 13 invention
+7 8 10 of
+8 9 8 another
+9 10 9 embodiment
+10 11 7 explained
+11 12 6 be
+12 13 4 there
+13 14 14 . 1.7341066178
+14
+0 15 2 the
+15 16 3 following
+16 17 1 in
+17 18 11 the
+18 19 12 present
+19 20 13 invention
+20 21 10 of
+21 22 5 will
+22 23 8 another
+23 24 9 embodiment
+24 25 7 explained
+25 26 6 be
+26 27 4 there
+27 28 14 . 4.31600553358
+28
+0 29 3 following
+29 30 2 the
+30 31 1 in
+31 32 5 will
+32 33 11 the
+33 34 12 present
+34 35 13 invention
+35 36 10 of
+36 37 8 another
+37 38 9 embodiment
+38 39 7 explained
+39 40 6 be
+40 41 4 there
+41 42 14 . 2.54293819736
+42
+0 43 2 the
+43 44 3 following
+44 45 1 in
+45 46 11 the
+46 47 12 present
+47 48 13 invention
+48 49 10 of
+49 50 8 another
+50 51 9 embodiment
+51 52 5 will
+52 53 7 explained
+53 54 6 be
+54 55 4 there
+55 56 14 . 3.69483185264
+56
+0 57 3 following
+57 58 2 the
+58 59 1 in
+59 60 11 the
+60 61 12 present
+61 62 13 invention
+62 63 5 will
+63 64 10 of
+64 65 8 another
+65 66 9 embodiment
+66 67 7 explained
+67 68 6 be
+68 69 4 there
+69 70 14 . 7.89952447203
+70
+0 71 3 following
+71 72 2 the
+72 73 1 in
+73 74 11 the
+74 75 12 present
+75 76 13 invention
+76 77 10 of
+77 78 5 will
+78 79 8 another
+79 80 9 embodiment
+80 81 7 explained
+81 82 6 be
+82 83 4 there
+83 84 14 . 5.50162919923
+84
+0 85 2 the
+85 86 3 following
+86 87 1 in
+87 88 11 the
+88 89 12 present
+89 90 13 invention
+90 91 10 of
+91 92 8 another
+92 93 9 embodiment
+93 94 7 explained
+94 95 5 will
+95 96 6 be
+96 97 4 there
+97 98 14 . 5.19147427093
+98
+0 99 3 following
+99 100 2 the
+100 101 1 in
+101 102 11 the
+102 103 12 present
+103 104 13 invention
+104 105 10 of
+105 106 8 another
+106 107 9 embodiment
+107 108 5 will
+108 109 7 explained
+109 110 6 be
+110 111 4 there
+111 112 14 . 4.37316394742
+112
+0 113 2 the
+113 114 3 following
+114 115 1 in
+115 116 5 will
+116 117 11 the
+117 118 12 present
+118 119 13 invention
+119 120 10 of
+120 121 8 another
+121 122 9 embodiment
+122 123 6 be
+123 124 7 explained
+124 125 4 there
+125 126 14 . 4.46553726754
+126
+0 127 2 the
+127 128 3 following
+128 129 1 in
+129 130 11 the
+130 131 12 present
+131 132 13 invention
+132 133 10 of
+133 134 8 another
+134 135 9 embodiment
+135 136 7 explained
+136 137 6 be
+137 138 5 will
+138 139 4 there
+139 140 14 . 0.925981452513
+140
+0 141 3 following
+141 142 1 in
+142 143 2 the
+143 144 5 will
+144 145 11 the
+145 146 12 present
+146 147 13 invention
+147 148 10 of
+148 149 8 another
+149 150 9 embodiment
+150 151 7 explained
+151 152 6 be
+152 153 4 there
+153 154 14 . 3.28440395519
+154
+0 155 3 following
+155 156 2 the
+156 157 1 in
+157 158 11 the
+158 159 12 present
+159 160 13 invention
+160 161 10 of
+161 162 8 another
+162 163 9 embodiment
+163 164 7 explained
+164 165 5 will
+165 166 6 be
+166 167 4 there
+167 168 14 . 7.20637729147
+168
+0 169 2 the
+169 170 3 following
+170 171 1 in
+171 172 11 the
+172 173 12 present
+173 174 13 invention
+174 175 5 will
+175 176 10 of
+176 177 8 another
+177 178 9 embodiment
+178 179 6 be
+179 180 7 explained
+180 181 4 there
+181 182 14 . 7.89952447203
+182
+0 183 2 the
+183 184 3 following
+184 185 1 in
+185 186 11 the
+186 187 12 present
+187 188 13 invention
+188 189 10 of
+189 190 8 another
+190 191 9 embodiment
+191 192 7 explained
+192 193 6 be
+193 194 4 there
+194 195 5 will
+195 196 14 . 4.43378856923
+196
+0 197 2 the
+197 198 3 following
+198 199 1 in
+199 200 11 the
+200 201 12 present
+201 202 13 invention
+202 203 10 of
+203 204 5 will
+204 205 8 another
+205 206 9 embodiment
+206 207 6 be
+207 208 7 explained
+208 209 4 there
+209 210 14 . 5.33457511457
+210
+0 211 3 following
+211 212 1 in
+212 213 2 the
+213 214 11 the
+214 215 12 present
+215 216 13 invention
+216 217 10 of
+217 218 5 will
+218 219 8 another
+219 220 9 embodiment
+220 221 7 explained
+221 222 6 be
+222 223 4 there
+223 224 14 . 5.59693937904
+224
+0 225 3 following
+225 226 2 the
+226 227 1 in
+227 228 5 will
+228 229 11 the
+229 230 12 present
+230 231 13 invention
+231 232 10 of
+232 233 8 another
+233 234 9 embodiment
+234 235 6 be
+235 236 7 explained
+236 237 4 there
+237 238 14 . 5.26046714242
+238
+0 239 3 following
+239 240 2 the
+240 241 1 in
+241 242 11 the
+242 243 12 present
+243 244 13 invention
+244 245 10 of
+245 246 8 another
+246 247 9 embodiment
+247 248 7 explained
+248 249 6 be
+249 250 5 will
+250 251 4 there
+251 252 14 . 1.68092435234
+252
+0 253 2 the
+253 254 3 following
+254 255 1 in
+255 256 11 the
+256 257 12 present
+257 258 13 invention
+258 259 10 of
+259 260 8 another
+260 261 9 embodiment
+261 262 4 there
+262 263 5 will
+263 264 7 explained
+264 265 6 be
+265 266 14 . 7.20637729147
+266
+0 267 1 in
+267 268 2 the
+268 269 3 following
+269 270 5 will
+270 271 11 the
+271 272 12 present
+272 273 13 invention
+273 274 10 of
+274 275 8 another
+275 276 9 embodiment
+276 277 7 explained
+277 278 6 be
+278 279 4 there
+279 280 14 . 3.68001676686
+280

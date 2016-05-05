@@ -1,0 +1,16 @@
+0 1 1 the
+1 2 2 captured
+2 3 3 picture
+3 4 4 data
+4 5 5 is
+5 6 6 supplied
+6 7 7 to
+7 8 8 a
+8 9 9 picture
+9 10 10 processing
+10 11 11 unit
+11 12 12 through
+12 13 13 an
+13 14 14 interface
+14 15 15 .
+15

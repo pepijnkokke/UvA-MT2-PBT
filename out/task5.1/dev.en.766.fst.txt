@@ -1,0 +1,144 @@
+0 1 2 this
+1 2 3 purpose
+2 3 1 for
+3 4 4 ,
+4 5 5 a
+5 6 6 magnetic
+6 7 7 head
+7 8 8 3
+8 9 14 the
+9 10 15 disk
+10 11 16 1
+11 12 13 near
+12 13 10 recording
+13 14 9 for
+14 15 11 is
+15 16 12 provided
+16 17 17 . 2.42061229908
+17
+0 18 2 this
+18 19 3 purpose
+19 20 1 for
+20 21 4 ,
+21 22 5 a
+22 23 6 magnetic
+23 24 7 head
+24 25 8 3
+25 26 14 the
+26 27 15 disk
+27 28 16 1
+28 29 13 near
+29 30 10 recording
+30 31 11 is
+31 32 9 for
+32 33 12 provided
+33 34 17 . 6.52600669749
+34
+0 35 2 this
+35 36 3 purpose
+36 37 1 for
+37 38 4 ,
+38 39 5 a
+39 40 6 magnetic
+40 41 7 head
+41 42 8 3
+42 43 14 the
+43 44 15 disk
+44 45 16 1
+45 46 13 near
+46 47 9 for
+47 48 10 recording
+48 49 11 is
+49 50 12 provided
+50 51 17 . 0.833397523433
+51
+0 52 2 this
+52 53 3 purpose
+53 54 1 for
+54 55 4 ,
+55 56 5 a
+56 57 6 magnetic
+57 58 7 head
+58 59 8 3
+59 60 14 the
+60 61 15 disk
+61 62 16 1
+62 63 13 near
+63 64 10 recording
+64 65 11 is
+65 66 12 provided
+66 67 9 for
+67 68 17 . 1.43635486308
+68
+0 69 2 this
+69 70 3 purpose
+70 71 1 for
+71 72 4 ,
+72 73 5 a
+73 74 6 magnetic
+74 75 7 head
+75 76 8 3
+76 77 10 recording
+77 78 14 the
+78 79 15 disk
+79 80 16 1
+80 81 13 near
+81 82 11 is
+82 83 12 provided
+83 84 9 for
+84 85 17 . 3.79597758967
+85
+0 86 2 this
+86 87 3 purpose
+87 88 1 for
+88 89 5 a
+89 90 4 ,
+90 91 6 magnetic
+91 92 7 head
+92 93 8 3
+93 94 14 the
+94 95 15 disk
+95 96 16 1
+96 97 13 near
+97 98 10 recording
+98 99 9 for
+99 100 11 is
+100 101 12 provided
+101 102 17 . 6.23832462504
+102
+0 103 2 this
+103 104 3 purpose
+104 105 1 for
+105 106 4 ,
+106 107 5 a
+107 108 6 magnetic
+108 109 7 head
+109 110 8 3
+110 111 14 the
+111 112 15 disk
+112 113 16 1
+113 114 13 near
+114 115 11 is
+115 116 10 recording
+116 117 9 for
+117 118 12 provided
+118 119 17 . 7.62461898616
+119
+0 120 2 this
+120 121 3 purpose
+121 122 1 for
+122 123 4 ,
+123 124 5 a
+124 125 6 magnetic
+125 126 7 head
+126 127 8 3
+127 128 10 recording
+128 129 9 for
+129 130 14 the
+130 131 15 disk
+131 132 16 1
+132 133 13 near
+133 134 11 is
+134 135 12 provided
+135 136 17 . 1.54927295507
+136

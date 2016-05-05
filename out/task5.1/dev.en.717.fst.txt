@@ -1,0 +1,221 @@
+0 1 8 these
+1 2 9 embodiments
+2 3 7 of
+3 4 1 the
+4 5 2 liquid
+5 6 3 crystal
+6 7 4 display
+7 8 5 panel
+8 9 6 70
+9 10 11 an
+10 11 12 active-matrix-driving
+11 12 13 liquid
+12 13 14 crystal
+13 14 15 display
+14 15 10 uses
+15 16 16 . 0.276154567281
+16
+0 17 1 the
+17 18 8 these
+18 19 9 embodiments
+19 20 7 of
+20 21 2 liquid
+21 22 3 crystal
+22 23 4 display
+23 24 5 panel
+24 25 6 70
+25 26 11 an
+26 27 12 active-matrix-driving
+27 28 13 liquid
+28 29 14 crystal
+29 30 15 display
+30 31 10 uses
+31 32 16 . 1.94157174745
+32
+0 33 8 these
+33 34 9 embodiments
+34 35 7 of
+35 36 1 the
+36 37 2 liquid
+37 38 3 crystal
+38 39 4 display
+39 40 5 panel
+40 41 6 70
+41 42 11 an
+42 43 12 active-matrix-driving
+43 44 13 liquid
+44 45 14 crystal
+45 46 10 uses
+46 47 15 display
+47 48 16 . 3.73333121668
+48
+0 49 1 the
+49 50 8 these
+50 51 9 embodiments
+51 52 7 of
+52 53 2 liquid
+53 54 3 crystal
+54 55 4 display
+55 56 5 panel
+56 57 6 70
+57 58 11 an
+58 59 12 active-matrix-driving
+59 60 13 liquid
+60 61 14 crystal
+61 62 10 uses
+62 63 15 display
+63 64 16 . 4.66488942069
+64
+0 65 8 these
+65 66 9 embodiments
+66 67 7 of
+67 68 2 liquid
+68 69 1 the
+69 70 3 crystal
+70 71 4 display
+71 72 5 panel
+72 73 6 70
+73 74 11 an
+74 75 12 active-matrix-driving
+75 76 13 liquid
+76 77 14 crystal
+77 78 15 display
+78 79 10 uses
+79 80 16 . 5.84354441703
+80
+0 81 9 embodiments
+81 82 8 these
+82 83 7 of
+83 84 1 the
+84 85 2 liquid
+85 86 3 crystal
+86 87 4 display
+87 88 5 panel
+88 89 6 70
+89 90 11 an
+90 91 12 active-matrix-driving
+91 92 13 liquid
+92 93 14 crystal
+93 94 15 display
+94 95 10 uses
+95 96 16 . 6.53669159759
+96
+0 97 8 these
+97 98 9 embodiments
+98 99 7 of
+99 100 1 the
+100 101 2 liquid
+101 102 3 crystal
+102 103 4 display
+103 104 5 panel
+104 105 6 70
+105 106 11 an
+106 107 12 active-matrix-driving
+107 108 13 liquid
+108 109 10 uses
+109 110 14 crystal
+110 111 15 display
+111 112 16 . 3.56627713202
+112
+0 113 1 the
+113 114 8 these
+114 115 9 embodiments
+115 116 7 of
+116 117 2 liquid
+117 118 3 crystal
+118 119 4 display
+119 120 5 panel
+120 121 6 70
+121 122 11 an
+122 123 12 active-matrix-driving
+123 124 13 liquid
+124 125 10 uses
+125 126 14 crystal
+126 127 15 display
+127 128 16 . 5.03261420082
+128
+0 129 8 these
+129 130 9 embodiments
+130 131 7 of
+131 132 2 liquid
+132 133 3 crystal
+133 134 1 the
+134 135 4 display
+135 136 5 panel
+136 137 6 70
+137 138 11 an
+138 139 12 active-matrix-driving
+139 140 13 liquid
+140 141 14 crystal
+141 142 15 display
+142 143 10 uses
+143 144 16 . 4.52178857705
+144
+0 145 8 these
+145 146 9 embodiments
+146 147 7 of
+147 148 1 the
+148 149 2 liquid
+149 150 3 crystal
+150 151 4 display
+151 152 5 panel
+152 153 6 70
+153 154 11 an
+154 155 13 liquid
+155 156 14 crystal
+156 157 12 active-matrix-driving
+157 158 15 display
+158 159 10 uses
+159 160 16 . 7.22983877815
+160
+0 161 8 these
+161 162 9 embodiments
+162 163 1 the
+163 164 2 liquid
+164 165 3 crystal
+165 166 7 of
+166 167 4 display
+167 168 5 panel
+168 169 6 70
+169 170 11 an
+170 171 12 active-matrix-driving
+171 172 13 liquid
+172 173 14 crystal
+173 174 15 display
+174 175 10 uses
+175 176 16 . 7.22983877815
+176
+0 177 1 the
+177 178 8 these
+178 179 9 embodiments
+179 180 7 of
+180 181 2 liquid
+181 182 3 crystal
+182 183 4 display
+183 184 5 panel
+184 185 6 70
+185 186 11 an
+186 187 13 liquid
+187 188 14 crystal
+188 189 12 active-matrix-driving
+189 190 15 display
+190 191 10 uses
+191 192 16 . 7.22983877815
+192
+0 193 8 these
+193 194 9 embodiments
+194 195 7 of
+195 196 1 the
+196 197 2 liquid
+197 198 3 crystal
+198 199 4 display
+199 200 5 panel
+200 201 6 70
+201 202 11 an
+202 203 12 active-matrix-driving
+203 204 10 uses
+204 205 13 liquid
+205 206 14 crystal
+206 207 15 display
+207 208 16 . 4.3966254341
+208

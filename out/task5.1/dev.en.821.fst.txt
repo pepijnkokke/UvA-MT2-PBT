@@ -1,0 +1,252 @@
+0 1 1 this
+1 2 2 management
+2 3 3 information
+3 4 4 is
+4 5 7 the
+5 6 8 temporary
+6 7 9 buffer
+7 8 10 13
+8 9 6 in
+9 10 5 held
+10 11 11 . 0.0844028999118
+11
+0 12 1 this
+12 13 2 management
+13 14 3 information
+14 15 4 is
+15 16 7 the
+16 17 8 temporary
+17 18 9 buffer
+18 19 10 13
+19 20 5 held
+20 21 6 in
+21 22 11 . 7.34901643936
+22
+0 23 1 this
+23 24 2 management
+24 25 3 information
+25 26 4 is
+26 27 8 temporary
+27 28 7 the
+28 29 9 buffer
+29 30 10 13
+30 31 6 in
+31 32 5 held
+32 33 11 . 6.04973345523
+33
+0 34 1 this
+34 35 2 management
+35 36 3 information
+36 37 4 is
+37 38 7 the
+38 39 8 temporary
+39 40 9 buffer
+40 41 6 in
+41 42 10 13
+42 43 5 held
+43 44 11 . 9.14077590859
+44
+0 45 1 this
+45 46 2 management
+46 47 3 information
+47 48 4 is
+48 49 7 the
+49 50 8 temporary
+50 51 9 buffer
+51 52 6 in
+52 53 5 held
+53 54 10 13
+54 55 11 . 4.92126820341
+55
+0 56 1 this
+56 57 2 management
+57 58 3 information
+58 59 4 is
+59 60 8 temporary
+60 61 9 buffer
+61 62 7 the
+62 63 10 13
+63 64 6 in
+64 65 5 held
+65 66 11 . 7.53133799616
+66
+0 67 1 this
+67 68 4 is
+68 69 2 management
+69 70 3 information
+70 71 7 the
+71 72 8 temporary
+72 73 9 buffer
+73 74 10 13
+74 75 6 in
+75 76 5 held
+76 77 11 . 7.06133436691
+77
+0 78 1 this
+78 79 2 management
+79 80 3 information
+80 81 4 is
+81 82 7 the
+82 83 10 13
+83 84 8 temporary
+84 85 9 buffer
+85 86 6 in
+86 87 5 held
+87 88 11 . 9.14077590859
+88
+0 89 2 management
+89 90 3 information
+90 91 1 this
+91 92 4 is
+92 93 7 the
+93 94 8 temporary
+94 95 9 buffer
+95 96 10 13
+96 97 6 in
+97 98 5 held
+98 99 11 . 7.75448154747
+99
+0 100 1 this
+100 101 2 management
+101 102 3 information
+102 103 4 is
+103 104 7 the
+104 105 8 temporary
+105 106 9 buffer
+106 107 10 13
+107 108 11 .
+108 109 6 in
+109 110 5 held 9.14077590859
+110
+0 111 1 this
+111 112 2 management
+112 113 3 information
+113 114 4 is
+114 115 8 temporary
+115 116 9 buffer
+116 117 10 13
+117 118 7 the
+118 119 6 in
+119 120 5 held
+120 121 11 . 5.47721426246
+121
+0 122 4 is
+122 123 1 this
+123 124 2 management
+124 125 3 information
+125 126 7 the
+126 127 8 temporary
+127 128 9 buffer
+128 129 10 13
+129 130 6 in
+130 131 5 held
+131 132 11 . 9.14077590859
+132
+0 133 1 this
+133 134 2 management
+134 135 3 information
+135 136 4 is
+136 137 10 13
+137 138 7 the
+138 139 8 temporary
+139 140 9 buffer
+140 141 6 in
+141 142 5 held
+142 143 11 . 6.6558692588
+143
+0 144 2 management
+144 145 3 information
+145 146 4 is
+146 147 1 this
+147 148 7 the
+148 149 8 temporary
+149 150 9 buffer
+150 151 10 13
+151 152 6 in
+152 153 5 held
+153 154 11 . 9.14077590859
+154
+0 155 1 this
+155 156 2 management
+156 157 3 information
+157 158 7 the
+158 159 8 temporary
+159 160 9 buffer
+160 161 10 13
+161 162 4 is
+162 163 6 in
+163 164 5 held
+164 165 11 . 9.14077590859
+165
+0 166 1 this
+166 167 2 management
+167 168 3 information
+168 169 4 is
+169 170 8 temporary
+170 171 9 buffer
+171 172 7 the
+172 173 6 in
+173 174 5 held
+174 175 10 13
+175 176 11 . 9.14077590859
+176
+0 177 1 this
+177 178 2 management
+178 179 3 information
+179 180 4 is
+180 181 7 the
+181 182 8 temporary
+182 183 6 in
+183 184 5 held
+184 185 9 buffer
+185 186 10 13
+186 187 11 . 9.14077590859
+187
+0 188 1 this
+188 189 2 management
+189 190 3 information
+190 191 4 is
+191 192 8 temporary
+192 193 9 buffer
+193 194 10 13
+194 195 6 in
+195 196 7 the
+196 197 5 held
+197 198 11 . 4.92126820341
+198
+0 199 1 this
+199 200 2 management
+200 201 3 information
+201 202 4 is
+202 203 6 in
+203 204 7 the
+204 205 8 temporary
+205 206 9 buffer
+206 207 10 13
+207 208 5 held
+208 209 11 . 6.25040415069
+209
+0 210 1 this
+210 211 2 management
+211 212 3 information
+212 213 4 is
+213 214 9 buffer
+214 215 10 13
+215 216 7 the
+216 217 8 temporary
+217 218 6 in
+218 219 5 held
+219 220 11 . 9.14077590859
+220
+0 221 1 this
+221 222 2 management
+222 223 3 information
+223 224 7 the
+224 225 8 temporary
+225 226 9 buffer
+226 227 10 13
+227 228 6 in
+228 229 4 is
+229 230 5 held
+230 231 11 . 2.93419998187
+231

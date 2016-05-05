@@ -1,0 +1,260 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 7
+3 4 16 the
+4 5 17 second
+5 6 18 embodiment
+6 7 15 to
+7 8 14 according
+8 9 9 the
+9 10 11 alarm
+10 11 12 holding
+11 12 13 system
+12 13 10 synchronized
+13 14 8 of
+14 15 5 the
+15 16 6 detailed
+16 17 7 construction
+17 18 4 shows
+18 19 19 . 2.11446730276
+19
+0 20 1 fig
+20 21 2 .
+21 22 3 7
+22 23 16 the
+23 24 17 second
+24 25 18 embodiment
+25 26 9 the
+26 27 15 to
+27 28 14 according
+28 29 11 alarm
+29 30 12 holding
+30 31 13 system
+31 32 10 synchronized
+32 33 8 of
+33 34 5 the
+34 35 6 detailed
+35 36 7 construction
+36 37 4 shows
+37 38 19 . 6.58800904627
+38
+0 39 1 fig
+39 40 2 .
+40 41 3 7
+41 42 9 the
+42 43 16 the
+43 44 17 second
+44 45 18 embodiment
+45 46 15 to
+46 47 14 according
+47 48 11 alarm
+48 49 12 holding
+49 50 13 system
+50 51 10 synchronized
+51 52 8 of
+52 53 5 the
+53 54 6 detailed
+54 55 7 construction
+55 56 4 shows
+56 57 19 . 1.88450295956
+57
+0 58 1 fig
+58 59 2 .
+59 60 3 7
+60 61 16 the
+61 62 17 second
+62 63 18 embodiment
+63 64 15 to
+64 65 14 according
+65 66 9 the
+66 67 10 synchronized
+67 68 11 alarm
+68 69 12 holding
+69 70 13 system
+70 71 8 of
+71 72 5 the
+72 73 6 detailed
+73 74 7 construction
+74 75 4 shows
+75 76 19 . 1.29135973683
+76
+0 77 1 fig
+77 78 2 .
+78 79 3 7
+79 80 16 the
+80 81 17 second
+81 82 18 embodiment
+82 83 9 the
+83 84 15 to
+84 85 14 according
+85 86 10 synchronized
+86 87 11 alarm
+87 88 12 holding
+88 89 13 system
+89 90 8 of
+90 91 5 the
+91 92 6 detailed
+92 93 7 construction
+93 94 4 shows
+94 95 19 . 7.68662133494
+95
+0 96 1 fig
+96 97 2 .
+97 98 3 7
+98 99 16 the
+99 100 17 second
+100 101 18 embodiment
+101 102 15 to
+102 103 14 according
+103 104 11 alarm
+104 105 12 holding
+105 106 13 system
+106 107 9 the
+107 108 10 synchronized
+108 109 8 of
+109 110 5 the
+110 111 6 detailed
+111 112 7 construction
+112 113 4 shows
+113 114 19 . 0.862247664902
+114
+0 115 1 fig
+115 116 2 .
+116 117 3 7
+117 118 9 the
+118 119 16 the
+119 120 17 second
+120 121 18 embodiment
+121 122 15 to
+122 123 14 according
+123 124 10 synchronized
+124 125 11 alarm
+125 126 12 holding
+126 127 13 system
+127 128 8 of
+128 129 5 the
+129 130 6 detailed
+130 131 7 construction
+131 132 4 shows
+132 133 19 . 4.74218235578
+133
+0 134 1 fig
+134 135 2 .
+135 136 3 7
+136 137 17 second
+137 138 16 the
+138 139 18 embodiment
+139 140 15 to
+140 141 14 according
+141 142 9 the
+142 143 11 alarm
+143 144 12 holding
+144 145 13 system
+145 146 10 synchronized
+146 147 8 of
+147 148 5 the
+148 149 6 detailed
+149 150 7 construction
+150 151 4 shows
+151 152 19 . 4.85340799089
+152
+0 153 1 fig
+153 154 2 .
+154 155 3 7
+155 156 17 second
+156 157 16 the
+157 158 18 embodiment
+158 159 9 the
+159 160 15 to
+160 161 14 according
+161 162 11 alarm
+162 163 12 holding
+163 164 13 system
+164 165 10 synchronized
+165 166 8 of
+166 167 5 the
+167 168 6 detailed
+168 169 7 construction
+169 170 4 shows
+170 171 19 . 7.68662133494
+171
+0 172 1 fig
+172 173 2 .
+173 174 3 7
+174 175 9 the
+175 176 17 second
+176 177 16 the
+177 178 18 embodiment
+178 179 15 to
+179 180 14 according
+180 181 11 alarm
+181 182 12 holding
+182 183 13 system
+183 184 10 synchronized
+184 185 8 of
+185 186 5 the
+186 187 6 detailed
+187 188 7 construction
+188 189 4 shows
+189 190 19 . 4.59557888159
+190
+0 191 1 fig
+191 192 2 .
+192 193 3 7
+193 194 9 the
+194 195 16 the
+195 196 17 second
+196 197 18 embodiment
+197 198 15 to
+198 199 14 according
+199 200 11 alarm
+200 201 12 holding
+201 202 13 system
+202 203 10 synchronized
+203 204 8 of
+204 205 4 shows
+205 206 5 the
+206 207 6 detailed
+207 208 7 construction
+208 209 19 . 7.68662133494
+209
+0 210 1 fig
+210 211 2 .
+211 212 3 7
+212 213 9 the
+213 214 16 the
+214 215 17 second
+215 216 18 embodiment
+216 217 15 to
+217 218 14 according
+218 219 11 alarm
+219 220 12 holding
+220 221 13 system
+221 222 10 synchronized
+222 223 5 the
+223 224 8 of
+224 225 6 detailed
+225 226 7 construction
+226 227 4 shows
+227 228 19 . 7.68662133494
+228
+0 229 1 fig
+229 230 2 .
+230 231 3 7
+231 232 16 the
+232 233 18 embodiment
+233 234 17 second
+234 235 15 to
+235 236 14 according
+236 237 9 the
+237 238 11 alarm
+238 239 12 holding
+239 240 13 system
+240 241 10 synchronized
+241 242 8 of
+242 243 5 the
+243 244 6 detailed
+244 245 7 construction
+245 246 4 shows
+246 247 19 . 7.68662133494
+247

@@ -1,0 +1,322 @@
+0 1 1 test
+1 2 2 terminal
+2 3 3 11
+3 4 4 is
+4 5 10 interconnection
+5 6 11 layer
+6 7 12 6
+7 8 9 from
+8 9 7 a
+9 10 8 distance
+10 11 6 with
+11 12 5 formed
+12 13 13 . 0.224937638081
+13
+0 14 1 test
+14 15 2 terminal
+15 16 3 11
+16 17 4 is
+17 18 10 interconnection
+18 19 11 layer
+19 20 12 6
+20 21 9 from
+21 22 7 a
+22 23 8 distance
+23 24 5 formed
+24 25 6 with
+25 26 13 . 3.3708193463
+26
+0 27 1 test
+27 28 2 terminal
+28 29 3 11
+29 30 4 is
+30 31 10 interconnection
+31 32 11 layer
+32 33 12 6
+33 34 9 from
+34 35 7 a
+35 36 6 with
+36 37 8 distance
+37 38 5 formed
+38 39 13 . 8.90815361332
+39
+0 40 1 test
+40 41 2 terminal
+41 42 3 11
+42 43 4 is
+43 44 10 interconnection
+44 45 11 layer
+45 46 12 6
+46 47 9 from
+47 48 8 distance
+48 49 7 a
+49 50 6 with
+50 51 5 formed
+51 52 13 . 8.90815361332
+52
+0 53 1 test
+53 54 2 terminal
+54 55 3 11
+55 56 4 is
+56 57 10 interconnection
+57 58 11 layer
+58 59 12 6
+59 60 7 a
+60 61 8 distance
+61 62 9 from
+62 63 6 with
+63 64 5 formed
+64 65 13 . 6.13556489108
+65
+0 66 1 test
+66 67 2 terminal
+67 68 3 11
+68 69 4 is
+69 70 10 interconnection
+70 71 11 layer
+71 72 12 6
+72 73 9 from
+73 74 6 with
+74 75 7 a
+75 76 8 distance
+76 77 5 formed
+77 78 13 . 6.51025834052
+78
+0 79 1 test
+79 80 2 terminal
+80 81 3 11
+81 82 4 is
+82 83 10 interconnection
+83 84 11 layer
+84 85 12 6
+85 86 9 from
+86 87 8 distance
+87 88 6 with
+88 89 7 a
+89 90 5 formed
+90 91 13 . 8.90815361332
+91
+0 92 1 test
+92 93 2 terminal
+93 94 3 11
+94 95 4 is
+95 96 12 6
+96 97 10 interconnection
+97 98 11 layer
+98 99 9 from
+99 100 7 a
+100 101 8 distance
+101 102 6 with
+102 103 5 formed
+103 104 13 . 7.29871570089
+104
+0 105 3 11
+105 106 1 test
+106 107 2 terminal
+107 108 4 is
+108 109 10 interconnection
+109 110 11 layer
+110 111 12 6
+111 112 9 from
+112 113 7 a
+113 114 8 distance
+114 115 6 with
+115 116 5 formed
+116 117 13 . 7.80954132465
+117
+0 118 1 test
+118 119 2 terminal
+119 120 3 11
+120 121 10 interconnection
+121 122 11 layer
+122 123 12 6
+123 124 9 from
+124 125 4 is
+125 126 7 a
+126 127 8 distance
+127 128 6 with
+128 129 5 formed
+129 130 13 . 6.96224346427
+130
+0 131 1 test
+131 132 2 terminal
+132 133 3 11
+133 134 10 interconnection
+134 135 11 layer
+135 136 12 6
+136 137 4 is
+137 138 9 from
+138 139 7 a
+139 140 8 distance
+140 141 5 formed
+141 142 6 with
+142 143 13 . 8.90815361332
+143
+0 144 1 test
+144 145 2 terminal
+145 146 3 11
+146 147 4 is
+147 148 10 interconnection
+148 149 11 layer
+149 150 9 from
+150 151 7 a
+151 152 8 distance
+152 153 12 6
+153 154 6 with
+154 155 5 formed
+155 156 13 . 5.81711115996
+156
+0 157 1 test
+157 158 2 terminal
+158 159 3 11
+159 160 4 is
+160 161 9 from
+161 162 10 interconnection
+162 163 11 layer
+163 164 12 6
+164 165 7 a
+165 166 8 distance
+166 167 6 with
+167 168 5 formed
+168 169 13 . 4.27342462509
+169
+0 170 1 test
+170 171 2 terminal
+171 172 3 11
+172 173 4 is
+173 174 12 6
+174 175 10 interconnection
+175 176 11 layer
+176 177 9 from
+177 178 7 a
+178 179 8 distance
+179 180 5 formed
+180 181 6 with
+181 182 13 . 8.90815361332
+182
+0 183 1 test
+183 184 2 terminal
+184 185 3 11
+185 186 4 is
+186 187 10 interconnection
+187 188 11 layer
+188 189 12 6
+189 190 9 from
+190 191 8 distance
+191 192 6 with
+192 193 5 formed
+193 194 7 a
+194 195 13 . 8.21500643276
+195
+0 196 1 test
+196 197 2 terminal
+197 198 3 11
+198 199 4 is
+199 200 10 interconnection
+200 201 11 layer
+201 202 12 6
+202 203 6 with
+203 204 9 from
+204 205 7 a
+205 206 8 distance
+206 207 5 formed
+207 208 13 . 7.80954132465
+208
+0 209 1 test
+209 210 2 terminal
+210 211 3 11
+211 212 4 is
+212 213 9 from
+213 214 10 interconnection
+214 215 11 layer
+215 216 12 6
+216 217 7 a
+217 218 8 distance
+218 219 5 formed
+219 220 6 with
+220 221 13 . 7.11639414409
+221
+0 222 1 test
+222 223 2 terminal
+223 224 3 11
+224 225 10 interconnection
+225 226 11 layer
+226 227 12 6
+227 228 9 from
+228 229 7 a
+229 230 8 distance
+230 231 4 is
+231 232 6 with
+232 233 5 formed
+233 234 13 . 4.73376634343
+234
+0 235 1 test
+235 236 2 terminal
+236 237 3 11
+237 238 10 interconnection
+238 239 11 layer
+239 240 12 6
+240 241 4 is
+241 242 7 a
+242 243 8 distance
+243 244 9 from
+244 245 6 with
+245 246 5 formed
+246 247 13 . 8.90815361332
+247
+0 248 1 test
+248 249 2 terminal
+249 250 3 11
+250 251 4 is
+251 252 7 a
+252 253 10 interconnection
+253 254 11 layer
+254 255 12 6
+255 256 9 from
+256 257 8 distance
+257 258 6 with
+258 259 5 formed
+259 260 13 . 7.5218592522
+260
+0 261 1 test
+261 262 2 terminal
+262 263 3 11
+263 264 4 is
+264 265 10 interconnection
+265 266 11 layer
+266 267 12 6
+267 268 9 from
+268 269 6 with
+269 270 5 formed
+270 271 7 a
+271 272 8 distance
+272 273 13 . 8.90815361332
+273
+0 274 1 test
+274 275 2 terminal
+275 276 3 11
+276 277 4 is
+277 278 12 6
+278 279 9 from
+279 280 10 interconnection
+280 281 11 layer
+281 282 7 a
+282 283 8 distance
+283 284 6 with
+284 285 5 formed
+285 286 13 . 8.90815361332
+286
+0 287 1 test
+287 288 2 terminal
+288 289 3 11
+289 290 10 interconnection
+290 291 11 layer
+291 292 12 6
+292 293 9 from
+293 294 7 a
+294 295 8 distance
+295 296 6 with
+296 297 4 is
+297 298 5 formed
+298 299 13 . 2.02060104166
+299

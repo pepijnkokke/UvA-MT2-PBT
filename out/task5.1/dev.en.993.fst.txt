@@ -1,0 +1,180 @@
+0 1 1 a
+1 2 2 likelihood
+2 3 3 is
+3 4 17 corresponding
+4 5 18 identification
+5 6 16 for
+6 7 11 the
+7 8 12 axis
+8 9 13 which
+9 10 10 from
+10 11 8 a
+11 12 9 distance
+12 13 7 of
+13 14 6 means
+14 15 14 is
+15 16 15 used
+16 17 5 by
+17 18 4 given
+18 19 19 . 0.746572347234
+19
+0 20 1 a
+20 21 2 likelihood
+21 22 3 is
+22 23 17 corresponding
+23 24 18 identification
+24 25 16 for
+25 26 11 the
+26 27 12 axis
+27 28 13 which
+28 29 10 from
+29 30 8 a
+30 31 9 distance
+31 32 7 of
+32 33 6 means
+33 34 5 by
+34 35 4 given
+35 36 14 is
+36 37 15 used
+37 38 19 . 1.75209421284
+38
+0 39 1 a
+39 40 2 likelihood
+40 41 3 is
+41 42 17 corresponding
+42 43 18 identification
+43 44 16 for
+44 45 11 the
+45 46 12 axis
+46 47 13 which
+47 48 10 from
+48 49 8 a
+49 50 9 distance
+50 51 7 of
+51 52 6 means
+52 53 5 by
+53 54 14 is
+54 55 15 used
+55 56 4 given
+56 57 19 . 4.46014441394
+57
+0 58 1 a
+58 59 2 likelihood
+59 60 3 is
+60 61 17 corresponding
+61 62 18 identification
+62 63 16 for
+63 64 11 the
+64 65 12 axis
+65 66 13 which
+66 67 10 from
+67 68 8 a
+68 69 9 distance
+69 70 7 of
+70 71 14 is
+71 72 15 used
+72 73 6 means
+73 74 5 by
+74 75 4 given
+75 76 19 . 5.1532915945
+76
+0 77 1 a
+77 78 2 likelihood
+78 79 3 is
+79 80 17 corresponding
+80 81 18 identification
+81 82 16 for
+82 83 11 the
+83 84 12 axis
+84 85 13 which
+85 86 10 from
+86 87 8 a
+87 88 9 distance
+88 89 14 is
+89 90 15 used
+90 91 7 of
+91 92 6 means
+92 93 5 by
+93 94 4 given
+94 95 19 . 1.18299968095
+95
+0 96 1 a
+96 97 2 likelihood
+97 98 3 is
+98 99 17 corresponding
+99 100 18 identification
+100 101 11 the
+101 102 12 axis
+102 103 13 which
+103 104 10 from
+104 105 8 a
+105 106 9 distance
+106 107 7 of
+107 108 6 means
+108 109 16 for
+109 110 14 is
+110 111 15 used
+111 112 5 by
+112 113 4 given
+113 114 19 . 5.1532915945
+114
+0 115 1 a
+115 116 2 likelihood
+116 117 3 is
+117 118 17 corresponding
+118 119 18 identification
+119 120 16 for
+120 121 11 the
+121 122 13 which
+122 123 12 axis
+123 124 10 from
+124 125 8 a
+125 126 9 distance
+126 127 7 of
+127 128 6 means
+128 129 14 is
+129 130 15 used
+130 131 5 by
+131 132 4 given
+132 133 19 . 5.1532915945
+133
+0 134 1 a
+134 135 2 likelihood
+135 136 3 is
+136 137 17 corresponding
+137 138 18 identification
+138 139 16 for
+139 140 11 the
+140 141 12 axis
+141 142 13 which
+142 143 14 is
+143 144 10 from
+144 145 8 a
+145 146 9 distance
+146 147 7 of
+147 148 6 means
+148 149 15 used
+149 150 5 by
+150 151 4 given
+151 152 19 . 5.1532915945
+152
+0 153 1 a
+153 154 2 likelihood
+154 155 3 is
+155 156 17 corresponding
+156 157 18 identification
+157 158 16 for
+158 159 11 the
+159 160 12 axis
+160 161 13 which
+161 162 10 from
+162 163 8 a
+163 164 9 distance
+164 165 7 of
+165 166 5 by
+166 167 6 means
+167 168 4 given
+168 169 14 is
+169 170 15 used
+170 171 19 . 4.46014441394
+171

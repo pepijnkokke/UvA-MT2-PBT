@@ -1,0 +1,27 @@
+0 1 1 the
+1 2 2 first
+2 3 3 spring
+3 4 4 7
+4 5 5 is
+5 6 10 the
+6 7 11 lowest
+7 8 12 rigidity
+8 9 9 having
+9 10 6 a
+10 11 7 coil
+11 12 8 spring
+12 13 13 ,
+13 14 14 and
+14 15 15 is
+15 16 18 the
+16 17 19 first
+17 18 20 and
+18 19 21 second
+19 20 22 members
+20 21 23 30
+21 22 24 and
+22 23 25 31
+23 24 17 between
+24 25 16 disposed
+25 26 26 . -0.0
+26

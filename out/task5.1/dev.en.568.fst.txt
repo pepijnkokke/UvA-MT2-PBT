@@ -1,0 +1,171 @@
+0 1 5 dichlorosilane
+1 2 6 and
+2 3 7 ammonia
+3 4 8 are
+4 5 9 generally
+5 6 4 of
+6 7 1 the
+7 8 2 gas
+8 9 3 flows
+9 10 10 about
+10 11 11 30
+11 12 12 sccm
+12 13 13 and
+13 14 14 180
+14 15 15 sccm
+15 16 16 ,
+16 17 17 respectively
+17 18 18 . 0.973449145714
+18
+0 19 5 dichlorosilane
+19 20 6 and
+20 21 7 ammonia
+21 22 8 are
+22 23 9 generally
+23 24 10 about
+24 25 11 30
+25 26 4 of
+26 27 1 the
+27 28 2 gas
+28 29 3 flows
+29 30 12 sccm
+30 31 13 and
+31 32 14 180
+32 33 15 sccm
+33 34 16 ,
+34 35 17 respectively
+35 36 18 . 4.25864761351
+36
+0 37 5 dichlorosilane
+37 38 6 and
+38 39 7 ammonia
+39 40 8 are
+40 41 9 generally
+41 42 10 about
+42 43 11 30
+43 44 12 sccm
+44 45 4 of
+45 46 1 the
+46 47 2 gas
+47 48 3 flows
+48 49 13 and
+49 50 14 180
+50 51 15 sccm
+51 52 16 ,
+52 53 17 respectively
+53 54 18 . 1.05706328575
+54
+0 55 1 the
+55 56 5 dichlorosilane
+56 57 6 and
+57 58 7 ammonia
+58 59 8 are
+59 60 9 generally
+60 61 10 about
+61 62 11 30
+62 63 12 sccm
+63 64 4 of
+64 65 2 gas
+65 66 3 flows
+66 67 13 and
+67 68 14 180
+68 69 15 sccm
+69 70 16 ,
+70 71 17 respectively
+71 72 18 . 2.80336038091
+72
+0 73 1 the
+73 74 5 dichlorosilane
+74 75 6 and
+75 76 7 ammonia
+76 77 8 are
+77 78 9 generally
+78 79 10 about
+79 80 11 30
+80 81 4 of
+81 82 2 gas
+82 83 3 flows
+83 84 12 sccm
+84 85 13 and
+85 86 14 180
+86 87 15 sccm
+87 88 16 ,
+88 89 17 respectively
+89 90 18 . 5.1059454739
+90
+0 91 5 dichlorosilane
+91 92 6 and
+92 93 7 ammonia
+93 94 8 are
+94 95 9 generally
+95 96 4 of
+96 97 10 about
+97 98 11 30
+98 99 12 sccm
+99 100 1 the
+100 101 2 gas
+101 102 3 flows
+102 103 13 and
+103 104 14 180
+104 105 15 sccm
+105 106 16 ,
+106 107 17 respectively
+107 108 18 . 6.20455776257
+108
+0 109 5 dichlorosilane
+109 110 6 and
+110 111 7 ammonia
+111 112 8 are
+112 113 9 generally
+113 114 4 of
+114 115 1 the
+115 116 2 gas
+116 117 3 flows
+117 118 10 about
+118 119 11 30
+119 120 12 sccm
+120 121 13 and
+121 122 14 180
+122 123 15 sccm
+123 124 17 respectively
+124 125 16 ,
+125 126 18 . 1.67195826941
+126
+0 127 5 dichlorosilane
+127 128 6 and
+128 129 7 ammonia
+129 130 8 are
+130 131 9 generally
+131 132 10 about
+132 133 4 of
+133 134 1 the
+134 135 2 gas
+135 136 3 flows
+136 137 11 30
+137 138 12 sccm
+138 139 13 and
+139 140 14 180
+140 141 15 sccm
+141 142 17 respectively
+142 143 16 ,
+143 144 18 . 6.20455776257
+144
+0 145 1 the
+145 146 5 dichlorosilane
+146 147 6 and
+147 148 7 ammonia
+148 149 8 are
+149 150 9 generally
+150 151 10 about
+151 152 4 of
+152 153 2 gas
+153 154 3 flows
+154 155 11 30
+155 156 12 sccm
+156 157 13 and
+157 158 14 180
+158 159 15 sccm
+159 160 16 ,
+160 161 17 respectively
+161 162 18 . 6.20455776257
+162

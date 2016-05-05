@@ -1,0 +1,240 @@
+0 1 1 first
+1 2 2 embodiment
+2 3 3 fig
+3 4 4 .
+4 5 5 1
+5 6 16 amplitude
+6 7 17 asymmetry
+7 8 18 correction
+8 9 15 for
+9 10 11 the
+10 11 12 waveform
+11 12 13 equalizer
+12 13 14 99
+13 14 10 of
+14 15 7 the
+15 16 8 first
+16 17 9 embodiment
+17 18 6 shows
+18 19 19 . 0.200348270827
+19
+0 20 1 first
+20 21 2 embodiment
+21 22 3 fig
+22 23 4 .
+23 24 5 1
+24 25 16 amplitude
+25 26 17 asymmetry
+26 27 18 correction
+27 28 11 the
+28 29 15 for
+29 30 12 waveform
+30 31 13 equalizer
+31 32 14 99
+32 33 10 of
+33 34 7 the
+34 35 8 first
+35 36 9 embodiment
+36 37 6 shows
+37 38 19 . 7.34633273854
+38
+0 39 1 first
+39 40 2 embodiment
+40 41 3 fig
+41 42 4 .
+42 43 5 1
+43 44 16 amplitude
+44 45 17 asymmetry
+45 46 18 correction
+46 47 15 for
+47 48 11 the
+48 49 12 waveform
+49 50 13 equalizer
+50 51 14 99
+51 52 10 of
+52 53 8 first
+53 54 7 the
+54 55 9 embodiment
+55 56 6 shows
+56 57 19 . 2.70676112584
+57
+0 58 1 first
+58 59 2 embodiment
+59 60 3 fig
+60 61 4 .
+61 62 5 1
+62 63 16 amplitude
+63 64 17 asymmetry
+64 65 18 correction
+65 66 15 for
+66 67 11 the
+67 68 12 waveform
+68 69 13 equalizer
+69 70 14 99
+70 71 7 the
+71 72 10 of
+72 73 8 first
+73 74 9 embodiment
+74 75 6 shows
+75 76 19 . 7.34633273854
+76
+0 77 1 first
+77 78 2 embodiment
+78 79 3 fig
+79 80 4 .
+80 81 5 1
+81 82 16 amplitude
+82 83 17 asymmetry
+83 84 18 correction
+84 85 15 for
+85 86 11 the
+86 87 12 waveform
+87 88 13 equalizer
+88 89 14 99
+89 90 10 of
+90 91 7 the
+91 92 9 embodiment
+92 93 8 first
+93 94 6 shows
+94 95 19 . 8.0394799191
+95
+0 96 1 first
+96 97 2 embodiment
+97 98 3 fig
+98 99 4 .
+99 100 5 1
+100 101 16 amplitude
+101 102 17 asymmetry
+102 103 18 correction
+103 104 15 for
+104 105 12 waveform
+105 106 11 the
+106 107 13 equalizer
+107 108 14 99
+108 109 10 of
+109 110 7 the
+110 111 8 first
+111 112 9 embodiment
+112 113 6 shows
+113 114 19 . 5.20626657504
+114
+0 115 1 first
+115 116 2 embodiment
+116 117 3 fig
+117 118 5 1
+118 119 4 .
+119 120 16 amplitude
+120 121 17 asymmetry
+121 122 18 correction
+122 123 15 for
+123 124 11 the
+124 125 12 waveform
+125 126 13 equalizer
+126 127 14 99
+127 128 10 of
+128 129 7 the
+129 130 8 first
+130 131 9 embodiment
+131 132 6 shows
+132 133 19 . 8.0394799191
+133
+0 134 1 first
+134 135 3 fig
+135 136 2 embodiment
+136 137 4 .
+137 138 5 1
+138 139 16 amplitude
+139 140 17 asymmetry
+140 141 18 correction
+141 142 15 for
+142 143 11 the
+143 144 12 waveform
+144 145 13 equalizer
+145 146 14 99
+146 147 10 of
+147 148 7 the
+148 149 8 first
+149 150 9 embodiment
+150 151 6 shows
+151 152 19 . 8.0394799191
+152
+0 153 2 embodiment
+153 154 1 first
+154 155 3 fig
+155 156 4 .
+156 157 5 1
+157 158 16 amplitude
+158 159 17 asymmetry
+159 160 18 correction
+160 161 15 for
+161 162 11 the
+162 163 12 waveform
+163 164 13 equalizer
+164 165 14 99
+165 166 10 of
+166 167 7 the
+167 168 8 first
+168 169 9 embodiment
+169 170 6 shows
+170 171 19 . 5.96003837742
+171
+0 172 1 first
+172 173 2 embodiment
+173 174 3 fig
+174 175 4 .
+175 176 5 1
+176 177 16 amplitude
+177 178 17 asymmetry
+178 179 18 correction
+179 180 11 the
+180 181 12 waveform
+181 182 15 for
+182 183 13 equalizer
+183 184 14 99
+184 185 10 of
+185 186 7 the
+186 187 8 first
+187 188 9 embodiment
+188 189 6 shows
+189 190 19 . 8.0394799191
+190
+0 191 1 first
+191 192 2 embodiment
+192 193 3 fig
+193 194 4 .
+194 195 5 1
+195 196 16 amplitude
+196 197 17 asymmetry
+197 198 18 correction
+198 199 15 for
+199 200 11 the
+200 201 12 waveform
+201 202 13 equalizer
+202 203 14 99
+203 204 10 of
+204 205 8 first
+205 206 9 embodiment
+206 207 7 the
+207 208 6 shows
+208 209 19 . 2.61452990162
+209
+0 210 1 first
+210 211 2 embodiment
+211 212 3 fig
+212 213 4 .
+213 214 5 1
+214 215 17 asymmetry
+215 216 18 correction
+216 217 16 amplitude
+217 218 15 for
+218 219 11 the
+219 220 12 waveform
+220 221 13 equalizer
+221 222 14 99
+222 223 10 of
+223 224 7 the
+224 225 8 first
+225 226 9 embodiment
+226 227 6 shows
+227 228 19 . 3.47513172763
+228

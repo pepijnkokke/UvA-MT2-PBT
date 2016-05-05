@@ -98,8 +98,8 @@ if __name__ == "__main__":
     dev_en = os.getenv('DEV_EN',os.path.join(data_dir,'dev.enpp.nbest'))
 
     # Set the number of sentences to convert to FSTs.
-    s = os.getenv('S', 1316)
-    n = os.getenv('N', 100)
+    s = os.getenv('S', 0)
+    n = os.getenv('N', 1416)
 
     # Convert English sentences to FSTs.
     with open(dev_en, 'r') as f:

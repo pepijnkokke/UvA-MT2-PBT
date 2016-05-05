@@ -1,0 +1,272 @@
+0 1 1 the
+1 2 8 the
+2 3 9 second
+3 4 10 contact
+4 5 11 layer
+5 6 12 73
+6 7 7 into
+7 8 5 mg
+8 9 6 doped
+9 10 4 of
+10 11 2 impurity
+11 12 3 concentration
+12 13 13 was
+13 14 14 1.times.10.sup.20
+14 15 15 /
+15 16 16 cm.sup.3. 1.03083967359
+16
+0 17 1 the
+17 18 8 the
+18 19 9 second
+19 20 10 contact
+20 21 11 layer
+21 22 12 73
+22 23 7 into
+23 24 5 mg
+24 25 6 doped
+25 26 4 of
+26 27 2 impurity
+27 28 3 concentration
+28 29 14 1.times.10.sup.20
+29 30 13 was
+30 31 15 /
+31 32 16 cm.sup.3. 1.92181259747
+32
+0 33 1 the
+33 34 8 the
+34 35 9 second
+35 36 10 contact
+36 37 11 layer
+37 38 12 73
+38 39 7 into
+39 40 5 mg
+40 41 6 doped
+41 42 2 impurity
+42 43 4 of
+43 44 3 concentration
+44 45 13 was
+45 46 14 1.times.10.sup.20
+46 47 15 /
+47 48 16 cm.sup.3. 3.65294744489
+48
+0 49 1 the
+49 50 8 the
+50 51 9 second
+51 52 10 contact
+52 53 11 layer
+53 54 12 73
+54 55 7 into
+55 56 6 doped
+56 57 5 mg
+57 58 4 of
+58 59 2 impurity
+59 60 3 concentration
+60 61 13 was
+61 62 14 1.times.10.sup.20
+62 63 15 /
+63 64 16 cm.sup.3. 1.30437723865
+64
+0 65 1 the
+65 66 8 the
+66 67 9 second
+67 68 10 contact
+68 69 11 layer
+69 70 12 73
+70 71 7 into
+71 72 5 mg
+72 73 6 doped
+73 74 2 impurity
+74 75 4 of
+75 76 3 concentration
+76 77 14 1.times.10.sup.20
+77 78 13 was
+78 79 15 /
+79 80 16 cm.sup.3. 5.38754850028
+80
+0 81 1 the
+81 82 8 the
+82 83 9 second
+83 84 10 contact
+84 85 11 layer
+85 86 12 73
+86 87 7 into
+87 88 2 impurity
+88 89 5 mg
+89 90 6 doped
+90 91 4 of
+91 92 3 concentration
+92 93 13 was
+93 94 14 1.times.10.sup.20
+94 95 15 /
+95 96 16 cm.sup.3. 5.09986642782
+96
+0 97 1 the
+97 98 8 the
+98 99 9 second
+99 100 10 contact
+100 101 11 layer
+101 102 12 73
+102 103 5 mg
+103 104 6 doped
+104 105 7 into
+105 106 4 of
+106 107 2 impurity
+107 108 3 concentration
+108 109 13 was
+109 110 14 1.times.10.sup.20
+110 111 15 /
+111 112 16 cm.sup.3. 5.79301360839
+112
+0 113 1 the
+113 114 8 the
+114 115 9 second
+115 116 10 contact
+116 117 11 layer
+117 118 12 73
+118 119 2 impurity
+119 120 7 into
+120 121 5 mg
+121 122 6 doped
+122 123 4 of
+123 124 3 concentration
+124 125 13 was
+125 126 14 1.times.10.sup.20
+126 127 15 /
+127 128 16 cm.sup.3. 6.48616078895
+128
+0 129 1 the
+129 130 8 the
+130 131 9 second
+131 132 10 contact
+132 133 11 layer
+133 134 7 into
+134 135 12 73
+135 136 5 mg
+136 137 6 doped
+137 138 4 of
+138 139 2 impurity
+139 140 3 concentration
+140 141 14 1.times.10.sup.20
+141 142 13 was
+142 143 15 /
+143 144 16 cm.sup.3. 6.48616078895
+144
+0 145 1 the
+145 146 8 the
+146 147 9 second
+147 148 10 contact
+148 149 11 layer
+149 150 12 73
+150 151 7 into
+151 152 6 doped
+152 153 5 mg
+153 154 4 of
+154 155 2 impurity
+155 156 3 concentration
+156 157 14 1.times.10.sup.20
+157 158 13 was
+158 159 15 /
+159 160 16 cm.sup.3. 2.10413415427
+160
+0 161 1 the
+161 162 9 second
+162 163 8 the
+163 164 10 contact
+164 165 11 layer
+165 166 12 73
+166 167 7 into
+167 168 5 mg
+168 169 6 doped
+169 170 4 of
+170 171 2 impurity
+171 172 3 concentration
+172 173 13 was
+173 174 14 1.times.10.sup.20
+174 175 15 /
+175 176 16 cm.sup.3. 3.84710345933
+176
+0 177 1 the
+177 178 8 the
+178 179 9 second
+179 180 10 contact
+180 181 11 layer
+181 182 12 73
+182 183 7 into
+183 184 5 mg
+184 185 4 of
+185 186 2 impurity
+186 187 3 concentration
+187 188 6 doped
+188 189 13 was
+189 190 14 1.times.10.sup.20
+190 191 15 /
+191 192 16 cm.sup.3. 5.38754850028
+192
+0 193 1 the
+193 194 8 the
+194 195 9 second
+195 196 10 contact
+196 197 11 layer
+197 198 12 73
+198 199 7 into
+199 200 2 impurity
+200 201 5 mg
+201 202 6 doped
+202 203 4 of
+203 204 3 concentration
+204 205 14 1.times.10.sup.20
+205 206 13 was
+206 207 15 /
+207 208 16 cm.sup.3. 5.38754850028
+208
+0 209 1 the
+209 210 8 the
+210 211 9 second
+211 212 10 contact
+212 213 11 layer
+213 214 12 73
+214 215 7 into
+215 216 6 doped
+216 217 5 mg
+217 218 2 impurity
+218 219 4 of
+219 220 3 concentration
+220 221 13 was
+221 222 14 1.times.10.sup.20
+222 223 15 /
+223 224 16 cm.sup.3. 4.08826551615
+224
+0 225 1 the
+225 226 8 the
+226 227 9 second
+227 228 10 contact
+228 229 11 layer
+229 230 12 73
+230 231 5 mg
+231 232 6 doped
+232 233 7 into
+233 234 4 of
+234 235 2 impurity
+235 236 3 concentration
+236 237 14 1.times.10.sup.20
+237 238 13 was
+238 239 15 /
+239 240 16 cm.sup.3. 6.48616078895
+240
+0 241 1 the
+241 242 8 the
+242 243 9 second
+243 244 10 contact
+244 245 11 layer
+245 246 12 73
+246 247 6 doped
+247 248 7 into
+248 249 5 mg
+249 250 4 of
+250 251 2 impurity
+251 252 3 concentration
+252 253 13 was
+253 254 14 1.times.10.sup.20
+254 255 15 /
+255 256 16 cm.sup.3. 4.40671924727
+256

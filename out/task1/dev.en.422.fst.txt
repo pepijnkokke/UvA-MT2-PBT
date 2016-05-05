@@ -1,0 +1,17 @@
+0 1 1 however
+1 2 2 ,
+2 3 3 the
+3 4 4 hole
+4 5 5 may
+5 6 6 be
+6 7 7 formed
+7 8 8 in
+8 9 9 another
+9 10 10 shape
+10 11 11 ,
+11 12 12 such
+12 13 13 as
+13 14 14 a
+14 15 15 rectangle
+15 16 16 .
+16

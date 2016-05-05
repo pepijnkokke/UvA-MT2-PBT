@@ -1,0 +1,224 @@
+0 1 8 mig
+1 2 9 welding
+2 3 7 in
+3 4 6 use
+4 5 5 for
+5 6 1 a
+6 7 2 power
+7 8 3 supply
+8 9 4 apparatus
+9 10 11 a
+10 11 12 constant-voltage
+11 12 13 supplying
+12 13 14 characteristic
+13 14 10 has
+14 15 15 . 0.484531383233
+15
+0 16 8 mig
+16 17 9 welding
+17 18 7 in
+18 19 6 use
+19 20 5 for
+20 21 1 a
+21 22 2 power
+22 23 3 supply
+23 24 4 apparatus
+24 25 11 a
+25 26 12 constant-voltage
+26 27 13 supplying
+27 28 10 has
+28 29 14 characteristic
+29 30 15 . 7.24957036001
+30
+0 31 8 mig
+31 32 7 in
+32 33 9 welding
+33 34 6 use
+34 35 5 for
+35 36 1 a
+36 37 2 power
+37 38 3 supply
+38 39 4 apparatus
+39 40 11 a
+40 41 12 constant-voltage
+41 42 13 supplying
+42 43 14 characteristic
+43 44 10 has
+44 45 15 . 6.15095807134
+45
+0 46 8 mig
+46 47 9 welding
+47 48 6 use
+48 49 7 in
+49 50 5 for
+50 51 1 a
+51 52 2 power
+52 53 3 supply
+53 54 4 apparatus
+54 55 11 a
+55 56 12 constant-voltage
+56 57 13 supplying
+57 58 14 characteristic
+58 59 10 has
+59 60 15 . 6.55642317946
+60
+0 61 8 mig
+61 62 9 welding
+62 63 7 in
+63 64 6 use
+64 65 5 for
+65 66 1 a
+66 67 2 power
+67 68 3 supply
+68 69 4 apparatus
+69 70 11 a
+70 71 12 constant-voltage
+71 72 10 has
+72 73 13 supplying
+73 74 14 characteristic
+74 75 15 . 7.94271754057
+75
+0 76 8 mig
+76 77 9 welding
+77 78 7 in
+78 79 1 a
+79 80 6 use
+80 81 5 for
+81 82 2 power
+82 83 3 supply
+83 84 4 apparatus
+84 85 11 a
+85 86 12 constant-voltage
+86 87 13 supplying
+87 88 14 characteristic
+88 89 10 has
+89 90 15 . 5.30366021096
+90
+0 91 9 welding
+91 92 8 mig
+92 93 7 in
+93 94 6 use
+94 95 5 for
+95 96 1 a
+96 97 2 power
+97 98 3 supply
+98 99 4 apparatus
+99 100 11 a
+100 101 12 constant-voltage
+101 102 13 supplying
+102 103 14 characteristic
+103 104 10 has
+104 105 15 . 3.04487774062
+105
+0 106 8 mig
+106 107 9 welding
+107 108 7 in
+108 109 5 for
+109 110 6 use
+110 111 1 a
+111 112 2 power
+112 113 3 supply
+113 114 4 apparatus
+114 115 11 a
+115 116 12 constant-voltage
+116 117 13 supplying
+117 118 14 characteristic
+118 119 10 has
+119 120 15 . 4.35919860212
+120
+0 121 7 in
+121 122 8 mig
+122 123 9 welding
+123 124 6 use
+124 125 5 for
+125 126 1 a
+126 127 2 power
+127 128 3 supply
+128 129 4 apparatus
+129 130 11 a
+130 131 12 constant-voltage
+131 132 13 supplying
+132 133 14 characteristic
+133 134 10 has
+134 135 15 . 2.25574218423
+135
+0 136 8 mig
+136 137 7 in
+137 138 6 use
+138 139 9 welding
+139 140 5 for
+140 141 1 a
+141 142 2 power
+142 143 3 supply
+143 144 4 apparatus
+144 145 11 a
+145 146 12 constant-voltage
+146 147 13 supplying
+147 148 14 characteristic
+148 149 10 has
+149 150 15 . 6.15095807134
+150
+0 151 8 mig
+151 152 9 welding
+152 153 6 use
+153 154 5 for
+154 155 7 in
+155 156 1 a
+156 157 2 power
+157 158 3 supply
+158 159 4 apparatus
+159 160 11 a
+160 161 12 constant-voltage
+161 162 13 supplying
+162 163 14 characteristic
+163 164 10 has
+164 165 15 . 7.94271754057
+165
+0 166 8 mig
+166 167 9 welding
+167 168 7 in
+168 169 6 use
+169 170 5 for
+170 171 1 a
+171 172 2 power
+172 173 3 supply
+173 174 4 apparatus
+174 175 10 has
+175 176 11 a
+176 177 12 constant-voltage
+177 178 13 supplying
+178 179 14 characteristic
+179 180 15 . 1.66419611641
+180
+0 181 7 in
+181 182 8 mig
+182 183 9 welding
+183 184 6 use
+184 185 5 for
+185 186 1 a
+186 187 2 power
+187 188 3 supply
+188 189 4 apparatus
+189 190 11 a
+190 191 12 constant-voltage
+191 192 13 supplying
+192 193 10 has
+193 194 14 characteristic
+194 195 15 . 7.94271754057
+195
+0 196 9 welding
+196 197 7 in
+197 198 8 mig
+198 199 6 use
+199 200 5 for
+200 201 1 a
+201 202 2 power
+202 203 3 supply
+203 204 4 apparatus
+204 205 11 a
+205 206 12 constant-voltage
+206 207 13 supplying
+207 208 14 characteristic
+208 209 10 has
+209 210 15 . 4.07151652967
+210

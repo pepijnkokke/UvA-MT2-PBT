@@ -1,0 +1,198 @@
+0 1 1 symbol
+1 2 2 26b
+2 3 3 represents
+3 4 13 the
+4 5 14 gate
+5 6 15 electrode
+6 7 16 19
+7 8 12 of
+8 9 9 the
+9 10 10 side
+10 11 11 faces
+11 12 8 on
+12 13 7 formed
+13 14 4 side
+14 15 5 wall
+15 16 6 spacers
+16 17 17 . 0.492747892346
+17
+0 18 1 symbol
+18 19 2 26b
+19 20 3 represents
+20 21 13 the
+21 22 14 gate
+22 23 15 electrode
+23 24 16 19
+24 25 9 the
+25 26 12 of
+26 27 10 side
+27 28 11 faces
+28 29 8 on
+29 30 7 formed
+30 31 4 side
+31 32 5 wall
+32 33 6 spacers
+33 34 17 . 6.91274282049
+34
+0 35 1 symbol
+35 36 2 26b
+36 37 3 represents
+37 38 13 the
+38 39 14 gate
+39 40 15 electrode
+40 41 16 19
+41 42 12 of
+42 43 9 the
+43 44 10 side
+44 45 11 faces
+45 46 8 on
+46 47 4 side
+47 48 5 wall
+48 49 6 spacers
+49 50 7 formed
+50 51 17 . 3.0141428354
+51
+0 52 1 symbol
+52 53 2 26b
+53 54 3 represents
+54 55 13 the
+55 56 14 gate
+56 57 15 electrode
+57 58 16 19
+58 59 12 of
+59 60 11 faces
+60 61 9 the
+61 62 10 side
+62 63 8 on
+63 64 7 formed
+64 65 4 side
+65 66 5 wall
+66 67 6 spacers
+67 68 17 . 1.35206118948
+68
+0 69 1 symbol
+69 70 2 26b
+70 71 3 represents
+71 72 13 the
+72 73 14 gate
+73 74 15 electrode
+74 75 16 19
+75 76 12 of
+76 77 9 the
+77 78 10 side
+78 79 8 on
+79 80 7 formed
+80 81 11 faces
+81 82 4 side
+82 83 5 wall
+83 84 6 spacers
+84 85 17 . 3.37662612093
+85
+0 86 1 symbol
+86 87 2 26b
+87 88 3 represents
+88 89 13 the
+89 90 14 gate
+90 91 15 electrode
+91 92 16 19
+92 93 9 the
+93 94 10 side
+94 95 12 of
+95 96 11 faces
+96 97 8 on
+97 98 7 formed
+98 99 4 side
+99 100 5 wall
+100 101 6 spacers
+101 102 17 . 6.06544496011
+102
+0 103 1 symbol
+103 104 2 26b
+104 105 3 represents
+105 106 13 the
+106 107 14 gate
+107 108 15 electrode
+108 109 16 19
+109 110 12 of
+110 111 10 side
+111 112 11 faces
+112 113 9 the
+113 114 8 on
+114 115 7 formed
+115 116 4 side
+116 117 5 wall
+117 118 6 spacers
+118 119 17 . 3.48956653211
+119
+0 120 1 symbol
+120 121 2 26b
+121 122 3 represents
+122 123 13 the
+123 124 14 gate
+124 125 15 electrode
+125 126 16 19
+126 127 12 of
+127 128 9 the
+128 129 10 side
+129 130 8 on
+130 131 11 faces
+131 132 4 side
+132 133 5 wall
+133 134 6 spacers
+134 135 7 formed
+135 136 17 . 8.01135510916
+136
+0 137 1 symbol
+137 138 2 26b
+138 139 3 represents
+139 140 13 the
+140 141 14 gate
+141 142 15 electrode
+142 143 16 19
+143 144 12 of
+144 145 9 the
+145 146 10 side
+146 147 11 faces
+147 148 8 on
+148 149 7 formed
+149 150 6 spacers
+150 151 4 side
+151 152 5 wall
+152 153 17 . 4.54561920636
+153
+0 154 1 symbol
+154 155 2 26b
+155 156 3 represents
+156 157 13 the
+157 158 14 gate
+158 159 15 electrode
+159 160 16 19
+160 161 12 of
+161 162 9 the
+162 163 10 side
+163 164 11 faces
+164 165 8 on
+165 166 7 formed
+166 167 5 wall
+167 168 6 spacers
+168 169 4 side
+169 170 17 . 6.62506074804
+170
+0 171 1 symbol
+171 172 2 26b
+172 173 3 represents
+173 174 13 the
+174 175 14 gate
+175 176 15 electrode
+176 177 16 19
+177 178 12 of
+178 179 4 side
+179 180 9 the
+180 181 10 side
+181 182 11 faces
+182 183 8 on
+183 184 7 formed
+184 185 5 wall
+185 186 6 spacers
+186 187 17 . 6.91274282049
+187

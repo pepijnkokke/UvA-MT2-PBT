@@ -1,0 +1,289 @@
+0 1 4 the
+1 2 5 scanning
+2 3 6 circuit
+3 4 3 of
+4 5 1 the
+5 6 2 operation
+6 7 15 hereinafter
+7 8 9 set
+8 9 10 forth
+9 10 11 above
+10 11 8 as
+11 12 7 connected
+12 13 14 discussed
+13 14 13 be
+14 15 12 will
+15 16 16 . 5.12989871492
+16
+0 17 4 the
+17 18 5 scanning
+18 19 6 circuit
+19 20 3 of
+20 21 1 the
+21 22 2 operation
+22 23 9 set
+23 24 10 forth
+24 25 11 above
+25 26 8 as
+26 27 7 connected
+27 28 15 hereinafter
+28 29 14 discussed
+29 30 13 be
+30 31 12 will
+31 32 16 . 1.08684744709
+32
+0 33 1 the
+33 34 4 the
+34 35 5 scanning
+35 36 6 circuit
+36 37 3 of
+37 38 2 operation
+38 39 15 hereinafter
+39 40 9 set
+40 41 10 forth
+41 42 11 above
+42 43 8 as
+43 44 7 connected
+44 45 14 discussed
+45 46 13 be
+46 47 12 will
+47 48 16 . 4.14906946191
+48
+0 49 4 the
+49 50 5 scanning
+50 51 6 circuit
+51 52 3 of
+52 53 1 the
+53 54 2 operation
+54 55 15 hereinafter
+55 56 10 forth
+56 57 11 above
+57 58 9 set
+58 59 8 as
+59 60 7 connected
+60 61 14 discussed
+61 62 13 be
+62 63 12 will
+63 64 16 . 4.61907309116
+64
+0 65 4 the
+65 66 5 scanning
+66 67 6 circuit
+67 68 3 of
+68 69 2 operation
+69 70 1 the
+70 71 15 hereinafter
+71 72 9 set
+72 73 10 forth
+73 74 11 above
+74 75 8 as
+75 76 7 connected
+76 77 14 discussed
+77 78 13 be
+78 79 12 will
+79 80 16 . 5.53536382303
+80
+0 81 4 the
+81 82 5 scanning
+82 83 6 circuit
+83 84 3 of
+84 85 1 the
+85 86 2 operation
+86 87 15 hereinafter
+87 88 9 set
+88 89 10 forth
+89 90 11 above
+90 91 14 discussed
+91 92 13 be
+92 93 12 will
+93 94 8 as
+94 95 7 connected
+95 96 16 . 1.82179175633
+96
+0 97 4 the
+97 98 5 scanning
+98 99 6 circuit
+99 100 3 of
+100 101 1 the
+101 102 2 operation
+102 103 9 set
+103 104 15 hereinafter
+104 105 10 forth
+105 106 11 above
+106 107 14 discussed
+107 108 13 be
+108 109 12 will
+109 110 8 as
+110 111 7 connected
+111 112 16 . 6.22851100359
+112
+0 113 4 the
+113 114 5 scanning
+114 115 6 circuit
+115 116 3 of
+116 117 1 the
+117 118 2 operation
+118 119 9 set
+119 120 10 forth
+120 121 11 above
+121 122 8 as
+122 123 15 hereinafter
+123 124 14 discussed
+124 125 13 be
+125 126 12 will
+126 127 7 connected
+127 128 16 . 6.22851100359
+128
+0 129 4 the
+129 130 5 scanning
+130 131 6 circuit
+131 132 3 of
+132 133 1 the
+133 134 2 operation
+134 135 9 set
+135 136 10 forth
+136 137 8 as
+137 138 7 connected
+138 139 15 hereinafter
+139 140 11 above
+140 141 14 discussed
+141 142 13 be
+142 143 12 will
+143 144 16 . 5.12989871492
+144
+0 145 1 the
+145 146 4 the
+146 147 5 scanning
+147 148 6 circuit
+148 149 3 of
+149 150 2 operation
+150 151 15 hereinafter
+151 152 9 set
+152 153 10 forth
+153 154 11 above
+154 155 8 as
+155 156 14 discussed
+156 157 13 be
+157 158 12 will
+158 159 7 connected
+159 160 16 . 6.22851100359
+160
+0 161 4 the
+161 162 5 scanning
+162 163 6 circuit
+163 164 3 of
+164 165 1 the
+165 166 2 operation
+166 167 15 hereinafter
+167 168 10 forth
+168 169 9 set
+169 170 8 as
+170 171 7 connected
+171 172 11 above
+172 173 14 discussed
+173 174 13 be
+174 175 12 will
+175 176 16 . 4.14906946191
+176
+0 177 1 the
+177 178 4 the
+178 179 5 scanning
+179 180 6 circuit
+180 181 3 of
+181 182 2 operation
+182 183 9 set
+183 184 10 forth
+184 185 11 above
+185 186 8 as
+186 187 7 connected
+187 188 15 hereinafter
+188 189 14 discussed
+189 190 13 be
+190 191 12 will
+191 192 16 . 1.69591151044
+192
+0 193 4 the
+193 194 5 scanning
+194 195 6 circuit
+195 196 3 of
+196 197 1 the
+197 198 2 operation
+198 199 9 set
+199 200 10 forth
+200 201 15 hereinafter
+201 202 11 above
+202 203 14 discussed
+203 204 13 be
+204 205 12 will
+205 206 8 as
+206 207 7 connected
+207 208 16 . 5.53536382303
+208
+0 209 4 the
+209 210 5 scanning
+210 211 6 circuit
+211 212 3 of
+212 213 1 the
+213 214 2 operation
+214 215 15 hereinafter
+215 216 9 set
+216 217 10 forth
+217 218 11 above
+218 219 8 as
+219 220 7 connected
+220 221 12 will
+221 222 14 discussed
+222 223 13 be
+223 224 16 . 4.43675153437
+224
+0 225 4 the
+225 226 5 scanning
+226 227 6 circuit
+227 228 3 of
+228 229 1 the
+229 230 2 operation
+230 231 15 hereinafter
+231 232 10 forth
+232 233 9 set
+233 234 8 as
+234 235 11 above
+235 236 14 discussed
+236 237 13 be
+237 238 12 will
+238 239 7 connected
+239 240 16 . 6.22851100359
+240
+0 241 4 the
+241 242 5 scanning
+242 243 6 circuit
+243 244 3 of
+244 245 1 the
+245 246 2 operation
+246 247 15 hereinafter
+247 248 10 forth
+248 249 11 above
+249 250 9 set
+250 251 8 as
+251 252 14 discussed
+252 253 13 be
+253 254 12 will
+254 255 7 connected
+255 256 16 . 6.22851100359
+256
+0 257 4 the
+257 258 5 scanning
+258 259 6 circuit
+259 260 3 of
+260 261 1 the
+261 262 2 operation
+262 263 10 forth
+263 264 11 above
+264 265 9 set
+265 266 8 as
+266 267 7 connected
+267 268 15 hereinafter
+268 269 14 discussed
+269 270 13 be
+270 271 12 will
+271 272 16 . 1.44938751048
+272

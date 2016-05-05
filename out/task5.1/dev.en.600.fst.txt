@@ -1,0 +1,144 @@
+0 1 2 insertion
+1 2 1 after
+2 3 11 the
+3 4 12 gel
+4 5 13 seal
+5 6 14 45
+6 7 10 through
+7 8 3 has
+8 9 6 the
+9 10 7 electric
+10 11 8 wires
+11 12 9 pass
+12 13 5 completed
+13 14 4 been
+14 15 15 . 2.90184964574
+15
+0 16 2 insertion
+16 17 1 after
+17 18 3 has
+18 19 11 the
+19 20 12 gel
+20 21 13 seal
+21 22 14 45
+22 23 10 through
+23 24 6 the
+24 25 7 electric
+25 26 8 wires
+26 27 9 pass
+27 28 5 completed
+28 29 4 been
+29 30 15 . 0.912375439455
+30
+0 31 2 insertion
+31 32 1 after
+32 33 11 the
+33 34 12 gel
+34 35 13 seal
+35 36 14 45
+36 37 10 through
+37 38 3 has
+38 39 6 the
+39 40 7 electric
+40 41 8 wires
+41 42 5 completed
+42 43 9 pass
+43 44 4 been
+44 45 15 . 6.14704277892
+45
+0 46 2 insertion
+46 47 1 after
+47 48 3 has
+48 49 11 the
+49 50 12 gel
+50 51 13 seal
+51 52 14 45
+52 53 10 through
+53 54 6 the
+54 55 7 electric
+55 56 8 wires
+56 57 5 completed
+57 58 9 pass
+58 59 4 been
+59 60 15 . 4.68070571013
+60
+0 61 2 insertion
+61 62 1 after
+62 63 11 the
+63 64 12 gel
+64 65 13 seal
+65 66 14 45
+66 67 10 through
+67 68 3 has
+68 69 6 the
+69 70 7 electric
+70 71 8 wires
+71 72 5 completed
+72 73 4 been
+73 74 9 pass
+74 75 15 . 4.68070571013
+75
+0 76 2 insertion
+76 77 1 after
+77 78 3 has
+78 79 11 the
+79 80 12 gel
+80 81 13 seal
+81 82 14 45
+82 83 10 through
+83 84 6 the
+84 85 7 electric
+85 86 8 wires
+86 87 5 completed
+87 88 4 been
+88 89 9 pass
+89 90 15 . 3.66213612914
+90
+0 91 2 insertion
+91 92 1 after
+92 93 11 the
+93 94 12 gel
+94 95 13 seal
+95 96 14 45
+96 97 10 through
+97 98 6 the
+98 99 7 electric
+99 100 8 wires
+100 101 9 pass
+101 102 3 has
+102 103 5 completed
+103 104 4 been
+104 105 15 . 0.777956341491
+105
+0 106 2 insertion
+106 107 1 after
+107 108 11 the
+108 109 12 gel
+109 110 13 seal
+110 111 14 45
+111 112 10 through
+112 113 3 has
+113 114 6 the
+114 115 7 electric
+115 116 8 wires
+116 117 9 pass
+117 118 4 been
+118 119 5 completed
+119 120 15 . 4.06760123724
+120
+0 121 2 insertion
+121 122 1 after
+122 123 11 the
+123 124 12 gel
+124 125 13 seal
+125 126 14 45
+126 127 10 through
+127 128 6 the
+128 129 7 electric
+129 130 8 wires
+130 131 3 has
+131 132 5 completed
+132 133 4 been
+133 134 9 pass
+134 135 15 . 3.87835923761
+135

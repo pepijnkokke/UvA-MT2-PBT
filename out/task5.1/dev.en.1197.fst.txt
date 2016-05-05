@@ -1,0 +1,322 @@
+0 1 1 this
+1 2 2 problem
+2 3 3 will
+3 4 11 accompanying
+4 5 10 the
+5 6 12 figures
+6 7 9 to
+7 8 8 reference
+8 9 7 with
+9 10 5 further
+10 11 6 explained
+11 12 4 be
+12 13 13 . 1.43663611598
+13
+0 14 1 this
+14 15 2 problem
+15 16 3 will
+16 17 11 accompanying
+17 18 10 the
+18 19 12 figures
+19 20 9 to
+20 21 8 reference
+21 22 5 further
+22 23 7 with
+23 24 6 explained
+24 25 4 be
+25 26 13 . 1.89798168248
+26
+0 27 1 this
+27 28 2 problem
+28 29 3 will
+29 30 11 accompanying
+30 31 10 the
+31 32 12 figures
+32 33 9 to
+33 34 8 reference
+34 35 7 with
+35 36 6 explained
+36 37 5 further
+37 38 4 be
+38 39 13 . 3.03168529096
+39
+0 40 1 this
+40 41 2 problem
+41 42 3 will
+42 43 11 accompanying
+43 44 10 the
+44 45 12 figures
+45 46 9 to
+46 47 8 reference
+47 48 7 with
+48 49 6 explained
+49 50 4 be
+50 51 5 further
+51 52 13 . 1.61461927117
+52
+0 53 1 this
+53 54 2 problem
+54 55 3 will
+55 56 11 accompanying
+56 57 10 the
+57 58 12 figures
+58 59 9 to
+59 60 5 further
+60 61 8 reference
+61 62 7 with
+62 63 6 explained
+63 64 4 be
+64 65 13 . 4.97759544002
+65
+0 66 1 this
+66 67 2 problem
+67 68 3 will
+68 69 11 accompanying
+69 70 10 the
+70 71 12 figures
+71 72 9 to
+72 73 8 reference
+73 74 7 with
+74 75 4 be
+75 76 5 further
+76 77 6 explained
+77 78 13 . 2.72630364141
+78
+0 79 1 this
+79 80 2 problem
+80 81 3 will
+81 82 11 accompanying
+82 83 10 the
+83 84 12 figures
+84 85 5 further
+85 86 9 to
+86 87 8 reference
+87 88 7 with
+88 89 6 explained
+89 90 4 be
+90 91 13 . 7.0570369817
+91
+0 92 1 this
+92 93 2 problem
+93 94 3 will
+94 95 10 the
+95 96 11 accompanying
+96 97 12 figures
+97 98 9 to
+98 99 8 reference
+99 100 7 with
+100 101 5 further
+101 102 6 explained
+102 103 4 be
+103 104 13 . 3.65583960003
+104
+0 105 1 this
+105 106 2 problem
+106 107 3 will
+107 108 11 accompanying
+108 109 10 the
+109 110 12 figures
+110 111 9 to
+111 112 8 reference
+112 113 5 further
+113 114 6 explained
+114 115 7 with
+115 116 4 be
+116 117 13 . 3.50168892021
+117
+0 118 1 this
+118 119 2 problem
+119 120 3 will
+120 121 10 the
+121 122 11 accompanying
+122 123 12 figures
+123 124 9 to
+124 125 8 reference
+125 126 5 further
+126 127 7 with
+127 128 6 explained
+128 129 4 be
+129 130 13 . 4.1666652238
+130
+0 131 1 this
+131 132 2 problem
+132 133 3 will
+133 134 11 accompanying
+134 135 10 the
+135 136 12 figures
+136 137 8 reference
+137 138 9 to
+138 139 7 with
+139 140 5 further
+140 141 6 explained
+141 142 4 be
+142 143 13 . 6.36388980114
+143
+0 144 1 this
+144 145 2 problem
+145 146 3 will
+146 147 11 accompanying
+147 148 10 the
+148 149 9 to
+149 150 8 reference
+150 151 12 figures
+151 152 7 with
+152 153 5 further
+153 154 6 explained
+154 155 4 be
+155 156 13 . 4.7544518887
+156
+0 157 1 this
+157 158 2 problem
+158 159 3 will
+159 160 11 accompanying
+160 161 10 the
+161 162 12 figures
+162 163 9 to
+163 164 8 reference
+164 165 4 be
+165 166 7 with
+166 167 5 further
+167 168 6 explained
+168 169 13 . 4.6591417089
+169
+0 170 1 this
+170 171 2 problem
+171 172 3 will
+172 173 11 accompanying
+173 174 10 the
+174 175 12 figures
+175 176 7 with
+176 177 9 to
+177 178 8 reference
+178 179 6 explained
+179 180 5 further
+180 181 4 be
+181 182 13 . 7.0570369817
+182
+0 183 1 this
+183 184 2 problem
+184 185 3 will
+185 186 11 accompanying
+186 187 10 the
+187 188 9 to
+188 189 8 reference
+189 190 7 with
+190 191 12 figures
+191 192 5 further
+192 193 6 explained
+193 194 4 be
+194 195 13 . 5.95842469303
+195
+0 196 1 this
+196 197 2 problem
+197 198 3 will
+198 199 10 the
+199 200 11 accompanying
+200 201 12 figures
+201 202 9 to
+202 203 8 reference
+203 204 7 with
+204 205 6 explained
+205 206 5 further
+206 207 4 be
+207 208 13 . 4.6591417089
+208
+0 209 1 this
+209 210 2 problem
+210 211 3 will
+211 212 11 accompanying
+212 213 10 the
+213 214 12 figures
+214 215 9 to
+215 216 8 reference
+216 217 4 be
+217 218 5 further
+218 219 7 with
+219 220 6 explained
+220 221 13 . 2.91390225531
+221
+0 222 1 this
+222 223 2 problem
+223 224 3 will
+224 225 11 accompanying
+225 226 10 the
+226 227 12 figures
+227 228 9 to
+228 229 4 be
+229 230 8 reference
+230 231 7 with
+231 232 5 further
+232 233 6 explained
+233 234 13 . 5.44759906926
+234
+0 235 1 this
+235 236 2 problem
+236 237 3 will
+237 238 11 accompanying
+238 239 10 the
+239 240 12 figures
+240 241 9 to
+241 242 8 reference
+242 243 6 explained
+243 244 7 with
+244 245 4 be
+245 246 5 further
+246 247 13 . 5.95842469303
+247
+0 248 1 this
+248 249 2 problem
+249 250 3 will
+250 251 10 the
+251 252 11 accompanying
+252 253 12 figures
+253 254 9 to
+254 255 8 reference
+255 256 7 with
+256 257 6 explained
+257 258 4 be
+258 259 5 further
+259 260 13 . 3.68974115171
+260
+0 261 1 this
+261 262 2 problem
+262 263 3 will
+263 264 11 accompanying
+264 265 12 figures
+265 266 10 the
+266 267 9 to
+267 268 8 reference
+268 269 7 with
+269 270 4 be
+270 271 5 further
+271 272 6 explained
+272 273 13 . 7.0570369817
+273
+0 274 1 this
+274 275 2 problem
+275 276 3 will
+276 277 11 accompanying
+277 278 10 the
+278 279 9 to
+279 280 8 reference
+280 281 7 with
+281 282 5 further
+282 283 6 explained
+283 284 4 be
+284 285 12 figures
+285 286 13 . 2.30344679059
+286
+0 287 1 this
+287 288 2 problem
+288 289 3 will
+289 290 11 accompanying
+290 291 10 the
+291 292 9 to
+292 293 8 reference
+293 294 12 figures
+294 295 7 with
+295 296 6 explained
+296 297 5 further
+297 298 4 be
+298 299 13 . 7.0570369817
+299

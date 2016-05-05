@@ -1,0 +1,198 @@
+0 1 2 the
+1 2 3 test
+2 3 4 operation
+3 4 1 in
+4 5 5 ,
+5 6 14 high-level
+6 7 15 selected
+7 8 16 states
+8 9 9 the
+9 10 10 switching
+10 11 11 circuit
+11 12 12 303
+12 13 8 of
+13 14 7 outputs
+14 15 6 all
+15 16 13 enter
+16 17 17 . 2.80603665631
+17
+0 18 2 the
+18 19 3 test
+19 20 4 operation
+20 21 1 in
+21 22 5 ,
+22 23 14 high-level
+23 24 15 selected
+24 25 16 states
+25 26 9 the
+26 27 10 switching
+27 28 11 circuit
+28 29 12 303
+29 30 8 of
+30 31 6 all
+31 32 7 outputs
+32 33 13 enter
+33 34 17 . 5.3115625933
+34
+0 35 2 the
+35 36 3 test
+36 37 4 operation
+37 38 1 in
+38 39 5 ,
+39 40 6 all
+40 41 14 high-level
+41 42 15 selected
+42 43 16 states
+43 44 9 the
+44 45 10 switching
+45 46 11 circuit
+46 47 12 303
+47 48 8 of
+48 49 13 enter
+49 50 7 outputs
+50 51 17 . 6.69785695442
+51
+0 52 2 the
+52 53 3 test
+53 54 4 operation
+54 55 1 in
+55 56 5 ,
+56 57 6 all
+57 58 14 high-level
+58 59 15 selected
+59 60 16 states
+60 61 9 the
+61 62 10 switching
+62 63 11 circuit
+63 64 12 303
+64 65 8 of
+65 66 7 outputs
+66 67 13 enter
+67 68 17 . 3.54797400104
+68
+0 69 2 the
+69 70 3 test
+70 71 4 operation
+71 72 1 in
+72 73 5 ,
+73 74 6 all
+74 75 14 high-level
+75 76 15 selected
+76 77 16 states
+77 78 9 the
+78 79 10 switching
+79 80 11 circuit
+80 81 12 303
+81 82 13 enter
+82 83 8 of
+83 84 7 outputs
+84 85 17 . 4.2411211816
+85
+0 86 2 the
+86 87 3 test
+87 88 4 operation
+88 89 1 in
+89 90 5 ,
+90 91 14 high-level
+91 92 15 selected
+92 93 16 states
+93 94 9 the
+94 95 10 switching
+95 96 11 circuit
+96 97 12 303
+97 98 8 of
+98 99 7 outputs
+99 100 13 enter
+100 101 6 all
+101 102 17 . 5.39857397029
+102
+0 103 2 the
+103 104 3 test
+104 105 4 operation
+105 106 1 in
+106 107 5 ,
+107 108 14 high-level
+108 109 15 selected
+109 110 16 states
+110 111 9 the
+111 112 10 switching
+112 113 11 circuit
+113 114 12 303
+114 115 13 enter
+115 116 8 of
+116 117 7 outputs
+117 118 6 all
+118 119 17 . 4.85203026392
+119
+0 120 2 the
+120 121 3 test
+121 122 4 operation
+122 123 1 in
+123 124 5 ,
+124 125 14 high-level
+125 126 15 selected
+126 127 16 states
+127 128 9 the
+128 129 10 switching
+129 130 11 circuit
+130 131 12 303
+131 132 6 all
+132 133 8 of
+133 134 7 outputs
+134 135 13 enter
+135 136 17 . 7.79646924309
+136
+0 137 2 the
+137 138 3 test
+138 139 4 operation
+139 140 1 in
+140 141 5 ,
+141 142 14 high-level
+142 143 15 selected
+143 144 16 states
+144 145 9 the
+145 146 10 switching
+146 147 11 circuit
+147 148 12 303
+148 149 13 enter
+149 150 8 of
+150 151 6 all
+151 152 7 outputs
+152 153 17 . 6.41017488196
+153
+0 154 2 the
+154 155 3 test
+155 156 4 operation
+156 157 1 in
+157 158 5 ,
+158 159 6 all
+159 160 14 high-level
+160 161 15 selected
+161 162 16 states
+162 163 13 enter
+163 164 9 the
+164 165 10 switching
+165 166 11 circuit
+166 167 12 303
+167 168 8 of
+168 169 7 outputs
+169 170 17 . 1.07624908795
+170
+0 171 2 the
+171 172 3 test
+172 173 4 operation
+173 174 1 in
+174 175 5 ,
+175 176 14 high-level
+176 177 15 selected
+177 178 16 states
+178 179 13 enter
+179 180 9 the
+180 181 10 switching
+181 182 11 circuit
+182 183 12 303
+183 184 8 of
+184 185 7 outputs
+185 186 6 all
+186 187 17 . 0.625580764573
+187

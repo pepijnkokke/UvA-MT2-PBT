@@ -1,0 +1,15 @@
+0 1 1 this
+1 2 2 enables
+2 3 3 prevention
+3 4 4 of
+4 5 5 a
+5 6 6 through
+6 7 7 current
+7 8 8 during
+8 9 9 change
+9 10 10 of
+10 11 11 the
+11 12 12 input
+12 13 13 signal
+13 14 14 .
+14

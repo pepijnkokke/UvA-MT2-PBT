@@ -1,0 +1,126 @@
+0 1 1 a
+1 2 2 dot
+2 3 3 display
+3 4 4 unit
+4 5 5 21
+5 6 6 is
+6 7 18 a
+7 8 19 die
+8 9 17 of
+9 10 14 a
+10 11 15 rolled
+11 12 16 number
+12 13 13 displaying
+13 14 12 for
+14 15 9 the
+15 16 10 display
+16 17 11 20
+17 18 8 above
+18 19 7 provided
+19 20 20 . 0.0498054395348
+20
+0 21 1 a
+21 22 2 dot
+22 23 3 display
+23 24 4 unit
+24 25 5 21
+25 26 6 is
+26 27 18 a
+27 28 19 die
+28 29 14 a
+29 30 17 of
+30 31 15 rolled
+31 32 16 number
+32 33 13 displaying
+33 34 12 for
+34 35 9 the
+35 36 10 display
+36 37 11 20
+37 38 8 above
+38 39 7 provided
+39 40 20 . 6.70073110955
+40
+0 41 1 a
+41 42 2 dot
+42 43 3 display
+43 44 4 unit
+44 45 5 21
+45 46 6 is
+46 47 18 a
+47 48 19 die
+48 49 17 of
+49 50 14 a
+50 51 15 rolled
+51 52 16 number
+52 53 13 displaying
+53 54 12 for
+54 55 9 the
+55 56 10 display
+56 57 11 20
+57 58 7 provided
+58 59 8 above
+59 60 20 . 6.70073110955
+60
+0 61 1 a
+61 62 2 dot
+62 63 3 display
+63 64 4 unit
+64 65 5 21
+65 66 6 is
+66 67 18 a
+67 68 19 die
+68 69 17 of
+69 70 14 a
+70 71 15 rolled
+71 72 16 number
+72 73 9 the
+73 74 13 displaying
+74 75 12 for
+75 76 10 display
+76 77 11 20
+77 78 8 above
+78 79 7 provided
+79 80 20 . 6.29526600144
+80
+0 81 1 a
+81 82 2 dot
+82 83 3 display
+83 84 4 unit
+84 85 5 21
+85 86 6 is
+86 87 18 a
+87 88 19 die
+88 89 17 of
+89 90 13 displaying
+90 91 14 a
+91 92 15 rolled
+92 93 16 number
+93 94 12 for
+94 95 9 the
+95 96 10 display
+96 97 11 20
+97 98 8 above
+98 99 7 provided
+99 100 20 . 3.28300442593
+100
+0 101 1 a
+101 102 2 dot
+102 103 3 display
+103 104 4 unit
+104 105 5 21
+105 106 6 is
+106 107 18 a
+107 108 19 die
+108 109 17 of
+109 110 14 a
+110 111 15 rolled
+111 112 16 number
+112 113 12 for
+113 114 13 displaying
+114 115 9 the
+115 116 10 display
+116 117 11 20
+117 118 8 above
+118 119 7 provided
+119 120 20 . 4.99598301731
+120

@@ -1,0 +1,160 @@
+0 1 1 the
+1 2 2 delay
+2 3 3 circuit
+3 4 4 170a
+4 5 5 delays
+5 6 12 a
+6 7 13 prescribed
+7 8 14 time
+8 9 11 by
+9 10 6 this
+10 11 7 preamplifier
+11 12 8 enable
+12 13 9 signal
+13 14 10 pae
+14 15 15 . 0.407191851468
+15
+0 16 1 the
+16 17 2 delay
+17 18 3 circuit
+18 19 4 170a
+19 20 12 a
+20 21 13 prescribed
+21 22 14 time
+22 23 11 by
+23 24 5 delays
+24 25 6 this
+25 26 7 preamplifier
+26 27 8 enable
+27 28 9 signal
+28 29 10 pae
+29 30 15 . 3.08053071868
+30
+0 31 2 delay
+31 32 3 circuit
+32 33 1 the
+33 34 4 170a
+34 35 5 delays
+35 36 12 a
+36 37 13 prescribed
+37 38 14 time
+38 39 11 by
+39 40 6 this
+40 41 7 preamplifier
+41 42 8 enable
+42 43 9 signal
+43 44 10 pae
+44 45 15 . 5.73377268329
+45
+0 46 1 the
+46 47 2 delay
+47 48 3 circuit
+48 49 4 170a
+49 50 5 delays
+50 51 6 this
+51 52 12 a
+52 53 13 prescribed
+53 54 14 time
+54 55 11 by
+55 56 7 preamplifier
+56 57 8 enable
+57 58 9 signal
+58 59 10 pae
+59 60 15 . 1.81775765659
+60
+0 61 1 the
+61 62 2 delay
+62 63 3 circuit
+63 64 4 170a
+64 65 5 delays
+65 66 12 a
+66 67 13 prescribed
+67 68 14 time
+68 69 11 by
+69 70 6 this
+70 71 8 enable
+71 72 9 signal
+72 73 7 preamplifier
+73 74 10 pae
+74 75 15 . 6.49591273534
+75
+0 76 2 delay
+76 77 3 circuit
+77 78 4 170a
+78 79 1 the
+79 80 5 delays
+80 81 12 a
+81 82 13 prescribed
+82 83 14 time
+83 84 11 by
+84 85 6 this
+85 86 7 preamplifier
+86 87 8 enable
+87 88 9 signal
+88 89 10 pae
+89 90 15 . 2.25767399346
+90
+0 91 4 170a
+91 92 1 the
+92 93 2 delay
+93 94 3 circuit
+94 95 5 delays
+95 96 12 a
+96 97 13 prescribed
+97 98 14 time
+98 99 11 by
+99 100 6 this
+100 101 7 preamplifier
+101 102 8 enable
+102 103 9 signal
+103 104 10 pae
+104 105 15 . 5.44609061084
+105
+0 106 1 the
+106 107 2 delay
+107 108 3 circuit
+108 109 4 170a
+109 110 5 delays
+110 111 12 a
+111 112 13 prescribed
+112 113 14 time
+113 114 11 by
+114 115 6 this
+115 116 8 enable
+116 117 9 signal
+117 118 10 pae
+118 119 7 preamplifier
+119 120 15 . 4.57062187348
+120
+0 121 2 delay
+121 122 3 circuit
+122 123 1 the
+123 124 4 170a
+124 125 12 a
+125 126 13 prescribed
+126 127 14 time
+127 128 11 by
+128 129 5 delays
+129 130 6 this
+130 131 7 preamplifier
+131 132 8 enable
+132 133 9 signal
+133 134 10 pae
+134 135 15 . 7.34321059572
+135
+0 136 1 the
+136 137 2 delay
+137 138 3 circuit
+138 139 4 170a
+139 140 5 delays
+140 141 11 by
+141 142 12 a
+142 143 13 prescribed
+143 144 14 time
+144 145 6 this
+145 146 7 preamplifier
+146 147 8 enable
+147 148 9 signal
+148 149 10 pae
+149 150 15 . 6.49591273534
+150

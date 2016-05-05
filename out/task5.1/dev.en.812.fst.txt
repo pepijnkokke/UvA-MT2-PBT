@@ -1,0 +1,238 @@
+0 1 1 the
+1 2 2 polyimide
+2 3 3 resin
+3 4 4 is
+4 5 14 thermal
+5 6 15 expansion
+6 7 13 of
+7 8 10 a
+8 9 11 small
+9 10 12 coefficient
+10 11 9 having
+11 12 7 photosensitive
+12 13 8 polyimide
+13 14 6 by
+14 15 5 implemented
+15 16 16 . 0.556160720419
+16
+0 17 1 the
+17 18 2 polyimide
+18 19 3 resin
+19 20 4 is
+20 21 14 thermal
+21 22 15 expansion
+22 23 13 of
+23 24 10 a
+24 25 11 small
+25 26 9 having
+26 27 12 coefficient
+27 28 7 photosensitive
+28 29 8 polyimide
+29 30 6 by
+30 31 5 implemented
+31 32 16 . 7.6356258956
+32
+0 33 1 the
+33 34 2 polyimide
+34 35 3 resin
+35 36 4 is
+36 37 14 thermal
+37 38 15 expansion
+38 39 13 of
+39 40 10 a
+40 41 11 small
+41 42 12 coefficient
+42 43 7 photosensitive
+43 44 8 polyimide
+44 45 9 having
+45 46 6 by
+46 47 5 implemented
+47 48 16 . 1.51679475257
+48
+0 49 1 the
+49 50 2 polyimide
+50 51 3 resin
+51 52 4 is
+52 53 14 thermal
+53 54 15 expansion
+54 55 10 a
+55 56 13 of
+56 57 11 small
+57 58 12 coefficient
+58 59 9 having
+59 60 7 photosensitive
+60 61 8 polyimide
+61 62 6 by
+62 63 5 implemented
+63 64 16 . 8.04109100371
+64
+0 65 1 the
+65 66 2 polyimide
+66 67 3 resin
+67 68 4 is
+68 69 14 thermal
+69 70 15 expansion
+70 71 13 of
+71 72 10 a
+72 73 11 small
+73 74 12 coefficient
+74 75 9 having
+75 76 7 photosensitive
+76 77 8 polyimide
+77 78 5 implemented
+78 79 6 by
+79 80 16 . 6.53701360694
+80
+0 81 1 the
+81 82 2 polyimide
+82 83 3 resin
+83 84 14 thermal
+84 85 15 expansion
+85 86 4 is
+86 87 13 of
+87 88 10 a
+88 89 11 small
+89 90 12 coefficient
+90 91 9 having
+91 92 7 photosensitive
+92 93 8 polyimide
+93 94 6 by
+94 95 5 implemented
+95 96 16 . 8.04109100371
+96
+0 97 2 polyimide
+97 98 3 resin
+98 99 1 the
+99 100 4 is
+100 101 14 thermal
+101 102 15 expansion
+102 103 13 of
+103 104 10 a
+104 105 11 small
+105 106 12 coefficient
+106 107 9 having
+107 108 7 photosensitive
+108 109 8 polyimide
+109 110 6 by
+110 111 5 implemented
+111 112 16 . 2.83983535
+112
+0 113 1 the
+113 114 2 polyimide
+114 115 3 resin
+115 116 4 is
+116 117 14 thermal
+117 118 15 expansion
+118 119 13 of
+119 120 10 a
+120 121 11 small
+121 122 12 coefficient
+122 123 9 having
+123 124 6 by
+124 125 7 photosensitive
+125 126 8 polyimide
+126 127 5 implemented
+127 128 16 . 4.00685036555
+128
+0 129 3 resin
+129 130 1 the
+130 131 2 polyimide
+131 132 4 is
+132 133 14 thermal
+133 134 15 expansion
+134 135 13 of
+135 136 10 a
+136 137 11 small
+137 138 12 coefficient
+138 139 9 having
+139 140 7 photosensitive
+140 141 8 polyimide
+141 142 6 by
+142 143 5 implemented
+143 144 16 . 7.34794382315
+144
+0 145 1 the
+145 146 2 polyimide
+146 147 3 resin
+147 148 4 is
+148 149 14 thermal
+149 150 15 expansion
+150 151 13 of
+151 152 9 having
+152 153 10 a
+153 154 11 small
+154 155 12 coefficient
+155 156 7 photosensitive
+156 157 8 polyimide
+157 158 6 by
+158 159 5 implemented
+159 160 16 . 2.18173029724
+160
+0 161 1 the
+161 162 4 is
+162 163 2 polyimide
+163 164 3 resin
+164 165 14 thermal
+165 166 15 expansion
+166 167 13 of
+167 168 10 a
+168 169 11 small
+169 170 12 coefficient
+170 171 9 having
+171 172 7 photosensitive
+172 173 8 polyimide
+173 174 6 by
+174 175 5 implemented
+175 176 16 . 8.73423818427
+176
+0 177 1 the
+177 178 2 polyimide
+178 179 3 resin
+179 180 4 is
+180 181 13 of
+181 182 14 thermal
+182 183 15 expansion
+183 184 10 a
+184 185 11 small
+185 186 12 coefficient
+186 187 9 having
+187 188 7 photosensitive
+188 189 8 polyimide
+189 190 6 by
+190 191 5 implemented
+191 192 16 . 5.20787765965
+192
+0 193 1 the
+193 194 2 polyimide
+194 195 3 resin
+195 196 14 thermal
+196 197 15 expansion
+197 198 13 of
+198 199 4 is
+199 200 10 a
+200 201 11 small
+201 202 12 coefficient
+202 203 9 having
+203 204 7 photosensitive
+204 205 8 polyimide
+205 206 6 by
+206 207 5 implemented
+207 208 16 . 4.97303806858
+208
+0 209 1 the
+209 210 2 polyimide
+210 211 3 resin
+211 212 4 is
+212 213 14 thermal
+213 214 15 expansion
+214 215 13 of
+215 216 11 small
+216 217 12 coefficient
+217 218 10 a
+218 219 9 having
+219 220 7 photosensitive
+220 221 8 polyimide
+221 222 6 by
+222 223 5 implemented
+223 224 16 . 6.24933153448
+224

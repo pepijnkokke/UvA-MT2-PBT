@@ -1,0 +1,80 @@
+0 1 1 this
+1 2 2 permits
+2 3 6 visually
+3 4 7 perceive
+4 5 5 to
+5 6 3 the
+6 7 4 user
+7 8 11 the
+8 9 12 characters
+9 10 10 between
+10 11 8 the
+11 12 9 distance
+12 13 13 a
+13 14 14 and
+14 15 15 b. 0.518530670141
+15
+0 16 1 this
+16 17 2 permits
+17 18 6 visually
+18 19 7 perceive
+19 20 3 the
+20 21 4 user
+21 22 5 to
+22 23 11 the
+23 24 12 characters
+24 25 10 between
+25 26 8 the
+26 27 9 distance
+27 28 13 a
+28 29 14 and
+29 30 15 b. 2.2512917986
+30
+0 31 1 this
+31 32 2 permits
+32 33 6 visually
+33 34 7 perceive
+34 35 5 to
+35 36 4 user
+36 37 3 the
+37 38 11 the
+38 39 12 characters
+39 40 10 between
+40 41 8 the
+41 42 9 distance
+42 43 13 a
+43 44 14 and
+44 45 15 b. 2.2512917986
+45
+0 46 1 this
+46 47 6 visually
+47 48 7 perceive
+48 49 2 permits
+49 50 5 to
+50 51 3 the
+51 52 4 user
+52 53 11 the
+53 54 12 characters
+54 55 10 between
+55 56 8 the
+56 57 9 distance
+57 58 13 a
+58 59 14 and
+59 60 15 b. 4.33073334029
+60
+0 61 1 this
+61 62 2 permits
+62 63 6 visually
+63 64 5 to
+64 65 3 the
+65 66 4 user
+66 67 11 the
+67 68 12 characters
+68 69 10 between
+69 70 7 perceive
+70 71 8 the
+71 72 9 distance
+72 73 13 a
+73 74 14 and
+74 75 15 b. 1.70969451617
+75

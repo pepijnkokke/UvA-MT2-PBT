@@ -1,0 +1,300 @@
+0 1 6 the
+1 2 7 feeding
+2 3 8 conductor
+3 4 9 3
+4 5 5 through
+5 6 4 flowing
+6 7 1 dc
+7 8 2 current
+8 9 3 i
+9 10 11 magnetic
+10 11 12 field
+11 12 13 b1
+12 13 10 produces
+13 14 14 . 0.399438692551
+14
+0 15 6 the
+15 16 7 feeding
+16 17 8 conductor
+17 18 9 3
+18 19 5 through
+19 20 4 flowing
+20 21 1 dc
+21 22 2 current
+22 23 3 i
+23 24 11 magnetic
+24 25 12 field
+25 26 10 produces
+26 27 13 b1
+27 28 14 . 3.83393376906
+28
+0 29 6 the
+29 30 7 feeding
+30 31 8 conductor
+31 32 9 3
+32 33 5 through
+33 34 4 flowing
+34 35 1 dc
+35 36 2 current
+36 37 3 i
+37 38 11 magnetic
+38 39 10 produces
+39 40 12 field
+40 41 13 b1
+41 42 14 . 7.98497367496
+42
+0 43 6 the
+43 44 7 feeding
+44 45 8 conductor
+45 46 9 3
+46 47 5 through
+47 48 1 dc
+48 49 4 flowing
+49 50 2 current
+50 51 3 i
+51 52 11 magnetic
+52 53 12 field
+53 54 13 b1
+54 55 10 produces
+55 56 14 . 8.67812085553
+56
+0 57 6 the
+57 58 7 feeding
+58 59 8 conductor
+59 60 9 3
+60 61 5 through
+61 62 4 flowing
+62 63 1 dc
+63 64 2 current
+64 65 3 i
+65 66 11 magnetic
+66 67 13 b1
+67 68 12 field
+68 69 10 produces
+69 70 14 . 8.67812085553
+70
+0 71 6 the
+71 72 7 feeding
+72 73 8 conductor
+73 74 5 through
+74 75 9 3
+75 76 4 flowing
+76 77 1 dc
+77 78 2 current
+78 79 3 i
+79 80 11 magnetic
+80 81 12 field
+81 82 13 b1
+82 83 10 produces
+83 84 14 . 8.67812085553
+84
+0 85 6 the
+85 86 7 feeding
+86 87 8 conductor
+87 88 9 3
+88 89 5 through
+89 90 4 flowing
+90 91 2 current
+91 92 1 dc
+92 93 3 i
+93 94 11 magnetic
+94 95 12 field
+95 96 13 b1
+96 97 10 produces
+97 98 14 . 7.57950856685
+98
+0 99 6 the
+99 100 7 feeding
+100 101 8 conductor
+101 102 9 3
+102 103 5 through
+103 104 4 flowing
+104 105 1 dc
+105 106 2 current
+106 107 3 i
+107 108 10 produces
+108 109 11 magnetic
+109 110 12 field
+110 111 13 b1
+111 112 14 . 1.62539980629
+112
+0 113 6 the
+113 114 7 feeding
+114 115 8 conductor
+115 116 5 through
+116 117 9 3
+117 118 4 flowing
+118 119 1 dc
+119 120 2 current
+120 121 3 i
+121 122 11 magnetic
+122 123 12 field
+123 124 10 produces
+124 125 13 b1
+125 126 14 . 8.67812085553
+126
+0 127 6 the
+127 128 7 feeding
+128 129 8 conductor
+129 130 9 3
+130 131 5 through
+131 132 4 flowing
+132 133 1 dc
+133 134 2 current
+134 135 3 i
+135 136 13 b1
+136 137 11 magnetic
+137 138 12 field
+138 139 10 produces
+139 140 14 . 3.65424033468
+140
+0 141 6 the
+141 142 7 feeding
+142 143 8 conductor
+143 144 9 3
+144 145 5 through
+145 146 4 flowing
+146 147 1 dc
+147 148 2 current
+148 149 3 i
+149 150 12 field
+150 151 13 b1
+151 152 11 magnetic
+152 153 10 produces
+153 154 14 . 7.2918264944
+154
+0 155 6 the
+155 156 7 feeding
+156 157 8 conductor
+157 158 9 3
+158 159 5 through
+159 160 1 dc
+160 161 4 flowing
+161 162 2 current
+162 163 3 i
+163 164 10 produces
+164 165 11 magnetic
+165 166 12 field
+166 167 13 b1
+167 168 14 . 7.98497367496
+168
+0 169 6 the
+169 170 7 feeding
+170 171 8 conductor
+171 172 9 3
+172 173 5 through
+173 174 4 flowing
+174 175 2 current
+175 176 3 i
+176 177 1 dc
+177 178 11 magnetic
+178 179 12 field
+179 180 13 b1
+180 181 10 produces
+181 182 14 . 4.80691984461
+182
+0 183 6 the
+183 184 7 feeding
+184 185 8 conductor
+185 186 9 3
+186 187 5 through
+187 188 4 flowing
+188 189 3 i
+189 190 1 dc
+190 191 2 current
+191 192 11 magnetic
+192 193 12 field
+193 194 13 b1
+194 195 10 produces
+195 196 14 . 8.67812085553
+196
+0 197 7 feeding
+197 198 8 conductor
+198 199 6 the
+199 200 9 3
+200 201 5 through
+201 202 4 flowing
+202 203 1 dc
+203 204 2 current
+204 205 3 i
+205 206 11 magnetic
+206 207 12 field
+207 208 13 b1
+208 209 10 produces
+209 210 14 . 8.67812085553
+210
+0 211 6 the
+211 212 7 feeding
+212 213 8 conductor
+213 214 9 3
+214 215 5 through
+215 216 4 flowing
+216 217 1 dc
+217 218 2 current
+218 219 3 i
+219 220 10 produces
+220 221 11 magnetic
+221 222 13 b1
+222 223 12 field
+223 224 14 . 8.67812085553
+224
+0 225 6 the
+225 226 7 feeding
+226 227 8 conductor
+227 228 5 through
+228 229 9 3
+229 230 4 flowing
+230 231 1 dc
+231 232 2 current
+232 233 3 i
+233 234 10 produces
+234 235 11 magnetic
+235 236 12 field
+236 237 13 b1
+237 238 14 . 8.67812085553
+238
+0 239 6 the
+239 240 7 feeding
+240 241 8 conductor
+241 242 9 3
+242 243 5 through
+243 244 1 dc
+244 245 2 current
+245 246 3 i
+246 247 4 flowing
+247 248 11 magnetic
+248 249 12 field
+249 250 13 b1
+250 251 10 produces
+251 252 14 . 3.00479758835
+252
+0 253 6 the
+253 254 7 feeding
+254 255 8 conductor
+255 256 9 3
+256 257 5 through
+257 258 4 flowing
+258 259 2 current
+259 260 3 i
+260 261 1 dc
+261 262 11 magnetic
+262 263 12 field
+263 264 10 produces
+264 265 13 b1
+265 266 14 . 7.98497367496
+266
+0 267 6 the
+267 268 7 feeding
+268 269 8 conductor
+269 270 9 3
+270 271 5 through
+271 272 4 flowing
+272 273 1 dc
+273 274 2 current
+274 275 3 i
+275 276 13 b1
+276 277 10 produces
+277 278 11 magnetic
+278 279 12 field
+279 280 14 . 3.74364692239
+280

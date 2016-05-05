@@ -1,0 +1,140 @@
+0 1 1 next
+1 2 2 ,
+2 3 3 a
+3 4 4 read
+4 5 5 command
+5 6 6 &quot;
+6 7 7 read
+7 8 8 &quot;
+8 9 17 the
+9 10 18 bank
+10 11 16 of
+11 12 13 the
+12 13 14 column
+13 14 15 system
+14 15 9 is
+15 16 12 operate
+16 17 11 to
+17 18 10 executed
+18 19 19 a. 1.50407739678
+19
+0 20 1 next
+20 21 2 ,
+21 22 3 a
+22 23 4 read
+23 24 5 command
+24 25 6 &quot;
+25 26 7 read
+26 27 8 &quot;
+27 28 17 the
+28 29 18 bank
+29 30 16 of
+30 31 9 is
+31 32 13 the
+32 33 14 column
+33 34 15 system
+34 35 12 operate
+35 36 11 to
+36 37 10 executed
+37 38 19 a. 4.73619844839
+38
+0 39 1 next
+39 40 2 ,
+40 41 3 a
+41 42 4 read
+42 43 5 command
+43 44 6 &quot;
+44 45 7 read
+45 46 8 &quot;
+46 47 17 the
+47 48 18 bank
+48 49 16 of
+49 50 13 the
+50 51 14 column
+51 52 15 system
+52 53 12 operate
+53 54 9 is
+54 55 11 to
+55 56 10 executed
+56 57 19 a. 4.0712221448
+57
+0 58 1 next
+58 59 2 ,
+59 60 3 a
+60 61 4 read
+61 62 5 command
+62 63 6 &quot;
+63 64 7 read
+64 65 8 &quot;
+65 66 9 is
+66 67 17 the
+67 68 18 bank
+68 69 16 of
+69 70 13 the
+70 71 14 column
+71 72 15 system
+72 73 12 operate
+73 74 11 to
+74 75 10 executed
+75 76 19 a. 0.545702309599
+76
+0 77 1 next
+77 78 2 ,
+78 79 3 a
+79 80 4 read
+80 81 5 command
+81 82 6 &quot;
+82 83 7 read
+83 84 8 &quot;
+84 85 17 the
+85 86 18 bank
+86 87 16 of
+87 88 13 the
+88 89 14 column
+89 90 15 system
+90 91 9 is
+91 92 11 to
+92 93 12 operate
+93 94 10 executed
+94 95 19 a. 5.83481073706
+95
+0 96 1 next
+96 97 2 ,
+97 98 3 a
+98 99 4 read
+99 100 5 command
+100 101 6 &quot;
+101 102 7 read
+102 103 8 &quot;
+103 104 17 the
+104 105 18 bank
+105 106 16 of
+106 107 9 is
+107 108 13 the
+108 109 14 column
+109 110 15 system
+110 111 11 to
+111 112 12 operate
+112 113 10 executed
+113 114 19 a. 6.52795791762
+114
+0 115 1 next
+115 116 2 ,
+116 117 3 a
+117 118 4 read
+118 119 5 command
+119 120 6 &quot;
+120 121 7 read
+121 122 8 &quot;
+122 123 17 the
+123 124 18 bank
+124 125 16 of
+125 126 13 the
+126 127 14 column
+127 128 15 system
+128 129 12 operate
+129 130 11 to
+130 131 9 is
+131 132 10 executed
+132 133 19 a. 1.78302578926
+133

@@ -1,0 +1,80 @@
+0 1 1 the
+1 2 2 starter
+2 3 3 mark
+3 4 13 the
+4 5 14 film
+5 6 12 of
+6 7 10 the
+7 8 11 tip
+8 9 9 on
+9 10 5 each
+10 11 6 yellow
+11 12 7 ink
+12 13 8 layer
+13 14 4 reflects
+14 15 15 . 0.811505297517
+15
+0 16 1 the
+16 17 2 starter
+17 18 3 mark
+18 19 13 the
+19 20 14 film
+20 21 12 of
+21 22 10 the
+22 23 11 tip
+23 24 9 on
+24 25 5 each
+25 26 4 reflects
+26 27 6 yellow
+27 28 7 ink
+28 29 8 layer
+29 30 15 . 7.94679447612
+30
+0 31 1 the
+31 32 2 starter
+32 33 3 mark
+33 34 13 the
+34 35 14 film
+35 36 12 of
+36 37 10 the
+37 38 11 tip
+38 39 9 on
+39 40 4 reflects
+40 41 5 each
+41 42 6 yellow
+42 43 7 ink
+43 44 8 layer
+44 45 15 . 2.7877391769
+45
+0 46 1 the
+46 47 2 starter
+47 48 3 mark
+48 49 13 the
+49 50 14 film
+50 51 12 of
+51 52 10 the
+52 53 11 tip
+53 54 4 reflects
+54 55 9 on
+55 56 5 each
+56 57 6 yellow
+57 58 7 ink
+58 59 8 layer
+59 60 15 . 4.95106220256
+60
+0 61 1 the
+61 62 2 starter
+62 63 3 mark
+63 64 4 reflects
+64 65 13 the
+65 66 14 film
+66 67 12 of
+67 68 10 the
+68 69 11 tip
+69 70 9 on
+70 71 5 each
+71 72 6 yellow
+72 73 7 ink
+73 74 8 layer
+74 75 15 . 0.719858457622
+75

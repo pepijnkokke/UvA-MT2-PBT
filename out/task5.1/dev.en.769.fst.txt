@@ -1,0 +1,360 @@
+0 1 1 the
+1 2 2 ion
+2 3 3 trap
+3 4 4 mass
+4 5 5 spectrometer
+5 6 6 totalizes
+6 7 15 the
+7 8 16 ions
+8 9 14 while
+9 10 10 the
+10 11 11 quadrupole
+11 12 12 space
+12 13 13 50
+13 14 9 in
+14 15 7 the
+15 16 8 ions
+16 17 17 are
+17 18 18 introduced
+18 19 19 . 0.27142155158
+19
+0 20 1 the
+20 21 2 ion
+21 22 3 trap
+22 23 4 mass
+23 24 5 spectrometer
+24 25 6 totalizes
+25 26 15 the
+26 27 16 ions
+27 28 10 the
+28 29 14 while
+29 30 11 quadrupole
+30 31 12 space
+31 32 13 50
+32 33 9 in
+33 34 7 the
+34 35 8 ions
+35 36 17 are
+36 37 18 introduced
+37 38 19 . 6.19031540585
+38
+0 39 1 the
+39 40 2 ion
+40 41 3 trap
+41 42 4 mass
+42 43 5 spectrometer
+43 44 6 totalizes
+44 45 10 the
+45 46 15 the
+46 47 16 ions
+47 48 14 while
+48 49 11 quadrupole
+49 50 12 space
+50 51 13 50
+51 52 9 in
+52 53 7 the
+53 54 8 ions
+54 55 17 are
+55 56 18 introduced
+56 57 19 . 2.42911529016
+57
+0 58 1 the
+58 59 2 ion
+59 60 3 trap
+60 61 4 mass
+61 62 5 spectrometer
+62 63 15 the
+63 64 16 ions
+64 65 14 while
+65 66 6 totalizes
+66 67 10 the
+67 68 11 quadrupole
+68 69 12 space
+69 70 13 50
+70 71 9 in
+71 72 7 the
+72 73 8 ions
+73 74 17 are
+74 75 18 introduced
+75 76 19 . 3.79242013305
+76
+0 77 1 the
+77 78 2 ion
+78 79 3 trap
+79 80 4 mass
+80 81 5 spectrometer
+81 82 6 totalizes
+82 83 15 the
+83 84 16 ions
+84 85 14 while
+85 86 10 the
+86 87 11 quadrupole
+87 88 12 space
+88 89 13 50
+89 90 9 in
+90 91 8 ions
+91 92 7 the
+92 93 17 are
+93 94 18 introduced
+94 95 19 . 3.62536604839
+95
+0 96 1 the
+96 97 2 ion
+97 98 3 trap
+98 99 4 mass
+99 100 5 spectrometer
+100 101 6 totalizes
+101 102 15 the
+102 103 16 ions
+103 104 10 the
+104 105 11 quadrupole
+105 106 12 space
+106 107 13 50
+107 108 14 while
+108 109 9 in
+109 110 7 the
+110 111 8 ions
+111 112 17 are
+112 113 18 introduced
+113 114 19 . 5.49716822529
+114
+0 115 1 the
+115 116 2 ion
+116 117 3 trap
+117 118 4 mass
+118 119 5 spectrometer
+119 120 6 totalizes
+120 121 14 while
+121 122 15 the
+122 123 16 ions
+123 124 10 the
+124 125 11 quadrupole
+125 126 12 space
+126 127 13 50
+127 128 9 in
+128 129 7 the
+129 130 8 ions
+130 131 17 are
+131 132 18 introduced
+132 133 19 . 3.29994364796
+133
+0 134 1 the
+134 135 2 ion
+135 136 3 trap
+136 137 4 mass
+137 138 5 spectrometer
+138 139 6 totalizes
+139 140 16 ions
+140 141 15 the
+141 142 14 while
+142 143 10 the
+143 144 11 quadrupole
+144 145 12 space
+145 146 13 50
+146 147 9 in
+147 148 7 the
+148 149 8 ions
+149 150 17 are
+150 151 18 introduced
+151 152 19 . 3.62536604839
+152
+0 153 1 the
+153 154 2 ion
+154 155 3 trap
+155 156 4 mass
+156 157 5 spectrometer
+157 158 6 totalizes
+158 159 15 the
+159 160 16 ions
+160 161 14 while
+161 162 10 the
+162 163 11 quadrupole
+163 164 12 space
+164 165 13 50
+165 166 9 in
+166 167 17 are
+167 168 18 introduced
+168 169 7 the
+169 170 8 ions
+170 171 19 . 6.19031540585
+171
+0 172 1 the
+172 173 2 ion
+173 174 3 trap
+174 175 4 mass
+175 176 5 spectrometer
+176 177 6 totalizes
+177 178 10 the
+178 179 15 the
+179 180 16 ions
+180 181 14 while
+181 182 11 quadrupole
+182 183 12 space
+183 184 13 50
+184 185 17 are
+185 186 9 in
+186 187 7 the
+187 188 8 ions
+188 189 18 introduced
+189 190 19 . 6.19031540585
+190
+0 191 1 the
+191 192 2 ion
+192 193 3 trap
+193 194 4 mass
+194 195 5 spectrometer
+195 196 6 totalizes
+196 197 15 the
+197 198 16 ions
+198 199 14 while
+199 200 10 the
+200 201 11 quadrupole
+201 202 12 space
+202 203 13 50
+203 204 7 the
+204 205 8 ions
+205 206 9 in
+206 207 17 are
+207 208 18 introduced
+208 209 19 . 6.19031540585
+209
+0 210 1 the
+210 211 2 ion
+211 212 3 trap
+212 213 4 mass
+213 214 5 spectrometer
+214 215 6 totalizes
+215 216 10 the
+216 217 15 the
+217 218 16 ions
+218 219 14 while
+219 220 11 quadrupole
+220 221 12 space
+221 222 13 50
+222 223 9 in
+223 224 8 ions
+224 225 7 the
+225 226 17 are
+226 227 18 introduced
+227 228 19 . 6.19031540585
+228
+0 229 1 the
+229 230 2 ion
+230 231 3 trap
+231 232 4 mass
+232 233 5 spectrometer
+233 234 16 ions
+234 235 6 totalizes
+235 236 15 the
+236 237 14 while
+237 238 10 the
+238 239 11 quadrupole
+239 240 12 space
+240 241 13 50
+241 242 9 in
+242 243 7 the
+243 244 8 ions
+244 245 17 are
+245 246 18 introduced
+246 247 19 . 6.19031540585
+247
+0 248 1 the
+248 249 2 ion
+249 250 3 trap
+250 251 4 mass
+251 252 5 spectrometer
+252 253 6 totalizes
+253 254 10 the
+254 255 14 while
+255 256 15 the
+256 257 16 ions
+257 258 11 quadrupole
+258 259 12 space
+259 260 13 50
+260 261 9 in
+261 262 7 the
+262 263 8 ions
+263 264 17 are
+264 265 18 introduced
+265 266 19 . 5.49716822529
+266
+0 267 1 the
+267 268 2 ion
+268 269 3 trap
+269 270 4 mass
+270 271 5 spectrometer
+271 272 6 totalizes
+272 273 10 the
+273 274 16 ions
+274 275 15 the
+275 276 14 while
+276 277 11 quadrupole
+277 278 12 space
+278 279 13 50
+279 280 9 in
+280 281 7 the
+281 282 8 ions
+282 283 17 are
+283 284 18 introduced
+284 285 19 . 6.19031540585
+285
+0 286 1 the
+286 287 2 ion
+287 288 3 trap
+288 289 4 mass
+289 290 15 the
+290 291 16 ions
+291 292 5 spectrometer
+292 293 6 totalizes
+293 294 14 while
+294 295 10 the
+295 296 11 quadrupole
+296 297 12 space
+297 298 13 50
+298 299 9 in
+299 300 7 the
+300 301 8 ions
+301 302 17 are
+302 303 18 introduced
+303 304 19 . 6.19031540585
+304
+0 305 1 the
+305 306 2 ion
+306 307 3 trap
+307 308 4 mass
+308 309 5 spectrometer
+309 310 6 totalizes
+310 311 16 ions
+311 312 14 while
+312 313 15 the
+313 314 10 the
+314 315 11 quadrupole
+315 316 12 space
+316 317 13 50
+317 318 9 in
+318 319 7 the
+319 320 8 ions
+320 321 17 are
+321 322 18 introduced
+322 323 19 . 6.19031540585
+323
+0 324 1 the
+324 325 2 ion
+325 326 3 trap
+326 327 4 mass
+327 328 5 spectrometer
+328 329 6 totalizes
+329 330 15 the
+330 331 16 ions
+331 332 14 while
+332 333 10 the
+333 334 11 quadrupole
+334 335 12 space
+335 336 13 50
+336 337 17 are
+337 338 18 introduced
+338 339 9 in
+339 340 7 the
+340 341 8 ions
+341 342 19 . 4.58087749342
+342

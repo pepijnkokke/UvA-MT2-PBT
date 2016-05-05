@@ -1,0 +1,240 @@
+0 1 1 the
+1 2 2 cd
+2 3 3 3
+3 4 4 is
+4 5 7 data
+5 6 8 recording
+6 7 9 tracks
+7 8 6 with
+8 9 5 provided
+9 10 12 fixed
+10 11 13 radial
+11 12 14 intervals
+12 13 11 at
+13 14 10 arranged
+14 15 15 . 0.608046221087
+15
+0 16 1 the
+16 17 2 cd
+17 18 3 3
+18 19 4 is
+19 20 7 data
+20 21 8 recording
+21 22 6 with
+22 23 9 tracks
+23 24 5 provided
+24 25 12 fixed
+25 26 13 radial
+26 27 14 intervals
+27 28 11 at
+28 29 10 arranged
+29 30 15 . 8.08054696583
+30
+0 31 1 the
+31 32 2 cd
+32 33 3 3
+33 34 4 is
+34 35 7 data
+35 36 8 recording
+36 37 9 tracks
+37 38 5 provided
+38 39 6 with
+39 40 12 fixed
+40 41 13 radial
+41 42 14 intervals
+42 43 11 at
+43 44 10 arranged
+44 45 15 . 6.6942526047
+45
+0 46 1 the
+46 47 2 cd
+47 48 3 3
+48 49 4 is
+49 50 7 data
+50 51 8 recording
+51 52 9 tracks
+52 53 6 with
+53 54 12 fixed
+54 55 13 radial
+55 56 14 intervals
+56 57 11 at
+57 58 10 arranged
+58 59 5 provided
+59 60 15 . 6.47110905339
+60
+0 61 1 the
+61 62 2 cd
+62 63 3 3
+63 64 4 is
+64 65 7 data
+65 66 8 recording
+66 67 9 tracks
+67 68 12 fixed
+68 69 13 radial
+69 70 14 intervals
+70 71 11 at
+71 72 10 arranged
+72 73 6 with
+73 74 5 provided
+74 75 15 . 1.86394086474
+75
+0 76 1 the
+76 77 2 cd
+77 78 3 3
+78 79 4 is
+79 80 7 data
+80 81 8 recording
+81 82 6 with
+82 83 5 provided
+83 84 9 tracks
+84 85 12 fixed
+85 86 13 radial
+86 87 14 intervals
+87 88 11 at
+88 89 10 arranged
+89 90 15 . 4.00300952192
+90
+0 91 1 the
+91 92 2 cd
+92 93 3 3
+93 94 4 is
+94 95 7 data
+95 96 6 with
+96 97 8 recording
+97 98 9 tracks
+98 99 5 provided
+99 100 12 fixed
+100 101 13 radial
+101 102 14 intervals
+102 103 11 at
+103 104 10 arranged
+104 105 15 . 7.38739978526
+105
+0 106 2 cd
+106 107 3 3
+107 108 1 the
+108 109 4 is
+109 110 7 data
+110 111 8 recording
+111 112 9 tracks
+112 113 6 with
+113 114 5 provided
+114 115 12 fixed
+115 116 13 radial
+116 117 14 intervals
+117 118 11 at
+118 119 10 arranged
+119 120 15 . 4.11025505228
+120
+0 121 1 the
+121 122 2 cd
+122 123 3 3
+123 124 4 is
+124 125 8 recording
+125 126 9 tracks
+126 127 7 data
+127 128 6 with
+128 129 5 provided
+129 130 12 fixed
+130 131 13 radial
+131 132 14 intervals
+132 133 11 at
+133 134 10 arranged
+134 135 15 . 3.87585434643
+135
+0 136 1 the
+136 137 2 cd
+137 138 3 3
+138 139 4 is
+139 140 7 data
+140 141 8 recording
+141 142 9 tracks
+142 143 6 with
+143 144 5 provided
+144 145 13 radial
+145 146 14 intervals
+146 147 12 fixed
+147 148 11 at
+148 149 10 arranged
+149 150 15 . 4.29635733191
+150
+0 151 1 the
+151 152 2 cd
+152 153 3 3
+153 154 7 data
+154 155 8 recording
+155 156 9 tracks
+156 157 6 with
+157 158 4 is
+158 159 5 provided
+159 160 12 fixed
+160 161 13 radial
+161 162 14 intervals
+162 163 11 at
+163 164 10 arranged
+164 165 15 . 1.54240714206
+165
+0 166 1 the
+166 167 2 cd
+167 168 3 3
+168 169 4 is
+169 170 9 tracks
+170 171 7 data
+171 172 8 recording
+172 173 6 with
+173 174 5 provided
+174 175 12 fixed
+175 176 13 radial
+176 177 14 intervals
+177 178 11 at
+178 179 10 arranged
+179 180 15 . 4.46962905318
+180
+0 181 1 the
+181 182 2 cd
+182 183 3 3
+183 184 7 data
+184 185 8 recording
+185 186 9 tracks
+186 187 4 is
+187 188 5 provided
+188 189 6 with
+189 190 12 fixed
+190 191 13 radial
+191 192 14 intervals
+192 193 11 at
+193 194 10 arranged
+194 195 15 . 6.6942526047
+195
+0 196 1 the
+196 197 2 cd
+197 198 3 3
+198 199 4 is
+199 200 7 data
+200 201 8 recording
+201 202 9 tracks
+202 203 12 fixed
+203 204 13 radial
+204 205 14 intervals
+205 206 11 at
+206 207 10 arranged
+207 208 5 provided
+208 209 6 with
+209 210 15 . 7.38739978526
+210
+0 211 1 the
+211 212 2 cd
+212 213 3 3
+213 214 9 tracks
+214 215 4 is
+215 216 7 data
+216 217 8 recording
+217 218 6 with
+218 219 5 provided
+219 220 12 fixed
+220 221 13 radial
+221 222 14 intervals
+222 223 11 at
+223 224 10 arranged
+224 225 15 . 7.38739978526
+225

@@ -1,0 +1,216 @@
+0 1 7 the
+1 2 8 respective
+2 3 9 gate
+3 4 10 lines
+4 5 6 to
+5 6 3 inputting
+6 7 4 gate
+7 8 5 pulses
+8 9 2 of
+9 10 1 timings
+10 11 11 are
+11 12 12 sequentially
+12 13 15 each
+13 14 16 frame
+14 15 14 in
+15 16 13 deviated
+16 17 17 . 1.25632803466
+17
+0 18 7 the
+18 19 8 respective
+19 20 9 gate
+20 21 10 lines
+21 22 3 inputting
+22 23 4 gate
+23 24 5 pulses
+24 25 6 to
+25 26 2 of
+26 27 1 timings
+27 28 11 are
+28 29 12 sequentially
+29 30 15 each
+30 31 16 frame
+31 32 14 in
+32 33 13 deviated
+33 34 17 . 3.76655249243
+34
+0 35 3 inputting
+35 36 7 the
+36 37 8 respective
+37 38 9 gate
+38 39 10 lines
+39 40 6 to
+40 41 4 gate
+41 42 5 pulses
+42 43 2 of
+43 44 1 timings
+44 45 11 are
+45 46 15 each
+46 47 16 frame
+47 48 14 in
+48 49 12 sequentially
+49 50 13 deviated
+50 51 17 . 6.3315018499
+51
+0 52 7 the
+52 53 8 respective
+53 54 9 gate
+54 55 10 lines
+55 56 6 to
+56 57 3 inputting
+57 58 4 gate
+58 59 5 pulses
+59 60 2 of
+60 61 1 timings
+61 62 11 are
+62 63 15 each
+63 64 16 frame
+64 65 14 in
+65 66 12 sequentially
+66 67 13 deviated
+67 68 17 . 1.51931749452
+68
+0 69 7 the
+69 70 8 respective
+70 71 9 gate
+71 72 10 lines
+72 73 3 inputting
+73 74 4 gate
+74 75 5 pulses
+75 76 6 to
+76 77 2 of
+77 78 1 timings
+78 79 11 are
+79 80 15 each
+80 81 16 frame
+81 82 14 in
+82 83 12 sequentially
+83 84 13 deviated
+84 85 17 . 4.25206030822
+85
+0 86 3 inputting
+86 87 7 the
+87 88 8 respective
+88 89 9 gate
+89 90 10 lines
+90 91 6 to
+91 92 4 gate
+92 93 5 pulses
+93 94 11 are
+94 95 2 of
+95 96 1 timings
+96 97 12 sequentially
+97 98 15 each
+98 99 16 frame
+99 100 14 in
+100 101 13 deviated
+101 102 17 . 6.3315018499
+102
+0 103 7 the
+103 104 3 inputting
+104 105 4 gate
+105 106 5 pulses
+106 107 8 respective
+107 108 9 gate
+108 109 10 lines
+109 110 6 to
+110 111 2 of
+111 112 1 timings
+112 113 11 are
+113 114 12 sequentially
+114 115 15 each
+115 116 16 frame
+116 117 14 in
+117 118 13 deviated
+118 119 17 . 6.3315018499
+119
+0 120 3 inputting
+120 121 4 gate
+121 122 7 the
+122 123 8 respective
+123 124 9 gate
+124 125 10 lines
+125 126 5 pulses
+126 127 6 to
+127 128 2 of
+128 129 1 timings
+129 130 11 are
+130 131 15 each
+131 132 16 frame
+132 133 14 in
+133 134 12 sequentially
+134 135 13 deviated
+135 136 17 . 5.23288956123
+136
+0 137 7 the
+137 138 8 respective
+138 139 9 gate
+139 140 6 to
+140 141 3 inputting
+141 142 4 gate
+142 143 5 pulses
+143 144 10 lines
+144 145 2 of
+145 146 1 timings
+146 147 11 are
+147 148 12 sequentially
+148 149 15 each
+149 150 16 frame
+150 151 14 in
+151 152 13 deviated
+152 153 17 . 6.3315018499
+153
+0 154 7 the
+154 155 8 respective
+155 156 9 gate
+156 157 10 lines
+157 158 6 to
+158 159 3 inputting
+159 160 4 gate
+160 161 5 pulses
+161 162 11 are
+162 163 2 of
+163 164 1 timings
+164 165 12 sequentially
+165 166 15 each
+166 167 16 frame
+167 168 14 in
+168 169 13 deviated
+169 170 17 . 5.23288956123
+170
+0 171 3 inputting
+171 172 4 gate
+172 173 5 pulses
+173 174 7 the
+174 175 8 respective
+175 176 9 gate
+176 177 10 lines
+177 178 6 to
+178 179 2 of
+179 180 1 timings
+180 181 11 are
+181 182 12 sequentially
+182 183 15 each
+183 184 16 frame
+184 185 14 in
+185 186 13 deviated
+186 187 17 . 3.49828850584
+187
+0 188 7 the
+188 189 8 respective
+189 190 9 gate
+190 191 10 lines
+191 192 6 to
+192 193 4 gate
+193 194 5 pulses
+194 195 3 inputting
+195 196 2 of
+196 197 1 timings
+197 198 11 are
+198 199 12 sequentially
+199 200 15 each
+200 201 16 frame
+201 202 14 in
+202 203 13 deviated
+203 204 17 . 0.889084139371
+204

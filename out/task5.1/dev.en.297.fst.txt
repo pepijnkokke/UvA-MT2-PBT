@@ -1,0 +1,204 @@
+0 1 1 this
+1 2 2 under-filling
+2 3 3 material
+3 4 4 42
+4 5 6 the
+5 6 7 adhesive
+6 7 8 resin
+7 8 9 layer
+8 9 10 16
+9 10 5 constitutes
+10 11 11 . 0.331287311726
+11
+0 12 1 this
+12 13 2 under-filling
+13 14 3 material
+14 15 4 42
+15 16 6 the
+16 17 7 adhesive
+17 18 8 resin
+18 19 9 layer
+19 20 5 constitutes
+20 21 10 16
+21 22 11 . 4.43577443856
+22
+0 23 1 this
+23 24 2 under-filling
+24 25 3 material
+25 26 4 42
+26 27 7 adhesive
+27 28 6 the
+28 29 8 resin
+29 30 9 layer
+30 31 10 16
+31 32 5 constitutes
+32 33 11 . 9.07050342679
+33
+0 34 1 this
+34 35 2 under-filling
+35 36 3 material
+36 37 4 42
+37 38 6 the
+38 39 7 adhesive
+39 40 8 resin
+40 41 5 constitutes
+41 42 9 layer
+42 43 10 16
+43 44 11 . 7.68420906567
+44
+0 45 1 this
+45 46 3 material
+46 47 2 under-filling
+47 48 4 42
+48 49 6 the
+49 50 7 adhesive
+50 51 8 resin
+51 52 9 layer
+52 53 10 16
+53 54 5 constitutes
+54 55 11 . 6.02598098906
+55
+0 56 1 this
+56 57 2 under-filling
+57 58 3 material
+58 59 4 42
+59 60 6 the
+60 61 7 adhesive
+61 62 5 constitutes
+62 63 8 resin
+63 64 9 layer
+64 65 10 16
+65 66 11 . 6.36245322569
+66
+0 67 1 this
+67 68 2 under-filling
+68 69 3 material
+69 70 4 42
+70 71 6 the
+71 72 8 resin
+72 73 9 layer
+73 74 7 adhesive
+74 75 10 16
+75 76 5 constitutes
+76 77 11 . 7.68420906567
+77
+0 78 1 this
+78 79 2 under-filling
+79 80 3 material
+80 81 4 42
+81 82 6 the
+82 83 5 constitutes
+83 84 7 adhesive
+84 85 8 resin
+85 86 9 layer
+86 87 10 16
+87 88 11 . 8.37735624623
+88
+0 89 1 this
+89 90 3 material
+90 91 4 42
+91 92 2 under-filling
+92 93 6 the
+93 94 7 adhesive
+94 95 8 resin
+95 96 9 layer
+96 97 10 16
+97 98 5 constitutes
+98 99 11 . 5.73829891661
+99
+0 100 1 this
+100 101 4 42
+101 102 2 under-filling
+102 103 3 material
+103 104 6 the
+104 105 7 adhesive
+105 106 8 resin
+106 107 9 layer
+107 108 10 16
+108 109 5 constitutes
+109 110 11 . 6.67260815399
+110
+0 111 1 this
+111 112 2 under-filling
+112 113 3 material
+113 114 4 42
+114 115 7 adhesive
+115 116 6 the
+116 117 5 constitutes
+117 118 8 resin
+118 119 9 layer
+119 120 10 16
+120 121 11 . 9.07050342679
+121
+0 122 1 this
+122 123 2 under-filling
+123 124 3 material
+124 125 4 42
+125 126 5 constitutes
+126 127 6 the
+127 128 7 adhesive
+128 129 8 resin
+129 130 9 layer
+130 131 10 16
+131 132 11 . 1.3531521546
+132
+0 133 1 this
+133 134 2 under-filling
+134 135 3 material
+135 136 4 42
+136 137 7 adhesive
+137 138 8 resin
+138 139 9 layer
+139 140 6 the
+140 141 10 16
+141 142 5 constitutes
+142 143 11 . 8.37735624623
+143
+0 144 1 this
+144 145 2 under-filling
+145 146 3 material
+146 147 4 42
+147 148 6 the
+148 149 10 16
+149 150 7 adhesive
+150 151 8 resin
+151 152 9 layer
+152 153 5 constitutes
+153 154 11 . 9.07050342679
+154
+0 155 4 42
+155 156 1 this
+156 157 2 under-filling
+157 158 3 material
+158 159 6 the
+159 160 7 adhesive
+160 161 8 resin
+161 162 9 layer
+162 163 10 16
+163 164 5 constitutes
+164 165 11 . 8.37735624623
+165
+0 166 2 under-filling
+166 167 3 material
+167 168 4 42
+168 169 1 this
+169 170 6 the
+170 171 7 adhesive
+171 172 8 resin
+172 173 9 layer
+173 174 10 16
+174 175 5 constitutes
+175 176 11 . 7.97189113812
+176
+0 177 1 this
+177 178 2 under-filling
+178 179 3 material
+179 180 4 42
+180 181 7 adhesive
+181 182 8 resin
+182 183 9 layer
+183 184 6 the
+184 185 5 constitutes
+185 186 10 16
+186 187 11 . 7.12459327773
+187

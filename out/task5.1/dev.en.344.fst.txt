@@ -1,0 +1,357 @@
+0 1 2 priority
+1 2 1 the
+2 3 13 the
+3 4 14 caption
+4 5 15 data
+5 6 12 of
+6 7 5 modified
+7 8 4 be
+8 9 11 use
+9 10 10 of
+10 11 8 the
+11 12 9 frequency
+12 13 7 to
+13 14 6 according
+14 15 3 may
+15 16 16 . 8.17639159663
+16
+0 17 2 priority
+17 18 1 the
+18 19 13 the
+19 20 14 caption
+20 21 15 data
+21 22 12 of
+22 23 11 use
+23 24 5 modified
+24 25 4 be
+25 26 3 may
+26 27 10 of
+27 28 8 the
+28 29 9 frequency
+29 30 7 to
+30 31 6 according
+31 32 16 . 5.9791670193
+32
+0 33 2 priority
+33 34 1 the
+34 35 13 the
+35 36 14 caption
+36 37 15 data
+37 38 12 of
+38 39 5 modified
+39 40 4 be
+40 41 3 may
+41 42 11 use
+42 43 10 of
+43 44 8 the
+44 45 9 frequency
+45 46 7 to
+46 47 6 according
+47 48 16 . 5.28601983874
+48
+0 49 2 priority
+49 50 1 the
+50 51 13 the
+51 52 14 caption
+52 53 15 data
+53 54 12 of
+54 55 11 use
+55 56 10 of
+56 57 5 modified
+57 58 4 be
+58 59 3 may
+59 60 8 the
+60 61 9 frequency
+61 62 7 to
+62 63 6 according
+63 64 16 . 5.08534914328
+64
+0 65 2 priority
+65 66 1 the
+66 67 13 the
+67 68 14 caption
+68 69 15 data
+69 70 12 of
+70 71 11 use
+71 72 10 of
+72 73 5 modified
+73 74 4 be
+74 75 8 the
+75 76 9 frequency
+76 77 7 to
+77 78 6 according
+78 79 3 may
+79 80 16 . 6.79009723551
+80
+0 81 2 priority
+81 82 1 the
+82 83 13 the
+83 84 14 caption
+84 85 15 data
+85 86 5 modified
+86 87 4 be
+87 88 3 may
+88 89 12 of
+89 90 11 use
+90 91 10 of
+91 92 8 the
+92 93 9 frequency
+93 94 7 to
+94 95 6 according
+95 96 16 . 8.17639159663
+96
+0 97 2 priority
+97 98 1 the
+98 99 5 modified
+99 100 4 be
+100 101 13 the
+101 102 14 caption
+102 103 15 data
+103 104 12 of
+104 105 11 use
+105 106 10 of
+106 107 8 the
+107 108 9 frequency
+108 109 7 to
+109 110 6 according
+110 111 3 may
+111 112 16 . 4.03325687024
+112
+0 113 2 priority
+113 114 1 the
+114 115 13 the
+115 116 14 caption
+116 117 15 data
+117 118 12 of
+118 119 11 use
+119 120 10 of
+120 121 8 the
+121 122 9 frequency
+122 123 5 modified
+123 124 4 be
+124 125 7 to
+125 126 6 according
+126 127 3 may
+127 128 16 . 8.17639159663
+128
+0 129 2 priority
+129 130 1 the
+130 131 13 the
+131 132 14 caption
+132 133 15 data
+133 134 12 of
+134 135 11 use
+135 136 10 of
+136 137 8 the
+137 138 9 frequency
+138 139 5 modified
+139 140 4 be
+140 141 3 may
+141 142 7 to
+142 143 6 according
+143 144 16 . 5.53733426702
+144
+0 145 2 priority
+145 146 1 the
+146 147 13 the
+147 148 14 caption
+148 149 15 data
+149 150 12 of
+150 151 11 use
+151 152 5 modified
+152 153 10 of
+153 154 8 the
+154 155 9 frequency
+155 156 7 to
+156 157 6 according
+157 158 4 be
+158 159 3 may
+159 160 16 . 6.79009723551
+160
+0 161 2 priority
+161 162 1 the
+162 163 13 the
+163 164 14 caption
+164 165 15 data
+165 166 12 of
+166 167 5 modified
+167 168 11 use
+168 169 10 of
+169 170 8 the
+170 171 9 frequency
+171 172 7 to
+172 173 6 according
+173 174 4 be
+174 175 3 may
+175 176 16 . 5.61144223917
+176
+0 177 2 priority
+177 178 1 the
+178 179 13 the
+179 180 14 caption
+180 181 15 data
+181 182 12 of
+182 183 11 use
+183 184 10 of
+184 185 5 modified
+185 186 8 the
+186 187 9 frequency
+187 188 7 to
+188 189 6 according
+189 190 4 be
+190 191 3 may
+191 192 16 . 5.69148494685
+192
+0 193 2 priority
+193 194 1 the
+194 195 13 the
+195 196 14 caption
+196 197 15 data
+197 198 5 modified
+198 199 12 of
+199 200 11 use
+200 201 10 of
+201 202 8 the
+202 203 9 frequency
+203 204 7 to
+204 205 6 according
+205 206 4 be
+206 207 3 may
+207 208 16 . 8.17639159663
+208
+0 209 2 priority
+209 210 1 the
+210 211 5 modified
+211 212 4 be
+212 213 3 may
+213 214 13 the
+214 215 14 caption
+215 216 15 data
+216 217 12 of
+217 218 11 use
+218 219 10 of
+219 220 8 the
+220 221 9 frequency
+221 222 7 to
+222 223 6 according
+223 224 16 . 0.456373656202
+224
+0 225 1 the
+225 226 2 priority
+226 227 13 the
+227 228 14 caption
+228 229 15 data
+229 230 12 of
+230 231 11 use
+231 232 5 modified
+232 233 4 be
+233 234 10 of
+234 235 8 the
+235 236 9 frequency
+236 237 7 to
+237 238 6 according
+238 239 3 may
+239 240 16 . 8.17639159663
+240
+0 241 1 the
+241 242 2 priority
+242 243 13 the
+243 244 14 caption
+244 245 15 data
+245 246 12 of
+246 247 11 use
+247 248 5 modified
+248 249 4 be
+249 250 3 may
+250 251 10 of
+251 252 8 the
+252 253 9 frequency
+253 254 7 to
+254 255 6 according
+255 256 16 . 8.17639159663
+256
+0 257 1 the
+257 258 2 priority
+258 259 13 the
+259 260 14 caption
+260 261 15 data
+261 262 12 of
+262 263 5 modified
+263 264 4 be
+264 265 3 may
+265 266 11 use
+266 267 10 of
+267 268 8 the
+268 269 9 frequency
+269 270 7 to
+270 271 6 according
+271 272 16 . 7.48324441607
+272
+0 273 2 priority
+273 274 1 the
+274 275 13 the
+275 276 14 caption
+276 277 15 data
+277 278 12 of
+278 279 11 use
+279 280 10 of
+280 281 8 the
+281 282 9 frequency
+282 283 5 modified
+283 284 7 to
+284 285 6 according
+285 286 4 be
+286 287 3 may
+287 288 16 . 6.38463212741
+288
+0 289 1 the
+289 290 2 priority
+290 291 13 the
+291 292 14 caption
+292 293 15 data
+293 294 12 of
+294 295 11 use
+295 296 10 of
+296 297 5 modified
+297 298 4 be
+298 299 3 may
+299 300 8 the
+300 301 9 frequency
+301 302 7 to
+302 303 6 according
+303 304 16 . 6.79009723551
+304
+0 305 1 the
+305 306 2 priority
+306 307 13 the
+307 308 14 caption
+308 309 15 data
+309 310 12 of
+310 311 11 use
+311 312 10 of
+312 313 5 modified
+313 314 4 be
+314 315 8 the
+315 316 9 frequency
+316 317 7 to
+317 318 6 according
+318 319 3 may
+319 320 16 . 8.17639159663
+320
+0 321 2 priority
+321 322 1 the
+322 323 13 the
+323 324 14 caption
+324 325 15 data
+325 326 12 of
+326 327 11 use
+327 328 10 of
+328 329 8 the
+329 330 9 frequency
+330 331 7 to
+331 332 6 according
+332 333 5 modified
+333 334 4 be
+334 335 3 may
+335 336 16 . 1.150853282
+336

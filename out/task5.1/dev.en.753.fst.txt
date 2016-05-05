@@ -1,0 +1,204 @@
+0 1 1 the
+1 2 2 reactor
+2 3 3 11
+3 4 4 is
+4 5 13 a
+5 6 14 temperature
+6 7 15 rise
+7 8 7 a
+8 9 8 water-cooling
+9 10 9 passage
+10 11 10 20
+11 12 12 suppressing
+12 13 11 for
+13 14 6 with
+14 15 5 provided
+15 16 16 . 6.13628613165
+16
+0 17 1 the
+17 18 2 reactor
+18 19 3 11
+19 20 4 is
+20 21 13 a
+21 22 14 temperature
+22 23 15 rise
+23 24 7 a
+24 25 8 water-cooling
+25 26 9 passage
+26 27 10 20
+27 28 11 for
+28 29 12 suppressing
+29 30 6 with
+30 31 5 provided
+31 32 16 . 2.2932559977
+32
+0 33 1 the
+33 34 2 reactor
+34 35 3 11
+35 36 4 is
+36 37 13 a
+37 38 14 temperature
+38 39 15 rise
+39 40 12 suppressing
+40 41 7 a
+41 42 8 water-cooling
+42 43 9 passage
+43 44 10 20
+44 45 11 for
+45 46 6 with
+46 47 5 provided
+47 48 16 . 2.525368219
+48
+0 49 1 the
+49 50 2 reactor
+50 51 3 11
+51 52 4 is
+52 53 7 a
+53 54 8 water-cooling
+54 55 9 passage
+55 56 10 20
+56 57 13 a
+57 58 14 temperature
+58 59 15 rise
+59 60 12 suppressing
+60 61 11 for
+61 62 6 with
+62 63 5 provided
+63 64 16 . 1.39425676294
+64
+0 65 1 the
+65 66 2 reactor
+66 67 3 11
+67 68 4 is
+68 69 13 a
+69 70 14 temperature
+70 71 15 rise
+71 72 7 a
+72 73 8 water-cooling
+73 74 11 for
+74 75 9 passage
+75 76 10 20
+76 77 12 suppressing
+77 78 6 with
+78 79 5 provided
+79 80 16 . 7.23489842031
+80
+0 81 1 the
+81 82 2 reactor
+82 83 3 11
+83 84 4 is
+84 85 7 a
+85 86 8 water-cooling
+86 87 9 passage
+87 88 10 20
+88 89 13 a
+89 90 14 temperature
+90 91 15 rise
+91 92 11 for
+92 93 12 suppressing
+93 94 6 with
+94 95 5 provided
+95 96 16 . 1.20421316005
+96
+0 97 1 the
+97 98 2 reactor
+98 99 3 11
+99 100 4 is
+100 101 13 a
+101 102 14 temperature
+102 103 15 rise
+103 104 7 a
+104 105 8 water-cooling
+105 106 11 for
+106 107 12 suppressing
+107 108 9 passage
+108 109 10 20
+109 110 6 with
+110 111 5 provided
+111 112 16 . 7.23489842031
+112
+0 113 1 the
+113 114 2 reactor
+114 115 3 11
+115 116 4 is
+116 117 13 a
+117 118 14 temperature
+118 119 15 rise
+119 120 12 suppressing
+120 121 7 a
+121 122 11 for
+122 123 8 water-cooling
+123 124 9 passage
+124 125 10 20
+125 126 6 with
+126 127 5 provided
+127 128 16 . 6.54175123976
+128
+0 129 1 the
+129 130 2 reactor
+130 131 3 11
+131 132 4 is
+132 133 7 a
+133 134 8 water-cooling
+134 135 13 a
+135 136 14 temperature
+136 137 15 rise
+137 138 9 passage
+138 139 10 20
+139 140 11 for
+140 141 12 suppressing
+141 142 6 with
+142 143 5 provided
+143 144 16 . 6.54175123976
+144
+0 145 1 the
+145 146 2 reactor
+146 147 3 11
+147 148 4 is
+148 149 7 a
+149 150 8 water-cooling
+150 151 13 a
+151 152 14 temperature
+152 153 15 rise
+153 154 12 suppressing
+154 155 9 passage
+155 156 10 20
+156 157 11 for
+157 158 6 with
+158 159 5 provided
+159 160 16 . 5.44313895109
+160
+0 161 1 the
+161 162 2 reactor
+162 163 3 11
+163 164 4 is
+164 165 13 a
+165 166 14 temperature
+166 167 15 rise
+167 168 11 for
+168 169 7 a
+169 170 8 water-cooling
+170 171 9 passage
+171 172 10 20
+172 173 12 suppressing
+173 174 6 with
+174 175 5 provided
+175 176 16 . 5.8486040592
+176
+0 177 1 the
+177 178 2 reactor
+178 179 3 11
+179 180 4 is
+180 181 13 a
+181 182 14 temperature
+182 183 15 rise
+183 184 12 suppressing
+184 185 11 for
+185 186 7 a
+186 187 8 water-cooling
+187 188 9 passage
+188 189 10 20
+189 190 6 with
+190 191 5 provided
+191 192 16 . 1.35716263853
+192

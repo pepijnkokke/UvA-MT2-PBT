@@ -1,0 +1,228 @@
+0 1 4 traffic
+1 2 5 information
+2 3 3 of
+3 4 2 broadcast
+4 5 1 during
+5 6 6 ,
+6 7 17 .
+7 8 10 of
+8 9 7 the
+9 10 8 ta
+10 11 9 code
+11 12 18 &quot;
+12 13 11 the
+13 14 12 eon
+14 15 13 service
+15 16 14 becomes
+16 17 15 &quot;
+17 18 16 1 0.0926214898809
+18
+0 19 4 traffic
+19 20 5 information
+20 21 3 of
+21 22 2 broadcast
+22 23 1 during
+23 24 6 ,
+24 25 17 .
+25 26 7 the
+26 27 10 of
+27 28 8 ta
+28 29 9 code
+29 30 18 &quot;
+30 31 11 the
+31 32 12 eon
+32 33 13 service
+33 34 14 becomes
+34 35 15 &quot;
+35 36 16 1 6.65929391968
+36
+0 37 4 traffic
+37 38 5 information
+38 39 3 of
+39 40 1 during
+40 41 2 broadcast
+41 42 6 ,
+42 43 17 .
+43 44 10 of
+44 45 7 the
+45 46 8 ta
+46 47 9 code
+47 48 18 &quot;
+48 49 11 the
+49 50 12 eon
+50 51 13 service
+51 52 14 becomes
+52 53 15 &quot;
+53 54 16 1 4.90143600213
+54
+0 55 4 traffic
+55 56 5 information
+56 57 3 of
+57 58 2 broadcast
+58 59 1 during
+59 60 6 ,
+60 61 17 .
+61 62 10 of
+62 63 7 the
+63 64 8 ta
+64 65 9 code
+65 66 18 &quot;
+66 67 11 the
+67 68 12 eon
+68 69 13 service
+69 70 15 &quot;
+70 71 14 becomes
+71 72 16 1 8.26873183212
+72
+0 73 4 traffic
+73 74 5 information
+74 75 3 of
+75 76 2 broadcast
+76 77 6 ,
+77 78 1 during
+78 79 17 .
+79 80 10 of
+80 81 7 the
+81 82 8 ta
+82 83 9 code
+83 84 18 &quot;
+84 85 11 the
+85 86 12 eon
+86 87 13 service
+87 88 14 becomes
+88 89 15 &quot;
+89 90 16 1 6.882437471
+90
+0 91 4 traffic
+91 92 5 information
+92 93 2 broadcast
+93 94 3 of
+94 95 1 during
+95 96 6 ,
+96 97 17 .
+97 98 10 of
+98 99 7 the
+99 100 8 ta
+100 101 9 code
+101 102 18 &quot;
+102 103 11 the
+103 104 12 eon
+104 105 13 service
+105 106 14 becomes
+106 107 15 &quot;
+107 108 16 1 5.56068163102
+108
+0 109 4 traffic
+109 110 5 information
+110 111 3 of
+111 112 2 broadcast
+112 113 1 during
+113 114 6 ,
+114 115 17 .
+115 116 10 of
+116 117 7 the
+117 118 8 ta
+118 119 9 code
+119 120 18 &quot;
+120 121 12 eon
+121 122 11 the
+122 123 13 service
+123 124 14 becomes
+124 125 15 &quot;
+125 126 16 1 5.04985600725
+126
+0 127 4 traffic
+127 128 5 information
+128 129 3 of
+129 130 2 broadcast
+130 131 1 during
+131 132 6 ,
+132 133 7 the
+133 134 17 .
+134 135 10 of
+135 136 8 ta
+136 137 9 code
+137 138 18 &quot;
+138 139 11 the
+139 140 12 eon
+140 141 13 service
+141 142 14 becomes
+142 143 15 &quot;
+143 144 16 1 3.59590299766
+144
+0 145 4 traffic
+145 146 5 information
+146 147 3 of
+147 148 2 broadcast
+148 149 1 during
+149 150 6 ,
+150 151 17 .
+151 152 11 the
+152 153 10 of
+153 154 7 the
+154 155 8 ta
+155 156 9 code
+156 157 18 &quot;
+157 158 12 eon
+158 159 13 service
+159 160 14 becomes
+160 161 15 &quot;
+161 162 16 1 5.22420939439
+162
+0 163 4 traffic
+163 164 5 information
+164 165 3 of
+165 166 2 broadcast
+166 167 1 during
+167 168 17 .
+168 169 10 of
+169 170 6 ,
+170 171 7 the
+171 172 8 ta
+172 173 9 code
+173 174 18 &quot;
+174 175 11 the
+175 176 12 eon
+176 177 13 service
+177 178 14 becomes
+178 179 15 &quot;
+179 180 16 1 5.04985600725
+180
+0 181 4 traffic
+181 182 5 information
+182 183 1 during
+183 184 3 of
+184 185 2 broadcast
+185 186 6 ,
+186 187 17 .
+187 188 10 of
+188 189 7 the
+189 190 8 ta
+190 191 9 code
+191 192 18 &quot;
+192 193 11 the
+193 194 12 eon
+194 195 13 service
+195 196 14 becomes
+196 197 15 &quot;
+197 198 16 1 8.26873183212
+198
+0 199 4 traffic
+199 200 5 information
+200 201 3 of
+201 202 2 broadcast
+202 203 1 during
+203 204 6 ,
+204 205 17 .
+205 206 10 of
+206 207 7 the
+207 208 8 ta
+208 209 9 code
+209 210 18 &quot;
+210 211 11 the
+211 212 12 eon
+212 213 13 service
+213 214 15 &quot;
+214 215 16 1
+215 216 14 becomes 3.55023296082
+216

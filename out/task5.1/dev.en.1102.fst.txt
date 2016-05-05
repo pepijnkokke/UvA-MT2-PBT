@@ -1,0 +1,210 @@
+0 1 1 this
+1 2 2 problem
+2 3 3 becomes
+3 4 9 the
+4 5 10 gate
+5 6 11 electrode
+6 7 12 size
+7 8 8 of
+8 9 6 the
+9 10 7 width
+10 11 4 grave
+11 12 5 as
+12 13 13 decreases
+13 14 14 . 3.41503159439
+14
+0 15 1 this
+15 16 2 problem
+16 17 3 becomes
+17 18 9 the
+18 19 10 gate
+19 20 11 electrode
+20 21 12 size
+21 22 8 of
+22 23 6 the
+23 24 7 width
+24 25 5 as
+25 26 4 grave
+26 27 13 decreases
+27 28 14 . 1.31893841912
+28
+0 29 1 this
+29 30 2 problem
+30 31 3 becomes
+31 32 9 the
+32 33 10 gate
+33 34 11 electrode
+34 35 12 size
+35 36 8 of
+36 37 4 grave
+37 38 6 the
+38 39 7 width
+39 40 5 as
+40 41 13 decreases
+41 42 14 . 6.92657703322
+42
+0 43 1 this
+43 44 2 problem
+44 45 3 becomes
+45 46 9 the
+46 47 10 gate
+47 48 11 electrode
+48 49 12 size
+49 50 4 grave
+50 51 8 of
+51 52 6 the
+52 53 7 width
+53 54 5 as
+54 55 13 decreases
+55 56 14 . 7.61972421378
+56
+0 57 1 this
+57 58 2 problem
+58 59 3 becomes
+59 60 9 the
+60 61 10 gate
+61 62 11 electrode
+62 63 12 size
+63 64 8 of
+64 65 6 the
+65 66 7 width
+66 67 5 as
+67 68 13 decreases
+68 69 4 grave
+69 70 14 . 5.42249963645
+70
+0 71 1 this
+71 72 2 problem
+72 73 3 becomes
+73 74 9 the
+74 75 10 gate
+75 76 11 electrode
+76 77 8 of
+77 78 12 size
+78 79 6 the
+79 80 7 width
+80 81 5 as
+81 82 4 grave
+82 83 13 decreases
+83 84 14 . 7.61972421378
+84
+0 85 1 this
+85 86 2 problem
+86 87 3 becomes
+87 88 4 grave
+88 89 9 the
+89 90 10 gate
+90 91 11 electrode
+91 92 12 size
+92 93 8 of
+93 94 6 the
+94 95 7 width
+95 96 5 as
+96 97 13 decreases
+97 98 14 . 0.43357990926
+98
+0 99 1 this
+99 100 2 problem
+100 101 3 becomes
+101 102 9 the
+102 103 10 gate
+103 104 11 electrode
+104 105 12 size
+105 106 8 of
+106 107 6 the
+107 108 7 width
+108 109 13 decreases
+109 110 5 as
+110 111 4 grave
+111 112 14 . 4.98066688417
+112
+0 113 1 this
+113 114 2 problem
+114 115 3 becomes
+115 116 4 grave
+116 117 9 the
+117 118 10 gate
+118 119 11 electrode
+119 120 12 size
+120 121 8 of
+121 122 6 the
+122 123 7 width
+123 124 13 decreases
+124 125 5 as
+125 126 14 . 5.31713912079
+126
+0 127 1 this
+127 128 2 problem
+128 129 3 becomes
+129 130 9 the
+130 131 10 gate
+131 132 11 electrode
+132 133 12 size
+133 134 6 the
+134 135 8 of
+135 136 7 width
+136 137 5 as
+137 138 4 grave
+138 139 13 decreases
+139 140 14 . 6.92657703322
+140
+0 141 1 this
+141 142 2 problem
+142 143 3 becomes
+143 144 9 the
+144 145 10 gate
+145 146 11 electrode
+146 147 12 size
+147 148 8 of
+148 149 7 width
+149 150 6 the
+150 151 5 as
+151 152 4 grave
+152 153 13 decreases
+153 154 14 . 4.62399194023
+154
+0 155 1 this
+155 156 2 problem
+156 157 3 becomes
+157 158 9 the
+158 159 10 gate
+159 160 11 electrode
+160 161 12 size
+161 162 8 of
+162 163 7 width
+163 164 4 grave
+164 165 6 the
+165 166 5 as
+166 167 13 decreases
+167 168 14 . 5.67381406473
+168
+0 169 1 this
+169 170 2 problem
+170 171 4 grave
+171 172 3 becomes
+172 173 9 the
+173 174 10 gate
+174 175 11 electrode
+175 176 12 size
+176 177 8 of
+177 178 6 the
+178 179 7 width
+179 180 5 as
+180 181 13 decreases
+181 182 14 . 4.00880630114
+182
+0 183 1 this
+183 184 2 problem
+184 185 4 grave
+185 186 3 becomes
+186 187 9 the
+187 188 10 gate
+188 189 11 electrode
+189 190 12 size
+190 191 8 of
+191 192 6 the
+192 193 7 width
+193 194 13 decreases
+194 195 5 as
+195 196 14 . 6.92657703322
+196

@@ -1,0 +1,187 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 8
+3 4 4 shows
+4 5 8 the
+5 6 9 wind
+6 7 10 speed
+7 8 11 q
+8 9 12 and
+9 10 13 the
+10 11 14 pressure
+11 12 15 loss
+12 13 16 .delta.p.
+13 14 7 between
+14 15 5 the
+15 16 6 relationship 0.0395308387561
+16
+0 17 1 fig
+17 18 2 .
+18 19 3 8
+19 20 4 shows
+20 21 8 the
+21 22 9 wind
+22 23 10 speed
+23 24 11 q
+24 25 12 and
+25 26 13 the
+26 27 14 pressure
+27 28 15 loss
+28 29 16 .delta.p.
+29 30 5 the
+30 31 7 between
+31 32 6 relationship 7.56786260546
+32
+0 33 1 fig
+33 34 2 .
+34 35 3 8
+35 36 4 shows
+36 37 8 the
+37 38 9 wind
+38 39 10 speed
+39 40 11 q
+40 41 13 the
+41 42 12 and
+42 43 14 pressure
+43 44 15 loss
+44 45 16 .delta.p.
+45 46 7 between
+46 47 5 the
+47 48 6 relationship 6.8747154249
+48
+0 49 1 fig
+49 50 2 .
+50 51 3 8
+51 52 4 shows
+52 53 8 the
+53 54 9 wind
+54 55 10 speed
+55 56 11 q
+56 57 12 and
+57 58 13 the
+58 59 14 pressure
+59 60 15 loss
+60 61 16 .delta.p.
+61 62 7 between
+62 63 6 relationship
+63 64 5 the 4.23565809529
+64
+0 65 1 fig
+65 66 2 .
+66 67 3 8
+67 68 4 shows
+68 69 8 the
+69 70 9 wind
+70 71 10 speed
+71 72 11 q
+72 73 12 and
+73 74 13 the
+74 75 15 loss
+75 76 14 pressure
+76 77 16 .delta.p.
+77 78 7 between
+78 79 5 the
+79 80 6 relationship 8.26100978602
+80
+0 81 1 fig
+81 82 2 .
+82 83 3 8
+83 84 4 shows
+84 85 8 the
+85 86 9 wind
+86 87 10 speed
+87 88 11 q
+88 89 12 and
+89 90 13 the
+90 91 14 pressure
+91 92 15 loss
+92 93 7 between
+93 94 5 the
+94 95 6 relationship
+95 96 16 .delta.p. 5.16996733267
+96
+0 97 1 fig
+97 98 2 .
+98 99 3 8
+99 100 4 shows
+100 101 8 the
+101 102 9 wind
+102 103 10 speed
+103 104 11 q
+104 105 13 the
+105 106 14 pressure
+106 107 12 and
+107 108 15 loss
+108 109 16 .delta.p.
+109 110 7 between
+110 111 5 the
+111 112 6 relationship 8.26100978602
+112
+0 113 1 fig
+113 114 2 .
+114 115 3 8
+115 116 4 shows
+116 117 8 the
+117 118 9 wind
+118 119 10 speed
+119 120 11 q
+120 121 14 pressure
+121 122 12 and
+122 123 13 the
+123 124 15 loss
+124 125 16 .delta.p.
+125 126 7 between
+126 127 5 the
+127 128 6 relationship 8.26100978602
+128
+0 129 1 fig
+129 130 2 .
+130 131 3 8
+131 132 4 shows
+132 133 8 the
+133 134 9 wind
+134 135 12 and
+135 136 10 speed
+136 137 11 q
+137 138 13 the
+138 139 14 pressure
+139 140 15 loss
+140 141 16 .delta.p.
+141 142 7 between
+142 143 5 the
+143 144 6 relationship 8.26100978602
+144
+0 145 1 fig
+145 146 2 .
+146 147 3 8
+147 148 4 shows
+148 149 8 the
+149 150 9 wind
+150 151 10 speed
+151 152 11 q
+152 153 12 and
+153 154 13 the
+154 155 14 pressure
+155 156 15 loss
+156 157 16 .delta.p.
+157 158 5 the
+158 159 6 relationship
+159 160 7 between 8.26100978602
+160
+0 161 1 fig
+161 162 2 .
+162 163 3 8
+163 164 4 shows
+164 165 9 wind
+165 166 10 speed
+166 167 8 the
+167 168 11 q
+168 169 12 and
+169 170 13 the
+170 171 14 pressure
+171 172 15 loss
+172 173 16 .delta.p.
+173 174 7 between
+174 175 5 the
+175 176 6 relationship 4.15013592185
+176

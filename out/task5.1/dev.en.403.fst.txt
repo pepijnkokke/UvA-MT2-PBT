@@ -1,0 +1,308 @@
+0 1 1 alternatively
+1 2 2 ,
+2 3 3 the
+3 4 4 beeper
+4 5 11 different
+5 6 12 melodies
+6 7 10 by
+7 8 7 these
+8 9 8 operating
+9 10 9 states
+10 11 6 identify
+11 12 5 may
+12 13 13 . 0.542409362042
+13
+0 14 1 alternatively
+14 15 2 ,
+15 16 3 the
+16 17 11 different
+17 18 12 melodies
+18 19 10 by
+19 20 4 beeper
+20 21 7 these
+21 22 8 operating
+22 23 9 states
+23 24 6 identify
+24 25 5 may
+25 26 13 . 2.04348629998
+26
+0 27 1 alternatively
+27 28 2 ,
+28 29 11 different
+29 30 3 the
+30 31 12 melodies
+31 32 4 beeper
+32 33 10 by
+33 34 7 these
+34 35 8 operating
+35 36 9 states
+36 37 6 identify
+37 38 5 may
+38 39 13 . 7.6936335588
+39
+0 40 1 alternatively
+40 41 2 ,
+41 42 3 the
+42 43 4 beeper
+43 44 11 different
+44 45 12 melodies
+45 46 10 by
+46 47 7 these
+47 48 8 operating
+48 49 9 states
+49 50 5 may
+50 51 6 identify
+51 52 13 . 6.30733919768
+52
+0 53 1 alternatively
+53 54 2 ,
+54 55 4 beeper
+55 56 3 the
+56 57 11 different
+57 58 12 melodies
+58 59 10 by
+59 60 7 these
+60 61 8 operating
+61 62 9 states
+62 63 6 identify
+63 64 5 may
+64 65 13 . 3.36729582999
+65
+0 66 1 alternatively
+66 67 2 ,
+67 68 11 different
+68 69 12 melodies
+69 70 3 the
+70 71 4 beeper
+71 72 10 by
+72 73 7 these
+73 74 8 operating
+74 75 9 states
+75 76 6 identify
+76 77 5 may
+77 78 13 . 8.79224584747
+78
+0 79 1 alternatively
+79 80 3 the
+80 81 2 ,
+81 82 4 beeper
+82 83 11 different
+83 84 12 melodies
+84 85 10 by
+85 86 7 these
+86 87 8 operating
+87 88 9 states
+88 89 6 identify
+89 90 5 may
+90 91 13 . 5.65675163154
+91
+0 92 1 alternatively
+92 93 2 ,
+93 94 3 the
+94 95 4 beeper
+95 96 11 different
+96 97 10 by
+97 98 12 melodies
+98 99 7 these
+99 100 8 operating
+100 101 9 states
+101 102 6 identify
+102 103 5 may
+103 104 13 . 8.79224584747
+104
+0 105 1 alternatively
+105 106 2 ,
+106 107 3 the
+107 108 4 beeper
+108 109 12 melodies
+109 110 11 different
+110 111 10 by
+111 112 7 these
+112 113 8 operating
+113 114 9 states
+114 115 6 identify
+115 116 5 may
+116 117 13 . 5.61419201712
+117
+0 118 1 alternatively
+118 119 2 ,
+119 120 3 the
+120 121 11 different
+121 122 12 melodies
+122 123 10 by
+123 124 4 beeper
+124 125 7 these
+125 126 8 operating
+126 127 9 states
+127 128 5 may
+128 129 6 identify
+129 130 13 . 7.6936335588
+130
+0 131 1 alternatively
+131 132 3 the
+132 133 2 ,
+133 134 11 different
+134 135 12 melodies
+135 136 10 by
+136 137 4 beeper
+137 138 7 these
+138 139 8 operating
+139 140 9 states
+140 141 6 identify
+141 142 5 may
+142 143 13 . 5.46004133729
+143
+0 144 1 alternatively
+144 145 2 ,
+145 146 3 the
+146 147 12 melodies
+147 148 11 different
+148 149 10 by
+149 150 4 beeper
+150 151 7 these
+151 152 8 operating
+152 153 9 states
+153 154 6 identify
+154 155 5 may
+155 156 13 . 8.79224584747
+156
+0 157 1 alternatively
+157 158 2 ,
+158 159 11 different
+159 160 12 melodies
+160 161 10 by
+161 162 3 the
+162 163 4 beeper
+163 164 7 these
+164 165 8 operating
+165 166 9 states
+166 167 6 identify
+167 168 5 may
+168 169 13 . 1.50058963829
+169
+0 170 1 alternatively
+170 171 2 ,
+171 172 3 the
+172 173 4 beeper
+173 174 12 melodies
+174 175 11 different
+175 176 7 these
+176 177 10 by
+177 178 8 operating
+178 179 9 states
+179 180 6 identify
+180 181 5 may
+181 182 13 . 8.79224584747
+182
+0 183 1 alternatively
+183 184 2 ,
+184 185 11 different
+185 186 12 melodies
+186 187 4 beeper
+187 188 3 the
+188 189 10 by
+189 190 7 these
+190 191 8 operating
+191 192 9 states
+192 193 6 identify
+193 194 5 may
+194 195 13 . 8.79224584747
+195
+0 196 1 alternatively
+196 197 4 beeper
+197 198 2 ,
+198 199 3 the
+199 200 11 different
+200 201 12 melodies
+201 202 10 by
+202 203 7 these
+203 204 8 operating
+204 205 9 states
+205 206 6 identify
+206 207 5 may
+207 208 13 . 8.79224584747
+208
+0 209 1 alternatively
+209 210 2 ,
+210 211 4 beeper
+211 212 3 the
+212 213 12 melodies
+213 214 11 different
+214 215 10 by
+215 216 7 these
+216 217 8 operating
+217 218 9 states
+218 219 6 identify
+219 220 5 may
+220 221 13 . 8.79224584747
+221
+0 222 1 alternatively
+222 223 2 ,
+223 224 3 the
+224 225 4 beeper
+225 226 11 different
+226 227 12 melodies
+227 228 10 by
+228 229 8 operating
+229 230 9 states
+230 231 7 these
+231 232 6 identify
+232 233 5 may
+233 234 13 . 4.82195393392
+234
+0 235 1 alternatively
+235 236 2 ,
+236 237 12 melodies
+237 238 11 different
+238 239 3 the
+239 240 4 beeper
+240 241 10 by
+241 242 7 these
+242 243 8 operating
+243 244 9 states
+244 245 6 identify
+245 246 5 may
+246 247 13 . 8.79224584747
+247
+0 248 1 alternatively
+248 249 3 the
+249 250 4 beeper
+250 251 2 ,
+251 252 11 different
+252 253 12 melodies
+253 254 10 by
+254 255 7 these
+255 256 8 operating
+256 257 9 states
+257 258 6 identify
+258 259 5 may
+259 260 13 . 5.12868420134
+260
+0 261 1 alternatively
+261 262 3 the
+262 263 2 ,
+263 264 4 beeper
+264 265 12 melodies
+265 266 11 different
+266 267 10 by
+267 268 7 these
+268 269 8 operating
+269 270 9 states
+270 271 6 identify
+271 272 5 may
+272 273 13 . 8.79224584747
+273
+0 274 1 alternatively
+274 275 2 ,
+275 276 3 the
+276 277 4 beeper
+277 278 10 by
+278 279 11 different
+279 280 12 melodies
+280 281 7 these
+281 282 8 operating
+282 283 9 states
+283 284 6 identify
+284 285 5 may
+285 286 13 . 6.15318851785
+286

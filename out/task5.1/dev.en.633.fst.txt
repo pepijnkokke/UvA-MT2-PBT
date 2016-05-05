@@ -1,0 +1,182 @@
+0 1 1 the
+1 2 2 iwadare
+2 3 3 code
+3 4 4 is
+4 5 11 convolution
+5 6 12 code
+6 7 10 of
+7 8 8 one
+8 9 9 type
+9 10 7 as
+10 11 5 well
+11 12 6 known
+12 13 13 . 0.234102710156
+13
+0 14 1 the
+14 15 2 iwadare
+15 16 3 code
+16 17 4 is
+17 18 11 convolution
+18 19 12 code
+19 20 10 of
+20 21 8 one
+21 22 9 type
+22 23 5 well
+23 24 7 as
+24 25 6 known
+25 26 13 . 5.75742855463
+26
+0 27 1 the
+27 28 2 iwadare
+28 29 3 code
+29 30 4 is
+30 31 11 convolution
+31 32 12 code
+32 33 10 of
+33 34 8 one
+34 35 9 type
+35 36 7 as
+36 37 6 known
+37 38 5 well
+38 39 13 . 1.73326804926
+39
+0 40 1 the
+40 41 2 iwadare
+41 42 3 code
+42 43 4 is
+43 44 11 convolution
+44 45 10 of
+45 46 12 code
+46 47 8 one
+47 48 9 type
+48 49 7 as
+49 50 5 well
+50 51 6 known
+51 52 13 . 7.77233157517
+52
+0 53 2 iwadare
+53 54 1 the
+54 55 3 code
+55 56 4 is
+56 57 11 convolution
+57 58 12 code
+58 59 10 of
+59 60 8 one
+60 61 9 type
+61 62 7 as
+62 63 5 well
+63 64 6 known
+64 65 13 . 4.96897119426
+65
+0 66 1 the
+66 67 2 iwadare
+67 68 3 code
+68 69 4 is
+69 70 11 convolution
+70 71 12 code
+71 72 10 of
+72 73 8 one
+73 74 7 as
+74 75 9 type
+75 76 5 well
+76 77 6 known
+77 78 13 . 6.85604084329
+78
+0 79 1 the
+79 80 2 iwadare
+80 81 4 is
+81 82 3 code
+82 83 11 convolution
+83 84 12 code
+84 85 10 of
+85 86 8 one
+86 87 9 type
+87 88 7 as
+88 89 5 well
+89 90 6 known
+90 91 13 . 7.77233157517
+91
+0 92 1 the
+92 93 2 iwadare
+93 94 3 code
+94 95 4 is
+95 96 11 convolution
+96 97 12 code
+97 98 10 of
+98 99 9 type
+99 100 8 one
+100 101 7 as
+101 102 5 well
+102 103 6 known
+103 104 13 . 5.28742492538
+104
+0 105 1 the
+105 106 2 iwadare
+106 107 3 code
+107 108 4 is
+108 109 11 convolution
+109 110 12 code
+110 111 10 of
+111 112 8 one
+112 113 9 type
+113 114 5 well
+114 115 6 known
+115 116 7 as
+116 117 13 . 6.38603721405
+117
+0 118 1 the
+118 119 2 iwadare
+119 120 3 code
+120 121 4 is
+121 122 11 convolution
+122 123 12 code
+123 124 10 of
+124 125 8 one
+125 126 9 type
+126 127 6 known
+127 128 7 as
+128 129 5 well
+129 130 13 . 7.36686646706
+130
+0 131 2 iwadare
+131 132 1 the
+132 133 3 code
+133 134 4 is
+134 135 11 convolution
+135 136 12 code
+136 137 10 of
+137 138 8 one
+138 139 9 type
+139 140 7 as
+140 141 6 known
+141 142 5 well
+142 143 13 . 6.26825417839
+143
+0 144 1 the
+144 145 2 iwadare
+145 146 3 code
+146 147 11 convolution
+147 148 12 code
+148 149 10 of
+149 150 4 is
+150 151 8 one
+151 152 9 type
+152 153 7 as
+153 154 5 well
+154 155 6 known
+155 156 13 . 4.5534557503
+156
+0 157 1 the
+157 158 2 iwadare
+158 159 4 is
+159 160 3 code
+160 161 11 convolution
+161 162 12 code
+162 163 10 of
+163 164 8 one
+164 165 9 type
+165 166 7 as
+166 167 6 known
+167 168 5 well
+168 169 13 . 8.46547875573
+169

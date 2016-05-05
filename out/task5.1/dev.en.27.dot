@@ -1,0 +1,591 @@
+digraph FST {
+rankdir = LR;
+size = "8.5,11";
+label = "";
+center = 1;
+orientation = Portrait;
+ranksep = "0.4";
+nodesep = "0.25";
+0 [label = "0", shape = circle, style = bold, fontsize = 14]
+	0 -> 1 [label = "1:a/2.8037", fontsize = 14];
+	0 -> 2 [label = "2:preamble/2.8037", fontsize = 14];
+1 [label = "1", shape = circle, style = solid, fontsize = 14]
+	1 -> 3 [label = "2:preamble", fontsize = 14];
+2 [label = "2", shape = circle, style = solid, fontsize = 14]
+	2 -> 4 [label = "3:addition", fontsize = 14];
+3 [label = "3", shape = circle, style = solid, fontsize = 14]
+	3 -> 5 [label = "3:addition", fontsize = 14];
+4 [label = "4", shape = circle, style = solid, fontsize = 14]
+	4 -> 6 [label = "4:part", fontsize = 14];
+5 [label = "5", shape = circle, style = solid, fontsize = 14]
+	5 -> 7 [label = "4:part", fontsize = 14];
+6 [label = "6", shape = circle, style = solid, fontsize = 14]
+	6 -> 8 [label = "5:715", fontsize = 14];
+7 [label = "7", shape = circle, style = solid, fontsize = 14]
+	7 -> 9 [label = "5:715", fontsize = 14];
+8 [label = "8", shape = circle, style = solid, fontsize = 14]
+	8 -> 10 [label = "1:a/0.69336", fontsize = 14];
+	8 -> 12 [label = "7:a/0.69336", fontsize = 14];
+	8 -> 11 [label = "6:adds", fontsize = 14];
+9 [label = "9", shape = circle, style = solid, fontsize = 14]
+	9 -> 14 [label = "7:a/0.69336", fontsize = 14];
+	9 -> 13 [label = "6:adds", fontsize = 14];
+10 [label = "10", shape = circle, style = solid, fontsize = 14]
+	10 -> 15 [label = "6:adds", fontsize = 14];
+11 [label = "11", shape = circle, style = solid, fontsize = 14]
+	11 -> 16 [label = "7:a", fontsize = 14];
+12 [label = "12", shape = circle, style = solid, fontsize = 14]
+	12 -> 17 [label = "8:preamble", fontsize = 14];
+13 [label = "13", shape = circle, style = solid, fontsize = 14]
+	13 -> 18 [label = "7:a", fontsize = 14];
+	13 -> 19 [label = "14:so/0.69336", fontsize = 14];
+14 [label = "14", shape = circle, style = solid, fontsize = 14]
+	14 -> 20 [label = "8:preamble", fontsize = 14];
+15 [label = "15", shape = circle, style = solid, fontsize = 14]
+	15 -> 21 [label = "7:a", fontsize = 14];
+16 [label = "16", shape = circle, style = solid, fontsize = 14]
+	16 -> 22 [label = "8:preamble", fontsize = 14];
+17 [label = "17", shape = circle, style = solid, fontsize = 14]
+	17 -> 23 [label = "6:adds", fontsize = 14];
+18 [label = "18", shape = circle, style = solid, fontsize = 14]
+	18 -> 24 [label = "8:preamble", fontsize = 14];
+19 [label = "19", shape = circle, style = solid, fontsize = 14]
+	19 -> 25 [label = "7:a", fontsize = 14];
+20 [label = "20", shape = circle, style = solid, fontsize = 14]
+	20 -> 26 [label = "6:adds", fontsize = 14];
+	20 -> 27 [label = "9:431", fontsize = 14];
+21 [label = "21", shape = circle, style = solid, fontsize = 14]
+	21 -> 28 [label = "8:preamble", fontsize = 14];
+22 [label = "22", shape = circle, style = solid, fontsize = 14]
+	22 -> 29 [label = "9:431", fontsize = 14];
+23 [label = "23", shape = circle, style = solid, fontsize = 14]
+	23 -> 30 [label = "9:431", fontsize = 14];
+24 [label = "24", shape = circle, style = solid, fontsize = 14]
+	24 -> 31 [label = "9:431", fontsize = 14];
+25 [label = "25", shape = circle, style = solid, fontsize = 14]
+	25 -> 32 [label = "8:preamble", fontsize = 14];
+26 [label = "26", shape = circle, style = solid, fontsize = 14]
+	26 -> 33 [label = "9:431", fontsize = 14];
+27 [label = "27", shape = circle, style = solid, fontsize = 14]
+	27 -> 34 [label = "10:to", fontsize = 14];
+28 [label = "28", shape = circle, style = solid, fontsize = 14]
+	28 -> 35 [label = "9:431", fontsize = 14];
+29 [label = "29", shape = circle, style = solid, fontsize = 14]
+	29 -> 36 [label = "10:to", fontsize = 14];
+30 [label = "30", shape = circle, style = solid, fontsize = 14]
+	30 -> 37 [label = "10:to", fontsize = 14];
+31 [label = "31", shape = circle, style = solid, fontsize = 14]
+	31 -> 38 [label = "10:to", fontsize = 14];
+	31 -> 40 [label = "16:to/0.69336", fontsize = 14];
+	31 -> 39 [label = "14:so/0.69336", fontsize = 14];
+32 [label = "32", shape = circle, style = solid, fontsize = 14]
+	32 -> 41 [label = "9:431", fontsize = 14];
+33 [label = "33", shape = circle, style = solid, fontsize = 14]
+	33 -> 42 [label = "10:to", fontsize = 14];
+34 [label = "34", shape = circle, style = solid, fontsize = 14]
+	34 -> 43 [label = "6:adds", fontsize = 14];
+35 [label = "35", shape = circle, style = solid, fontsize = 14]
+	35 -> 44 [label = "14:so", fontsize = 14];
+36 [label = "36", shape = circle, style = solid, fontsize = 14]
+	36 -> 45 [label = "14:so", fontsize = 14];
+37 [label = "37", shape = circle, style = solid, fontsize = 14]
+	37 -> 46 [label = "14:so", fontsize = 14];
+38 [label = "38", shape = circle, style = solid, fontsize = 14]
+	38 -> 47 [label = "14:so", fontsize = 14];
+	38 -> 48 [label = "23:in/0.69336", fontsize = 14];
+	38 -> 49 [label = "24:fig/0.69336", fontsize = 14];
+39 [label = "39", shape = circle, style = solid, fontsize = 14]
+	39 -> 50 [label = "24:fig", fontsize = 14];
+40 [label = "40", shape = circle, style = solid, fontsize = 14]
+	40 -> 51 [label = "14:so", fontsize = 14];
+41 [label = "41", shape = circle, style = solid, fontsize = 14]
+	41 -> 52 [label = "10:to", fontsize = 14];
+42 [label = "42", shape = circle, style = solid, fontsize = 14]
+	42 -> 53 [label = "14:so", fontsize = 14];
+43 [label = "43", shape = circle, style = solid, fontsize = 14]
+	43 -> 54 [label = "14:so", fontsize = 14];
+44 [label = "44", shape = circle, style = solid, fontsize = 14]
+	44 -> 55 [label = "10:to", fontsize = 14];
+45 [label = "45", shape = circle, style = solid, fontsize = 14]
+	45 -> 56 [label = "1:a", fontsize = 14];
+46 [label = "46", shape = circle, style = solid, fontsize = 14]
+	46 -> 57 [label = "1:a", fontsize = 14];
+47 [label = "47", shape = circle, style = solid, fontsize = 14]
+	47 -> 58 [label = "18:the/0.69336", fontsize = 14];
+	47 -> 59 [label = "24:fig", fontsize = 14];
+48 [label = "48", shape = circle, style = solid, fontsize = 14]
+	48 -> 60 [label = "24:fig", fontsize = 14];
+49 [label = "49", shape = circle, style = solid, fontsize = 14]
+	49 -> 61 [label = "25:.", fontsize = 14];
+50 [label = "50", shape = circle, style = solid, fontsize = 14]
+	50 -> 62 [label = "25:.", fontsize = 14];
+51 [label = "51", shape = circle, style = solid, fontsize = 14]
+	51 -> 63 [label = "18:the", fontsize = 14];
+52 [label = "52", shape = circle, style = solid, fontsize = 14]
+	52 -> 64 [label = "16:to", fontsize = 14];
+	52 -> 65 [label = "18:the", fontsize = 14];
+	52 -> 66 [label = "24:fig", fontsize = 14];
+53 [label = "53", shape = circle, style = solid, fontsize = 14]
+	53 -> 67 [label = "24:fig", fontsize = 14];
+54 [label = "54", shape = circle, style = solid, fontsize = 14]
+	54 -> 68 [label = "18:the", fontsize = 14];
+55 [label = "55", shape = circle, style = solid, fontsize = 14]
+	55 -> 69 [label = "18:the", fontsize = 14];
+56 [label = "56", shape = circle, style = solid, fontsize = 14]
+	56 -> 71 [label = "16:to", fontsize = 14];
+	56 -> 70 [label = "18:the", fontsize = 14];
+	56 -> 72 [label = "24:fig/0.69336", fontsize = 14];
+57 [label = "57", shape = circle, style = solid, fontsize = 14]
+	57 -> 73 [label = "16:to", fontsize = 14];
+58 [label = "58", shape = circle, style = solid, fontsize = 14]
+	58 -> 74 [label = "19:transmission", fontsize = 14];
+59 [label = "59", shape = circle, style = solid, fontsize = 14]
+	59 -> 75 [label = "23:in", fontsize = 14];
+	59 -> 76 [label = "25:./0.69336", fontsize = 14];
+60 [label = "60", shape = circle, style = solid, fontsize = 14]
+	60 -> 77 [label = "25:.", fontsize = 14];
+61 [label = "61", shape = circle, style = solid, fontsize = 14]
+	61 -> 78 [label = "26:2", fontsize = 14];
+62 [label = "62", shape = circle, style = solid, fontsize = 14]
+	62 -> 79 [label = "23:in", fontsize = 14];
+63 [label = "63", shape = circle, style = solid, fontsize = 14]
+	63 -> 80 [label = "19:transmission", fontsize = 14];
+64 [label = "64", shape = circle, style = solid, fontsize = 14]
+	64 -> 81 [label = "18:the", fontsize = 14];
+65 [label = "65", shape = circle, style = solid, fontsize = 14]
+	65 -> 82 [label = "19:transmission", fontsize = 14];
+	65 -> 83 [label = "24:fig", fontsize = 14];
+66 [label = "66", shape = circle, style = solid, fontsize = 14]
+	66 -> 84 [label = "23:in", fontsize = 14];
+67 [label = "67", shape = circle, style = solid, fontsize = 14]
+	67 -> 85 [label = "25:.", fontsize = 14];
+68 [label = "68", shape = circle, style = solid, fontsize = 14]
+	68 -> 86 [label = "19:transmission", fontsize = 14];
+69 [label = "69", shape = circle, style = solid, fontsize = 14]
+	69 -> 87 [label = "24:fig", fontsize = 14];
+70 [label = "70", shape = circle, style = solid, fontsize = 14]
+	70 -> 89 [label = "19:transmission/0.69336", fontsize = 14];
+	70 -> 88 [label = "24:fig", fontsize = 14];
+71 [label = "71", shape = circle, style = solid, fontsize = 14]
+	71 -> 91 [label = "18:the/0.69336", fontsize = 14];
+	71 -> 90 [label = "24:fig", fontsize = 14];
+72 [label = "72", shape = circle, style = solid, fontsize = 14]
+	72 -> 92 [label = "23:in", fontsize = 14];
+	72 -> 93 [label = "25:.", fontsize = 14];
+73 [label = "73", shape = circle, style = solid, fontsize = 14]
+	73 -> 94 [label = "24:fig", fontsize = 14];
+74 [label = "74", shape = circle, style = solid, fontsize = 14]
+	74 -> 95 [label = "20:frame", fontsize = 14];
+75 [label = "75", shape = circle, style = solid, fontsize = 14]
+	75 -> 96 [label = "18:the/0.69336", fontsize = 14];
+	75 -> 97 [label = "22:shown", fontsize = 14];
+76 [label = "76", shape = circle, style = solid, fontsize = 14]
+	76 -> 98 [label = "23:in", fontsize = 14];
+	76 -> 99 [label = "26:2", fontsize = 14];
+77 [label = "77", shape = circle, style = solid, fontsize = 14]
+	77 -> 100 [label = "26:2", fontsize = 14];
+78 [label = "78", shape = circle, style = solid, fontsize = 14]
+	78 -> 101 [label = "23:in", fontsize = 14];
+79 [label = "79", shape = circle, style = solid, fontsize = 14]
+	79 -> 102 [label = "18:the", fontsize = 14];
+80 [label = "80", shape = circle, style = solid, fontsize = 14]
+	80 -> 103 [label = "20:frame", fontsize = 14];
+81 [label = "81", shape = circle, style = solid, fontsize = 14]
+	81 -> 104 [label = "19:transmission", fontsize = 14];
+82 [label = "82", shape = circle, style = solid, fontsize = 14]
+	82 -> 105 [label = "20:frame", fontsize = 14];
+83 [label = "83", shape = circle, style = solid, fontsize = 14]
+	83 -> 106 [label = "25:.", fontsize = 14];
+84 [label = "84", shape = circle, style = solid, fontsize = 14]
+	84 -> 107 [label = "16:to", fontsize = 14];
+85 [label = "85", shape = circle, style = solid, fontsize = 14]
+	85 -> 99 [label = "26:2", fontsize = 14];
+86 [label = "86", shape = circle, style = solid, fontsize = 14]
+	86 -> 108 [label = "20:frame", fontsize = 14];
+87 [label = "87", shape = circle, style = solid, fontsize = 14]
+	87 -> 109 [label = "23:in", fontsize = 14];
+88 [label = "88", shape = circle, style = solid, fontsize = 14]
+	88 -> 110 [label = "23:in/0.69336", fontsize = 14];
+	88 -> 111 [label = "25:.", fontsize = 14];
+89 [label = "89", shape = circle, style = solid, fontsize = 14]
+	89 -> 112 [label = "20:frame", fontsize = 14];
+90 [label = "90", shape = circle, style = solid, fontsize = 14]
+	90 -> 113 [label = "23:in/0.69336", fontsize = 14];
+	90 -> 114 [label = "25:.", fontsize = 14];
+91 [label = "91", shape = circle, style = solid, fontsize = 14]
+	91 -> 115 [label = "24:fig", fontsize = 14];
+92 [label = "92", shape = circle, style = solid, fontsize = 14]
+	92 -> 116 [label = "16:to", fontsize = 14];
+93 [label = "93", shape = circle, style = solid, fontsize = 14]
+	93 -> 117 [label = "23:in", fontsize = 14];
+94 [label = "94", shape = circle, style = solid, fontsize = 14]
+	94 -> 114 [label = "25:.", fontsize = 14];
+95 [label = "95", shape = circle, style = solid, fontsize = 14]
+	95 -> 118 [label = "21:100", fontsize = 14];
+96 [label = "96", shape = circle, style = solid, fontsize = 14]
+	96 -> 119 [label = "19:transmission", fontsize = 14];
+97 [label = "97", shape = circle, style = solid, fontsize = 14]
+	97 -> 120 [label = "18:the", fontsize = 14];
+98 [label = "98", shape = circle, style = solid, fontsize = 14]
+	98 -> 121 [label = "18:the", fontsize = 14];
+99 [label = "99", shape = circle, style = solid, fontsize = 14]
+	99 -> 122 [label = "23:in", fontsize = 14];
+100 [label = "100", shape = circle, style = solid, fontsize = 14]
+	100 -> 123 [label = "16:to", fontsize = 14];
+101 [label = "101", shape = circle, style = solid, fontsize = 14]
+	101 -> 124 [label = "14:so", fontsize = 14];
+102 [label = "102", shape = circle, style = solid, fontsize = 14]
+	102 -> 125 [label = "19:transmission", fontsize = 14];
+103 [label = "103", shape = circle, style = solid, fontsize = 14]
+	103 -> 126 [label = "21:100", fontsize = 14];
+104 [label = "104", shape = circle, style = solid, fontsize = 14]
+	104 -> 127 [label = "20:frame", fontsize = 14];
+105 [label = "105", shape = circle, style = solid, fontsize = 14]
+	105 -> 128 [label = "21:100", fontsize = 14];
+106 [label = "106", shape = circle, style = solid, fontsize = 14]
+	106 -> 129 [label = "26:2", fontsize = 14];
+107 [label = "107", shape = circle, style = solid, fontsize = 14]
+	107 -> 130 [label = "18:the", fontsize = 14];
+108 [label = "108", shape = circle, style = solid, fontsize = 14]
+	108 -> 131 [label = "21:100", fontsize = 14];
+109 [label = "109", shape = circle, style = solid, fontsize = 14]
+	109 -> 132 [label = "19:transmission", fontsize = 14];
+110 [label = "110", shape = circle, style = solid, fontsize = 14]
+	110 -> 133 [label = "19:transmission", fontsize = 14];
+111 [label = "111", shape = circle, style = solid, fontsize = 14]
+	111 -> 134 [label = "23:in", fontsize = 14];
+112 [label = "112", shape = circle, style = solid, fontsize = 14]
+	112 -> 135 [label = "21:100", fontsize = 14];
+113 [label = "113", shape = circle, style = solid, fontsize = 14]
+	113 -> 136 [label = "18:the", fontsize = 14];
+114 [label = "114", shape = circle, style = solid, fontsize = 14]
+	114 -> 137 [label = "23:in", fontsize = 14];
+115 [label = "115", shape = circle, style = solid, fontsize = 14]
+	115 -> 138 [label = "23:in", fontsize = 14];
+	115 -> 139 [label = "25:.", fontsize = 14];
+116 [label = "116", shape = circle, style = solid, fontsize = 14]
+	116 -> 140 [label = "18:the", fontsize = 14];
+117 [label = "117", shape = circle, style = solid, fontsize = 14]
+	117 -> 141 [label = "18:the", fontsize = 14];
+118 [label = "118", shape = circle, style = solid, fontsize = 14]
+	118 -> 142 [label = "24:fig", fontsize = 14];
+119 [label = "119", shape = circle, style = solid, fontsize = 14]
+	119 -> 143 [label = "20:frame", fontsize = 14];
+120 [label = "120", shape = circle, style = solid, fontsize = 14]
+	120 -> 144 [label = "19:transmission", fontsize = 14];
+121 [label = "121", shape = circle, style = solid, fontsize = 14]
+	121 -> 145 [label = "19:transmission", fontsize = 14];
+122 [label = "122", shape = circle, style = solid, fontsize = 14]
+	122 -> 146 [label = "22:shown", fontsize = 14];
+123 [label = "123", shape = circle, style = solid, fontsize = 14]
+	123 -> 147 [label = "14:so", fontsize = 14];
+124 [label = "124", shape = circle, style = solid, fontsize = 14]
+	124 -> 148 [label = "18:the", fontsize = 14];
+125 [label = "125", shape = circle, style = solid, fontsize = 14]
+	125 -> 149 [label = "20:frame", fontsize = 14];
+126 [label = "126", shape = circle, style = solid, fontsize = 14]
+	126 -> 150 [label = "24:fig", fontsize = 14];
+127 [label = "127", shape = circle, style = solid, fontsize = 14]
+	127 -> 151 [label = "21:100", fontsize = 14];
+128 [label = "128", shape = circle, style = solid, fontsize = 14]
+	128 -> 152 [label = "17:constitute", fontsize = 14];
+129 [label = "129", shape = circle, style = solid, fontsize = 14]
+	129 -> 153 [label = "23:in", fontsize = 14];
+130 [label = "130", shape = circle, style = solid, fontsize = 14]
+	130 -> 154 [label = "19:transmission", fontsize = 14];
+131 [label = "131", shape = circle, style = solid, fontsize = 14]
+	131 -> 155 [label = "24:fig", fontsize = 14];
+132 [label = "132", shape = circle, style = solid, fontsize = 14]
+	132 -> 156 [label = "20:frame", fontsize = 14];
+133 [label = "133", shape = circle, style = solid, fontsize = 14]
+	133 -> 157 [label = "20:frame", fontsize = 14];
+134 [label = "134", shape = circle, style = solid, fontsize = 14]
+	134 -> 158 [label = "19:transmission", fontsize = 14];
+135 [label = "135", shape = circle, style = solid, fontsize = 14]
+	135 -> 159 [label = "24:fig", fontsize = 14];
+136 [label = "136", shape = circle, style = solid, fontsize = 14]
+	136 -> 160 [label = "19:transmission", fontsize = 14];
+137 [label = "137", shape = circle, style = solid, fontsize = 14]
+	137 -> 161 [label = "18:the", fontsize = 14];
+138 [label = "138", shape = circle, style = solid, fontsize = 14]
+	138 -> 162 [label = "19:transmission", fontsize = 14];
+139 [label = "139", shape = circle, style = solid, fontsize = 14]
+	139 -> 161 [label = "23:in", fontsize = 14];
+140 [label = "140", shape = circle, style = solid, fontsize = 14]
+	140 -> 163 [label = "19:transmission", fontsize = 14];
+141 [label = "141", shape = circle, style = solid, fontsize = 14]
+	141 -> 164 [label = "19:transmission", fontsize = 14];
+142 [label = "142", shape = circle, style = solid, fontsize = 14]
+	142 -> 165 [label = "25:.", fontsize = 14];
+143 [label = "143", shape = circle, style = solid, fontsize = 14]
+	143 -> 166 [label = "21:100", fontsize = 14];
+144 [label = "144", shape = circle, style = solid, fontsize = 14]
+	144 -> 167 [label = "20:frame", fontsize = 14];
+145 [label = "145", shape = circle, style = solid, fontsize = 14]
+	145 -> 168 [label = "20:frame", fontsize = 14];
+146 [label = "146", shape = circle, style = solid, fontsize = 14]
+	146 -> 169 [label = "18:the", fontsize = 14];
+147 [label = "147", shape = circle, style = solid, fontsize = 14]
+	147 -> 170 [label = "18:the", fontsize = 14];
+148 [label = "148", shape = circle, style = solid, fontsize = 14]
+	148 -> 171 [label = "19:transmission", fontsize = 14];
+149 [label = "149", shape = circle, style = solid, fontsize = 14]
+	149 -> 172 [label = "21:100", fontsize = 14];
+150 [label = "150", shape = circle, style = solid, fontsize = 14]
+	150 -> 173 [label = "25:.", fontsize = 14];
+151 [label = "151", shape = circle, style = solid, fontsize = 14]
+	151 -> 174 [label = "22:shown", fontsize = 14];
+	151 -> 175 [label = "24:fig", fontsize = 14];
+152 [label = "152", shape = circle, style = solid, fontsize = 14]
+	152 -> 176 [label = "24:fig", fontsize = 14];
+153 [label = "153", shape = circle, style = solid, fontsize = 14]
+	153 -> 177 [label = "22:shown", fontsize = 14];
+154 [label = "154", shape = circle, style = solid, fontsize = 14]
+	154 -> 178 [label = "20:frame", fontsize = 14];
+155 [label = "155", shape = circle, style = solid, fontsize = 14]
+	155 -> 179 [label = "23:in", fontsize = 14];
+156 [label = "156", shape = circle, style = solid, fontsize = 14]
+	156 -> 180 [label = "21:100", fontsize = 14];
+157 [label = "157", shape = circle, style = solid, fontsize = 14]
+	157 -> 181 [label = "21:100", fontsize = 14];
+158 [label = "158", shape = circle, style = solid, fontsize = 14]
+	158 -> 182 [label = "20:frame", fontsize = 14];
+159 [label = "159", shape = circle, style = solid, fontsize = 14]
+	159 -> 183 [label = "25:.", fontsize = 14];
+160 [label = "160", shape = circle, style = solid, fontsize = 14]
+	160 -> 184 [label = "20:frame", fontsize = 14];
+161 [label = "161", shape = circle, style = solid, fontsize = 14]
+	161 -> 185 [label = "19:transmission", fontsize = 14];
+162 [label = "162", shape = circle, style = solid, fontsize = 14]
+	162 -> 186 [label = "20:frame", fontsize = 14];
+163 [label = "163", shape = circle, style = solid, fontsize = 14]
+	163 -> 187 [label = "20:frame", fontsize = 14];
+164 [label = "164", shape = circle, style = solid, fontsize = 14]
+	164 -> 188 [label = "20:frame", fontsize = 14];
+165 [label = "165", shape = circle, style = solid, fontsize = 14]
+	165 -> 189 [label = "23:in", fontsize = 14];
+166 [label = "166", shape = circle, style = solid, fontsize = 14]
+	166 -> 190 [label = "22:shown", fontsize = 14];
+167 [label = "167", shape = circle, style = solid, fontsize = 14]
+	167 -> 191 [label = "21:100", fontsize = 14];
+168 [label = "168", shape = circle, style = solid, fontsize = 14]
+	168 -> 192 [label = "21:100", fontsize = 14];
+169 [label = "169", shape = circle, style = solid, fontsize = 14]
+	169 -> 193 [label = "19:transmission", fontsize = 14];
+170 [label = "170", shape = circle, style = solid, fontsize = 14]
+	170 -> 194 [label = "19:transmission", fontsize = 14];
+171 [label = "171", shape = circle, style = solid, fontsize = 14]
+	171 -> 195 [label = "20:frame", fontsize = 14];
+172 [label = "172", shape = circle, style = solid, fontsize = 14]
+	172 -> 196 [label = "17:constitute", fontsize = 14];
+173 [label = "173", shape = circle, style = solid, fontsize = 14]
+	173 -> 197 [label = "26:2", fontsize = 14];
+174 [label = "174", shape = circle, style = solid, fontsize = 14]
+	174 -> 198 [label = "17:constitute", fontsize = 14];
+175 [label = "175", shape = circle, style = solid, fontsize = 14]
+	175 -> 199 [label = "23:in", fontsize = 14];
+176 [label = "176", shape = circle, style = solid, fontsize = 14]
+	176 -> 200 [label = "25:.", fontsize = 14];
+177 [label = "177", shape = circle, style = solid, fontsize = 14]
+	177 -> 201 [label = "19:transmission", fontsize = 14];
+178 [label = "178", shape = circle, style = solid, fontsize = 14]
+	178 -> 199 [label = "21:100", fontsize = 14];
+179 [label = "179", shape = circle, style = solid, fontsize = 14]
+	179 -> 202 [label = "22:shown", fontsize = 14];
+180 [label = "180", shape = circle, style = solid, fontsize = 14]
+	180 -> 203 [label = "22:shown", fontsize = 14];
+181 [label = "181", shape = circle, style = solid, fontsize = 14]
+	181 -> 204 [label = "22:shown", fontsize = 14];
+182 [label = "182", shape = circle, style = solid, fontsize = 14]
+	182 -> 205 [label = "21:100", fontsize = 14];
+183 [label = "183", shape = circle, style = solid, fontsize = 14]
+	183 -> 206 [label = "26:2", fontsize = 14];
+184 [label = "184", shape = circle, style = solid, fontsize = 14]
+	184 -> 207 [label = "21:100", fontsize = 14];
+185 [label = "185", shape = circle, style = solid, fontsize = 14]
+	185 -> 208 [label = "20:frame", fontsize = 14];
+186 [label = "186", shape = circle, style = solid, fontsize = 14]
+	186 -> 209 [label = "21:100", fontsize = 14];
+187 [label = "187", shape = circle, style = solid, fontsize = 14]
+	187 -> 210 [label = "21:100", fontsize = 14];
+188 [label = "188", shape = circle, style = solid, fontsize = 14]
+	188 -> 211 [label = "21:100", fontsize = 14];
+189 [label = "189", shape = circle, style = solid, fontsize = 14]
+	189 -> 212 [label = "22:shown", fontsize = 14];
+190 [label = "190", shape = circle, style = solid, fontsize = 14]
+	190 -> 213 [label = "17:constitute", fontsize = 14];
+191 [label = "191", shape = circle, style = solid, fontsize = 14]
+	191 -> 214 [label = "17:constitute", fontsize = 14];
+192 [label = "192", shape = circle, style = solid, fontsize = 14]
+	192 -> 215 [label = "22:shown", fontsize = 14];
+193 [label = "193", shape = circle, style = solid, fontsize = 14]
+	193 -> 216 [label = "20:frame", fontsize = 14];
+194 [label = "194", shape = circle, style = solid, fontsize = 14]
+	194 -> 217 [label = "20:frame", fontsize = 14];
+195 [label = "195", shape = circle, style = solid, fontsize = 14]
+	195 -> 218 [label = "21:100", fontsize = 14];
+196 [label = "196", shape = circle, style = solid, fontsize = 14]
+	196 -> 219 [label = "15:as", fontsize = 14];
+197 [label = "197", shape = circle, style = solid, fontsize = 14]
+	197 -> 220 [label = "23:in", fontsize = 14];
+198 [label = "198", shape = circle, style = solid, fontsize = 14]
+	198 -> 221 [label = "24:fig", fontsize = 14];
+199 [label = "199", shape = circle, style = solid, fontsize = 14]
+	199 -> 222 [label = "22:shown", fontsize = 14];
+200 [label = "200", shape = circle, style = solid, fontsize = 14]
+	200 -> 223 [label = "23:in", fontsize = 14];
+201 [label = "201", shape = circle, style = solid, fontsize = 14]
+	201 -> 224 [label = "20:frame", fontsize = 14];
+202 [label = "202", shape = circle, style = solid, fontsize = 14]
+	202 -> 225 [label = "17:constitute", fontsize = 14];
+203 [label = "203", shape = circle, style = solid, fontsize = 14]
+	203 -> 222 [label = "16:to", fontsize = 14];
+204 [label = "204", shape = circle, style = solid, fontsize = 14]
+	204 -> 226 [label = "25:.", fontsize = 14];
+205 [label = "205", shape = circle, style = solid, fontsize = 14]
+	205 -> 227 [label = "22:shown", fontsize = 14];
+206 [label = "206", shape = circle, style = solid, fontsize = 14]
+	206 -> 228 [label = "23:in", fontsize = 14];
+207 [label = "207", shape = circle, style = solid, fontsize = 14]
+	207 -> 229 [label = "22:shown", fontsize = 14];
+208 [label = "208", shape = circle, style = solid, fontsize = 14]
+	208 -> 230 [label = "21:100", fontsize = 14];
+209 [label = "209", shape = circle, style = solid, fontsize = 14]
+	209 -> 231 [label = "22:shown", fontsize = 14];
+210 [label = "210", shape = circle, style = solid, fontsize = 14]
+	210 -> 232 [label = "17:constitute", fontsize = 14];
+	210 -> 229 [label = "22:shown", fontsize = 14];
+211 [label = "211", shape = circle, style = solid, fontsize = 14]
+	211 -> 233 [label = "22:shown", fontsize = 14];
+212 [label = "212", shape = circle, style = solid, fontsize = 14]
+	212 -> 234 [label = "26:2", fontsize = 14];
+213 [label = "213", shape = circle, style = solid, fontsize = 14]
+	213 -> 235 [label = "15:as", fontsize = 14];
+214 [label = "214", shape = circle, style = solid, fontsize = 14]
+	214 -> 237 [label = "16:to/0.69336", fontsize = 14];
+	214 -> 236 [label = "15:as", fontsize = 14];
+215 [label = "215", shape = circle, style = solid, fontsize = 14]
+	215 -> 238 [label = "16:to", fontsize = 14];
+216 [label = "216", shape = circle, style = solid, fontsize = 14]
+	216 -> 234 [label = "21:100", fontsize = 14];
+217 [label = "217", shape = circle, style = solid, fontsize = 14]
+	217 -> 239 [label = "21:100", fontsize = 14];
+218 [label = "218", shape = circle, style = solid, fontsize = 14]
+	218 -> 234 [label = "22:shown", fontsize = 14];
+219 [label = "219", shape = circle, style = solid, fontsize = 14]
+	219 -> 240 [label = "22:shown", fontsize = 14];
+220 [label = "220", shape = circle, style = solid, fontsize = 14]
+	220 -> 241 [label = "22:shown", fontsize = 14];
+221 [label = "221", shape = circle, style = solid, fontsize = 14]
+	221 -> 242 [label = "23:in", fontsize = 14];
+222 [label = "222", shape = circle, style = solid, fontsize = 14]
+	222 -> 243 [label = "17:constitute", fontsize = 14];
+223 [label = "223", shape = circle, style = solid, fontsize = 14]
+	223 -> 244 [label = "22:shown", fontsize = 14];
+224 [label = "224", shape = circle, style = solid, fontsize = 14]
+	224 -> 245 [label = "21:100", fontsize = 14];
+225 [label = "225", shape = circle, style = solid, fontsize = 14]
+	225 -> 237 [label = "16:to", fontsize = 14];
+226 [label = "226", shape = circle, style = solid, fontsize = 14]
+	226 -> 246 [label = "26:2", fontsize = 14];
+227 [label = "227", shape = circle, style = solid, fontsize = 14]
+	227 -> 245 [label = "26:2", fontsize = 14];
+228 [label = "228", shape = circle, style = solid, fontsize = 14]
+	228 -> 246 [label = "22:shown", fontsize = 14];
+229 [label = "229", shape = circle, style = solid, fontsize = 14]
+	229 -> 242 [label = "17:constitute", fontsize = 14];
+230 [label = "230", shape = circle, style = solid, fontsize = 14]
+	230 -> 247 [label = "22:shown", fontsize = 14];
+231 [label = "231", shape = circle, style = solid, fontsize = 14]
+	231 -> 248 [label = "25:.", fontsize = 14];
+232 [label = "232", shape = circle, style = solid, fontsize = 14]
+	232 -> 242 [label = "22:shown", fontsize = 14];
+233 [label = "233", shape = circle, style = solid, fontsize = 14]
+	233 -> 247 [label = "16:to", fontsize = 14];
+234 [label = "234", shape = circle, style = solid, fontsize = 14]
+	234 -> 249 [label = "17:constitute", fontsize = 14];
+235 [label = "235", shape = circle, style = solid, fontsize = 14]
+	235 -> 250 [label = "16:to", fontsize = 14];
+236 [label = "236", shape = circle, style = solid, fontsize = 14]
+	236 -> 251 [label = "16:to", fontsize = 14];
+237 [label = "237", shape = circle, style = solid, fontsize = 14]
+	237 -> 250 [label = "15:as", fontsize = 14];
+238 [label = "238", shape = circle, style = solid, fontsize = 14]
+	238 -> 252 [label = "17:constitute", fontsize = 14];
+239 [label = "239", shape = circle, style = solid, fontsize = 14]
+	239 -> 253 [label = "22:shown", fontsize = 14];
+240 [label = "240", shape = circle, style = solid, fontsize = 14]
+	240 -> 254 [label = "16:to", fontsize = 14];
+241 [label = "241", shape = circle, style = solid, fontsize = 14]
+	241 -> 255 [label = "17:constitute", fontsize = 14];
+242 [label = "242", shape = circle, style = solid, fontsize = 14]
+	242 -> 256 [label = "25:.", fontsize = 14];
+243 [label = "243", shape = circle, style = solid, fontsize = 14]
+	243 -> 257 [label = "15:as", fontsize = 14];
+244 [label = "244", shape = circle, style = solid, fontsize = 14]
+	244 -> 258 [label = "26:2", fontsize = 14];
+245 [label = "245", shape = circle, style = solid, fontsize = 14]
+	245 -> 259 [label = "17:constitute", fontsize = 14];
+246 [label = "246", shape = circle, style = solid, fontsize = 14]
+	246 -> 253 [label = "16:to", fontsize = 14];
+247 [label = "247", shape = circle, style = solid, fontsize = 14]
+	247 -> 256 [label = "17:constitute", fontsize = 14];
+248 [label = "248", shape = circle, style = solid, fontsize = 14]
+	248 -> 253 [label = "26:2", fontsize = 14];
+249 [label = "249", shape = circle, style = solid, fontsize = 14]
+	249 -> 260 [label = "15:as", fontsize = 14];
+250 [label = "250", shape = circle, style = solid, fontsize = 14]
+	250 -> 261 [label = "25:.", fontsize = 14];
+251 [label = "251", shape = circle, style = solid, fontsize = 14]
+	251 -> 262 [label = "11:the/0.69336", fontsize = 14];
+	251 -> 261 [label = "25:.", fontsize = 14];
+252 [label = "252", shape = circle, style = solid, fontsize = 14]
+	252 -> 261 [label = "15:as", fontsize = 14];
+253 [label = "253", shape = circle, style = solid, fontsize = 14]
+	253 -> 263 [label = "17:constitute", fontsize = 14];
+254 [label = "254", shape = circle, style = solid, fontsize = 14]
+	254 -> 264 [label = "26:2", fontsize = 14];
+255 [label = "255", shape = circle, style = solid, fontsize = 14]
+	255 -> 264 [label = "15:as", fontsize = 14];
+256 [label = "256", shape = circle, style = solid, fontsize = 14]
+	256 -> 263 [label = "26:2", fontsize = 14];
+257 [label = "257", shape = circle, style = solid, fontsize = 14]
+	257 -> 262 [label = "11:the", fontsize = 14];
+258 [label = "258", shape = circle, style = solid, fontsize = 14]
+	258 -> 265 [label = "16:to", fontsize = 14];
+259 [label = "259", shape = circle, style = solid, fontsize = 14]
+	259 -> 263 [label = "16:to", fontsize = 14];
+260 [label = "260", shape = circle, style = solid, fontsize = 14]
+	260 -> 266 [label = "16:to", fontsize = 14];
+261 [label = "261", shape = circle, style = solid, fontsize = 14]
+	261 -> 266 [label = "26:2", fontsize = 14];
+262 [label = "262", shape = circle, style = solid, fontsize = 14]
+	262 -> 267 [label = "12:frame", fontsize = 14];
+263 [label = "263", shape = circle, style = solid, fontsize = 14]
+	263 -> 266 [label = "15:as", fontsize = 14];
+264 [label = "264", shape = circle, style = solid, fontsize = 14]
+	264 -> 266 [label = "10:to", fontsize = 14];
+265 [label = "265", shape = circle, style = solid, fontsize = 14]
+	265 -> 268 [label = "15:as", fontsize = 14];
+266 [label = "266", shape = circle, style = solid, fontsize = 14]
+	266 -> 269 [label = "11:the", fontsize = 14];
+267 [label = "267", shape = circle, style = solid, fontsize = 14]
+	267 -> 270 [label = "13:418", fontsize = 14];
+268 [label = "268", shape = circle, style = solid, fontsize = 14]
+	268 -> 271 [label = "12:frame", fontsize = 14];
+269 [label = "269", shape = circle, style = solid, fontsize = 14]
+	269 -> 272 [label = "12:frame", fontsize = 14];
+270 [label = "270", shape = circle, style = solid, fontsize = 14]
+	270 -> 273 [label = "25:.", fontsize = 14];
+271 [label = "271", shape = circle, style = solid, fontsize = 14]
+	271 -> 274 [label = "13:418", fontsize = 14];
+272 [label = "272", shape = circle, style = solid, fontsize = 14]
+	272 -> 275 [label = "13:418", fontsize = 14];
+273 [label = "273", shape = circle, style = solid, fontsize = 14]
+	273 -> 275 [label = "26:2", fontsize = 14];
+274 [label = "274", shape = circle, style = solid, fontsize = 14]
+	274 -> 275 [label = "11:the", fontsize = 14];
+275 [label = "275", shape = circle, style = solid, fontsize = 14]
+	275 -> 276 [label = "27:.", fontsize = 14];
+276 [label = "276", shape = doublecircle, style = solid, fontsize = 14]
+}

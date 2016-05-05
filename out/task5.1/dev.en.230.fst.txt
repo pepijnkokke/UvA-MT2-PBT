@@ -1,0 +1,210 @@
+0 1 1 the
+1 2 2 second
+2 3 3 member
+3 4 4 31
+4 5 5 is
+5 6 9 the
+6 7 10 first
+7 8 11 member
+8 9 12 30
+9 10 8 inside
+10 11 7 radially
+11 12 6 disposed
+12 13 13 . 0.160793303531
+13
+0 14 2 second
+14 15 1 the
+15 16 3 member
+16 17 4 31
+17 18 5 is
+18 19 9 the
+19 20 10 first
+20 21 11 member
+21 22 12 30
+22 23 8 inside
+23 24 7 radially
+24 25 6 disposed
+25 26 13 . 3.0290979674
+26
+0 27 1 the
+27 28 2 second
+28 29 3 member
+29 30 4 31
+30 31 5 is
+31 32 10 first
+32 33 9 the
+33 34 11 member
+34 35 12 30
+35 36 8 inside
+36 37 7 radially
+37 38 6 disposed
+38 39 13 . 3.23551707577
+39
+0 40 1 the
+40 41 2 second
+41 42 3 member
+42 43 4 31
+43 44 5 is
+44 45 9 the
+45 46 10 first
+46 47 11 member
+47 48 8 inside
+48 49 12 30
+49 50 7 radially
+50 51 6 disposed
+51 52 13 . 6.94908914248
+52
+0 53 1 the
+53 54 2 second
+54 55 3 member
+55 56 4 31
+56 57 5 is
+57 58 9 the
+58 59 10 first
+59 60 11 member
+60 61 12 30
+61 62 6 disposed
+62 63 8 inside
+63 64 7 radially
+64 65 13 . 8.55852705491
+65
+0 66 1 the
+66 67 2 second
+67 68 3 member
+68 69 4 31
+69 70 5 is
+70 71 9 the
+71 72 10 first
+72 73 11 member
+73 74 12 30
+74 75 7 radially
+75 76 8 inside
+76 77 6 disposed
+77 78 13 . 6.47908551323
+78
+0 79 2 second
+79 80 1 the
+80 81 3 member
+81 82 4 31
+82 83 5 is
+83 84 10 first
+84 85 9 the
+85 86 11 member
+86 87 12 30
+87 88 8 inside
+88 89 7 radially
+89 90 6 disposed
+90 91 13 . 6.25594196191
+91
+0 92 1 the
+92 93 2 second
+93 94 3 member
+94 95 4 31
+95 96 5 is
+96 97 10 first
+97 98 11 member
+98 99 9 the
+99 100 12 30
+100 101 8 inside
+101 102 7 radially
+102 103 6 disposed
+103 104 13 . 7.45991476624
+104
+0 105 2 second
+105 106 1 the
+106 107 3 member
+107 108 4 31
+108 109 5 is
+109 110 9 the
+110 111 10 first
+111 112 11 member
+112 113 12 30
+113 114 7 radially
+114 115 8 inside
+115 116 6 disposed
+116 117 13 . 8.55852705491
+117
+0 118 1 the
+118 119 2 second
+119 120 3 member
+120 121 4 31
+121 122 5 is
+122 123 9 the
+123 124 10 first
+124 125 8 inside
+125 126 11 member
+126 127 12 30
+127 128 7 radially
+128 129 6 disposed
+129 130 13 . 8.55852705491
+130
+0 131 1 the
+131 132 2 second
+132 133 3 member
+133 134 4 31
+134 135 5 is
+135 136 9 the
+136 137 10 first
+137 138 11 member
+138 139 8 inside
+139 140 7 radially
+140 141 12 30
+141 142 6 disposed
+142 143 13 . 8.55852705491
+143
+0 144 1 the
+144 145 2 second
+145 146 3 member
+146 147 4 31
+147 148 5 is
+148 149 9 the
+149 150 11 member
+150 151 12 30
+151 152 10 first
+152 153 8 inside
+153 154 7 radially
+154 155 6 disposed
+155 156 13 . 6.94908914248
+156
+0 157 1 the
+157 158 3 member
+158 159 4 31
+159 160 2 second
+160 161 5 is
+161 162 9 the
+162 163 10 first
+163 164 11 member
+164 165 12 30
+165 166 8 inside
+166 167 7 radially
+167 168 6 disposed
+168 169 13 . 6.94908914248
+169
+0 170 1 the
+170 171 2 second
+171 172 3 member
+172 173 4 31
+173 174 5 is
+174 175 9 the
+175 176 10 first
+176 177 11 member
+177 178 8 inside
+178 179 7 radially
+179 180 6 disposed
+180 181 12 30
+181 182 13 . 4.6667067568
+182
+0 183 2 second
+183 184 3 member
+184 185 4 31
+185 186 1 the
+186 187 5 is
+187 188 9 the
+188 189 10 first
+189 190 11 member
+190 191 12 30
+191 192 8 inside
+192 193 7 radially
+193 194 6 disposed
+194 195 13 . 3.12918142596
+195

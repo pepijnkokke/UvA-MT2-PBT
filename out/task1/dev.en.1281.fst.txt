@@ -1,0 +1,14 @@
+0 1 1 in
+1 2 2 fig
+2 3 3 .
+3 4 4 5
+4 5 5 ,
+5 6 6 numerals
+6 7 7 enclosed
+7 8 8 with
+8 9 9 circles
+9 10 10 represent
+10 11 11 step
+11 12 12 numbers
+12 13 13 .
+13

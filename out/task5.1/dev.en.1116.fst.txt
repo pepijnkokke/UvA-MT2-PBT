@@ -1,0 +1,266 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 14
+3 4 4 is
+4 5 10 automatically
+5 6 11 dealing
+6 7 12 stocks
+7 8 9 for
+8 9 8 diagram
+9 10 5 a
+10 11 6 system
+11 12 7 architecture
+12 13 13 . 0.854444594022
+13
+0 14 1 fig
+14 15 2 .
+15 16 3 14
+16 17 4 is
+17 18 10 automatically
+18 19 11 dealing
+19 20 12 stocks
+20 21 9 for
+21 22 5 a
+22 23 6 system
+23 24 7 architecture
+24 25 8 diagram
+25 26 13 . 1.06197815549
+26
+0 27 1 fig
+27 28 2 .
+28 29 3 14
+29 30 4 is
+30 31 10 automatically
+31 32 12 stocks
+32 33 11 dealing
+33 34 9 for
+34 35 8 diagram
+35 36 5 a
+36 37 6 system
+37 38 7 architecture
+38 39 13 . 7.03790596345
+39
+0 40 1 fig
+40 41 2 .
+41 42 3 14
+42 43 4 is
+43 44 10 automatically
+44 45 11 dealing
+45 46 12 stocks
+46 47 8 diagram
+47 48 9 for
+48 49 5 a
+49 50 6 system
+50 51 7 architecture
+51 52 13 . 6.26471607521
+52
+0 53 1 fig
+53 54 2 .
+54 55 3 14
+55 56 4 is
+56 57 10 automatically
+57 58 11 dealing
+58 59 9 for
+59 60 12 stocks
+60 61 5 a
+61 62 6 system
+62 63 7 architecture
+63 64 8 diagram
+64 65 13 . 8.13651825211
+65
+0 66 1 fig
+66 67 2 .
+67 68 3 14
+68 69 4 is
+69 70 10 automatically
+70 71 11 dealing
+71 72 9 for
+72 73 8 diagram
+73 74 12 stocks
+74 75 5 a
+75 76 6 system
+76 77 7 architecture
+77 78 13 . 7.22022752024
+78
+0 79 1 fig
+79 80 2 .
+80 81 3 14
+81 82 4 is
+82 83 10 automatically
+83 84 12 stocks
+84 85 11 dealing
+85 86 9 for
+86 87 5 a
+87 88 6 system
+88 89 7 architecture
+89 90 8 diagram
+90 91 13 . 7.03790596345
+91
+0 92 1 fig
+92 93 2 .
+93 94 3 14
+94 95 4 is
+95 96 10 automatically
+96 97 11 dealing
+97 98 12 stocks
+98 99 9 for
+99 100 8 diagram
+100 101 7 architecture
+101 102 5 a
+102 103 6 system
+103 104 13 . 2.16781069213
+104
+0 105 1 fig
+105 106 2 .
+106 107 3 14
+107 108 4 is
+108 109 11 dealing
+109 110 10 automatically
+110 111 12 stocks
+111 112 9 for
+112 113 5 a
+113 114 6 system
+114 115 7 architecture
+115 116 8 diagram
+116 117 13 . 8.82966543268
+117
+0 118 1 fig
+118 119 2 .
+119 120 3 14
+120 121 4 is
+121 122 12 stocks
+122 123 10 automatically
+123 124 11 dealing
+124 125 9 for
+125 126 8 diagram
+126 127 5 a
+127 128 6 system
+128 129 7 architecture
+129 130 13 . 2.76820851375
+130
+0 131 1 fig
+131 132 2 .
+132 133 3 14
+133 134 4 is
+134 135 11 dealing
+135 136 12 stocks
+136 137 10 automatically
+137 138 9 for
+138 139 8 diagram
+139 140 5 a
+140 141 6 system
+141 142 7 architecture
+142 143 13 . 4.00938386707
+143
+0 144 1 fig
+144 145 2 .
+145 146 3 14
+146 147 4 is
+147 148 10 automatically
+148 149 11 dealing
+149 150 12 stocks
+150 151 9 for
+151 152 7 architecture
+152 153 8 diagram
+153 154 5 a
+154 155 6 system
+155 156 13 . 5.99645208862
+156
+0 157 1 fig
+157 158 2 .
+158 159 3 14
+159 160 4 is
+160 161 10 automatically
+161 162 11 dealing
+162 163 12 stocks
+163 164 9 for
+164 165 8 diagram
+165 166 6 system
+166 167 7 architecture
+167 168 5 a
+168 169 13 . 7.03790596345
+169
+0 170 2 .
+170 171 3 14
+171 172 1 fig
+172 173 4 is
+173 174 10 automatically
+174 175 11 dealing
+175 176 12 stocks
+176 177 9 for
+177 178 8 diagram
+178 179 5 a
+179 180 6 system
+180 181 7 architecture
+181 182 13 . 8.82966543268
+182
+0 183 1 fig
+183 184 2 .
+184 185 3 14
+185 186 4 is
+186 187 12 stocks
+187 188 10 automatically
+188 189 11 dealing
+189 190 9 for
+190 191 5 a
+191 192 6 system
+192 193 7 architecture
+193 194 8 diagram
+194 195 13 . 3.92439065424
+195
+0 196 1 fig
+196 197 2 .
+197 198 3 14
+198 199 4 is
+199 200 10 automatically
+200 201 11 dealing
+201 202 12 stocks
+202 203 9 for
+203 204 6 system
+204 205 7 architecture
+205 206 8 diagram
+206 207 5 a
+207 208 13 . 7.73105314401
+208
+0 209 1 fig
+209 210 2 .
+210 211 3 14
+211 212 4 is
+212 213 9 for
+213 214 10 automatically
+214 215 11 dealing
+215 216 12 stocks
+216 217 8 diagram
+217 218 5 a
+218 219 6 system
+219 220 7 architecture
+220 221 13 . 6.12161523157
+221
+0 222 1 fig
+222 223 2 .
+223 224 3 14
+224 225 4 is
+225 226 11 dealing
+226 227 12 stocks
+227 228 10 automatically
+228 229 9 for
+229 230 5 a
+230 231 6 system
+231 232 7 architecture
+232 233 8 diagram
+233 234 13 . 6.05707671044
+234
+0 235 1 fig
+235 236 2 .
+236 237 3 14
+237 238 4 is
+238 239 10 automatically
+239 240 12 stocks
+240 241 11 dealing
+241 242 9 for
+242 243 8 diagram
+243 244 7 architecture
+244 245 5 a
+245 246 6 system
+246 247 13 . 8.13651825211
+247

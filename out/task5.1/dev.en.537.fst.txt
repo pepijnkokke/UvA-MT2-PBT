@@ -1,0 +1,253 @@
+0 1 1 next
+1 2 2 ,
+2 3 3 asn.1
+3 4 4 abstract
+4 5 5 syntax
+5 6 6 will
+6 7 7 be
+7 8 8 briefly
+8 9 9 described
+9 10 10 . 0.706956375834
+10
+0 11 1 next
+11 12 2 ,
+12 13 3 asn.1
+13 14 4 abstract
+14 15 5 syntax
+15 16 7 be
+16 17 6 will
+17 18 8 briefly
+18 19 9 described
+19 20 10 . 1.66827841246
+20
+0 21 1 next
+21 22 2 ,
+22 23 3 asn.1
+23 24 4 abstract
+24 25 5 syntax
+25 26 6 will
+26 27 8 briefly
+27 28 7 be
+28 29 9 described
+29 30 10 . 8.85366542804
+30
+0 31 1 next
+31 32 2 ,
+32 33 3 asn.1
+33 34 4 abstract
+34 35 5 syntax
+35 36 6 will
+36 37 8 briefly
+37 38 9 described
+38 39 7 be
+39 40 10 . 1.42059007914
+40
+0 41 1 next
+41 42 2 ,
+42 43 3 asn.1
+43 44 4 abstract
+44 45 5 syntax
+45 46 7 be
+46 47 8 briefly
+47 48 6 will
+48 49 9 described
+49 50 10 . 6.90775527898
+50
+0 51 1 next
+51 52 2 ,
+52 53 3 asn.1
+53 54 4 abstract
+54 55 5 syntax
+55 56 8 briefly
+56 57 6 will
+57 58 7 be
+58 59 9 described
+59 60 10 . 6.28871607058
+60
+0 61 1 next
+61 62 2 ,
+62 63 3 asn.1
+63 64 4 abstract
+64 65 5 syntax
+65 66 8 briefly
+66 67 7 be
+67 68 6 will
+68 69 9 described
+69 70 10 . 3.39834431268
+70
+0 71 1 next
+71 72 2 ,
+72 73 3 asn.1
+73 74 4 abstract
+74 75 7 be
+75 76 5 syntax
+76 77 6 will
+77 78 8 briefly
+78 79 9 described
+79 80 10 . 4.96184512993
+80
+0 81 1 next
+81 82 2 ,
+82 83 3 asn.1
+83 84 4 abstract
+84 85 6 will
+85 86 5 syntax
+86 87 7 be
+87 88 8 briefly
+88 89 9 described
+89 90 10 . 8.85366542804
+90
+0 91 1 next
+91 92 2 ,
+92 93 4 abstract
+93 94 3 asn.1
+94 95 5 syntax
+95 96 6 will
+96 97 7 be
+97 98 8 briefly
+98 99 9 described
+99 100 10 . 7.46737106692
+100
+0 101 1 next
+101 102 2 ,
+102 103 3 asn.1
+103 104 5 syntax
+104 105 4 abstract
+105 106 6 will
+106 107 7 be
+107 108 8 briefly
+108 109 9 described
+109 110 10 . 8.85366542804
+110
+0 111 1 next
+111 112 3 asn.1
+112 113 2 ,
+113 114 4 abstract
+114 115 5 syntax
+115 116 6 will
+116 117 7 be
+117 118 8 briefly
+118 119 9 described
+119 120 10 . 6.36875877825
+120
+0 121 1 next
+121 122 2 ,
+122 123 4 abstract
+123 124 3 asn.1
+124 125 5 syntax
+125 126 7 be
+126 127 6 will
+127 128 8 briefly
+128 129 9 described
+129 130 10 . 8.16051824748
+130
+0 131 1 next
+131 132 2 ,
+132 133 3 asn.1
+133 134 4 abstract
+134 135 5 syntax
+135 136 7 be
+136 137 8 briefly
+137 138 9 described
+138 139 6 will
+139 140 10 . 5.29831736655
+140
+0 141 1 next
+141 142 3 asn.1
+142 143 2 ,
+143 144 4 abstract
+144 145 5 syntax
+145 146 7 be
+146 147 6 will
+147 148 8 briefly
+148 149 9 described
+149 150 10 . 8.85366542804
+150
+0 151 1 next
+151 152 2 ,
+152 153 3 asn.1
+153 154 4 abstract
+154 155 5 syntax
+155 156 6 will
+156 157 9 described
+157 158 7 be
+158 159 8 briefly
+159 160 10 . 3.98613097758
+160
+0 161 1 next
+161 162 2 ,
+162 163 3 asn.1
+163 164 4 abstract
+164 165 6 will
+165 166 5 syntax
+166 167 8 briefly
+167 168 9 described
+168 169 7 be
+169 170 10 . 8.85366542804
+170
+0 171 1 next
+171 172 2 ,
+172 173 3 asn.1
+173 174 4 abstract
+174 175 8 briefly
+175 176 5 syntax
+176 177 6 will
+177 178 7 be
+178 179 9 described
+179 180 10 . 7.06190595881
+180
+0 181 1 next
+181 182 2 ,
+182 183 4 abstract
+183 184 3 asn.1
+184 185 5 syntax
+185 186 6 will
+186 187 8 briefly
+187 188 9 described
+188 189 7 be
+189 190 10 . 7.75505313937
+190
+0 191 1 next
+191 192 2 ,
+192 193 3 asn.1
+193 194 5 syntax
+194 195 4 abstract
+195 196 6 will
+196 197 8 briefly
+197 198 9 described
+198 199 7 be
+199 200 10 . 8.85366542804
+200
+0 201 1 next
+201 202 2 ,
+202 203 3 asn.1
+203 204 4 abstract
+204 205 5 syntax
+205 206 8 briefly
+206 207 9 described
+207 208 6 will
+208 209 7 be
+209 210 10 . 5.76262297468
+210
+0 211 1 next
+211 212 3 asn.1
+212 213 2 ,
+213 214 4 abstract
+214 215 5 syntax
+215 216 6 will
+216 217 8 briefly
+217 218 9 described
+218 219 7 be
+219 220 10 . 7.75505313937
+220
+0 221 1 next
+221 222 2 ,
+222 223 3 asn.1
+223 224 4 abstract
+224 225 8 briefly
+225 226 5 syntax
+226 227 7 be
+227 228 6 will
+228 229 9 described
+229 230 10 . 6.45577015524
+230

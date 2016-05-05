@@ -1,0 +1,112 @@
+0 1 1 the
+1 2 2 reference
+2 3 3 value
+3 4 4 is
+4 5 11 daily
+5 6 12 report
+6 7 10 in
+7 8 9 recorded
+8 9 8 be
+9 10 7 to
+10 11 5 the
+11 12 6 parameter
+12 13 13 . 0.677661463122
+13
+0 14 1 the
+14 15 2 reference
+15 16 3 value
+16 17 4 is
+17 18 11 daily
+18 19 12 report
+19 20 10 in
+20 21 9 recorded
+21 22 8 be
+22 23 5 the
+23 24 6 parameter
+24 25 7 to
+25 26 13 . 1.30228869725
+26
+0 27 1 the
+27 28 2 reference
+28 29 3 value
+29 30 4 is
+30 31 11 daily
+31 32 12 report
+32 33 10 in
+33 34 8 be
+34 35 9 recorded
+35 36 7 to
+36 37 5 the
+37 38 6 parameter
+38 39 13 . 1.87300337825
+39
+0 40 1 the
+40 41 2 reference
+41 42 3 value
+42 43 4 is
+43 44 11 daily
+44 45 12 report
+45 46 10 in
+46 47 8 be
+47 48 9 recorded
+48 49 5 the
+49 50 6 parameter
+50 51 7 to
+51 52 13 . 3.29914364791
+52
+0 53 1 the
+53 54 2 reference
+54 55 3 value
+55 56 4 is
+56 57 11 daily
+57 58 12 report
+58 59 10 in
+59 60 9 recorded
+60 61 7 to
+61 62 8 be
+62 63 5 the
+63 64 6 parameter
+64 65 13 . 4.2826866068
+65
+0 66 1 the
+66 67 2 reference
+67 68 3 value
+68 69 4 is
+69 70 11 daily
+70 71 10 in
+71 72 12 report
+72 73 9 recorded
+73 74 8 be
+74 75 7 to
+75 76 5 the
+76 77 6 parameter
+77 78 13 . 5.33873928105
+78
+0 79 1 the
+79 80 2 reference
+80 81 3 value
+81 82 4 is
+82 83 11 daily
+83 84 10 in
+84 85 12 report
+85 86 9 recorded
+86 87 8 be
+87 88 5 the
+88 89 6 parameter
+89 90 7 to
+90 91 13 . 6.72503364216
+91
+0 92 1 the
+92 93 2 reference
+93 94 3 value
+94 95 4 is
+95 96 11 daily
+96 97 12 report
+97 98 10 in
+98 99 7 to
+99 100 9 recorded
+100 101 8 be
+101 102 5 the
+102 103 6 parameter
+103 104 13 . 4.61482044182
+104

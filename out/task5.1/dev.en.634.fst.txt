@@ -1,0 +1,144 @@
+0 1 2 or
+1 2 4 a
+2 3 5 fuse
+3 4 6 has
+4 5 8 normally
+5 6 9 blown
+6 7 7 been
+7 8 3 not
+8 9 1 whether
+9 10 14 the
+10 11 15 molded
+11 12 16 state
+12 13 13 in
+13 14 11 be
+14 15 12 detected
+15 16 10 may
+16 17 17 . 1.58651040779
+17
+0 18 2 or
+18 19 4 a
+19 20 5 fuse
+20 21 6 has
+21 22 8 normally
+22 23 9 blown
+23 24 7 been
+24 25 3 not
+25 26 1 whether
+26 27 14 the
+27 28 15 molded
+28 29 16 state
+29 30 13 in
+30 31 12 detected
+31 32 11 be
+32 33 10 may
+33 34 17 . 0.455108296299
+34
+0 35 2 or
+35 36 4 a
+36 37 5 fuse
+37 38 6 has
+38 39 8 normally
+39 40 7 been
+40 41 9 blown
+41 42 3 not
+42 43 1 whether
+43 44 14 the
+44 45 15 molded
+45 46 16 state
+46 47 13 in
+47 48 11 be
+48 49 12 detected
+49 50 10 may
+50 51 17 . 5.21085134077
+51
+0 52 2 or
+52 53 4 a
+53 54 5 fuse
+54 55 6 has
+55 56 8 normally
+56 57 7 been
+57 58 9 blown
+58 59 3 not
+59 60 1 whether
+60 61 14 the
+61 62 15 molded
+62 63 16 state
+63 64 13 in
+64 65 12 detected
+65 66 11 be
+66 67 10 may
+67 68 17 . 3.50610324853
+68
+0 69 2 or
+69 70 4 a
+70 71 5 fuse
+71 72 6 has
+72 73 8 normally
+73 74 7 been
+74 75 3 not
+75 76 9 blown
+76 77 1 whether
+77 78 14 the
+78 79 15 molded
+79 80 16 state
+80 81 13 in
+81 82 11 be
+82 83 12 detected
+83 84 10 may
+84 85 17 . 4.51770416021
+85
+0 86 2 or
+86 87 4 a
+87 88 5 fuse
+88 89 6 has
+89 90 8 normally
+90 91 7 been
+91 92 3 not
+92 93 9 blown
+93 94 1 whether
+94 95 14 the
+95 96 15 molded
+96 97 16 state
+97 98 13 in
+98 99 12 detected
+99 100 11 be
+100 101 10 may
+101 102 17 . 3.10063814042
+102
+0 103 2 or
+103 104 4 a
+104 105 5 fuse
+105 106 6 has
+106 107 8 normally
+107 108 9 blown
+108 109 7 been
+109 110 3 not
+110 111 1 whether
+111 112 14 the
+112 113 15 molded
+113 114 16 state
+114 115 11 be
+115 116 13 in
+116 117 12 detected
+117 118 10 may
+118 119 17 . 6.59714570189
+119
+0 120 2 or
+120 121 4 a
+121 122 5 fuse
+122 123 6 has
+123 124 7 been
+124 125 8 normally
+125 126 9 blown
+126 127 3 not
+127 128 1 whether
+128 129 14 the
+129 130 15 molded
+130 131 16 state
+131 132 13 in
+132 133 11 be
+133 134 12 detected
+134 135 10 may
+135 136 17 . 2.68512269646
+136

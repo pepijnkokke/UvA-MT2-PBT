@@ -1,0 +1,171 @@
+0 1 1 the
+1 2 12 polymeric
+2 3 13 gel
+3 4 11 with
+4 5 9 coating
+5 6 10 seeds
+6 7 8 of
+7 8 6 a
+8 9 7 method
+9 10 5 to
+10 11 4 relates
+11 12 2 present
+12 13 3 invention
+13 14 17 therefor
+14 15 14 and
+15 16 15 an
+16 17 16 apparatus
+17 18 18 . 0.25825326176
+18
+0 19 1 the
+19 20 12 polymeric
+20 21 13 gel
+21 22 9 coating
+22 23 10 seeds
+23 24 11 with
+24 25 8 of
+25 26 6 a
+26 27 7 method
+27 28 5 to
+28 29 4 relates
+29 30 2 present
+30 31 3 invention
+31 32 17 therefor
+32 33 14 and
+33 34 15 an
+34 35 16 apparatus
+35 36 18 . 3.21476482216
+36
+0 37 1 the
+37 38 17 therefor
+38 39 12 polymeric
+39 40 13 gel
+40 41 11 with
+41 42 9 coating
+42 43 10 seeds
+43 44 8 of
+44 45 6 a
+45 46 7 method
+46 47 5 to
+47 48 4 relates
+48 49 2 present
+49 50 3 invention
+50 51 14 and
+51 52 15 an
+52 53 16 apparatus
+53 54 18 . 2.7351917419
+54
+0 55 1 the
+55 56 12 polymeric
+56 57 13 gel
+57 58 11 with
+58 59 9 coating
+59 60 10 seeds
+60 61 8 of
+61 62 6 a
+62 63 7 method
+63 64 2 present
+64 65 3 invention
+65 66 5 to
+66 67 4 relates
+67 68 17 therefor
+68 69 14 and
+69 70 15 an
+70 71 16 apparatus
+71 72 18 . 6.18517928773
+72
+0 73 1 the
+73 74 9 coating
+74 75 12 polymeric
+75 76 13 gel
+76 77 11 with
+77 78 10 seeds
+78 79 8 of
+79 80 6 a
+80 81 7 method
+81 82 5 to
+82 83 4 relates
+83 84 2 present
+84 85 3 invention
+85 86 17 therefor
+86 87 14 and
+87 88 15 an
+88 89 16 apparatus
+89 90 18 . 5.49203210717
+90
+0 91 1 the
+91 92 17 therefor
+92 93 12 polymeric
+93 94 13 gel
+94 95 9 coating
+95 96 10 seeds
+96 97 11 with
+97 98 8 of
+98 99 6 a
+99 100 7 method
+100 101 5 to
+101 102 4 relates
+102 103 2 present
+103 104 3 invention
+104 105 14 and
+105 106 15 an
+106 107 16 apparatus
+107 108 18 . 5.08656699906
+108
+0 109 1 the
+109 110 9 coating
+110 111 12 polymeric
+111 112 13 gel
+112 113 10 seeds
+113 114 11 with
+114 115 8 of
+115 116 6 a
+116 117 7 method
+117 118 5 to
+118 119 4 relates
+119 120 2 present
+120 121 3 invention
+121 122 17 therefor
+122 123 14 and
+123 124 15 an
+124 125 16 apparatus
+125 126 18 . 5.26888855586
+126
+0 127 1 the
+127 128 12 polymeric
+128 129 13 gel
+129 130 11 with
+130 131 9 coating
+131 132 10 seeds
+132 133 8 of
+133 134 6 a
+134 135 7 method
+135 136 5 to
+136 137 4 relates
+137 138 2 present
+138 139 3 invention
+139 140 14 and
+140 141 17 therefor
+141 142 15 an
+142 143 16 apparatus
+143 144 18 . 2.56083835475
+144
+0 145 1 the
+145 146 12 polymeric
+146 147 13 gel
+147 148 11 with
+148 149 10 seeds
+149 150 9 coating
+150 151 8 of
+151 152 6 a
+152 153 7 method
+153 154 5 to
+154 155 4 relates
+155 156 2 present
+156 157 3 invention
+157 158 17 therefor
+158 159 14 and
+159 160 15 an
+160 161 16 apparatus
+161 162 18 . 3.58248960229
+162

@@ -1,0 +1,299 @@
+0 1 1 subsequently
+1 2 2 ,
+2 3 3 motion
+3 4 4 compensation
+4 5 5 lens
+5 6 6 5
+6 7 8 the
+7 8 9 motion
+8 9 10 compensation
+9 10 11 process
+10 11 7 begins
+11 12 12 . 0.654523738913
+12
+0 13 1 subsequently
+13 14 2 ,
+14 15 3 motion
+15 16 4 compensation
+16 17 5 lens
+17 18 6 5
+18 19 8 the
+19 20 9 motion
+20 21 10 compensation
+21 22 7 begins
+22 23 11 process
+23 24 12 . 3.97694024272
+24
+0 25 1 subsequently
+25 26 2 ,
+26 27 3 motion
+27 28 4 compensation
+28 29 5 lens
+29 30 6 5
+30 31 8 the
+31 32 9 motion
+32 33 7 begins
+33 34 10 compensation
+34 35 11 process
+35 36 12 . 3.90862099875
+36
+0 37 1 subsequently
+37 38 2 ,
+38 39 3 motion
+39 40 4 compensation
+40 41 5 lens
+41 42 6 5
+42 43 9 motion
+43 44 8 the
+44 45 10 compensation
+45 46 11 process
+46 47 7 begins
+47 48 12 . 7.47344780419
+48
+0 49 1 subsequently
+49 50 2 ,
+50 51 3 motion
+51 52 4 compensation
+52 53 5 lens
+53 54 6 5
+54 55 8 the
+55 56 7 begins
+56 57 9 motion
+57 58 10 compensation
+58 59 11 process
+59 60 12 . 5.93300276324
+60
+0 61 1 subsequently
+61 62 2 ,
+62 63 3 motion
+63 64 4 compensation
+64 65 5 lens
+65 66 6 5
+66 67 9 motion
+67 68 10 compensation
+68 69 8 the
+69 70 11 process
+70 71 7 begins
+71 72 12 . 7.8789129123
+72
+0 73 1 subsequently
+73 74 2 ,
+74 75 3 motion
+75 76 4 compensation
+76 77 5 lens
+77 78 6 5
+78 79 7 begins
+79 80 8 the
+80 81 9 motion
+81 82 10 compensation
+82 83 11 process
+83 84 12 . 0.945977334784
+84
+0 85 1 subsequently
+85 86 2 ,
+86 87 3 motion
+87 88 4 compensation
+88 89 5 lens
+89 90 6 5
+90 91 9 motion
+91 92 8 the
+92 93 7 begins
+93 94 10 compensation
+94 95 11 process
+95 96 12 . 7.18576573174
+96
+0 97 1 subsequently
+97 98 2 ,
+98 99 3 motion
+99 100 4 compensation
+100 101 8 the
+101 102 5 lens
+102 103 6 5
+103 104 7 begins
+104 105 9 motion
+105 106 10 compensation
+106 107 11 process
+107 108 12 . 8.57206009286
+108
+0 109 1 subsequently
+109 110 2 ,
+110 111 5 lens
+111 112 3 motion
+112 113 4 compensation
+113 114 6 5
+114 115 8 the
+115 116 9 motion
+116 117 10 compensation
+117 118 11 process
+118 119 7 begins
+119 120 12 . 8.57206009286
+120
+0 121 1 subsequently
+121 122 2 ,
+122 123 3 motion
+123 124 4 compensation
+124 125 5 lens
+125 126 6 5
+126 127 8 the
+127 128 11 process
+128 129 9 motion
+129 130 10 compensation
+130 131 7 begins
+131 132 12 . 7.47344780419
+132
+0 133 1 subsequently
+133 134 2 ,
+134 135 3 motion
+135 136 4 compensation
+136 137 5 lens
+137 138 6 5
+138 139 10 compensation
+139 140 8 the
+140 141 9 motion
+141 142 7 begins
+142 143 11 process
+143 144 12 . 6.08715344307
+144
+0 145 1 subsequently
+145 146 2 ,
+146 147 3 motion
+147 148 4 compensation
+148 149 5 lens
+149 150 6 5
+150 151 9 motion
+151 152 10 compensation
+152 153 8 the
+153 154 7 begins
+154 155 11 process
+155 156 12 . 7.47344780419
+156
+0 157 1 subsequently
+157 158 2 ,
+158 159 3 motion
+159 160 4 compensation
+160 161 8 the
+161 162 9 motion
+162 163 5 lens
+163 164 6 5
+164 165 7 begins
+165 166 10 compensation
+166 167 11 process
+167 168 12 . 8.57206009286
+168
+0 169 1 subsequently
+169 170 2 ,
+170 171 3 motion
+171 172 8 the
+172 173 4 compensation
+173 174 5 lens
+174 175 6 5
+175 176 7 begins
+176 177 9 motion
+177 178 10 compensation
+178 179 11 process
+179 180 12 . 7.47344780419
+180
+0 181 1 subsequently
+181 182 2 ,
+182 183 3 motion
+183 184 4 compensation
+184 185 8 the
+185 186 9 motion
+186 187 10 compensation
+187 188 5 lens
+188 189 6 5
+189 190 7 begins
+190 191 11 process
+191 192 12 . 7.47344780419
+192
+0 193 1 subsequently
+193 194 2 ,
+194 195 3 motion
+195 196 4 compensation
+196 197 5 lens
+197 198 6 5
+198 199 9 motion
+199 200 10 compensation
+200 201 11 process
+201 202 8 the
+202 203 7 begins
+203 204 12 . 3.6448064077
+204
+0 205 1 subsequently
+205 206 2 ,
+206 207 8 the
+207 208 3 motion
+208 209 4 compensation
+209 210 5 lens
+210 211 6 5
+211 212 7 begins
+212 213 9 motion
+213 214 10 compensation
+214 215 11 process
+215 216 12 . 6.26947499987
+216
+0 217 1 subsequently
+217 218 2 ,
+218 219 3 motion
+219 220 4 compensation
+220 221 5 lens
+221 222 6 5
+222 223 7 begins
+223 224 9 motion
+224 225 8 the
+225 226 10 compensation
+226 227 11 process
+227 228 12 . 7.8789129123
+228
+0 229 1 subsequently
+229 230 2 ,
+230 231 3 motion
+231 232 4 compensation
+232 233 8 the
+233 234 9 motion
+234 235 10 compensation
+235 236 11 process
+236 237 5 lens
+237 238 6 5
+238 239 7 begins
+239 240 12 . 4.85848802615
+240
+0 241 1 subsequently
+241 242 2 ,
+242 243 3 motion
+243 244 4 compensation
+244 245 5 lens
+245 246 6 5
+246 247 11 process
+247 248 8 the
+248 249 9 motion
+249 250 10 compensation
+250 251 7 begins
+251 252 12 . 7.8789129123
+252
+0 253 1 subsequently
+253 254 2 ,
+254 255 3 motion
+255 256 4 compensation
+256 257 5 lens
+257 258 6 5
+258 259 9 motion
+259 260 10 compensation
+260 261 11 process
+261 262 7 begins
+262 263 8 the
+263 264 12 . 4.96114218021
+264
+0 265 1 subsequently
+265 266 2 ,
+266 267 6 5
+267 268 3 motion
+268 269 4 compensation
+269 270 5 lens
+270 271 8 the
+271 272 9 motion
+272 273 10 compensation
+273 274 11 process
+274 275 7 begins
+275 276 12 . 8.57206009286
+276

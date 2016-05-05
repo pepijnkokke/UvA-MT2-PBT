@@ -1,0 +1,140 @@
+0 1 7 and
+1 2 8 gates
+2 3 9 41
+3 4 10 and
+4 5 11 42
+5 6 6 of
+6 7 3 the
+7 8 4 output
+8 9 5 terminals
+9 10 2 of
+10 11 1 each
+11 12 12 is
+12 13 15 the
+13 14 16 input-output
+14 15 17 circuit
+15 16 18 27
+16 17 14 to
+17 18 13 connected
+18 19 19 . 0.187717651094
+19
+0 20 7 and
+20 21 8 gates
+21 22 9 41
+22 23 10 and
+23 24 6 of
+24 25 11 42
+25 26 3 the
+26 27 4 output
+27 28 5 terminals
+28 29 2 of
+29 30 1 each
+30 31 12 is
+31 32 15 the
+32 33 16 input-output
+33 34 17 circuit
+34 35 18 27
+35 36 14 to
+36 37 13 connected
+37 38 19 . 8.41935983107
+38
+0 39 7 and
+39 40 8 gates
+40 41 9 41
+41 42 10 and
+42 43 11 42
+43 44 3 the
+44 45 6 of
+45 46 4 output
+46 47 5 terminals
+47 48 2 of
+48 49 1 each
+49 50 12 is
+50 51 15 the
+51 52 16 input-output
+52 53 17 circuit
+53 54 18 27
+54 55 14 to
+55 56 13 connected
+56 57 19 . 6.80992191863
+57
+0 58 7 and
+58 59 8 gates
+59 60 9 41
+60 61 10 and
+61 62 6 of
+62 63 3 the
+63 64 4 output
+64 65 5 terminals
+65 66 11 42
+66 67 2 of
+67 68 1 each
+68 69 12 is
+69 70 15 the
+70 71 16 input-output
+71 72 17 circuit
+72 73 18 27
+73 74 14 to
+74 75 13 connected
+75 76 19 . 3.82423998093
+76
+0 77 7 and
+77 78 8 gates
+78 79 9 41
+79 80 10 and
+80 81 11 42
+81 82 6 of
+82 83 4 output
+83 84 3 the
+84 85 5 terminals
+85 86 2 of
+86 87 1 each
+87 88 12 is
+88 89 15 the
+89 90 16 input-output
+90 91 17 circuit
+91 92 18 27
+92 93 14 to
+93 94 13 connected
+94 95 19 . 7.03306546995
+95
+0 96 7 and
+96 97 8 gates
+97 98 9 41
+98 99 10 and
+99 100 11 42
+100 101 6 of
+101 102 3 the
+102 103 4 output
+103 104 5 terminals
+104 105 1 each
+105 106 2 of
+106 107 12 is
+107 108 15 the
+108 109 16 input-output
+109 110 17 circuit
+110 111 18 27
+111 112 14 to
+112 113 13 connected
+113 114 19 . 3.97670857458
+114
+0 115 3 the
+115 116 7 and
+116 117 8 gates
+117 118 9 41
+118 119 10 and
+119 120 11 42
+120 121 6 of
+121 122 4 output
+122 123 5 terminals
+123 124 2 of
+124 125 1 each
+125 126 12 is
+126 127 15 the
+127 128 16 input-output
+128 129 17 circuit
+129 130 18 27
+130 131 14 to
+131 132 13 connected
+132 133 19 . 2.05288938334
+133

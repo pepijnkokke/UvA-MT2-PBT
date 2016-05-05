@@ -1,0 +1,60 @@
+0 1 1 therefore
+1 2 2 ,
+2 3 4 the
+3 4 5 film-dismounting
+4 5 6 motor
+5 6 7 24
+6 7 3 when
+7 8 9 one
+8 9 10 round
+9 10 8 rotates
+10 11 11 ,
+11 12 12 the
+12 13 13 film-dismounting
+13 14 14 plate
+14 15 15 20
+15 16 16 advances
+16 17 17 and
+17 18 18 retreats
+18 19 19 . 0.219804650049
+19
+0 20 1 therefore
+20 21 2 ,
+21 22 4 the
+22 23 5 film-dismounting
+23 24 6 motor
+24 25 7 24
+25 26 9 one
+26 27 10 round
+27 28 8 rotates
+28 29 3 when
+29 30 11 ,
+30 31 12 the
+31 32 13 film-dismounting
+32 33 14 plate
+33 34 15 20
+34 35 16 advances
+35 36 17 and
+36 37 18 retreats
+37 38 19 . 1.62630171848
+38
+0 39 1 therefore
+39 40 2 ,
+40 41 4 the
+41 42 5 film-dismounting
+42 43 6 motor
+43 44 7 24
+44 45 9 one
+45 46 10 round
+46 47 8 rotates
+47 48 11 ,
+48 49 3 when
+49 50 12 the
+50 51 13 film-dismounting
+51 52 14 plate
+52 53 15 20
+53 54 16 advances
+54 55 17 and
+55 56 18 retreats
+56 57 19 . 7.30988148583
+57

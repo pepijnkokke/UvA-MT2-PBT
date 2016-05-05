@@ -1,0 +1,112 @@
+0 1 5 the
+1 2 6 magnetic
+2 3 7 plate
+3 4 8 15
+4 5 4 of
+5 6 1 the
+6 7 2 top
+7 8 3 surface
+8 9 9 is
+9 10 12 a
+10 11 13 recessed
+11 12 14 shape
+12 13 11 in
+13 14 10 curved
+14 15 15 . 0.338628328413
+15
+0 16 5 the
+16 17 6 magnetic
+17 18 7 plate
+18 19 8 15
+19 20 1 the
+20 21 4 of
+21 22 2 top
+22 23 3 surface
+23 24 9 is
+24 25 12 a
+25 26 13 recessed
+26 27 14 shape
+27 28 11 in
+28 29 10 curved
+29 30 15 . 8.29229810706
+30
+0 31 5 the
+31 32 6 magnetic
+32 33 7 plate
+33 34 8 15
+34 35 4 of
+35 36 1 the
+36 37 2 top
+37 38 3 surface
+38 39 9 is
+39 40 12 a
+40 41 13 recessed
+41 42 14 shape
+42 43 10 curved
+43 44 11 in
+44 45 15 . 5.15680389113
+45
+0 46 5 the
+46 47 6 magnetic
+47 48 7 plate
+48 49 8 15
+49 50 4 of
+50 51 1 the
+51 52 2 top
+52 53 3 surface
+53 54 9 is
+54 55 12 a
+55 56 13 recessed
+56 57 11 in
+57 58 14 shape
+58 59 10 curved
+59 60 15 . 8.29229810706
+60
+0 61 5 the
+61 62 6 magnetic
+62 63 7 plate
+63 64 8 15
+64 65 1 the
+65 66 2 top
+66 67 4 of
+67 68 3 surface
+68 69 9 is
+69 70 12 a
+70 71 13 recessed
+71 72 14 shape
+72 73 11 in
+73 74 10 curved
+74 75 15 . 7.19368581839
+75
+0 76 5 the
+76 77 6 magnetic
+77 78 7 plate
+78 79 8 15
+79 80 4 of
+80 81 3 surface
+81 82 1 the
+82 83 2 top
+83 84 9 is
+84 85 12 a
+85 86 13 recessed
+86 87 14 shape
+87 88 11 in
+88 89 10 curved
+89 90 15 . 1.88706964903
+90
+0 91 5 the
+91 92 6 magnetic
+92 93 7 plate
+93 94 8 15
+94 95 4 of
+95 96 2 top
+96 97 3 surface
+97 98 1 the
+98 99 9 is
+99 100 12 a
+100 101 13 recessed
+101 102 14 shape
+102 103 11 in
+103 104 10 curved
+104 105 15 . 2.05007484161
+105

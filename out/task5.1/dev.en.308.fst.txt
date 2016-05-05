@@ -1,0 +1,220 @@
+0 1 1 one
+1 2 2 scanning
+2 3 3 operation
+3 4 18 bands
+4 5 17 of
+5 6 15 the
+6 7 16 number
+7 8 12 many
+8 9 13 times
+9 10 11 as
+10 11 8 the
+11 12 9 above
+12 13 10 processing
+13 14 7 repeating
+14 15 6 by
+15 16 4 is
+16 17 5 completed
+17 18 14 as
+18 19 19 . 6.0185932145
+19
+0 20 1 one
+20 21 2 scanning
+21 22 3 operation
+22 23 18 bands
+23 24 17 of
+24 25 15 the
+25 26 16 number
+26 27 14 as
+27 28 12 many
+28 29 13 times
+29 30 11 as
+30 31 8 the
+31 32 9 above
+32 33 10 processing
+33 34 7 repeating
+34 35 6 by
+35 36 4 is
+36 37 5 completed
+37 38 19 . 0.647955186369
+38
+0 39 1 one
+39 40 2 scanning
+40 41 3 operation
+41 42 4 is
+42 43 18 bands
+43 44 17 of
+44 45 15 the
+45 46 16 number
+46 47 14 as
+47 48 12 many
+48 49 13 times
+49 50 11 as
+50 51 8 the
+51 52 9 above
+52 53 10 processing
+53 54 7 repeating
+54 55 6 by
+55 56 5 completed
+56 57 19 . 0.930996879263
+57
+0 58 1 one
+58 59 2 scanning
+59 60 3 operation
+60 61 18 bands
+61 62 15 the
+62 63 17 of
+63 64 16 number
+64 65 14 as
+65 66 12 many
+66 67 13 times
+67 68 11 as
+68 69 8 the
+69 70 9 above
+70 71 10 processing
+71 72 7 repeating
+72 73 6 by
+73 74 4 is
+74 75 5 completed
+75 76 19 . 4.40915530206
+76
+0 77 1 one
+77 78 2 scanning
+78 79 3 operation
+79 80 4 is
+80 81 18 bands
+81 82 17 of
+82 83 15 the
+83 84 16 number
+84 85 12 many
+85 86 13 times
+86 87 11 as
+87 88 8 the
+88 89 9 above
+89 90 10 processing
+90 91 7 repeating
+91 92 6 by
+92 93 5 completed
+93 94 14 as
+94 95 19 . 5.32544603394
+95
+0 96 1 one
+96 97 2 scanning
+97 98 3 operation
+98 99 18 bands
+99 100 17 of
+100 101 15 the
+101 102 16 number
+102 103 14 as
+103 104 12 many
+104 105 13 times
+105 106 11 as
+106 107 8 the
+107 108 9 above
+108 109 10 processing
+109 110 7 repeating
+110 111 4 is
+111 112 6 by
+112 113 5 completed
+113 114 19 . 6.0185932145
+114
+0 115 1 one
+115 116 2 scanning
+116 117 3 operation
+117 118 18 bands
+118 119 17 of
+119 120 15 the
+120 121 16 number
+121 122 14 as
+122 123 12 many
+123 124 13 times
+124 125 11 as
+125 126 8 the
+126 127 9 above
+127 128 7 repeating
+128 129 10 processing
+129 130 6 by
+130 131 4 is
+131 132 5 completed
+132 133 19 . 6.0185932145
+133
+0 134 1 one
+134 135 2 scanning
+135 136 3 operation
+136 137 18 bands
+137 138 17 of
+138 139 15 the
+139 140 16 number
+140 141 14 as
+141 142 12 many
+142 143 13 times
+143 144 8 the
+144 145 9 above
+145 146 11 as
+146 147 10 processing
+147 148 7 repeating
+148 149 6 by
+149 150 4 is
+150 151 5 completed
+151 152 19 . 6.0185932145
+152
+0 153 1 one
+153 154 2 scanning
+154 155 3 operation
+155 156 18 bands
+156 157 17 of
+157 158 15 the
+158 159 16 number
+159 160 14 as
+160 161 8 the
+161 162 12 many
+162 163 13 times
+163 164 11 as
+164 165 9 above
+165 166 10 processing
+166 167 7 repeating
+167 168 6 by
+168 169 4 is
+169 170 5 completed
+170 171 19 . 3.37953588488
+171
+0 172 1 one
+172 173 2 scanning
+173 174 3 operation
+174 175 17 of
+175 176 18 bands
+176 177 15 the
+177 178 16 number
+178 179 14 as
+179 180 12 many
+180 181 13 times
+181 182 11 as
+182 183 8 the
+183 184 9 above
+184 185 10 processing
+185 186 7 repeating
+186 187 6 by
+187 188 4 is
+188 189 5 completed
+189 190 19 . 4.40915530206
+190
+0 191 1 one
+191 192 2 scanning
+192 193 3 operation
+193 194 4 is
+194 195 18 bands
+195 196 15 the
+196 197 17 of
+197 198 16 number
+198 199 14 as
+199 200 12 many
+200 201 13 times
+201 202 11 as
+202 203 8 the
+203 204 9 above
+204 205 10 processing
+205 206 7 repeating
+206 207 6 by
+207 208 5 completed
+208 209 19 . 4.63229885338
+209

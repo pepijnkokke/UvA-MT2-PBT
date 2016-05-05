@@ -1,0 +1,340 @@
+0 1 1 the
+1 2 2 scheduled
+2 3 3 program
+3 4 4 information
+4 5 5 broadcast
+5 6 7 the
+6 7 8 index
+7 8 9 channel
+8 9 6 as
+9 10 10 is
+10 11 16 all
+11 12 17 the
+12 13 18 channels
+13 14 15 for
+14 15 11 the
+15 16 12 scheduled
+16 17 13 program
+17 18 14 information
+18 19 19 . 1.38008316103
+19
+0 20 1 the
+20 21 2 scheduled
+21 22 3 program
+22 23 4 information
+23 24 5 broadcast
+24 25 7 the
+25 26 8 index
+26 27 6 as
+27 28 9 channel
+28 29 10 is
+29 30 16 all
+30 31 17 the
+31 32 18 channels
+32 33 15 for
+33 34 11 the
+34 35 12 scheduled
+35 36 13 program
+36 37 14 information
+37 38 19 . 0.969471361166
+38
+0 39 1 the
+39 40 2 scheduled
+40 41 7 the
+41 42 8 index
+42 43 3 program
+43 44 4 information
+44 45 5 broadcast
+45 46 6 as
+46 47 9 channel
+47 48 10 is
+48 49 16 all
+49 50 17 the
+50 51 18 channels
+51 52 15 for
+52 53 11 the
+53 54 12 scheduled
+54 55 13 program
+55 56 14 information
+56 57 19 . 7.15773548425
+57
+0 58 1 the
+58 59 2 scheduled
+59 60 3 program
+60 61 4 information
+61 62 7 the
+62 63 8 index
+63 64 5 broadcast
+64 65 6 as
+65 66 9 channel
+66 67 10 is
+67 68 16 all
+68 69 17 the
+69 70 18 channels
+70 71 15 for
+71 72 11 the
+72 73 12 scheduled
+73 74 13 program
+74 75 14 information
+75 76 19 . 6.05912319558
+76
+0 77 1 the
+77 78 2 scheduled
+78 79 3 program
+79 80 7 the
+80 81 8 index
+81 82 6 as
+82 83 4 information
+83 84 5 broadcast
+84 85 9 channel
+85 86 10 is
+86 87 16 all
+87 88 17 the
+88 89 18 channels
+89 90 15 for
+90 91 11 the
+91 92 12 scheduled
+92 93 13 program
+93 94 14 information
+94 95 19 . 5.77144112313
+95
+0 96 1 the
+96 97 2 scheduled
+97 98 7 the
+98 99 8 index
+99 100 6 as
+100 101 3 program
+101 102 4 information
+102 103 5 broadcast
+103 104 9 channel
+104 105 10 is
+105 106 16 all
+106 107 17 the
+107 108 18 channels
+108 109 15 for
+109 110 11 the
+110 111 12 scheduled
+111 112 13 program
+112 113 14 information
+113 114 19 . 3.9796816539
+114
+0 115 1 the
+115 116 2 scheduled
+116 117 3 program
+117 118 4 information
+118 119 7 the
+119 120 8 index
+120 121 6 as
+121 122 5 broadcast
+122 123 9 channel
+123 124 10 is
+124 125 16 all
+125 126 17 the
+126 127 18 channels
+127 128 15 for
+128 129 11 the
+129 130 12 scheduled
+130 131 13 program
+131 132 14 information
+132 133 19 . 3.75653810259
+133
+0 134 1 the
+134 135 2 scheduled
+135 136 3 program
+136 137 4 information
+137 138 7 the
+138 139 8 index
+139 140 9 channel
+140 141 5 broadcast
+141 142 6 as
+142 143 10 is
+143 144 16 all
+144 145 17 the
+145 146 18 channels
+146 147 15 for
+147 148 11 the
+148 149 12 scheduled
+149 150 13 program
+150 151 14 information
+151 152 19 . 4.96051090691
+152
+0 153 1 the
+153 154 2 scheduled
+154 155 3 program
+155 156 4 information
+156 157 7 the
+157 158 8 index
+158 159 9 channel
+159 160 6 as
+160 161 5 broadcast
+161 162 10 is
+162 163 16 all
+163 164 17 the
+164 165 18 channels
+165 166 15 for
+166 167 11 the
+167 168 12 scheduled
+168 169 13 program
+169 170 14 information
+170 171 19 . 3.37354585033
+171
+0 172 7 the
+172 173 8 index
+173 174 1 the
+174 175 2 scheduled
+175 176 3 program
+176 177 4 information
+177 178 5 broadcast
+178 179 6 as
+179 180 9 channel
+180 181 10 is
+181 182 16 all
+182 183 17 the
+183 184 18 channels
+184 185 15 for
+185 186 11 the
+186 187 12 scheduled
+187 188 13 program
+188 189 14 information
+189 190 19 . 6.46458830369
+190
+0 191 1 the
+191 192 2 scheduled
+192 193 3 program
+193 194 4 information
+194 195 5 broadcast
+195 196 7 the
+196 197 8 index
+197 198 9 channel
+198 199 6 as
+199 200 10 is
+200 201 17 the
+201 202 16 all
+202 203 18 channels
+203 204 15 for
+204 205 11 the
+205 206 12 scheduled
+206 207 13 program
+207 208 14 information
+208 209 19 . 7.15773548425
+209
+0 210 1 the
+210 211 2 scheduled
+211 212 3 program
+212 213 4 information
+213 214 5 broadcast
+214 215 7 the
+215 216 8 index
+216 217 6 as
+217 218 9 channel
+218 219 10 is
+219 220 17 the
+220 221 16 all
+221 222 18 channels
+222 223 15 for
+223 224 11 the
+224 225 12 scheduled
+225 226 13 program
+226 227 14 information
+227 228 19 . 5.36597601502
+228
+0 229 1 the
+229 230 2 scheduled
+230 231 3 program
+231 232 4 information
+232 233 5 broadcast
+233 234 7 the
+234 235 8 index
+235 236 9 channel
+236 237 10 is
+237 238 6 as
+238 239 16 all
+239 240 17 the
+240 241 18 channels
+241 242 15 for
+242 243 11 the
+243 244 12 scheduled
+244 245 13 program
+245 246 14 information
+246 247 19 . 4.59278612679
+247
+0 248 7 the
+248 249 8 index
+249 250 6 as
+250 251 1 the
+251 252 2 scheduled
+252 253 3 program
+253 254 4 information
+254 255 5 broadcast
+255 256 9 channel
+256 257 10 is
+257 258 16 all
+258 259 17 the
+259 260 18 channels
+260 261 15 for
+261 262 11 the
+262 263 12 scheduled
+263 264 13 program
+264 265 14 information
+265 266 19 . 1.42763570128
+266
+0 267 1 the
+267 268 2 scheduled
+268 269 7 the
+269 270 8 index
+270 271 9 channel
+271 272 3 program
+272 273 4 information
+273 274 5 broadcast
+274 275 6 as
+275 276 10 is
+276 277 16 all
+277 278 17 the
+278 279 18 channels
+279 280 15 for
+280 281 11 the
+281 282 12 scheduled
+282 283 13 program
+283 284 14 information
+284 285 19 . 7.15773548425
+285
+0 286 1 the
+286 287 2 scheduled
+287 288 3 program
+288 289 4 information
+289 290 5 broadcast
+290 291 7 the
+291 292 6 as
+292 293 8 index
+293 294 9 channel
+294 295 10 is
+295 296 16 all
+296 297 17 the
+297 298 18 channels
+298 299 15 for
+299 300 11 the
+300 301 12 scheduled
+301 302 13 program
+302 303 14 information
+303 304 19 . 4.75984021145
+304
+0 305 1 the
+305 306 2 scheduled
+306 307 7 the
+307 308 8 index
+308 309 9 channel
+309 310 6 as
+310 311 3 program
+311 312 4 information
+312 313 5 broadcast
+313 314 10 is
+314 315 16 all
+315 316 17 the
+316 317 18 channels
+317 318 15 for
+318 319 11 the
+319 320 12 scheduled
+320 321 13 program
+321 322 14 information
+322 323 19 . 4.32452214019
+323

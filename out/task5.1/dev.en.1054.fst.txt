@@ -1,0 +1,204 @@
+0 1 1 estimation
+1 2 2 picture
+2 3 3 data
+3 4 6 the
+4 5 7 motion
+5 6 8 compensator
+6 7 9 64
+7 8 5 by
+8 9 4 outputted
+9 10 10 is
+10 11 13 a
+11 12 14 calculator
+12 13 15 53a
+13 14 12 to
+14 15 11 provided
+15 16 16 . 0.754683379468
+16
+0 17 1 estimation
+17 18 2 picture
+18 19 3 data
+19 20 6 the
+20 21 7 motion
+21 22 8 compensator
+22 23 9 64
+23 24 10 is
+24 25 5 by
+25 26 4 outputted
+26 27 13 a
+27 28 14 calculator
+28 29 15 53a
+29 30 12 to
+30 31 11 provided
+31 32 16 . 3.90974769159
+32
+0 33 1 estimation
+33 34 2 picture
+34 35 3 data
+35 36 6 the
+36 37 7 motion
+37 38 8 compensator
+38 39 9 64
+39 40 4 outputted
+40 41 5 by
+41 42 10 is
+42 43 13 a
+43 44 14 calculator
+44 45 15 53a
+45 46 12 to
+46 47 11 provided
+47 48 16 . 7.69393732551
+48
+0 49 1 estimation
+49 50 2 picture
+50 51 6 the
+51 52 7 motion
+52 53 8 compensator
+53 54 9 64
+54 55 3 data
+55 56 5 by
+56 57 4 outputted
+57 58 10 is
+58 59 13 a
+59 60 14 calculator
+60 61 15 53a
+61 62 12 to
+62 63 11 provided
+63 64 16 . 7.69393732551
+64
+0 65 1 estimation
+65 66 2 picture
+66 67 3 data
+67 68 6 the
+68 69 7 motion
+69 70 8 compensator
+70 71 5 by
+71 72 4 outputted
+72 73 9 64
+73 74 10 is
+74 75 13 a
+75 76 14 calculator
+76 77 15 53a
+77 78 12 to
+78 79 11 provided
+79 80 16 . 0.828046250626
+80
+0 81 1 estimation
+81 82 3 data
+82 83 2 picture
+83 84 6 the
+84 85 7 motion
+85 86 8 compensator
+86 87 9 64
+87 88 5 by
+88 89 4 outputted
+89 90 10 is
+90 91 13 a
+91 92 14 calculator
+92 93 15 53a
+93 94 12 to
+94 95 11 provided
+95 96 16 . 7.00079014495
+96
+0 97 1 estimation
+97 98 2 picture
+98 99 3 data
+99 100 7 motion
+100 101 6 the
+101 102 8 compensator
+102 103 9 64
+103 104 5 by
+104 105 4 outputted
+105 106 10 is
+106 107 13 a
+107 108 14 calculator
+108 109 15 53a
+109 110 12 to
+110 111 11 provided
+111 112 16 . 7.00079014495
+112
+0 113 1 estimation
+113 114 2 picture
+114 115 6 the
+115 116 7 motion
+116 117 8 compensator
+117 118 9 64
+118 119 5 by
+119 120 3 data
+120 121 4 outputted
+121 122 10 is
+122 123 13 a
+123 124 14 calculator
+124 125 15 53a
+125 126 12 to
+126 127 11 provided
+127 128 16 . 6.30764296439
+128
+0 129 1 estimation
+129 130 2 picture
+130 131 3 data
+131 132 6 the
+132 133 7 motion
+133 134 8 compensator
+134 135 9 64
+135 136 5 by
+136 137 4 outputted
+137 138 13 a
+138 139 14 calculator
+139 140 15 53a
+140 141 12 to
+141 142 10 is
+142 143 11 provided
+143 144 16 . 2.84190706159
+144
+0 145 1 estimation
+145 146 2 picture
+146 147 3 data
+147 148 6 the
+148 149 7 motion
+149 150 8 compensator
+150 151 9 64
+151 152 5 by
+152 153 4 outputted
+153 154 10 is
+154 155 13 a
+155 156 14 calculator
+156 157 12 to
+157 158 11 provided
+158 159 15 53a
+159 160 16 . 5.74802717645
+160
+0 161 1 estimation
+161 162 2 picture
+162 163 6 the
+163 164 7 motion
+164 165 8 compensator
+165 166 5 by
+166 167 3 data
+167 168 4 outputted
+168 169 9 64
+169 170 10 is
+170 171 13 a
+171 172 14 calculator
+172 173 15 53a
+173 174 12 to
+174 175 11 provided
+175 176 16 . 7.69393732551
+176
+0 177 1 estimation
+177 178 2 picture
+178 179 6 the
+179 180 7 motion
+180 181 8 compensator
+181 182 9 64
+182 183 5 by
+183 184 4 outputted
+184 185 3 data
+185 186 10 is
+186 187 13 a
+187 188 14 calculator
+188 189 15 53a
+189 190 12 to
+190 191 11 provided
+191 192 16 . 5.05487999589
+192

@@ -1,0 +1,147 @@
+0 1 1 the
+1 2 2 work
+2 3 3 base
+3 4 4 register
+4 5 5 that
+5 6 6 has
+6 7 8 read
+7 8 7 been
+8 9 9 is
+9 10 16 the
+10 11 17 address
+11 12 18 adder
+12 13 19 2516
+13 14 15 of
+14 15 12 the
+15 16 13 output
+16 17 14 value
+17 18 11 to
+18 19 10 updated
+19 20 20 . 0.0694723728151
+20
+0 21 1 the
+21 22 2 work
+22 23 3 base
+23 24 4 register
+24 25 5 that
+25 26 6 has
+26 27 8 read
+27 28 9 is
+28 29 7 been
+29 30 16 the
+30 31 17 address
+31 32 18 adder
+32 33 19 2516
+33 34 15 of
+34 35 12 the
+35 36 13 output
+36 37 14 value
+37 38 11 to
+38 39 10 updated
+39 40 20 . 5.89124950095
+40
+0 41 1 the
+41 42 2 work
+42 43 3 base
+43 44 5 that
+44 45 4 register
+45 46 6 has
+46 47 8 read
+47 48 7 been
+48 49 9 is
+49 50 16 the
+50 51 17 address
+51 52 18 adder
+52 53 19 2516
+53 54 15 of
+54 55 12 the
+55 56 13 output
+56 57 14 value
+57 58 11 to
+58 59 10 updated
+59 60 20 . 7.14401246944
+60
+0 61 1 the
+61 62 2 work
+62 63 3 base
+63 64 4 register
+64 65 6 has
+65 66 5 that
+66 67 8 read
+67 68 7 been
+68 69 9 is
+69 70 16 the
+70 71 17 address
+71 72 18 adder
+72 73 19 2516
+73 74 15 of
+74 75 12 the
+75 76 13 output
+76 77 14 value
+77 78 11 to
+78 79 10 updated
+79 80 20 . 7.83715965
+80
+0 81 1 the
+81 82 2 work
+82 83 3 base
+83 84 4 register
+84 85 5 that
+85 86 6 has
+86 87 8 read
+87 88 7 been
+88 89 9 is
+89 90 16 the
+90 91 17 address
+91 92 18 adder
+92 93 19 2516
+93 94 12 the
+94 95 15 of
+95 96 13 output
+96 97 14 value
+97 98 11 to
+98 99 10 updated
+99 100 20 . 7.14401246944
+100
+0 101 1 the
+101 102 2 work
+102 103 3 base
+103 104 4 register
+104 105 5 that
+105 106 6 has
+106 107 8 read
+107 108 7 been
+108 109 9 is
+109 110 16 the
+110 111 17 address
+111 112 18 adder
+112 113 19 2516
+113 114 15 of
+114 115 13 output
+115 116 12 the
+116 117 14 value
+117 118 11 to
+118 119 10 updated
+119 120 20 . 7.14401246944
+120
+0 121 1 the
+121 122 2 work
+122 123 3 base
+123 124 4 register
+124 125 5 that
+125 126 6 has
+126 127 7 been
+127 128 8 read
+128 129 9 is
+129 130 16 the
+130 131 17 address
+131 132 18 adder
+132 133 19 2516
+133 134 15 of
+134 135 12 the
+135 136 13 output
+136 137 14 value
+137 138 11 to
+138 139 10 updated
+139 140 20 . 2.78730364275
+140

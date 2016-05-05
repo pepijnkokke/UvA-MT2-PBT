@@ -1,0 +1,234 @@
+0 1 1 note
+1 2 12 the
+2 3 13 annular
+3 4 14 pressing
+4 5 15 spring
+5 6 16 8
+6 7 11 of
+7 8 10 place
+8 9 3 an
+9 10 4 elastic
+10 11 5 spacer
+11 12 2 that
+12 13 7 be
+13 14 9 in
+14 15 8 used
+15 16 6 may
+16 17 17 . 4.52178857705
+17
+0 18 1 note
+18 19 12 the
+19 20 13 annular
+20 21 14 pressing
+21 22 15 spring
+22 23 16 8
+23 24 11 of
+24 25 10 place
+25 26 3 an
+26 27 4 elastic
+27 28 5 spacer
+28 29 2 that
+29 30 9 in
+30 31 7 be
+31 32 8 used
+32 33 6 may
+33 34 17 . 5.21493575761
+34
+0 35 1 note
+35 36 12 the
+36 37 13 annular
+37 38 14 pressing
+38 39 15 spring
+39 40 16 8
+40 41 11 of
+41 42 10 place
+42 43 3 an
+43 44 4 elastic
+44 45 5 spacer
+45 46 2 that
+46 47 7 be
+47 48 8 used
+48 49 9 in
+49 50 6 may
+50 51 17 . 3.82864139649
+51
+0 52 1 note
+52 53 12 the
+53 54 13 annular
+54 55 14 pressing
+55 56 15 spring
+56 57 16 8
+57 58 11 of
+58 59 10 place
+59 60 3 an
+60 61 4 elastic
+61 62 5 spacer
+62 63 2 that
+63 64 7 be
+64 65 8 used
+65 66 6 may
+66 67 9 in
+67 68 17 . 2.27049677844
+68
+0 69 1 note
+69 70 2 that
+70 71 12 the
+71 72 13 annular
+72 73 14 pressing
+73 74 15 spring
+74 75 16 8
+75 76 11 of
+76 77 10 place
+77 78 3 an
+78 79 4 elastic
+79 80 5 spacer
+80 81 7 be
+81 82 9 in
+82 83 8 used
+83 84 6 may
+84 85 17 . 4.52178857705
+85
+0 86 1 note
+86 87 12 the
+87 88 13 annular
+88 89 14 pressing
+89 90 15 spring
+90 91 16 8
+91 92 3 an
+92 93 4 elastic
+93 94 5 spacer
+94 95 2 that
+95 96 11 of
+96 97 10 place
+97 98 9 in
+98 99 7 be
+99 100 8 used
+100 101 6 may
+101 102 17 . 5.90808293817
+102
+0 103 1 note
+103 104 2 that
+104 105 12 the
+105 106 13 annular
+106 107 14 pressing
+107 108 15 spring
+108 109 16 8
+109 110 11 of
+110 111 10 place
+111 112 3 an
+112 113 4 elastic
+113 114 5 spacer
+114 115 9 in
+115 116 7 be
+116 117 8 used
+117 118 6 may
+118 119 17 . 5.90808293817
+119
+0 120 1 note
+120 121 2 that
+121 122 12 the
+122 123 13 annular
+123 124 14 pressing
+124 125 15 spring
+125 126 16 8
+126 127 11 of
+127 128 10 place
+128 129 3 an
+129 130 4 elastic
+130 131 5 spacer
+131 132 7 be
+132 133 8 used
+133 134 9 in
+134 135 6 may
+135 136 17 . 5.21493575761
+136
+0 137 1 note
+137 138 2 that
+138 139 12 the
+139 140 13 annular
+140 141 14 pressing
+141 142 15 spring
+142 143 16 8
+143 144 11 of
+144 145 10 place
+145 146 3 an
+146 147 4 elastic
+147 148 5 spacer
+148 149 7 be
+149 150 8 used
+150 151 6 may
+151 152 9 in
+152 153 17 . 2.12389330425
+153
+0 154 1 note
+154 155 12 the
+155 156 13 annular
+156 157 14 pressing
+157 158 15 spring
+158 159 16 8
+159 160 11 of
+160 161 10 place
+161 162 3 an
+162 163 4 elastic
+163 164 5 spacer
+164 165 2 that
+165 166 9 in
+166 167 8 used
+167 168 7 be
+168 169 6 may
+169 170 17 . 2.81704048481
+170
+0 171 1 note
+171 172 12 the
+172 173 13 annular
+173 174 14 pressing
+174 175 15 spring
+175 176 16 8
+176 177 11 of
+177 178 10 place
+178 179 3 an
+179 180 4 elastic
+180 181 5 spacer
+181 182 2 that
+182 183 8 used
+183 184 7 be
+184 185 9 in
+185 186 6 may
+186 187 17 . 4.11632346894
+187
+0 188 1 note
+188 189 3 an
+189 190 4 elastic
+190 191 5 spacer
+191 192 2 that
+192 193 12 the
+193 194 13 annular
+194 195 14 pressing
+195 196 15 spring
+196 197 16 8
+197 198 11 of
+198 199 10 place
+199 200 7 be
+200 201 9 in
+201 202 8 used
+202 203 6 may
+203 204 17 . 5.21493575761
+204
+0 205 1 note
+205 206 3 an
+206 207 4 elastic
+207 208 5 spacer
+208 209 2 that
+209 210 12 the
+210 211 13 annular
+211 212 14 pressing
+212 213 15 spring
+213 214 16 8
+214 215 11 of
+215 216 10 place
+216 217 9 in
+217 218 7 be
+218 219 8 used
+219 220 6 may
+220 221 17 . 0.452761822812
+221

@@ -1,0 +1,140 @@
+0 1 1 the
+1 2 2 third
+2 3 3 embodiment
+3 4 4 adds
+4 5 16 fig
+5 6 17 .
+6 7 18 12
+7 8 15 in
+8 9 5 a
+9 10 6 detection
+10 11 7 current
+11 12 8 control
+12 13 9 circuit
+13 14 10 45
+14 15 14 shown
+15 16 11 to
+16 17 12 the
+17 18 13 circuit
+18 19 19 . 4.68951133442
+19
+0 20 1 the
+20 21 2 third
+21 22 3 embodiment
+22 23 4 adds
+23 24 16 fig
+24 25 17 .
+25 26 18 12
+26 27 15 in
+27 28 5 a
+28 29 6 detection
+29 30 7 current
+30 31 8 control
+31 32 9 circuit
+32 33 10 45
+33 34 11 to
+34 35 14 shown
+35 36 12 the
+36 37 13 circuit
+37 38 19 . 3.81404259707
+38
+0 39 1 the
+39 40 2 third
+40 41 3 embodiment
+41 42 4 adds
+42 43 16 fig
+43 44 17 .
+44 45 18 12
+45 46 15 in
+46 47 5 a
+47 48 6 detection
+48 49 7 current
+49 50 8 control
+50 51 9 circuit
+51 52 10 45
+52 53 14 shown
+53 54 12 the
+54 55 13 circuit
+55 56 11 to
+56 57 19 . 4.91265488574
+57
+0 58 1 the
+58 59 2 third
+59 60 3 embodiment
+60 61 4 adds
+61 62 16 fig
+62 63 17 .
+63 64 18 12
+64 65 15 in
+65 66 5 a
+66 67 6 detection
+67 68 7 current
+68 69 8 control
+69 70 9 circuit
+70 71 10 45
+71 72 12 the
+72 73 14 shown
+73 74 13 circuit
+74 75 11 to
+75 76 19 . 6.29894924685
+76
+0 77 1 the
+77 78 2 third
+78 79 3 embodiment
+79 80 4 adds
+80 81 16 fig
+81 82 17 .
+82 83 18 12
+83 84 15 in
+84 85 14 shown
+85 86 5 a
+86 87 6 detection
+87 88 7 current
+88 89 8 control
+89 90 9 circuit
+90 91 10 45
+91 92 11 to
+92 93 12 the
+93 94 13 circuit
+94 95 19 . 1.12279951428
+95
+0 96 1 the
+96 97 2 third
+97 98 3 embodiment
+98 99 4 adds
+99 100 16 fig
+100 101 17 .
+101 102 18 12
+102 103 15 in
+103 104 5 a
+104 105 6 detection
+105 106 7 current
+106 107 8 control
+107 108 9 circuit
+108 109 10 45
+109 110 11 to
+110 111 12 the
+111 112 13 circuit
+112 113 14 shown
+113 114 19 . 0.461218799691
+114
+0 115 1 the
+115 116 2 third
+116 117 3 embodiment
+117 118 4 adds
+118 119 16 fig
+119 120 17 .
+120 121 18 12
+121 122 15 in
+122 123 5 a
+123 124 6 detection
+124 125 7 current
+125 126 8 control
+126 127 9 circuit
+127 128 10 45
+128 129 12 the
+129 130 11 to
+130 131 13 circuit
+131 132 14 shown
+132 133 19 . 5.60580206629
+133

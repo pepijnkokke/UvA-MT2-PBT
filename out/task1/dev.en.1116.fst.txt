@@ -1,0 +1,14 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 14
+3 4 4 is
+4 5 5 a
+5 6 6 system
+6 7 7 architecture
+7 8 8 diagram
+8 9 9 for
+9 10 10 automatically
+10 11 11 dealing
+11 12 12 stocks
+12 13 13 .
+13

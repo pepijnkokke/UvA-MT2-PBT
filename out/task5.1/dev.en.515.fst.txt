@@ -1,0 +1,216 @@
+0 1 2 described
+1 2 3 above
+2 3 1 as
+3 4 4 ,
+4 5 9 one
+5 6 10 step
+6 7 11 is
+7 8 14 the
+8 9 15 header
+9 10 16 data
+10 11 13 by
+11 12 12 determined
+12 13 8 of
+13 14 5 the
+14 15 6 note
+15 16 7 length
+16 17 17 . 0.687589895495
+17
+0 18 3 above
+18 19 2 described
+19 20 1 as
+20 21 4 ,
+21 22 9 one
+22 23 10 step
+23 24 11 is
+24 25 14 the
+25 26 15 header
+26 27 16 data
+27 28 13 by
+28 29 12 determined
+29 30 8 of
+30 31 5 the
+31 32 6 note
+32 33 7 length
+33 34 17 . 0.817608815243
+34
+0 35 2 described
+35 36 3 above
+36 37 1 as
+37 38 4 ,
+38 39 9 one
+39 40 10 step
+40 41 14 the
+41 42 15 header
+42 43 16 data
+43 44 13 by
+44 45 11 is
+45 46 12 determined
+46 47 8 of
+47 48 5 the
+48 49 6 note
+49 50 7 length
+50 51 17 . 4.67904003456
+51
+0 52 3 above
+52 53 2 described
+53 54 1 as
+54 55 4 ,
+55 56 9 one
+56 57 10 step
+57 58 14 the
+58 59 15 header
+59 60 16 data
+60 61 13 by
+61 62 11 is
+62 63 12 determined
+63 64 8 of
+64 65 5 the
+65 66 6 note
+66 67 7 length
+67 68 17 . 4.82214087819
+68
+0 69 2 described
+69 70 3 above
+70 71 4 ,
+71 72 1 as
+72 73 9 one
+73 74 10 step
+74 75 11 is
+75 76 14 the
+76 77 15 header
+77 78 16 data
+78 79 13 by
+79 80 12 determined
+80 81 8 of
+81 82 5 the
+82 83 6 note
+83 84 7 length
+84 85 17 . 6.6939430551
+85
+0 86 3 above
+86 87 2 described
+87 88 4 ,
+88 89 1 as
+89 90 9 one
+90 91 10 step
+91 92 11 is
+92 93 14 the
+93 94 15 header
+94 95 16 data
+95 96 13 by
+96 97 12 determined
+97 98 8 of
+98 99 5 the
+99 100 6 note
+100 101 7 length
+101 102 17 . 6.28847794699
+102
+0 103 3 above
+103 104 2 described
+104 105 1 as
+105 106 4 ,
+106 107 9 one
+107 108 10 step
+108 109 11 is
+109 110 14 the
+110 111 15 header
+111 112 16 data
+112 113 12 determined
+113 114 13 by
+114 115 8 of
+115 116 5 the
+116 117 6 note
+117 118 7 length
+118 119 17 . 7.38709023566
+119
+0 120 2 described
+120 121 1 as
+121 122 3 above
+122 123 4 ,
+123 124 9 one
+124 125 10 step
+125 126 11 is
+126 127 14 the
+127 128 15 header
+128 129 16 data
+129 130 13 by
+130 131 12 determined
+131 132 8 of
+132 133 5 the
+133 134 6 note
+134 135 7 length
+135 136 17 . 4.49671847776
+136
+0 137 3 above
+137 138 1 as
+138 139 2 described
+139 140 4 ,
+140 141 9 one
+141 142 10 step
+142 143 11 is
+143 144 14 the
+144 145 15 header
+145 146 16 data
+146 147 13 by
+147 148 12 determined
+148 149 8 of
+149 150 5 the
+150 151 6 note
+151 152 7 length
+152 153 17 . 4.49671847776
+153
+0 154 2 described
+154 155 3 above
+155 156 1 as
+156 157 4 ,
+157 158 9 one
+158 159 10 step
+159 160 11 is
+160 161 14 the
+161 162 15 header
+162 163 16 data
+163 164 13 by
+164 165 12 determined
+165 166 5 the
+166 167 6 note
+167 168 8 of
+168 169 7 length
+169 170 17 . 4.90218358587
+170
+0 171 3 above
+171 172 2 described
+172 173 1 as
+173 174 4 ,
+174 175 9 one
+175 176 10 step
+176 177 11 is
+177 178 14 the
+178 179 15 header
+179 180 16 data
+180 181 13 by
+181 182 12 determined
+182 183 5 the
+183 184 6 note
+184 185 8 of
+185 186 7 length
+186 187 17 . 5.4411800866
+187
+0 188 3 above
+188 189 2 described
+189 190 1 as
+190 191 4 ,
+191 192 9 one
+192 193 10 step
+193 194 8 of
+194 195 11 is
+195 196 14 the
+196 197 15 header
+197 198 16 data
+198 199 13 by
+199 200 12 determined
+200 201 5 the
+201 202 6 note
+202 203 7 length
+203 204 17 . 7.38709023566
+204

@@ -1,0 +1,17 @@
+0 1 1 accordingly
+1 2 2 ,
+2 3 3 an
+3 4 4 image
+4 5 5 having
+5 6 6 a
+6 7 7 high
+7 8 8 contrast
+8 9 9 can
+9 10 10 be
+10 11 11 obtained
+11 12 12 on
+12 13 13 the
+13 14 14 screen
+14 15 15 106
+15 16 16 .
+16

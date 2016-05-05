@@ -1,0 +1,260 @@
+0 1 6 amorphous
+1 2 7 carbon
+2 3 8 ,
+3 4 9 glassy
+4 5 5 include
+5 6 3 preferable
+6 7 4 electrodes
+7 8 2 of
+8 9 1 examples
+9 10 10 carbon
+10 11 11 and
+11 12 12 the
+12 13 13 like
+13 14 17 rough
+14 15 18 surfaces
+15 16 16 highly
+16 17 15 have
+17 18 14 which
+18 19 19 . 0.803495237728
+19
+0 20 6 amorphous
+20 21 7 carbon
+21 22 8 ,
+22 23 9 glassy
+23 24 5 include
+24 25 3 preferable
+25 26 4 electrodes
+26 27 2 of
+27 28 1 examples
+28 29 10 carbon
+29 30 11 and
+30 31 17 rough
+31 32 18 surfaces
+32 33 16 highly
+33 34 12 the
+34 35 13 like
+35 36 14 which
+36 37 15 have
+37 38 19 . 4.89783979995
+38
+0 39 6 amorphous
+39 40 7 carbon
+40 41 8 ,
+41 42 9 glassy
+42 43 5 include
+43 44 3 preferable
+44 45 4 electrodes
+45 46 2 of
+46 47 1 examples
+47 48 10 carbon
+48 49 11 and
+49 50 12 the
+50 51 13 like
+51 52 17 rough
+52 53 18 surfaces
+53 54 16 highly
+54 55 14 which
+55 56 15 have
+56 57 19 . 3.10608033072
+57
+0 58 6 amorphous
+58 59 7 carbon
+59 60 8 ,
+60 61 9 glassy
+61 62 5 include
+62 63 3 preferable
+63 64 4 electrodes
+64 65 2 of
+65 66 1 examples
+66 67 10 carbon
+67 68 11 and
+68 69 12 the
+69 70 17 rough
+70 71 18 surfaces
+71 72 16 highly
+72 73 15 have
+73 74 13 like
+74 75 14 which
+75 76 19 . 4.20469261939
+76
+0 77 6 amorphous
+77 78 7 carbon
+78 79 8 ,
+79 80 9 glassy
+80 81 5 include
+81 82 3 preferable
+82 83 4 electrodes
+83 84 10 carbon
+84 85 2 of
+85 86 1 examples
+86 87 11 and
+87 88 17 rough
+88 89 18 surfaces
+89 90 16 highly
+90 91 12 the
+91 92 13 like
+92 93 14 which
+93 94 15 have
+94 95 19 . 4.89783979995
+95
+0 96 6 amorphous
+96 97 7 carbon
+97 98 8 ,
+98 99 9 glassy
+99 100 10 carbon
+100 101 5 include
+101 102 3 preferable
+102 103 4 electrodes
+103 104 2 of
+104 105 1 examples
+105 106 11 and
+106 107 12 the
+107 108 13 like
+108 109 17 rough
+109 110 18 surfaces
+110 111 16 highly
+111 112 15 have
+112 113 14 which
+113 114 19 . 1.18426773325
+114
+0 115 6 amorphous
+115 116 7 carbon
+116 117 8 ,
+117 118 9 glassy
+118 119 5 include
+119 120 3 preferable
+120 121 4 electrodes
+121 122 2 of
+122 123 1 examples
+123 124 10 carbon
+124 125 17 rough
+125 126 18 surfaces
+126 127 16 highly
+127 128 11 and
+128 129 12 the
+129 130 13 like
+130 131 14 which
+131 132 15 have
+132 133 19 . 4.89783979995
+133
+0 134 6 amorphous
+134 135 7 carbon
+135 136 8 ,
+136 137 9 glassy
+137 138 10 carbon
+138 139 5 include
+139 140 3 preferable
+140 141 4 electrodes
+141 142 2 of
+142 143 1 examples
+143 144 11 and
+144 145 12 the
+145 146 13 like
+146 147 17 rough
+147 148 18 surfaces
+148 149 16 highly
+149 150 14 which
+150 151 15 have
+151 152 19 . 3.28840188752
+152
+0 153 6 amorphous
+153 154 7 carbon
+154 155 8 ,
+155 156 5 include
+156 157 3 preferable
+157 158 4 electrodes
+158 159 9 glassy
+159 160 10 carbon
+160 161 2 of
+161 162 1 examples
+162 163 11 and
+163 164 12 the
+164 165 13 like
+165 166 17 rough
+166 167 18 surfaces
+167 168 16 highly
+168 169 15 have
+169 170 14 which
+170 171 19 . 4.20469261939
+171
+0 172 6 amorphous
+172 173 7 carbon
+173 174 8 ,
+174 175 5 include
+175 176 3 preferable
+176 177 4 electrodes
+177 178 2 of
+178 179 1 examples
+179 180 9 glassy
+180 181 10 carbon
+181 182 11 and
+182 183 12 the
+183 184 13 like
+184 185 17 rough
+185 186 18 surfaces
+186 187 16 highly
+187 188 15 have
+188 189 14 which
+189 190 19 . 2.59525470696
+190
+0 191 6 amorphous
+191 192 7 carbon
+192 193 8 ,
+193 194 9 glassy
+194 195 5 include
+195 196 3 preferable
+196 197 4 electrodes
+197 198 2 of
+198 199 1 examples
+199 200 10 carbon
+200 201 11 and
+201 202 17 rough
+202 203 18 surfaces
+203 204 16 highly
+204 205 15 have
+205 206 12 the
+206 207 13 like
+207 208 14 which
+208 209 19 . 4.20469261939
+209
+0 210 3 preferable
+210 211 6 amorphous
+211 212 7 carbon
+212 213 8 ,
+213 214 9 glassy
+214 215 5 include
+215 216 4 electrodes
+216 217 2 of
+217 218 1 examples
+218 219 10 carbon
+219 220 11 and
+220 221 12 the
+221 222 13 like
+222 223 17 rough
+223 224 18 surfaces
+224 225 16 highly
+225 226 15 have
+226 227 14 which
+227 228 19 . 4.89783979995
+228
+0 229 6 amorphous
+229 230 7 carbon
+230 231 8 ,
+231 232 9 glassy
+232 233 10 carbon
+233 234 5 include
+234 235 3 preferable
+235 236 4 electrodes
+236 237 2 of
+237 238 1 examples
+238 239 17 rough
+239 240 18 surfaces
+240 241 16 highly
+241 242 11 and
+242 243 12 the
+243 244 13 like
+244 245 14 which
+245 246 15 have
+246 247 19 . 4.20469261939
+247

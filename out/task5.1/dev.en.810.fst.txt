@@ -1,0 +1,368 @@
+0 1 1 this
+1 2 2 is
+2 3 4 lpcvd
+3 4 5 and
+4 5 6 sputtering
+5 6 3 because
+6 7 9 together
+7 8 7 are
+8 9 8 used
+9 10 13 this
+10 11 12 of
+11 12 11 forming
+12 13 10 for
+13 14 14 film
+14 15 15 . 3.35467736603
+15
+0 16 1 this
+16 17 2 is
+17 18 4 lpcvd
+18 19 5 and
+19 20 3 because
+20 21 6 sputtering
+21 22 9 together
+22 23 7 are
+23 24 8 used
+24 25 13 this
+25 26 12 of
+26 27 11 forming
+27 28 10 for
+28 29 14 film
+29 30 15 . 5.05942545827
+30
+0 31 1 this
+31 32 2 is
+32 33 4 lpcvd
+33 34 3 because
+34 35 5 and
+35 36 6 sputtering
+36 37 9 together
+37 38 7 are
+38 39 8 used
+39 40 13 this
+40 41 12 of
+41 42 11 forming
+42 43 10 for
+43 44 14 film
+44 45 15 . 1.75437193716
+45
+0 46 1 this
+46 47 2 is
+47 48 4 lpcvd
+48 49 5 and
+49 50 6 sputtering
+50 51 3 because
+51 52 9 together
+52 53 7 are
+53 54 8 used
+54 55 13 this
+55 56 12 of
+56 57 10 for
+57 58 11 forming
+58 59 14 film
+59 60 15 . 2.94921225792
+60
+0 61 1 this
+61 62 2 is
+62 63 4 lpcvd
+63 64 5 and
+64 65 6 sputtering
+65 66 9 together
+66 67 7 are
+67 68 8 used
+68 69 3 because
+69 70 13 this
+70 71 12 of
+71 72 11 forming
+72 73 10 for
+73 74 14 film
+74 75 15 . 2.67295888129
+75
+0 76 1 this
+76 77 2 is
+77 78 4 lpcvd
+78 79 5 and
+79 80 3 because
+80 81 6 sputtering
+81 82 9 together
+82 83 7 are
+83 84 8 used
+84 85 13 this
+85 86 12 of
+86 87 10 for
+87 88 11 forming
+88 89 14 film
+89 90 15 . 4.65396035016
+90
+0 91 1 this
+91 92 2 is
+92 93 4 lpcvd
+93 94 5 and
+94 95 6 sputtering
+95 96 3 because
+96 97 7 are
+97 98 9 together
+98 99 8 used
+99 100 13 this
+100 101 12 of
+101 102 11 forming
+102 103 10 for
+103 104 14 film
+104 105 15 . 7.13886699995
+105
+0 106 1 this
+106 107 2 is
+107 108 4 lpcvd
+108 109 3 because
+109 110 5 and
+110 111 6 sputtering
+111 112 9 together
+112 113 7 are
+113 114 8 used
+114 115 13 this
+115 116 12 of
+116 117 10 for
+117 118 11 forming
+118 119 14 film
+119 120 15 . 1.6582280766
+120
+0 121 1 this
+121 122 2 is
+122 123 4 lpcvd
+123 124 3 because
+124 125 5 and
+125 126 6 sputtering
+126 127 7 are
+127 128 9 together
+128 129 8 used
+129 130 13 this
+130 131 12 of
+131 132 11 forming
+132 133 10 for
+133 134 14 film
+134 135 15 . 4.14313472639
+135
+0 136 1 this
+136 137 2 is
+137 138 4 lpcvd
+138 139 5 and
+139 140 6 sputtering
+140 141 9 together
+141 142 7 are
+142 143 8 used
+143 144 3 because
+144 145 13 this
+145 146 12 of
+146 147 10 for
+147 148 11 forming
+148 149 14 film
+149 150 15 . 2.58499010835
+150
+0 151 1 this
+151 152 2 is
+152 153 4 lpcvd
+153 154 5 and
+154 155 6 sputtering
+155 156 7 are
+156 157 3 because
+157 158 9 together
+158 159 8 used
+159 160 13 this
+160 161 12 of
+161 162 11 forming
+162 163 10 for
+163 164 14 film
+164 165 15 . 7.13886699995
+165
+0 166 1 this
+166 167 2 is
+167 168 4 lpcvd
+168 169 5 and
+169 170 6 sputtering
+170 171 3 because
+171 172 7 are
+172 173 9 together
+173 174 8 used
+174 175 13 this
+175 176 12 of
+176 177 10 for
+177 178 11 forming
+178 179 14 film
+179 180 15 . 5.75257263883
+180
+0 181 1 this
+181 182 2 is
+182 183 4 lpcvd
+183 184 5 and
+184 185 6 sputtering
+185 186 7 are
+186 187 9 together
+187 188 8 used
+188 189 3 because
+189 190 13 this
+190 191 12 of
+191 192 11 forming
+192 193 10 for
+193 194 14 film
+194 195 15 . 3.67313109715
+195
+0 196 1 this
+196 197 2 is
+197 198 4 lpcvd
+198 199 3 because
+199 200 5 and
+200 201 6 sputtering
+201 202 7 are
+202 203 9 together
+203 204 8 used
+204 205 13 this
+205 206 12 of
+206 207 10 for
+207 208 11 forming
+208 209 14 film
+209 210 15 . 4.24849524205
+210
+0 211 1 this
+211 212 2 is
+212 213 4 lpcvd
+213 214 5 and
+214 215 6 sputtering
+215 216 7 are
+216 217 3 because
+217 218 9 together
+218 219 8 used
+219 220 13 this
+220 221 12 of
+221 222 10 for
+222 223 11 forming
+223 224 14 film
+224 225 15 . 6.44571981939
+225
+0 226 1 this
+226 227 2 is
+227 228 4 lpcvd
+228 229 5 and
+229 230 6 sputtering
+230 231 7 are
+231 232 9 together
+232 233 8 used
+233 234 3 because
+234 235 13 this
+235 236 12 of
+236 237 10 for
+237 238 11 forming
+238 239 14 film
+239 240 15 . 3.67313109715
+240
+0 241 1 this
+241 242 2 is
+242 243 4 lpcvd
+243 244 5 and
+244 245 3 because
+245 246 9 together
+246 247 6 sputtering
+247 248 7 are
+248 249 8 used
+249 250 13 this
+250 251 12 of
+251 252 11 forming
+252 253 10 for
+253 254 14 film
+254 255 15 . 5.19295685089
+255
+0 256 1 this
+256 257 2 is
+257 258 4 lpcvd
+258 259 3 because
+259 260 5 and
+260 261 9 together
+261 262 6 sputtering
+262 263 7 are
+263 264 8 used
+264 265 13 this
+265 266 12 of
+266 267 11 forming
+267 268 10 for
+268 269 14 film
+269 270 15 . 3.40119738166
+270
+0 271 1 this
+271 272 2 is
+272 273 4 lpcvd
+273 274 5 and
+274 275 6 sputtering
+275 276 3 because
+276 277 7 are
+277 278 8 used
+278 279 9 together
+279 280 13 this
+280 281 12 of
+281 282 11 forming
+282 283 10 for
+283 284 14 film
+284 285 15 . 5.19295685089
+285
+0 286 1 this
+286 287 2 is
+287 288 4 lpcvd
+288 289 5 and
+289 290 3 because
+290 291 6 sputtering
+291 292 7 are
+292 293 8 used
+293 294 9 together
+294 295 13 this
+295 296 12 of
+296 297 11 forming
+297 298 10 for
+298 299 14 film
+299 300 15 . 4.74097172715
+300
+0 301 1 this
+301 302 2 is
+302 303 4 lpcvd
+303 304 5 and
+304 305 9 together
+305 306 6 sputtering
+306 307 7 are
+307 308 8 used
+308 309 3 because
+309 310 13 this
+310 311 12 of
+311 312 11 forming
+312 313 10 for
+313 314 14 film
+314 315 15 . 5.75257263883
+315
+0 316 1 this
+316 317 2 is
+317 318 4 lpcvd
+318 319 5 and
+319 320 3 because
+320 321 9 together
+321 322 6 sputtering
+322 323 7 are
+323 324 8 used
+324 325 13 this
+325 326 12 of
+326 327 10 for
+327 328 11 forming
+328 329 14 film
+329 330 15 . 5.19295685089
+330
+0 331 1 this
+331 332 2 is
+332 333 4 lpcvd
+333 334 3 because
+334 335 5 and
+335 336 6 sputtering
+336 337 7 are
+337 338 8 used
+338 339 9 together
+339 340 13 this
+340 341 12 of
+341 342 11 forming
+342 343 10 for
+343 344 14 film
+344 345 15 . 1.42843998257
+345

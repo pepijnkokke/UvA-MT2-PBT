@@ -1,0 +1,270 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 10
+3 4 4 shows
+4 5 10 a
+5 6 11 requested
+6 7 12 specification
+7 8 13 message
+8 9 9 of
+9 10 8 structure
+10 11 5 a
+11 12 6 communication
+12 13 7 data
+13 14 14 . 0.453449268846
+14
+0 15 1 fig
+15 16 2 .
+16 17 3 10
+17 18 4 shows
+18 19 10 a
+19 20 11 requested
+20 21 12 specification
+21 22 13 message
+22 23 9 of
+23 24 5 a
+24 25 6 communication
+25 26 7 data
+26 27 8 structure
+27 28 14 . 1.92848414555
+28
+0 29 1 fig
+29 30 3 10
+30 31 2 .
+31 32 4 shows
+32 33 10 a
+33 34 11 requested
+34 35 12 specification
+35 36 13 message
+36 37 9 of
+37 38 8 structure
+38 39 5 a
+39 40 6 communication
+40 41 7 data
+41 42 14 . 6.58877363076
+42
+0 43 1 fig
+43 44 2 .
+44 45 3 10
+45 46 4 shows
+46 47 10 a
+47 48 11 requested
+48 49 12 specification
+49 50 13 message
+50 51 8 structure
+51 52 9 of
+52 53 5 a
+53 54 6 communication
+54 55 7 data
+55 56 14 . 8.7859982081
+56
+0 57 1 fig
+57 58 2 .
+58 59 3 10
+59 60 10 a
+60 61 11 requested
+61 62 12 specification
+62 63 13 message
+63 64 9 of
+64 65 8 structure
+65 66 4 shows
+66 67 5 a
+67 68 6 communication
+68 69 7 data
+69 70 14 . 6.84008805904
+70
+0 71 1 fig
+71 72 3 10
+72 73 2 .
+73 74 4 shows
+74 75 10 a
+75 76 11 requested
+76 77 12 specification
+77 78 13 message
+78 79 9 of
+79 80 5 a
+80 81 6 communication
+81 82 7 data
+82 83 8 structure
+83 84 14 . 8.09285102754
+84
+0 85 1 fig
+85 86 2 .
+86 87 3 10
+87 88 4 shows
+88 89 10 a
+89 90 11 requested
+90 91 12 specification
+91 92 9 of
+92 93 8 structure
+93 94 13 message
+94 95 5 a
+95 96 6 communication
+96 97 7 data
+97 98 14 . 6.3881029353
+98
+0 99 1 fig
+99 100 2 .
+100 101 3 10
+101 102 4 shows
+102 103 11 requested
+103 104 12 specification
+104 105 10 a
+105 106 13 message
+106 107 9 of
+107 108 8 structure
+108 109 5 a
+109 110 6 communication
+110 111 7 data
+111 112 14 . 7.39970384698
+112
+0 113 1 fig
+113 114 3 10
+114 115 4 shows
+115 116 2 .
+116 117 10 a
+117 118 11 requested
+118 119 12 specification
+119 120 13 message
+120 121 9 of
+121 122 8 structure
+122 123 5 a
+123 124 6 communication
+124 125 7 data
+125 126 14 . 5.60794437775
+126
+0 127 1 fig
+127 128 2 .
+128 129 3 10
+129 130 4 shows
+130 131 10 a
+131 132 11 requested
+132 133 12 specification
+133 134 13 message
+134 135 9 of
+135 136 8 structure
+136 137 7 data
+137 138 5 a
+138 139 6 communication
+139 140 14 . 6.70655666642
+140
+0 141 1 fig
+141 142 2 .
+142 143 3 10
+143 144 10 a
+144 145 11 requested
+145 146 12 specification
+146 147 13 message
+147 148 9 of
+148 149 4 shows
+149 150 5 a
+150 151 6 communication
+151 152 7 data
+152 153 8 structure
+153 154 14 . 8.7859982081
+154
+0 155 1 fig
+155 156 2 .
+156 157 3 10
+157 158 4 shows
+158 159 10 a
+159 160 11 requested
+160 161 12 specification
+161 162 13 message
+162 163 9 of
+163 164 8 structure
+164 165 6 communication
+165 166 7 data
+166 167 5 a
+167 168 14 . 8.09285102754
+168
+0 169 3 10
+169 170 1 fig
+170 171 2 .
+171 172 4 shows
+172 173 10 a
+173 174 11 requested
+174 175 12 specification
+175 176 13 message
+176 177 9 of
+177 178 8 structure
+178 179 5 a
+179 180 6 communication
+180 181 7 data
+181 182 14 . 6.99423873887
+182
+0 183 1 fig
+183 184 2 .
+184 185 3 10
+185 186 4 shows
+186 187 10 a
+187 188 12 specification
+188 189 13 message
+189 190 11 requested
+190 191 9 of
+191 192 8 structure
+192 193 5 a
+193 194 6 communication
+194 195 7 data
+195 196 14 . 8.7859982081
+196
+0 197 2 .
+197 198 3 10
+198 199 1 fig
+199 200 4 shows
+200 201 10 a
+201 202 11 requested
+202 203 12 specification
+203 204 13 message
+204 205 9 of
+205 206 8 structure
+206 207 5 a
+207 208 6 communication
+208 209 7 data
+209 210 14 . 8.7859982081
+210
+0 211 1 fig
+211 212 2 .
+212 213 3 10
+213 214 10 a
+214 215 11 requested
+215 216 12 specification
+216 217 13 message
+217 218 9 of
+218 219 8 structure
+219 220 5 a
+220 221 6 communication
+221 222 7 data
+222 223 4 shows
+223 224 14 . 1.64159102778
+224
+0 225 1 fig
+225 226 2 .
+226 227 3 10
+227 228 4 shows
+228 229 10 a
+229 230 11 requested
+230 231 12 specification
+231 232 13 message
+232 233 9 of
+233 234 7 data
+234 235 8 structure
+235 236 5 a
+236 237 6 communication
+237 238 14 . 4.4292893814
+238
+0 239 1 fig
+239 240 2 .
+240 241 3 10
+241 242 4 shows
+242 243 10 a
+243 244 11 requested
+244 245 12 specification
+245 246 13 message
+246 247 9 of
+247 248 6 communication
+248 249 7 data
+249 250 8 structure
+250 251 5 a
+251 252 14 . 6.30109155831
+252

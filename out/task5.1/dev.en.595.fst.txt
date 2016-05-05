@@ -1,0 +1,170 @@
+0 1 1 and
+1 2 2 ,
+2 3 4 the
+3 4 5 figures
+4 5 6 ,
+5 6 3 in
+6 7 7 20
+7 8 8 is
+8 9 11 provides
+9 10 12 magnetic
+10 11 13 insulating
+11 12 14 and
+12 13 15 connection
+13 14 9 glass
+14 15 10 which
+15 16 16 . 1.95149675576
+16
+0 17 1 and
+17 18 2 ,
+18 19 4 the
+19 20 5 figures
+20 21 6 ,
+21 22 3 in
+22 23 7 20
+23 24 8 is
+24 25 12 magnetic
+25 26 13 insulating
+26 27 14 and
+27 28 15 connection
+28 29 11 provides
+29 30 9 glass
+30 31 10 which
+31 32 16 . 1.87195693973
+32
+0 33 1 and
+33 34 2 ,
+34 35 4 the
+35 36 5 figures
+36 37 6 ,
+37 38 3 in
+38 39 7 20
+39 40 8 is
+40 41 12 magnetic
+41 42 13 insulating
+42 43 11 provides
+43 44 14 and
+44 45 15 connection
+45 46 9 glass
+46 47 10 which
+47 48 16 . 8.08054696583
+48
+0 49 1 and
+49 50 2 ,
+50 51 4 the
+51 52 5 figures
+52 53 6 ,
+53 54 7 20
+54 55 3 in
+55 56 8 is
+56 57 11 provides
+57 58 12 magnetic
+58 59 13 insulating
+59 60 14 and
+60 61 15 connection
+61 62 9 glass
+62 63 10 which
+63 64 16 . 1.68528536771
+64
+0 65 1 and
+65 66 2 ,
+66 67 4 the
+67 68 5 figures
+68 69 6 ,
+69 70 3 in
+70 71 7 20
+71 72 8 is
+72 73 12 magnetic
+73 74 13 insulating
+74 75 14 and
+75 76 11 provides
+76 77 15 connection
+77 78 9 glass
+78 79 10 which
+79 80 16 . 8.08054696583
+80
+0 81 1 and
+81 82 2 ,
+82 83 4 the
+83 84 5 figures
+84 85 3 in
+85 86 6 ,
+86 87 7 20
+87 88 8 is
+88 89 11 provides
+89 90 12 magnetic
+90 91 13 insulating
+91 92 14 and
+92 93 15 connection
+93 94 9 glass
+94 95 10 which
+95 96 16 . 1.8659388674
+96
+0 97 1 and
+97 98 2 ,
+98 99 4 the
+99 100 5 figures
+100 101 6 ,
+101 102 7 20
+102 103 3 in
+103 104 8 is
+104 105 12 magnetic
+105 106 13 insulating
+106 107 14 and
+107 108 15 connection
+108 109 11 provides
+109 110 9 glass
+110 111 10 which
+111 112 16 . 1.57775691991
+112
+0 113 1 and
+113 114 2 ,
+114 115 4 the
+115 116 5 figures
+116 117 6 ,
+117 118 7 20
+118 119 3 in
+119 120 8 is
+120 121 12 magnetic
+121 122 13 insulating
+122 123 11 provides
+123 124 14 and
+124 125 15 connection
+125 126 9 glass
+126 127 10 which
+127 128 16 . 8.08054696583
+128
+0 129 1 and
+129 130 2 ,
+130 131 4 the
+131 132 5 figures
+132 133 6 ,
+133 134 7 20
+134 135 3 in
+135 136 8 is
+136 137 12 magnetic
+137 138 13 insulating
+138 139 14 and
+139 140 11 provides
+140 141 15 connection
+141 142 9 glass
+142 143 10 which
+143 144 16 . 6.98193467716
+144
+0 145 1 and
+145 146 2 ,
+146 147 4 the
+147 148 5 figures
+148 149 3 in
+149 150 6 ,
+150 151 7 20
+151 152 8 is
+152 153 12 magnetic
+153 154 13 insulating
+154 155 14 and
+155 156 15 connection
+156 157 11 provides
+157 158 9 glass
+158 159 10 which
+159 160 16 . 1.85995679573
+160

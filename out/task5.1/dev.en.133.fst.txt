@@ -1,0 +1,540 @@
+0 1 1 currently
+1 2 2 ,
+2 3 12 automatic
+3 4 13 developing
+4 5 14 machines
+5 6 15 or
+6 7 16 processors
+7 8 11 using
+8 9 4 photographic
+9 10 5 silver
+10 11 6 halide
+11 12 7 photosensitive
+12 13 8 materials
+13 14 3 most
+14 15 9 are
+15 16 10 processed
+16 17 17 . 4.10429489308
+17
+0 18 1 currently
+18 19 2 ,
+19 20 12 automatic
+20 21 13 developing
+21 22 14 machines
+22 23 15 or
+23 24 16 processors
+24 25 11 using
+25 26 4 photographic
+26 27 5 silver
+27 28 6 halide
+28 29 7 photosensitive
+29 30 8 materials
+30 31 9 are
+31 32 3 most
+32 33 10 processed
+33 34 17 . 6.81234509418
+34
+0 35 1 currently
+35 36 2 ,
+36 37 12 automatic
+37 38 13 developing
+38 39 14 machines
+39 40 15 or
+40 41 16 processors
+41 42 11 using
+42 43 4 photographic
+43 44 5 silver
+44 45 6 halide
+45 46 7 photosensitive
+46 47 8 materials
+47 48 9 are
+48 49 10 processed
+49 50 3 most
+50 51 17 . 0.964462275547
+51
+0 52 1 currently
+52 53 2 ,
+53 54 12 automatic
+54 55 13 developing
+55 56 14 machines
+56 57 15 or
+57 58 16 processors
+58 59 11 using
+59 60 4 photographic
+60 61 5 silver
+61 62 6 halide
+62 63 3 most
+63 64 7 photosensitive
+64 65 8 materials
+65 66 9 are
+66 67 10 processed
+67 68 17 . 4.50976000118
+68
+0 69 1 currently
+69 70 2 ,
+70 71 12 automatic
+71 72 13 developing
+72 73 14 machines
+73 74 15 or
+74 75 16 processors
+75 76 11 using
+76 77 4 photographic
+77 78 5 silver
+78 79 3 most
+79 80 6 halide
+80 81 7 photosensitive
+81 82 8 materials
+82 83 9 are
+83 84 10 processed
+84 85 17 . 7.50549227474
+85
+0 86 1 currently
+86 87 2 ,
+87 88 12 automatic
+88 89 15 or
+89 90 13 developing
+90 91 14 machines
+91 92 16 processors
+92 93 11 using
+93 94 4 photographic
+94 95 5 silver
+95 96 6 halide
+96 97 7 photosensitive
+97 98 8 materials
+98 99 9 are
+99 100 10 processed
+100 101 3 most
+101 102 17 . 6.81234509418
+102
+0 103 1 currently
+103 104 2 ,
+104 105 12 automatic
+105 106 13 developing
+106 107 15 or
+107 108 16 processors
+108 109 14 machines
+109 110 11 using
+110 111 4 photographic
+111 112 5 silver
+112 113 6 halide
+113 114 7 photosensitive
+114 115 8 materials
+115 116 9 are
+116 117 10 processed
+117 118 3 most
+118 119 17 . 7.50549227474
+119
+0 120 1 currently
+120 121 2 ,
+121 122 12 automatic
+122 123 13 developing
+123 124 14 machines
+124 125 15 or
+125 126 11 using
+126 127 16 processors
+127 128 4 photographic
+128 129 5 silver
+129 130 6 halide
+130 131 7 photosensitive
+131 132 8 materials
+132 133 9 are
+133 134 10 processed
+134 135 3 most
+135 136 17 . 4.61512051684
+136
+0 137 1 currently
+137 138 2 ,
+138 139 12 automatic
+139 140 13 developing
+140 141 14 machines
+141 142 15 or
+142 143 16 processors
+143 144 11 using
+144 145 4 photographic
+145 146 5 silver
+146 147 6 halide
+147 148 7 photosensitive
+148 149 9 are
+149 150 8 materials
+150 151 10 processed
+151 152 3 most
+152 153 17 . 7.50549227474
+153
+0 154 1 currently
+154 155 2 ,
+155 156 12 automatic
+156 157 13 developing
+157 158 14 machines
+158 159 15 or
+159 160 11 using
+160 161 16 processors
+161 162 4 photographic
+162 163 5 silver
+163 164 6 halide
+164 165 3 most
+165 166 7 photosensitive
+166 167 8 materials
+167 168 9 are
+168 169 10 processed
+169 170 17 . 7.50549227474
+170
+0 171 1 currently
+171 172 2 ,
+172 173 12 automatic
+173 174 13 developing
+174 175 14 machines
+175 176 15 or
+176 177 16 processors
+177 178 11 using
+178 179 3 most
+179 180 4 photographic
+180 181 5 silver
+181 182 6 halide
+182 183 7 photosensitive
+183 184 8 materials
+184 185 9 are
+185 186 10 processed
+186 187 17 . 1.73717127894
+187
+0 188 1 currently
+188 189 2 ,
+189 190 12 automatic
+190 191 13 developing
+191 192 14 machines
+192 193 15 or
+193 194 16 processors
+194 195 4 photographic
+195 196 5 silver
+196 197 6 halide
+197 198 7 photosensitive
+198 199 8 materials
+199 200 9 are
+200 201 11 using
+201 202 10 processed
+202 203 3 most
+203 204 17 . 5.71373280551
+204
+0 205 1 currently
+205 206 2 ,
+206 207 15 or
+207 208 12 automatic
+208 209 13 developing
+209 210 14 machines
+210 211 16 processors
+211 212 11 using
+212 213 4 photographic
+213 214 5 silver
+214 215 6 halide
+215 216 7 photosensitive
+216 217 8 materials
+217 218 9 are
+218 219 10 processed
+219 220 3 most
+220 221 17 . 7.50549227474
+221
+0 222 1 currently
+222 223 2 ,
+223 224 12 automatic
+224 225 15 or
+225 226 16 processors
+226 227 13 developing
+227 228 14 machines
+228 229 11 using
+229 230 4 photographic
+230 231 5 silver
+231 232 6 halide
+232 233 7 photosensitive
+233 234 8 materials
+234 235 3 most
+235 236 9 are
+236 237 10 processed
+237 238 17 . 6.40687998607
+238
+0 239 1 currently
+239 240 2 ,
+240 241 12 automatic
+241 242 15 or
+242 243 16 processors
+243 244 13 developing
+244 245 14 machines
+245 246 11 using
+246 247 4 photographic
+247 248 5 silver
+248 249 6 halide
+249 250 7 photosensitive
+250 251 8 materials
+251 252 9 are
+252 253 10 processed
+253 254 3 most
+254 255 17 . 3.02815546026
+255
+0 256 1 currently
+256 257 2 ,
+257 258 12 automatic
+258 259 15 or
+259 260 16 processors
+260 261 13 developing
+261 262 14 machines
+262 263 11 using
+263 264 4 photographic
+264 265 5 silver
+265 266 6 halide
+266 267 3 most
+267 268 7 photosensitive
+268 269 8 materials
+269 270 9 are
+270 271 10 processed
+271 272 17 . 6.81234509418
+272
+0 273 1 currently
+273 274 2 ,
+274 275 3 most
+275 276 12 automatic
+276 277 13 developing
+277 278 14 machines
+278 279 15 or
+279 280 16 processors
+280 281 11 using
+281 282 4 photographic
+282 283 5 silver
+283 284 6 halide
+284 285 7 photosensitive
+285 286 8 materials
+286 287 9 are
+287 288 10 processed
+288 289 17 . 2.09832050327
+289
+0 290 1 currently
+290 291 2 ,
+291 292 12 automatic
+292 293 15 or
+293 294 13 developing
+294 295 14 machines
+295 296 16 processors
+296 297 11 using
+297 298 3 most
+298 299 4 photographic
+299 300 5 silver
+300 301 6 halide
+301 302 7 photosensitive
+302 303 8 materials
+303 304 9 are
+304 305 10 processed
+305 306 17 . 7.50549227474
+306
+0 307 1 currently
+307 308 2 ,
+308 309 12 automatic
+309 310 13 developing
+310 311 14 machines
+311 312 15 or
+312 313 16 processors
+313 314 11 using
+314 315 4 photographic
+315 316 5 silver
+316 317 6 halide
+317 318 7 photosensitive
+318 319 9 are
+319 320 10 processed
+320 321 8 materials
+321 322 3 most
+322 323 17 . 5.42605073306
+323
+0 324 1 currently
+324 325 2 ,
+325 326 12 automatic
+326 327 13 developing
+327 328 14 machines
+328 329 15 or
+329 330 11 using
+330 331 16 processors
+331 332 3 most
+332 333 4 photographic
+333 334 5 silver
+334 335 6 halide
+335 336 7 photosensitive
+336 337 8 materials
+337 338 9 are
+338 339 10 processed
+339 340 17 . 6.11919791362
+340
+0 341 1 currently
+341 342 2 ,
+342 343 12 automatic
+343 344 13 developing
+344 345 14 machines
+345 346 11 using
+346 347 15 or
+347 348 16 processors
+348 349 4 photographic
+349 350 5 silver
+350 351 6 halide
+351 352 7 photosensitive
+352 353 8 materials
+353 354 9 are
+354 355 10 processed
+355 356 3 most
+356 357 17 . 6.81234509418
+357
+0 358 1 currently
+358 359 2 ,
+359 360 15 or
+360 361 16 processors
+361 362 12 automatic
+362 363 13 developing
+363 364 14 machines
+364 365 11 using
+365 366 4 photographic
+366 367 5 silver
+367 368 6 halide
+368 369 7 photosensitive
+369 370 8 materials
+370 371 3 most
+371 372 9 are
+372 373 10 processed
+373 374 17 . 6.11919791362
+374
+0 375 1 currently
+375 376 2 ,
+376 377 12 automatic
+377 378 13 developing
+378 379 14 machines
+379 380 15 or
+380 381 16 processors
+381 382 11 using
+382 383 3 most
+383 384 4 photographic
+384 385 5 silver
+385 386 6 halide
+386 387 7 photosensitive
+387 388 8 materials
+388 389 10 processed
+389 390 9 are
+390 391 17 . 6.81234509418
+391
+0 392 1 currently
+392 393 2 ,
+393 394 12 automatic
+394 395 13 developing
+395 396 14 machines
+396 397 15 or
+397 398 16 processors
+398 399 11 using
+399 400 4 photographic
+400 401 7 photosensitive
+401 402 8 materials
+402 403 5 silver
+403 404 6 halide
+404 405 9 are
+405 406 10 processed
+406 407 3 most
+407 408 17 . 7.50549227474
+408
+0 409 1 currently
+409 410 2 ,
+410 411 3 most
+411 412 12 automatic
+412 413 13 developing
+413 414 15 or
+414 415 16 processors
+415 416 14 machines
+416 417 11 using
+417 418 4 photographic
+418 419 5 silver
+419 420 6 halide
+420 421 7 photosensitive
+421 422 8 materials
+422 423 9 are
+423 424 10 processed
+424 425 17 . 7.50549227474
+425
+0 426 1 currently
+426 427 2 ,
+427 428 15 or
+428 429 16 processors
+429 430 12 automatic
+430 431 13 developing
+431 432 14 machines
+432 433 11 using
+433 434 4 photographic
+434 435 5 silver
+435 436 6 halide
+436 437 7 photosensitive
+437 438 8 materials
+438 439 9 are
+439 440 10 processed
+440 441 3 most
+441 442 17 . 1.73094072919
+442
+0 443 1 currently
+443 444 2 ,
+444 445 12 automatic
+445 446 15 or
+446 447 16 processors
+447 448 13 developing
+448 449 14 machines
+449 450 11 using
+450 451 3 most
+451 452 4 photographic
+452 453 5 silver
+453 454 6 halide
+454 455 7 photosensitive
+455 456 8 materials
+456 457 9 are
+457 458 10 processed
+458 459 17 . 3.61367197663
+459
+0 460 1 currently
+460 461 2 ,
+461 462 12 automatic
+462 463 13 developing
+463 464 14 machines
+464 465 15 or
+465 466 11 using
+466 467 4 photographic
+467 468 5 silver
+468 469 6 halide
+469 470 7 photosensitive
+470 471 8 materials
+471 472 3 most
+472 473 9 are
+473 474 10 processed
+474 475 16 processors
+475 476 17 . 6.40687998607
+476
+0 477 1 currently
+477 478 2 ,
+478 479 15 or
+479 480 16 processors
+480 481 12 automatic
+481 482 13 developing
+482 483 14 machines
+483 484 11 using
+484 485 4 photographic
+485 486 5 silver
+486 487 6 halide
+487 488 3 most
+488 489 7 photosensitive
+489 490 8 materials
+490 491 9 are
+491 492 10 processed
+492 493 17 . 6.40687998607
+493
+0 494 1 currently
+494 495 2 ,
+495 496 3 most
+496 497 12 automatic
+497 498 13 developing
+498 499 14 machines
+499 500 15 or
+500 501 11 using
+501 502 16 processors
+502 503 4 photographic
+503 504 5 silver
+504 505 6 halide
+505 506 7 photosensitive
+506 507 8 materials
+507 508 9 are
+508 509 10 processed
+509 510 17 . 5.71373280551
+510

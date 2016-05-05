@@ -1,0 +1,160 @@
+0 1 1 the
+1 2 2 power-feed
+2 3 3 terminal
+3 4 4 15a
+4 5 5 is
+5 6 12 the
+6 7 13 conductor
+7 8 14 14a
+8 9 11 to
+9 10 9 a
+10 11 10 voltage
+11 12 8 applying
+12 13 7 for
+13 14 6 used
+14 15 15 . 0.184135451723
+15
+0 16 1 the
+16 17 2 power-feed
+17 18 3 terminal
+18 19 4 15a
+19 20 5 is
+20 21 12 the
+21 22 13 conductor
+22 23 14 14a
+23 24 11 to
+24 25 9 a
+25 26 10 voltage
+26 27 8 applying
+27 28 6 used
+28 29 7 for
+29 30 15 . 7.22947639366
+30
+0 31 1 the
+31 32 2 power-feed
+32 33 3 terminal
+33 34 4 15a
+34 35 5 is
+35 36 12 the
+36 37 13 conductor
+37 38 14 14a
+38 39 11 to
+39 40 8 applying
+40 41 9 a
+41 42 10 voltage
+42 43 7 for
+43 44 6 used
+44 45 15 . 5.84318203254
+45
+0 46 2 power-feed
+46 47 1 the
+47 48 3 terminal
+48 49 4 15a
+49 50 5 is
+50 51 12 the
+51 52 13 conductor
+52 53 14 14a
+53 54 11 to
+54 55 9 a
+55 56 10 voltage
+56 57 8 applying
+57 58 7 for
+58 59 6 used
+59 60 15 . 6.13086410499
+60
+0 61 1 the
+61 62 2 power-feed
+62 63 3 terminal
+63 64 4 15a
+64 65 5 is
+65 66 12 the
+66 67 13 conductor
+67 68 14 14a
+68 69 11 to
+69 70 9 a
+70 71 10 voltage
+71 72 7 for
+72 73 8 applying
+73 74 6 used
+74 75 15 . 4.74456974387
+75
+0 76 1 the
+76 77 2 power-feed
+77 78 3 terminal
+78 79 4 15a
+79 80 5 is
+80 81 12 the
+81 82 13 conductor
+82 83 14 14a
+83 84 11 to
+84 85 10 voltage
+85 86 9 a
+86 87 8 applying
+87 88 7 for
+88 89 6 used
+89 90 15 . 7.92262357422
+90
+0 91 1 the
+91 92 2 power-feed
+92 93 3 terminal
+93 94 4 15a
+94 95 5 is
+95 96 12 the
+96 97 13 conductor
+97 98 14 14a
+98 99 11 to
+99 100 9 a
+100 101 8 applying
+101 102 7 for
+102 103 6 used
+103 104 10 voltage
+104 105 15 . 7.22947639366
+105
+0 106 1 the
+106 107 2 power-feed
+107 108 3 terminal
+108 109 4 15a
+109 110 5 is
+110 111 12 the
+111 112 13 conductor
+112 113 14 14a
+113 114 9 a
+114 115 10 voltage
+115 116 11 to
+116 117 8 applying
+117 118 7 for
+118 119 6 used
+119 120 15 . 1.90160022487
+120
+0 121 1 the
+121 122 2 power-feed
+122 123 3 terminal
+123 124 4 15a
+124 125 12 the
+125 126 13 conductor
+126 127 14 14a
+127 128 5 is
+128 129 11 to
+129 130 9 a
+130 131 10 voltage
+131 132 8 applying
+132 133 7 for
+133 134 6 used
+134 135 15 . 7.92262357422
+135
+0 136 1 the
+136 137 2 power-feed
+137 138 3 terminal
+138 139 4 15a
+139 140 5 is
+140 141 12 the
+141 142 13 conductor
+142 143 14 14a
+143 144 11 to
+144 145 9 a
+145 146 10 voltage
+146 147 6 used
+147 148 8 applying
+148 149 7 for
+149 150 15 . 5.84318203254
+150

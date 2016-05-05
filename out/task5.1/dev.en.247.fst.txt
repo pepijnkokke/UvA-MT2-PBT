@@ -1,0 +1,220 @@
+0 1 6 the
+1 2 7 document
+2 3 8 send-out
+3 4 9 path
+4 5 10 200
+5 6 5 of
+6 7 2 an
+7 8 3 intermediate
+8 9 4 portion
+9 10 1 at
+10 11 11 ,
+11 12 12 a
+12 13 13 transport
+13 14 14 roller
+14 15 15 pair
+15 16 16 210
+16 17 17 is
+17 18 18 disposed
+18 19 19 . 0.174611116086
+19
+0 20 6 the
+20 21 7 document
+21 22 8 send-out
+22 23 9 path
+23 24 10 200
+24 25 5 of
+25 26 2 an
+26 27 3 intermediate
+27 28 1 at
+28 29 4 portion
+29 30 11 ,
+30 31 12 a
+31 32 13 transport
+32 33 14 roller
+33 34 15 pair
+34 35 16 210
+35 36 17 is
+36 37 18 disposed
+37 38 19 . 7.10627821511
+38
+0 39 6 the
+39 40 7 document
+40 41 8 send-out
+41 42 9 path
+42 43 10 200
+43 44 5 of
+44 45 2 an
+45 46 3 intermediate
+46 47 4 portion
+47 48 11 ,
+48 49 1 at
+49 50 12 a
+50 51 13 transport
+51 52 14 roller
+52 53 15 pair
+53 54 16 210
+54 55 17 is
+55 56 18 disposed
+56 57 19 . 6.23080947776
+57
+0 58 6 the
+58 59 7 document
+59 60 8 send-out
+60 61 9 path
+61 62 10 200
+62 63 5 of
+63 64 2 an
+64 65 3 intermediate
+65 66 4 portion
+66 67 1 at
+67 68 12 a
+68 69 11 ,
+69 70 13 transport
+70 71 14 roller
+71 72 15 pair
+72 73 16 210
+73 74 17 is
+74 75 18 disposed
+75 76 19 . 4.23837931307
+76
+0 77 7 document
+77 78 6 the
+78 79 8 send-out
+79 80 9 path
+80 81 10 200
+81 82 5 of
+82 83 2 an
+83 84 3 intermediate
+84 85 4 portion
+85 86 1 at
+86 87 11 ,
+87 88 12 a
+88 89 13 transport
+89 90 14 roller
+90 91 15 pair
+91 92 16 210
+92 93 17 is
+93 94 18 disposed
+94 95 19 . 3.96212593644
+95
+0 96 6 the
+96 97 7 document
+97 98 8 send-out
+98 99 9 path
+99 100 10 200
+100 101 5 of
+101 102 2 an
+102 103 3 intermediate
+103 104 4 portion
+104 105 1 at
+105 106 11 ,
+106 107 12 a
+107 108 13 transport
+108 109 14 roller
+109 110 15 pair
+110 111 16 210
+111 112 18 disposed
+112 113 17 is
+113 114 19 . 8.02256894699
+114
+0 115 6 the
+115 116 7 document
+116 117 8 send-out
+117 118 9 path
+118 119 10 200
+119 120 5 of
+120 121 2 an
+121 122 3 intermediate
+122 123 4 portion
+123 124 11 ,
+124 125 12 a
+125 126 1 at
+126 127 13 transport
+127 128 14 roller
+128 129 15 pair
+129 130 16 210
+130 131 17 is
+131 132 18 disposed
+132 133 19 . 8.71571612755
+133
+0 134 7 document
+134 135 8 send-out
+135 136 6 the
+136 137 9 path
+137 138 10 200
+138 139 5 of
+139 140 2 an
+140 141 3 intermediate
+141 142 4 portion
+142 143 1 at
+143 144 11 ,
+144 145 12 a
+145 146 13 transport
+146 147 14 roller
+147 148 15 pair
+148 149 16 210
+149 150 17 is
+150 151 18 disposed
+151 152 19 . 5.82534436965
+152
+0 153 7 document
+153 154 6 the
+154 155 8 send-out
+155 156 9 path
+156 157 10 200
+157 158 5 of
+158 159 2 an
+159 160 3 intermediate
+160 161 4 portion
+161 162 1 at
+162 163 12 a
+163 164 11 ,
+164 165 13 transport
+165 166 14 roller
+166 167 15 pair
+167 168 16 210
+168 169 17 is
+169 170 18 disposed
+170 171 19 . 8.02256894699
+171
+0 172 8 send-out
+172 173 6 the
+173 174 7 document
+174 175 9 path
+175 176 10 200
+176 177 5 of
+177 178 2 an
+178 179 3 intermediate
+179 180 4 portion
+180 181 1 at
+181 182 11 ,
+182 183 12 a
+183 184 13 transport
+184 185 14 roller
+185 186 15 pair
+186 187 16 210
+187 188 17 is
+188 189 18 disposed
+189 190 19 . 8.71571612755
+190
+0 191 6 the
+191 192 7 document
+192 193 8 send-out
+193 194 9 path
+194 195 10 200
+195 196 5 of
+196 197 1 at
+197 198 2 an
+198 199 3 intermediate
+199 200 4 portion
+200 201 11 ,
+201 202 12 a
+202 203 13 transport
+203 204 14 roller
+204 205 15 pair
+205 206 16 210
+206 207 17 is
+207 208 18 disposed
+208 209 19 . 2.11993561359
+209

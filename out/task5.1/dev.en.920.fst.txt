@@ -1,0 +1,180 @@
+0 1 1 similarly
+1 2 2 ,
+2 3 3 high-level
+3 4 4 signals
+4 5 5 are
+5 6 7 alternately
+6 7 10 remaining
+7 8 11 input
+8 9 12 terminals
+9 10 13 in.sub.8b
+10 11 14 and
+11 12 15 in.sub.18b
+12 13 9 in
+13 14 8 inputted
+14 15 6 also
+15 16 16 and
+16 17 17 in.sub.8c
+17 18 18 and
+18 19 19 in.sub.18c. 1.71497232602
+19
+0 20 1 similarly
+20 21 2 ,
+21 22 3 high-level
+22 23 4 signals
+23 24 5 are
+24 25 7 alternately
+25 26 10 remaining
+26 27 11 input
+27 28 12 terminals
+28 29 13 in.sub.8b
+29 30 14 and
+30 31 15 in.sub.18b
+31 32 16 and
+32 33 9 in
+33 34 8 inputted
+34 35 6 also
+35 36 17 in.sub.8c
+36 37 18 and
+37 38 19 in.sub.18c. 4.15731936138
+38
+0 39 1 similarly
+39 40 2 ,
+40 41 3 high-level
+41 42 4 signals
+42 43 5 are
+43 44 7 alternately
+44 45 10 remaining
+45 46 11 input
+46 47 12 terminals
+47 48 13 in.sub.8b
+48 49 14 and
+49 50 9 in
+50 51 8 inputted
+51 52 6 also
+52 53 15 in.sub.18b
+53 54 16 and
+54 55 17 in.sub.8c
+55 56 18 and
+56 57 19 in.sub.18c. 3.05870707272
+57
+0 58 1 similarly
+58 59 2 ,
+59 60 3 high-level
+60 61 4 signals
+61 62 5 are
+62 63 7 alternately
+63 64 10 remaining
+64 65 11 input
+65 66 12 terminals
+66 67 13 in.sub.8b
+67 68 14 and
+68 69 15 in.sub.18b
+69 70 16 and
+70 71 17 in.sub.8c
+71 72 9 in
+72 73 8 inputted
+73 74 6 also
+74 75 18 and
+75 76 19 in.sub.18c. 1.53265076922
+76
+0 77 1 similarly
+77 78 2 ,
+78 79 3 high-level
+79 80 4 signals
+80 81 5 are
+81 82 10 remaining
+82 83 11 input
+83 84 12 terminals
+84 85 13 in.sub.8b
+85 86 14 and
+86 87 15 in.sub.18b
+87 88 9 in
+88 89 7 alternately
+89 90 8 inputted
+90 91 6 also
+91 92 16 and
+92 93 17 in.sub.8c
+93 94 18 and
+94 95 19 in.sub.18c. 2.21140921233
+95
+0 96 1 similarly
+96 97 2 ,
+97 98 3 high-level
+98 99 4 signals
+99 100 5 are
+100 101 10 remaining
+101 102 11 input
+102 103 12 terminals
+103 104 13 in.sub.8b
+104 105 14 and
+105 106 15 in.sub.18b
+106 107 9 in
+107 108 6 also
+108 109 7 alternately
+109 110 8 inputted
+110 111 16 and
+111 112 17 in.sub.8c
+112 113 18 and
+113 114 19 in.sub.18c. 1.99399633572
+114
+0 115 1 similarly
+115 116 2 ,
+116 117 3 high-level
+117 118 4 signals
+118 119 5 are
+119 120 10 remaining
+120 121 11 input
+121 122 12 terminals
+122 123 13 in.sub.8b
+123 124 14 and
+124 125 9 in
+125 126 7 alternately
+126 127 8 inputted
+127 128 6 also
+128 129 15 in.sub.18b
+129 130 16 and
+130 131 17 in.sub.8c
+131 132 18 and
+132 133 19 in.sub.18c. 4.85046654194
+133
+0 134 1 similarly
+134 135 2 ,
+135 136 3 high-level
+136 137 4 signals
+137 138 5 are
+138 139 7 alternately
+139 140 10 remaining
+140 141 11 input
+141 142 12 terminals
+142 143 13 in.sub.8b
+143 144 9 in
+144 145 8 inputted
+145 146 6 also
+146 147 14 and
+147 148 15 in.sub.18b
+148 149 16 and
+149 150 17 in.sub.8c
+150 151 18 and
+151 152 19 in.sub.18c. 1.26140742311
+152
+0 153 1 similarly
+153 154 2 ,
+154 155 3 high-level
+155 156 4 signals
+156 157 5 are
+157 158 7 alternately
+158 159 6 also
+159 160 10 remaining
+160 161 11 input
+161 162 12 terminals
+162 163 13 in.sub.8b
+163 164 14 and
+164 165 15 in.sub.18b
+165 166 9 in
+166 167 8 inputted
+167 168 16 and
+168 169 17 in.sub.8c
+169 170 18 and
+170 171 19 in.sub.18c. 5.36129216571
+171

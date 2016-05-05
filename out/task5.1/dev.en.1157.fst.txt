@@ -1,0 +1,208 @@
+0 1 1 the
+1 2 9 a
+2 3 10 current-controlled
+3 4 11 type
+4 5 12 power
+5 6 13 bipolar
+6 7 14 transistor
+7 8 8 for
+8 9 6 a
+9 10 7 controller
+10 11 5 to
+11 12 4 relates
+12 13 2 present
+13 14 3 invention
+14 15 15 . 0.146182510178
+15
+0 16 1 the
+16 17 9 a
+17 18 10 current-controlled
+18 19 11 type
+19 20 12 power
+20 21 8 for
+21 22 13 bipolar
+22 23 14 transistor
+23 24 6 a
+24 25 7 controller
+25 26 5 to
+26 27 4 relates
+27 28 2 present
+28 29 3 invention
+29 30 15 . 6.15006957729
+30
+0 31 1 the
+31 32 9 a
+32 33 10 current-controlled
+33 34 11 type
+34 35 12 power
+35 36 13 bipolar
+36 37 14 transistor
+37 38 6 a
+38 39 7 controller
+39 40 8 for
+40 41 5 to
+41 42 4 relates
+42 43 2 present
+43 44 3 invention
+44 45 15 . 2.40056550135
+45
+0 46 1 the
+46 47 9 a
+47 48 10 current-controlled
+48 49 11 type
+49 50 12 power
+50 51 13 bipolar
+51 52 14 transistor
+52 53 8 for
+53 54 7 controller
+54 55 6 a
+55 56 5 to
+56 57 4 relates
+57 58 2 present
+58 59 3 invention
+59 60 15 . 7.53636393841
+60
+0 61 1 the
+61 62 9 a
+62 63 10 current-controlled
+63 64 11 type
+64 65 12 power
+65 66 13 bipolar
+66 67 14 transistor
+67 68 8 for
+68 69 6 a
+69 70 7 controller
+70 71 5 to
+71 72 4 relates
+72 73 3 invention
+73 74 2 present
+74 75 15 . 7.53636393841
+75
+0 76 1 the
+76 77 9 a
+77 78 10 current-controlled
+78 79 11 type
+79 80 8 for
+80 81 12 power
+81 82 13 bipolar
+82 83 14 transistor
+83 84 6 a
+84 85 7 controller
+85 86 5 to
+86 87 4 relates
+87 88 2 present
+88 89 3 invention
+89 90 15 . 4.35831010806
+90
+0 91 1 the
+91 92 12 power
+92 93 9 a
+93 94 10 current-controlled
+94 95 11 type
+95 96 13 bipolar
+96 97 14 transistor
+97 98 8 for
+98 99 6 a
+99 100 7 controller
+100 101 5 to
+101 102 4 relates
+102 103 2 present
+103 104 3 invention
+104 105 15 . 5.74460446918
+105
+0 106 1 the
+106 107 9 a
+107 108 10 current-controlled
+108 109 11 type
+109 110 12 power
+110 111 8 for
+111 112 6 a
+112 113 7 controller
+113 114 13 bipolar
+114 115 14 transistor
+115 116 5 to
+116 117 4 relates
+117 118 2 present
+118 119 3 invention
+119 120 15 . 4.70315059435
+120
+0 121 1 the
+121 122 9 a
+122 123 10 current-controlled
+123 124 11 type
+124 125 12 power
+125 126 13 bipolar
+126 127 14 transistor
+127 128 8 for
+128 129 2 present
+129 130 6 a
+130 131 7 controller
+131 132 5 to
+132 133 4 relates
+133 134 3 invention
+134 135 15 . 7.53636393841
+135
+0 136 1 the
+136 137 9 a
+137 138 10 current-controlled
+138 139 11 type
+139 140 12 power
+140 141 13 bipolar
+141 142 14 transistor
+142 143 8 for
+143 144 6 a
+144 145 7 controller
+145 146 2 present
+146 147 3 invention
+147 148 5 to
+148 149 4 relates
+149 150 15 . 7.53636393841
+150
+0 151 1 the
+151 152 9 a
+152 153 10 current-controlled
+153 154 8 for
+154 155 11 type
+155 156 12 power
+156 157 13 bipolar
+157 158 14 transistor
+158 159 6 a
+159 160 7 controller
+160 161 5 to
+161 162 4 relates
+162 163 2 present
+163 164 3 invention
+164 165 15 . 6.84321675784
+165
+0 166 1 the
+166 167 12 power
+167 168 9 a
+168 169 10 current-controlled
+169 170 11 type
+170 171 8 for
+171 172 13 bipolar
+172 173 14 transistor
+173 174 6 a
+174 175 7 controller
+175 176 5 to
+176 177 4 relates
+177 178 2 present
+178 179 3 invention
+179 180 15 . 6.43775164974
+180
+0 181 1 the
+181 182 9 a
+182 183 10 current-controlled
+183 184 11 type
+184 185 12 power
+185 186 13 bipolar
+186 187 14 transistor
+187 188 8 for
+188 189 5 to
+189 190 6 a
+190 191 7 controller
+191 192 4 relates
+192 193 2 present
+193 194 3 invention
+194 195 15 . 4.31748811354
+195

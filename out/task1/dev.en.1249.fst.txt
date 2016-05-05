@@ -1,0 +1,15 @@
+0 1 1 water
+1 2 2 rod
+2 3 3 1a
+3 4 4 is
+4 5 5 provided
+5 6 6 with
+6 7 7 ascending
+7 8 8 tube
+8 9 9 3e
+9 10 10 and
+10 11 11 descending
+11 12 12 tube
+12 13 13 5a
+13 14 14 .
+14

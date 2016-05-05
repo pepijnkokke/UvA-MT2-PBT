@@ -1,0 +1,133 @@
+0 1 1 that
+1 2 2 is
+2 3 3 ,
+3 4 4 the
+4 5 5 changed
+5 6 6 value
+6 7 7 is
+7 8 16 the
+8 9 17 edtbuf
+9 10 15 of
+10 11 10 the
+11 12 11 corresponding
+12 13 12 parameter
+13 14 13 storing
+14 15 14 area
+15 16 9 into
+16 17 8 written
+17 18 18 . 0.0809346888229
+18
+0 19 1 that
+19 20 2 is
+20 21 4 the
+21 22 3 ,
+22 23 5 changed
+23 24 6 value
+24 25 7 is
+25 26 16 the
+26 27 17 edtbuf
+27 28 15 of
+28 29 10 the
+29 30 11 corresponding
+30 31 12 parameter
+31 32 13 storing
+32 33 14 area
+33 34 9 into
+34 35 8 written
+35 36 18 . 2.75141644231
+36
+0 37 1 that
+37 38 2 is
+38 39 3 ,
+39 40 4 the
+40 41 5 changed
+41 42 6 value
+42 43 16 the
+43 44 17 edtbuf
+44 45 7 is
+45 46 15 of
+46 47 10 the
+47 48 11 corresponding
+48 49 12 parameter
+49 50 13 storing
+50 51 14 area
+51 52 9 into
+52 53 8 written
+53 54 18 . 7.93880224816
+54
+0 55 1 that
+55 56 2 is
+56 57 3 ,
+57 58 5 changed
+58 59 4 the
+59 60 6 value
+60 61 7 is
+61 62 16 the
+62 63 17 edtbuf
+63 64 15 of
+64 65 10 the
+65 66 11 corresponding
+66 67 12 parameter
+67 68 13 storing
+68 69 14 area
+69 70 9 into
+70 71 8 written
+71 72 18 . 7.93880224816
+72
+0 73 1 that
+73 74 2 is
+74 75 3 ,
+75 76 4 the
+76 77 5 changed
+77 78 6 value
+78 79 7 is
+79 80 16 the
+80 81 17 edtbuf
+81 82 10 the
+82 83 15 of
+83 84 11 corresponding
+84 85 12 parameter
+85 86 13 storing
+86 87 14 area
+87 88 9 into
+88 89 8 written
+89 90 18 . 6.55250788703
+90
+0 91 1 that
+91 92 2 is
+92 93 3 ,
+93 94 4 the
+94 95 5 changed
+95 96 6 value
+96 97 7 is
+97 98 16 the
+98 99 17 edtbuf
+99 100 15 of
+100 101 11 corresponding
+101 102 10 the
+102 103 12 parameter
+103 104 13 storing
+104 105 14 area
+105 106 9 into
+106 107 8 written
+107 108 18 . 6.84018995949
+108
+0 109 1 that
+109 110 2 is
+110 111 3 ,
+111 112 4 the
+112 113 5 changed
+113 114 6 value
+114 115 7 is
+115 116 17 edtbuf
+116 117 16 the
+117 118 15 of
+118 119 10 the
+119 120 11 corresponding
+120 121 12 parameter
+121 122 13 storing
+122 123 14 area
+123 124 9 into
+124 125 8 written
+125 126 18 . 4.5376048665
+126

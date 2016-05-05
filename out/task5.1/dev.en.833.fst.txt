@@ -1,0 +1,114 @@
+0 1 4 the
+1 2 5 operational
+2 3 6 amplifier
+3 4 7 32
+4 5 3 of
+5 6 1 the
+6 7 2 output
+7 8 14 a
+8 9 15 power
+9 10 16 transistor
+10 11 17 33
+11 12 13 through
+12 13 12 flowing
+13 14 9 the
+14 15 10 electric
+15 16 11 current
+16 17 8 controls
+17 18 18 . 0.254737916732
+18
+0 19 4 the
+19 20 5 operational
+20 21 6 amplifier
+21 22 7 32
+22 23 3 of
+23 24 1 the
+24 25 2 output
+25 26 14 a
+26 27 15 power
+27 28 16 transistor
+28 29 17 33
+29 30 13 through
+30 31 9 the
+31 32 12 flowing
+32 33 10 electric
+33 34 11 current
+34 35 8 controls
+35 36 18 . 5.47586564459
+36
+0 37 4 the
+37 38 5 operational
+38 39 6 amplifier
+39 40 7 32
+40 41 3 of
+41 42 1 the
+42 43 2 output
+43 44 14 a
+44 45 15 power
+45 46 16 transistor
+46 47 17 33
+47 48 13 through
+48 49 9 the
+49 50 10 electric
+50 51 12 flowing
+51 52 11 current
+52 53 8 controls
+53 54 18 . 3.34423834974
+54
+0 55 4 the
+55 56 5 operational
+56 57 6 amplifier
+57 58 7 32
+58 59 1 the
+59 60 3 of
+60 61 2 output
+61 62 14 a
+62 63 15 power
+63 64 16 transistor
+64 65 17 33
+65 66 13 through
+66 67 12 flowing
+67 68 9 the
+68 69 10 electric
+69 70 11 current
+70 71 8 controls
+71 72 18 . 7.42177579364
+72
+0 73 4 the
+73 74 5 operational
+74 75 6 amplifier
+75 76 7 32
+76 77 3 of
+77 78 1 the
+78 79 2 output
+79 80 14 a
+80 81 15 power
+81 82 16 transistor
+82 83 13 through
+83 84 17 33
+84 85 12 flowing
+85 86 9 the
+86 87 10 electric
+87 88 11 current
+88 89 8 controls
+89 90 18 . 7.42177579364
+90
+0 91 4 the
+91 92 5 operational
+92 93 6 amplifier
+93 94 7 32
+94 95 3 of
+95 96 1 the
+96 97 2 output
+97 98 9 the
+98 99 14 a
+99 100 15 power
+100 101 16 transistor
+101 102 17 33
+102 103 13 through
+103 104 12 flowing
+104 105 10 electric
+105 106 11 current
+106 107 8 controls
+107 108 18 . 1.69167601067
+108

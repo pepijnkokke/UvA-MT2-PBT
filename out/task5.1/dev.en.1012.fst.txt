@@ -1,0 +1,270 @@
+0 1 2 the
+1 2 3 embodiment
+2 3 4 6
+3 4 1 in
+4 5 5 ,
+5 6 6 all
+6 7 7 these
+7 8 8 synchronization
+8 9 9 control
+9 10 10 parameters
+10 11 11 are
+11 12 12 concurrently
+12 13 13 set
+13 14 14 . 0.2034455349
+14
+0 15 2 the
+15 16 3 embodiment
+16 17 4 6
+17 18 1 in
+18 19 5 ,
+19 20 7 these
+20 21 6 all
+21 22 8 synchronization
+22 23 9 control
+23 24 10 parameters
+24 25 11 are
+25 26 12 concurrently
+26 27 13 set
+27 28 14 . 3.85931664638
+28
+0 29 2 the
+29 30 3 embodiment
+30 31 4 6
+31 32 5 ,
+32 33 1 in
+33 34 6 all
+34 35 7 these
+35 36 8 synchronization
+36 37 9 control
+37 38 10 parameters
+38 39 11 are
+39 40 12 concurrently
+40 41 13 set
+41 42 14 . 4.32445408598
+42
+0 43 2 the
+43 44 3 embodiment
+44 45 1 in
+45 46 4 6
+46 47 5 ,
+47 48 6 all
+48 49 7 these
+49 50 8 synchronization
+50 51 9 control
+51 52 10 parameters
+52 53 11 are
+53 54 12 concurrently
+54 55 13 set
+55 56 14 . 7.86057078554
+56
+0 57 2 the
+57 58 3 embodiment
+58 59 4 6
+59 60 1 in
+60 61 6 all
+61 62 5 ,
+62 63 7 these
+63 64 8 synchronization
+64 65 9 control
+65 66 10 parameters
+66 67 11 are
+67 68 12 concurrently
+68 69 13 set
+69 70 14 . 4.49327495555
+70
+0 71 2 the
+71 72 3 embodiment
+72 73 4 6
+73 74 1 in
+74 75 5 ,
+75 76 6 all
+76 77 7 these
+77 78 8 synchronization
+78 79 9 control
+79 80 11 are
+80 81 10 parameters
+81 82 12 concurrently
+82 83 13 set
+83 84 14 . 8.95918307421
+84
+0 85 2 the
+85 86 3 embodiment
+86 87 4 6
+87 88 1 in
+88 89 5 ,
+89 90 6 all
+90 91 7 these
+91 92 8 synchronization
+92 93 9 control
+93 94 10 parameters
+94 95 12 concurrently
+95 96 11 are
+96 97 13 set
+97 98 14 . 6.76195849687
+98
+0 99 2 the
+99 100 3 embodiment
+100 101 4 6
+101 102 1 in
+102 103 5 ,
+103 104 7 these
+104 105 8 synchronization
+105 106 6 all
+106 107 9 control
+107 108 10 parameters
+108 109 11 are
+109 110 12 concurrently
+110 111 13 set
+111 112 14 . 5.49344717141
+112
+0 113 2 the
+113 114 3 embodiment
+114 115 4 6
+115 116 5 ,
+116 117 1 in
+117 118 7 these
+118 119 6 all
+119 120 8 synchronization
+120 121 9 control
+121 122 10 parameters
+122 123 11 are
+123 124 12 concurrently
+124 125 13 set
+125 126 14 . 7.57288871309
+126
+0 127 2 the
+127 128 3 embodiment
+128 129 4 6
+129 130 1 in
+130 131 7 these
+131 132 5 ,
+132 133 6 all
+133 134 8 synchronization
+134 135 9 control
+135 136 10 parameters
+136 137 11 are
+137 138 12 concurrently
+138 139 13 set
+139 140 14 . 8.95918307421
+140
+0 141 2 the
+141 142 3 embodiment
+142 143 4 6
+143 144 5 ,
+144 145 6 all
+145 146 1 in
+146 147 7 these
+147 148 8 synchronization
+148 149 9 control
+149 150 10 parameters
+150 151 11 are
+151 152 12 concurrently
+152 153 13 set
+153 154 14 . 5.59188724422
+154
+0 155 2 the
+155 156 3 embodiment
+156 157 4 6
+157 158 1 in
+158 159 5 ,
+159 160 7 these
+160 161 8 synchronization
+161 162 9 control
+162 163 6 all
+163 164 10 parameters
+164 165 11 are
+165 166 12 concurrently
+166 167 13 set
+167 168 14 . 7.34974516177
+168
+0 169 2 the
+169 170 3 embodiment
+170 171 4 6
+171 172 5 ,
+172 173 1 in
+173 174 7 these
+174 175 8 synchronization
+175 176 6 all
+176 177 9 control
+177 178 10 parameters
+178 179 11 are
+179 180 12 concurrently
+180 181 13 set
+181 182 14 . 8.26603589365
+182
+0 183 2 the
+183 184 3 embodiment
+184 185 4 6
+185 186 1 in
+186 187 5 ,
+187 188 6 all
+188 189 7 these
+189 190 8 synchronization
+190 191 9 control
+191 192 10 parameters
+192 193 12 concurrently
+193 194 13 set
+194 195 11 are
+195 196 14 . 7.86057078554
+196
+0 197 2 the
+197 198 3 embodiment
+198 199 4 6
+199 200 1 in
+200 201 5 ,
+201 202 6 all
+202 203 7 these
+203 204 9 control
+204 205 10 parameters
+205 206 8 synchronization
+206 207 11 are
+207 208 12 concurrently
+208 209 13 set
+209 210 14 . 6.25113287311
+210
+0 211 3 embodiment
+211 212 4 6
+212 213 2 the
+213 214 1 in
+214 215 5 ,
+215 216 6 all
+216 217 7 these
+217 218 8 synchronization
+218 219 9 control
+219 220 10 parameters
+220 221 11 are
+221 222 12 concurrently
+222 223 13 set
+223 224 14 . 6.87974153253
+224
+0 225 2 the
+225 226 3 embodiment
+226 227 4 6
+227 228 1 in
+228 229 5 ,
+229 230 6 all
+230 231 7 these
+231 232 10 parameters
+232 233 8 synchronization
+233 234 9 control
+234 235 11 are
+235 236 12 concurrently
+236 237 13 set
+237 238 14 . 8.26603589365
+238
+0 239 2 the
+239 240 3 embodiment
+240 241 4 6
+241 242 1 in
+242 243 5 ,
+243 244 7 these
+244 245 8 synchronization
+245 246 9 control
+246 247 10 parameters
+247 248 6 all
+248 249 11 are
+249 250 12 concurrently
+250 251 13 set
+251 252 14 . 2.0880917796
+252

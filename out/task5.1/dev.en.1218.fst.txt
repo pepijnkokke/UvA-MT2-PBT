@@ -1,0 +1,280 @@
+0 1 8 selection
+1 2 9 ,
+2 3 10 projection
+3 4 7 include
+4 5 4 a
+5 6 5 relational
+6 7 6 database
+7 8 11 ,
+8 9 12 join
+9 10 3 of
+10 11 1 typical
+11 12 2 functions
+12 13 13 ,
+13 14 14 aggregate
+14 15 15 ,
+15 16 16 grouping
+16 17 17 and
+17 18 18 sorting
+18 19 19 . 2.91777073208
+19
+0 20 8 selection
+20 21 9 ,
+21 22 7 include
+22 23 4 a
+23 24 5 relational
+24 25 6 database
+25 26 10 projection
+26 27 11 ,
+27 28 12 join
+28 29 3 of
+29 30 1 typical
+30 31 2 functions
+31 32 13 ,
+32 33 14 aggregate
+33 34 15 ,
+34 35 16 grouping
+35 36 17 and
+36 37 18 sorting
+37 38 19 . 4.93267375263
+38
+0 39 8 selection
+39 40 9 ,
+40 41 10 projection
+41 42 7 include
+42 43 4 a
+43 44 5 relational
+44 45 6 database
+45 46 11 ,
+46 47 3 of
+47 48 1 typical
+48 49 2 functions
+49 50 12 join
+50 51 13 ,
+51 52 14 aggregate
+52 53 15 ,
+53 54 16 grouping
+54 55 17 and
+55 56 18 sorting
+56 57 19 . 4.52720864452
+57
+0 58 8 selection
+58 59 7 include
+59 60 4 a
+60 61 5 relational
+61 62 6 database
+62 63 9 ,
+63 64 10 projection
+64 65 11 ,
+65 66 12 join
+66 67 3 of
+67 68 1 typical
+68 69 2 functions
+69 70 13 ,
+70 71 14 aggregate
+71 72 15 ,
+72 73 16 grouping
+73 74 17 and
+74 75 18 sorting
+75 76 19 . 1.98823477346
+76
+0 77 8 selection
+77 78 7 include
+78 79 9 ,
+79 80 4 a
+80 81 5 relational
+81 82 6 database
+82 83 10 projection
+83 84 11 ,
+84 85 12 join
+85 86 3 of
+86 87 1 typical
+87 88 2 functions
+88 89 13 ,
+89 90 14 aggregate
+90 91 15 ,
+91 92 16 grouping
+92 93 17 and
+93 94 18 sorting
+94 95 19 . 6.31896811375
+95
+0 96 8 selection
+96 97 9 ,
+97 98 10 projection
+98 99 7 include
+99 100 4 a
+100 101 5 relational
+101 102 6 database
+102 103 11 ,
+103 104 12 join
+104 105 3 of
+105 106 2 functions
+106 107 1 typical
+107 108 13 ,
+108 109 14 aggregate
+109 110 15 ,
+110 111 16 grouping
+111 112 17 and
+112 113 18 sorting
+113 114 19 . 6.31896811375
+114
+0 115 8 selection
+115 116 7 include
+116 117 4 a
+117 118 5 relational
+118 119 6 database
+119 120 9 ,
+120 121 10 projection
+121 122 11 ,
+122 123 3 of
+123 124 1 typical
+124 125 2 functions
+125 126 12 join
+126 127 13 ,
+127 128 14 aggregate
+128 129 15 ,
+129 130 16 grouping
+130 131 17 and
+131 132 18 sorting
+132 133 19 . 5.62582093319
+133
+0 134 8 selection
+134 135 9 ,
+135 136 10 projection
+136 137 7 include
+137 138 4 a
+138 139 5 relational
+139 140 6 database
+140 141 3 of
+141 142 1 typical
+142 143 2 functions
+143 144 11 ,
+144 145 12 join
+145 146 13 ,
+146 147 14 aggregate
+147 148 15 ,
+148 149 16 grouping
+149 150 17 and
+150 151 18 sorting
+151 152 19 . 1.1831696767
+152
+0 153 8 selection
+153 154 7 include
+154 155 4 a
+155 156 5 relational
+156 157 6 database
+157 158 9 ,
+158 159 10 projection
+159 160 11 ,
+160 161 12 join
+161 162 3 of
+162 163 2 functions
+163 164 1 typical
+164 165 13 ,
+165 166 14 aggregate
+166 167 15 ,
+167 168 16 grouping
+168 169 17 and
+169 170 18 sorting
+170 171 19 . 5.62582093319
+171
+0 172 8 selection
+172 173 7 include
+173 174 4 a
+174 175 5 relational
+175 176 6 database
+176 177 9 ,
+177 178 10 projection
+178 179 3 of
+179 180 1 typical
+180 181 2 functions
+181 182 11 ,
+182 183 12 join
+183 184 13 ,
+184 185 14 aggregate
+185 186 15 ,
+186 187 16 grouping
+187 188 17 and
+188 189 18 sorting
+189 190 19 . 4.93267375263
+190
+0 191 8 selection
+191 192 7 include
+192 193 9 ,
+193 194 4 a
+194 195 5 relational
+195 196 6 database
+196 197 10 projection
+197 198 3 of
+198 199 1 typical
+199 200 2 functions
+200 201 11 ,
+201 202 12 join
+202 203 13 ,
+203 204 14 aggregate
+204 205 15 ,
+205 206 16 grouping
+206 207 17 and
+207 208 18 sorting
+208 209 19 . 6.31896811375
+209
+0 210 8 selection
+210 211 9 ,
+211 212 10 projection
+212 213 7 include
+213 214 4 a
+214 215 5 relational
+215 216 6 database
+216 217 3 of
+217 218 2 functions
+218 219 1 typical
+219 220 11 ,
+220 221 12 join
+221 222 13 ,
+222 223 14 aggregate
+223 224 15 ,
+224 225 16 grouping
+225 226 17 and
+226 227 18 sorting
+227 228 19 . 0.785578625019
+228
+0 229 8 selection
+229 230 9 ,
+230 231 10 projection
+231 232 7 include
+232 233 4 a
+233 234 5 relational
+234 235 6 database
+235 236 3 of
+236 237 2 functions
+237 238 11 ,
+238 239 12 join
+239 240 1 typical
+240 241 13 ,
+241 242 14 aggregate
+242 243 15 ,
+243 244 16 grouping
+244 245 17 and
+245 246 18 sorting
+246 247 19 . 5.22035582508
+247
+0 248 8 selection
+248 249 9 ,
+249 250 10 projection
+250 251 11 ,
+251 252 7 include
+252 253 4 a
+253 254 5 relational
+254 255 6 database
+255 256 12 join
+256 257 3 of
+257 258 1 typical
+258 259 2 functions
+259 260 13 ,
+260 261 14 aggregate
+261 262 15 ,
+262 263 16 grouping
+263 264 17 and
+264 265 18 sorting
+265 266 19 . 5.62582093319
+266

@@ -1,0 +1,117 @@
+0 1 2 the
+1 2 3 solvent
+2 3 4 supplying
+3 4 5 cassette
+4 5 6 69
+5 6 1 within
+6 7 7 ,
+7 8 8 a
+8 9 9 solvent
+9 10 10 is
+10 11 11 stored
+11 12 12 . 0.0536918417459
+12
+0 13 2 the
+13 14 3 solvent
+14 15 4 supplying
+15 16 5 cassette
+16 17 1 within
+17 18 6 69
+18 19 7 ,
+19 20 8 a
+20 21 9 solvent
+21 22 10 is
+22 23 11 stored
+23 24 12 . 6.57746390143
+24
+0 25 2 the
+25 26 3 solvent
+26 27 4 supplying
+27 28 5 cassette
+28 29 6 69
+29 30 7 ,
+30 31 1 within
+31 32 8 a
+32 33 9 solvent
+33 34 10 is
+34 35 11 stored
+35 36 12 . 5.38787983456
+36
+0 37 2 the
+37 38 3 solvent
+38 39 4 supplying
+39 40 5 cassette
+40 41 6 69
+41 42 1 within
+42 43 8 a
+43 44 7 ,
+44 45 9 solvent
+45 46 10 is
+46 47 11 stored
+47 48 12 . 4.88578789076
+48
+0 49 3 solvent
+49 50 2 the
+50 51 4 supplying
+51 52 5 cassette
+52 53 6 69
+53 54 1 within
+54 55 7 ,
+55 56 8 a
+56 57 9 solvent
+57 58 10 is
+58 59 11 stored
+59 60 12 . 3.79598623178
+60
+0 61 2 the
+61 62 3 solvent
+62 63 4 supplying
+63 64 5 cassette
+64 65 6 69
+65 66 1 within
+66 67 7 ,
+67 68 8 a
+68 69 9 solvent
+69 70 11 stored
+70 71 10 is
+71 72 12 . 5.43233159713
+72
+0 73 2 the
+73 74 3 solvent
+74 75 4 supplying
+75 76 5 cassette
+76 77 6 69
+77 78 1 within
+78 79 7 ,
+79 80 9 solvent
+80 81 8 a
+81 82 10 is
+82 83 11 stored
+83 84 12 . 6.2207889575
+84
+0 85 2 the
+85 86 3 solvent
+86 87 4 supplying
+87 88 1 within
+88 89 5 cassette
+89 90 6 69
+90 91 7 ,
+91 92 8 a
+92 93 9 solvent
+93 94 10 is
+94 95 11 stored
+95 96 12 . 4.63155375238
+96
+0 97 2 the
+97 98 3 solvent
+98 99 4 supplying
+99 100 5 cassette
+100 101 1 within
+101 102 6 69
+102 103 8 a
+103 104 7 ,
+104 105 9 solvent
+105 106 10 is
+106 107 11 stored
+107 108 12 . 8.52337405049
+108

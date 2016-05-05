@@ -1,0 +1,100 @@
+0 1 2 the
+1 2 3 above
+2 3 4 described
+3 4 5 embodiment
+4 5 1 in
+5 6 6 ,
+6 7 7 the
+7 8 8 laminated
+8 9 9 core
+9 10 10 117
+10 11 11 is
+11 12 15 the
+12 13 16 step
+13 14 17 portion
+14 15 18 103
+15 16 14 on
+16 17 12 directly
+17 18 13 fixed
+18 19 19 . 1.26628684103
+19
+0 20 2 the
+20 21 3 above
+21 22 4 described
+22 23 1 in
+23 24 5 embodiment
+24 25 6 ,
+25 26 7 the
+26 27 8 laminated
+27 28 9 core
+28 29 10 117
+29 30 11 is
+30 31 15 the
+31 32 16 step
+32 33 17 portion
+33 34 18 103
+34 35 14 on
+35 36 12 directly
+36 37 13 fixed
+37 38 19 . 0.964334905707
+38
+0 39 2 the
+39 40 3 above
+40 41 4 described
+41 42 5 embodiment
+42 43 1 in
+43 44 6 ,
+44 45 7 the
+45 46 8 laminated
+46 47 9 core
+47 48 10 117
+48 49 11 is
+49 50 15 the
+50 51 16 step
+51 52 17 portion
+52 53 18 103
+53 54 12 directly
+54 55 14 on
+55 56 13 fixed
+56 57 19 . 5.56281610355
+57
+0 58 2 the
+58 59 3 above
+59 60 4 described
+60 61 1 in
+61 62 5 embodiment
+62 63 6 ,
+63 64 7 the
+64 65 8 laminated
+65 66 9 core
+66 67 10 117
+67 68 11 is
+68 69 15 the
+69 70 16 step
+70 71 17 portion
+71 72 18 103
+72 73 12 directly
+73 74 14 on
+74 75 13 fixed
+75 76 19 . 7.06689350032
+76
+0 77 2 the
+77 78 3 above
+78 79 4 described
+79 80 5 embodiment
+80 81 1 in
+81 82 6 ,
+82 83 7 the
+83 84 8 laminated
+84 85 9 core
+85 86 10 117
+86 87 11 is
+87 88 12 directly
+88 89 15 the
+89 90 16 step
+90 91 17 portion
+91 92 18 103
+92 93 14 on
+93 94 13 fixed
+94 95 19 . 1.10202963501
+95

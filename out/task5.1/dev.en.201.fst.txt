@@ -1,0 +1,209 @@
+0 1 1 incidentally
+1 2 2 ,
+2 3 7 later
+3 4 6 exemplified
+4 5 3 the
+5 6 4 inquiring
+6 7 5 process
+7 8 8 is
+8 9 14 the
+9 10 15 initial
+10 11 16 function
+11 12 17 settings
+12 13 13 for
+13 14 11 the
+14 15 12 process
+15 16 10 in
+16 17 9 contained
+17 18 18 . 0.315161361474
+18
+0 19 1 incidentally
+19 20 2 ,
+20 21 7 later
+21 22 3 the
+22 23 6 exemplified
+23 24 4 inquiring
+24 25 5 process
+25 26 8 is
+26 27 14 the
+27 28 15 initial
+28 29 16 function
+29 30 17 settings
+30 31 13 for
+31 32 11 the
+32 33 12 process
+33 34 10 in
+34 35 9 contained
+35 36 18 . 7.92551897979
+36
+0 37 1 incidentally
+37 38 2 ,
+38 39 3 the
+39 40 7 later
+40 41 6 exemplified
+41 42 4 inquiring
+42 43 5 process
+43 44 8 is
+44 45 14 the
+45 46 15 initial
+46 47 16 function
+47 48 17 settings
+48 49 13 for
+49 50 11 the
+50 51 12 process
+51 52 10 in
+52 53 9 contained
+53 54 18 . 1.41080628892
+54
+0 55 1 incidentally
+55 56 2 ,
+56 57 7 later
+57 58 6 exemplified
+58 59 3 the
+59 60 4 inquiring
+60 61 5 process
+61 62 8 is
+62 63 14 the
+63 64 15 initial
+64 65 16 function
+65 66 13 for
+66 67 17 settings
+67 68 11 the
+68 69 12 process
+69 70 10 in
+70 71 9 contained
+71 72 18 . 4.88099654206
+72
+0 73 1 incidentally
+73 74 2 ,
+74 75 3 the
+75 76 7 later
+76 77 6 exemplified
+77 78 4 inquiring
+78 79 5 process
+79 80 8 is
+80 81 14 the
+81 82 15 initial
+82 83 16 function
+83 84 13 for
+84 85 17 settings
+85 86 11 the
+86 87 12 process
+87 88 10 in
+88 89 9 contained
+89 90 18 . 6.13375951056
+90
+0 91 1 incidentally
+91 92 2 ,
+92 93 7 later
+93 94 3 the
+94 95 4 inquiring
+95 96 6 exemplified
+96 97 5 process
+97 98 8 is
+98 99 14 the
+99 100 15 initial
+100 101 16 function
+101 102 17 settings
+102 103 13 for
+103 104 11 the
+104 105 12 process
+105 106 10 in
+106 107 9 contained
+107 108 18 . 7.23237179923
+108
+0 109 1 incidentally
+109 110 2 ,
+110 111 7 later
+111 112 6 exemplified
+112 113 3 the
+113 114 4 inquiring
+114 115 5 process
+115 116 8 is
+116 117 14 the
+117 118 15 initial
+118 119 16 function
+119 120 17 settings
+120 121 11 the
+121 122 13 for
+122 123 12 process
+123 124 10 in
+124 125 9 contained
+125 126 18 . 7.92551897979
+126
+0 127 1 incidentally
+127 128 2 ,
+128 129 7 later
+129 130 6 exemplified
+130 131 3 the
+131 132 4 inquiring
+132 133 5 process
+133 134 8 is
+134 135 14 the
+135 136 15 initial
+136 137 16 function
+137 138 13 for
+138 139 11 the
+139 140 12 process
+140 141 17 settings
+141 142 10 in
+142 143 9 contained
+143 144 18 . 5.52762370699
+144
+0 145 1 incidentally
+145 146 2 ,
+146 147 7 later
+147 148 6 exemplified
+148 149 4 inquiring
+149 150 3 the
+150 151 5 process
+151 152 8 is
+152 153 14 the
+153 154 15 initial
+154 155 16 function
+155 156 17 settings
+156 157 13 for
+157 158 11 the
+158 159 12 process
+159 160 10 in
+160 161 9 contained
+161 162 18 . 5.97960883073
+162
+0 163 1 incidentally
+163 164 2 ,
+164 165 7 later
+165 166 6 exemplified
+166 167 3 the
+167 168 4 inquiring
+168 169 5 process
+169 170 8 is
+170 171 15 initial
+171 172 14 the
+172 173 16 function
+173 174 17 settings
+174 175 13 for
+175 176 11 the
+176 177 12 process
+177 178 10 in
+178 179 9 contained
+179 180 18 . 6.31608106735
+180
+0 181 1 incidentally
+181 182 2 ,
+182 183 7 later
+183 184 6 exemplified
+184 185 3 the
+185 186 4 inquiring
+186 187 5 process
+187 188 8 is
+188 189 14 the
+189 190 15 initial
+190 191 16 function
+191 192 17 settings
+192 193 13 for
+193 194 12 process
+194 195 11 the
+195 196 10 in
+196 197 9 contained
+197 198 18 . 4.98108000062
+198

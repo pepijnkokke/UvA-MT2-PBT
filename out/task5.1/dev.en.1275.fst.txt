@@ -1,0 +1,108 @@
+0 1 1 the
+1 2 2 above
+2 3 3 mentioned
+3 4 4 display
+4 5 5 device
+5 6 6 40
+6 7 7 is
+7 8 15 a
+8 9 16 screen
+9 10 14 on
+10 11 12 image
+11 12 13 signal
+12 13 11 displaying
+13 14 10 for
+14 15 8 a
+15 16 9 device
+16 17 17 . 0.138426010433
+17
+0 18 2 above
+18 19 1 the
+19 20 3 mentioned
+20 21 4 display
+21 22 5 device
+22 23 6 40
+23 24 7 is
+24 25 15 a
+25 26 16 screen
+26 27 14 on
+27 28 12 image
+28 29 13 signal
+29 30 11 displaying
+30 31 10 for
+31 32 8 a
+32 33 9 device
+33 34 17 . 3.02028707866
+34
+0 35 1 the
+35 36 3 mentioned
+36 37 2 above
+37 38 4 display
+38 39 5 device
+39 40 6 40
+40 41 7 is
+41 42 15 a
+42 43 16 screen
+43 44 14 on
+44 45 12 image
+45 46 13 signal
+46 47 11 displaying
+47 48 10 for
+48 49 8 a
+49 50 9 device
+50 51 17 . 5.63148745377
+51
+0 52 1 the
+52 53 2 above
+53 54 3 mentioned
+54 55 4 display
+55 56 5 device
+56 57 6 40
+57 58 7 is
+58 59 15 a
+59 60 16 screen
+60 61 14 on
+61 62 11 displaying
+62 63 12 image
+63 64 13 signal
+64 65 10 for
+65 66 8 a
+66 67 9 device
+67 68 17 . 2.60918815283
+68
+0 69 1 the
+69 70 2 above
+70 71 3 mentioned
+71 72 4 display
+72 73 5 device
+73 74 6 40
+74 75 7 is
+75 76 15 a
+76 77 16 screen
+77 78 12 image
+78 79 14 on
+79 80 13 signal
+80 81 11 displaying
+81 82 10 for
+82 83 8 a
+83 84 9 device
+84 85 17 . 6.81014245012
+85
+0 86 1 the
+86 87 2 above
+87 88 3 mentioned
+88 89 4 display
+89 90 5 device
+90 91 6 40
+91 92 7 is
+92 93 15 a
+93 94 16 screen
+94 95 14 on
+95 96 12 image
+96 97 13 signal
+97 98 10 for
+98 99 11 displaying
+99 100 8 a
+100 101 9 device
+101 102 17 . 6.11699526955
+102

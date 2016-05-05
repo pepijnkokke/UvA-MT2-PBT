@@ -1,0 +1,180 @@
+0 1 1 accordingly
+1 2 2 ,
+2 3 3 the
+3 4 4 energy
+4 5 5 exerting
+5 6 9 the
+6 7 10 occupant
+7 8 8 on
+8 9 6 an
+9 10 7 influence
+10 11 13 reduced
+11 12 12 be
+12 13 11 can
+13 14 14 . 0.5946296154
+14
+0 15 1 accordingly
+15 16 2 ,
+16 17 3 the
+17 18 4 energy
+18 19 9 the
+19 20 10 occupant
+20 21 5 exerting
+21 22 8 on
+22 23 6 an
+23 24 7 influence
+24 25 13 reduced
+25 26 12 be
+26 27 11 can
+27 28 14 . 6.98038597002
+28
+0 29 1 accordingly
+29 30 2 ,
+30 31 3 the
+31 32 4 energy
+32 33 9 the
+33 34 10 occupant
+34 35 8 on
+35 36 5 exerting
+36 37 6 an
+37 38 7 influence
+38 39 13 reduced
+39 40 12 be
+40 41 11 can
+41 42 14 . 6.13308810963
+42
+0 43 1 accordingly
+43 44 2 ,
+44 45 3 the
+45 46 4 energy
+46 47 5 exerting
+47 48 9 the
+48 49 10 occupant
+49 50 8 on
+50 51 6 an
+51 52 7 influence
+52 53 12 be
+53 54 13 reduced
+54 55 11 can
+55 56 14 . 1.17224348004
+56
+0 57 1 accordingly
+57 58 2 ,
+58 59 3 the
+59 60 4 energy
+60 61 9 the
+61 62 10 occupant
+62 63 5 exerting
+63 64 8 on
+64 65 6 an
+65 66 7 influence
+66 67 12 be
+67 68 13 reduced
+68 69 11 can
+69 70 14 . 8.07899825868
+70
+0 71 1 accordingly
+71 72 2 ,
+72 73 3 the
+73 74 4 energy
+74 75 9 the
+75 76 10 occupant
+76 77 8 on
+77 78 5 exerting
+78 79 6 an
+79 80 7 influence
+80 81 12 be
+81 82 13 reduced
+82 83 11 can
+83 84 14 . 6.46956034625
+84
+0 85 1 accordingly
+85 86 2 ,
+86 87 3 the
+87 88 4 energy
+88 89 9 the
+89 90 10 occupant
+90 91 8 on
+91 92 6 an
+92 93 7 influence
+93 94 5 exerting
+94 95 13 reduced
+95 96 12 be
+96 97 11 can
+97 98 14 . 3.06836296459
+98
+0 99 1 accordingly
+99 100 2 ,
+100 101 3 the
+101 102 9 the
+102 103 10 occupant
+103 104 8 on
+104 105 4 energy
+105 106 5 exerting
+106 107 6 an
+107 108 7 influence
+108 109 13 reduced
+109 110 12 be
+110 111 11 can
+111 112 14 . 5.68110298589
+112
+0 113 1 accordingly
+113 114 2 ,
+114 115 3 the
+115 116 5 exerting
+116 117 4 energy
+117 118 9 the
+118 119 10 occupant
+119 120 8 on
+120 121 6 an
+121 122 7 influence
+122 123 13 reduced
+123 124 12 be
+124 125 11 can
+125 126 14 . 5.77641316569
+126
+0 127 1 accordingly
+127 128 2 ,
+128 129 3 the
+129 130 4 energy
+130 131 9 the
+131 132 10 occupant
+132 133 8 on
+133 134 6 an
+134 135 7 influence
+135 136 5 exerting
+136 137 12 be
+137 138 13 reduced
+138 139 11 can
+139 140 14 . 3.73519283683
+140
+0 141 1 accordingly
+141 142 2 ,
+142 143 3 the
+143 144 4 energy
+144 145 5 exerting
+145 146 10 occupant
+146 147 9 the
+147 148 8 on
+148 149 6 an
+149 150 7 influence
+150 151 13 reduced
+151 152 12 be
+152 153 11 can
+153 154 14 . 3.29987476557
+154
+0 155 1 accordingly
+155 156 2 ,
+156 157 3 the
+157 158 4 energy
+158 159 5 exerting
+159 160 9 the
+160 161 10 occupant
+161 162 8 on
+162 163 7 influence
+163 164 6 an
+164 165 13 reduced
+165 166 12 be
+166 167 11 can
+167 168 14 . 3.92011517533
+168

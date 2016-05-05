@@ -1,0 +1,224 @@
+0 1 1 a
+1 2 2 second
+2 3 3 interconnection
+3 4 4 20
+4 5 5 is
+5 6 12 barrier
+6 7 13 metal
+7 8 14 19
+8 9 11 of
+9 10 8 the
+10 11 9 upper
+11 12 10 surface
+12 13 7 on
+13 14 6 formed
+14 15 15 . 0.168416659988
+15
+0 16 1 a
+16 17 2 second
+17 18 3 interconnection
+18 19 4 20
+19 20 5 is
+20 21 12 barrier
+21 22 13 metal
+22 23 14 19
+23 24 8 the
+24 25 11 of
+25 26 9 upper
+26 27 10 surface
+27 28 7 on
+28 29 6 formed
+29 30 15 . 6.61035951434
+30
+0 31 1 a
+31 32 2 second
+32 33 3 interconnection
+33 34 4 20
+34 35 5 is
+35 36 12 barrier
+36 37 13 metal
+37 38 14 19
+38 39 11 of
+39 40 9 upper
+40 41 8 the
+41 42 10 surface
+42 43 7 on
+43 44 6 formed
+44 45 15 . 5.32250522604
+45
+0 46 1 a
+46 47 2 second
+47 48 3 interconnection
+48 49 4 20
+49 50 5 is
+50 51 12 barrier
+51 52 13 metal
+52 53 14 19
+53 54 11 of
+54 55 8 the
+55 56 9 upper
+56 57 10 surface
+57 58 6 formed
+58 59 7 on
+59 60 15 . 7.99665387546
+60
+0 61 2 second
+61 62 1 a
+62 63 3 interconnection
+63 64 4 20
+64 65 5 is
+65 66 12 barrier
+66 67 13 metal
+67 68 14 19
+68 69 11 of
+69 70 8 the
+70 71 9 upper
+71 72 10 surface
+72 73 7 on
+73 74 6 formed
+74 75 15 . 7.08036314359
+75
+0 76 1 a
+76 77 2 second
+77 78 3 interconnection
+78 79 4 20
+79 80 5 is
+80 81 12 barrier
+81 82 13 metal
+82 83 14 19
+83 84 8 the
+84 85 9 upper
+85 86 11 of
+86 87 10 surface
+87 88 7 on
+88 89 6 formed
+89 90 15 . 6.29190578322
+90
+0 91 1 a
+91 92 2 second
+92 93 3 interconnection
+93 94 4 20
+94 95 5 is
+95 96 12 barrier
+96 97 13 metal
+97 98 14 19
+98 99 11 of
+99 100 9 upper
+100 101 10 surface
+101 102 8 the
+102 103 7 on
+103 104 6 formed
+104 105 15 . 3.27370065382
+105
+0 106 1 a
+106 107 2 second
+107 108 3 interconnection
+108 109 4 20
+109 110 12 barrier
+110 111 13 metal
+111 112 14 19
+112 113 5 is
+113 114 11 of
+114 115 8 the
+115 116 9 upper
+116 117 10 surface
+117 118 7 on
+118 119 6 formed
+119 120 15 . 8.68980105602
+120
+0 121 1 a
+121 122 2 second
+122 123 3 interconnection
+123 124 4 20
+124 125 5 is
+125 126 12 barrier
+126 127 13 metal
+127 128 14 19
+128 129 11 of
+129 130 10 surface
+130 131 8 the
+131 132 9 upper
+132 133 7 on
+133 134 6 formed
+134 135 15 . 6.61035951434
+135
+0 136 1 a
+136 137 2 second
+137 138 3 interconnection
+138 139 4 20
+139 140 5 is
+140 141 8 the
+141 142 12 barrier
+142 143 13 metal
+143 144 14 19
+144 145 11 of
+145 146 9 upper
+146 147 10 surface
+147 148 7 on
+148 149 6 formed
+149 150 15 . 2.43597224445
+150
+0 151 1 a
+151 152 2 second
+152 153 3 interconnection
+153 154 4 20
+154 155 5 is
+155 156 14 19
+156 157 12 barrier
+157 158 13 metal
+158 159 11 of
+159 160 8 the
+160 161 9 upper
+161 162 10 surface
+162 163 7 on
+163 164 6 formed
+164 165 15 . 6.8980415868
+165
+0 166 1 a
+166 167 2 second
+167 168 3 interconnection
+168 169 4 20
+169 170 5 is
+170 171 12 barrier
+171 172 13 metal
+172 173 14 19
+173 174 9 upper
+174 175 8 the
+175 176 11 of
+176 177 10 surface
+177 178 7 on
+178 179 6 formed
+179 180 15 . 8.68980105602
+180
+0 181 1 a
+181 182 2 second
+182 183 3 interconnection
+183 184 4 20
+184 185 5 is
+185 186 11 of
+186 187 12 barrier
+187 188 13 metal
+188 189 14 19
+189 190 8 the
+190 191 9 upper
+191 192 10 surface
+192 193 7 on
+193 194 6 formed
+194 195 15 . 4.10483357735
+195
+0 196 1 a
+196 197 2 second
+197 198 3 interconnection
+198 199 4 20
+199 200 5 is
+200 201 12 barrier
+201 202 13 metal
+202 203 14 19
+203 204 8 the
+204 205 9 upper
+205 206 10 surface
+206 207 11 of
+207 208 7 on
+208 209 6 formed
+209 210 15 . 6.74389090696
+210

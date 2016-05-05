@@ -1,0 +1,162 @@
+0 1 1 the
+1 2 2 threshold
+2 3 3 level
+3 4 4 is
+4 5 13 the
+5 6 14 dtmf
+6 7 15 signal
+7 8 16 receiver
+8 9 12 of
+9 10 9 noise
+10 11 10 detection
+11 12 11 characteristics
+12 13 8 of
+13 14 7 consideration
+14 15 6 in
+15 16 5 determined
+16 17 17 . 0.667888587971
+17
+0 18 1 the
+18 19 2 threshold
+19 20 3 level
+20 21 4 is
+21 22 13 the
+22 23 14 dtmf
+23 24 15 signal
+24 25 16 receiver
+25 26 12 of
+26 27 9 noise
+27 28 10 detection
+28 29 11 characteristics
+29 30 8 of
+30 31 6 in
+31 32 7 consideration
+32 33 5 determined
+33 34 17 . 2.33925104297
+34
+0 35 1 the
+35 36 2 threshold
+36 37 3 level
+37 38 4 is
+38 39 13 the
+39 40 14 dtmf
+40 41 15 signal
+41 42 16 receiver
+42 43 12 of
+43 44 10 detection
+44 45 11 characteristics
+45 46 9 noise
+46 47 8 of
+47 48 7 consideration
+48 49 6 in
+49 50 5 determined
+50 51 17 . 1.21796571828
+51
+0 52 1 the
+52 53 2 threshold
+53 54 3 level
+54 55 4 is
+55 56 13 the
+56 57 14 dtmf
+57 58 15 signal
+58 59 16 receiver
+59 60 9 noise
+60 61 12 of
+61 62 10 detection
+62 63 11 characteristics
+63 64 8 of
+64 65 7 consideration
+65 66 6 in
+66 67 5 determined
+67 68 17 . 5.57547550617
+68
+0 69 1 the
+69 70 2 threshold
+70 71 3 level
+71 72 4 is
+72 73 13 the
+73 74 14 dtmf
+74 75 15 signal
+75 76 16 receiver
+76 77 12 of
+77 78 9 noise
+78 79 10 detection
+79 80 11 characteristics
+80 81 8 of
+81 82 7 consideration
+82 83 5 determined
+83 84 6 in
+84 85 17 . 5.78311487095
+85
+0 86 1 the
+86 87 2 threshold
+87 88 3 level
+88 89 4 is
+89 90 13 the
+90 91 15 signal
+91 92 14 dtmf
+92 93 16 receiver
+93 94 12 of
+94 95 9 noise
+95 96 10 detection
+96 97 11 characteristics
+97 98 8 of
+98 99 7 consideration
+99 100 6 in
+100 101 5 determined
+101 102 17 . 8.34806422841
+102
+0 103 1 the
+103 104 2 threshold
+104 105 3 level
+105 106 4 is
+106 107 14 dtmf
+107 108 13 the
+108 109 15 signal
+109 110 16 receiver
+110 111 12 of
+111 112 9 noise
+112 113 10 detection
+113 114 11 characteristics
+114 115 8 of
+115 116 7 consideration
+116 117 6 in
+117 118 5 determined
+118 119 17 . 7.24945193974
+119
+0 120 1 the
+120 121 2 threshold
+121 122 3 level
+122 123 4 is
+123 124 13 the
+124 125 14 dtmf
+125 126 15 signal
+126 127 16 receiver
+127 128 12 of
+128 129 10 detection
+129 130 11 characteristics
+130 131 9 noise
+131 132 8 of
+132 133 6 in
+133 134 7 consideration
+134 135 5 determined
+135 136 17 . 2.54594585303
+136
+0 137 1 the
+137 138 2 threshold
+138 139 3 level
+139 140 4 is
+140 141 13 the
+141 142 14 dtmf
+142 143 15 signal
+143 144 16 receiver
+144 145 12 of
+145 146 11 characteristics
+146 147 9 noise
+147 148 10 detection
+148 149 8 of
+149 150 7 consideration
+150 151 6 in
+151 152 5 determined
+152 153 17 . 4.73714631576
+153

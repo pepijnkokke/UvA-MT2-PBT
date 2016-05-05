@@ -1,0 +1,240 @@
+0 1 6 the
+1 2 7 above
+2 3 8 described
+3 4 9 problems
+4 5 5 solving
+5 6 4 for
+6 7 1 a
+7 8 2 semiconductor
+8 9 3 device
+9 10 13 below
+10 11 10 will
+11 12 12 described
+12 13 11 be
+13 14 14 . 4.73838902977
+14
+0 15 6 the
+15 16 7 above
+16 17 8 described
+17 18 9 problems
+18 19 5 solving
+19 20 4 for
+20 21 1 a
+21 22 2 semiconductor
+22 23 3 device
+23 24 10 will
+24 25 13 below
+25 26 12 described
+26 27 11 be
+27 28 14 . 0.89357477404
+28
+0 29 1 a
+29 30 6 the
+30 31 7 above
+31 32 8 described
+32 33 9 problems
+33 34 5 solving
+34 35 4 for
+35 36 2 semiconductor
+36 37 3 device
+37 38 13 below
+38 39 10 will
+39 40 12 described
+40 41 11 be
+41 42 14 . 6.81783057145
+42
+0 43 1 a
+43 44 6 the
+44 45 7 above
+45 46 8 described
+46 47 9 problems
+47 48 5 solving
+48 49 4 for
+49 50 2 semiconductor
+50 51 3 device
+51 52 10 will
+52 53 13 below
+53 54 12 described
+54 55 11 be
+55 56 14 . 2.86658685287
+56
+0 57 6 the
+57 58 7 above
+58 59 8 described
+59 60 9 problems
+60 61 5 solving
+61 62 4 for
+62 63 1 a
+63 64 2 semiconductor
+64 65 3 device
+65 66 13 below
+66 67 12 described
+67 68 10 will
+68 69 11 be
+69 70 14 . 4.73838902977
+70
+0 71 1 a
+71 72 6 the
+72 73 7 above
+73 74 8 described
+74 75 9 problems
+75 76 5 solving
+76 77 4 for
+77 78 2 semiconductor
+78 79 3 device
+79 80 13 below
+80 81 12 described
+81 82 10 will
+82 83 11 be
+83 84 14 . 6.12468339089
+84
+0 85 6 the
+85 86 7 above
+86 87 8 described
+87 88 5 solving
+88 89 4 for
+89 90 1 a
+90 91 2 semiconductor
+91 92 3 device
+92 93 9 problems
+93 94 10 will
+94 95 13 below
+95 96 12 described
+96 97 11 be
+97 98 14 . 3.41663318979
+98
+0 99 6 the
+99 100 7 above
+100 101 8 described
+101 102 9 problems
+102 103 5 solving
+103 104 4 for
+104 105 1 a
+105 106 2 semiconductor
+106 107 3 device
+107 108 13 below
+108 109 12 described
+109 110 11 be
+110 111 10 will
+111 112 14 . 1.01571219608
+112
+0 113 6 the
+113 114 7 above
+114 115 8 described
+115 116 5 solving
+116 117 4 for
+117 118 1 a
+118 119 2 semiconductor
+119 120 3 device
+120 121 9 problems
+121 122 13 below
+122 123 12 described
+123 124 10 will
+124 125 11 be
+125 126 14 . 6.12468339089
+126
+0 127 1 a
+127 128 6 the
+128 129 7 above
+129 130 8 described
+130 131 9 problems
+131 132 5 solving
+132 133 4 for
+133 134 2 semiconductor
+134 135 3 device
+135 136 13 below
+136 137 12 described
+137 138 11 be
+138 139 10 will
+139 140 14 . 3.05663045576
+140
+0 141 6 the
+141 142 7 above
+142 143 8 described
+143 144 5 solving
+144 145 9 problems
+145 146 4 for
+146 147 1 a
+147 148 2 semiconductor
+148 149 3 device
+149 150 13 below
+150 151 10 will
+151 152 12 described
+152 153 11 be
+153 154 14 . 6.81783057145
+154
+0 155 6 the
+155 156 7 above
+156 157 8 described
+157 158 9 problems
+158 159 5 solving
+159 160 1 a
+160 161 4 for
+161 162 2 semiconductor
+162 163 3 device
+163 164 10 will
+164 165 13 below
+165 166 12 described
+166 167 11 be
+167 168 14 . 6.81783057145
+168
+0 169 6 the
+169 170 7 above
+170 171 8 described
+171 172 5 solving
+172 173 9 problems
+173 174 4 for
+174 175 1 a
+175 176 2 semiconductor
+176 177 3 device
+177 178 10 will
+178 179 13 below
+179 180 12 described
+180 181 11 be
+181 182 14 . 4.04524184922
+182
+0 183 1 a
+183 184 6 the
+184 185 7 above
+185 186 8 described
+186 187 5 solving
+187 188 9 problems
+188 189 4 for
+189 190 2 semiconductor
+190 191 3 device
+191 192 10 will
+192 193 13 below
+193 194 12 described
+194 195 11 be
+195 196 14 . 5.71921828279
+196
+0 197 6 the
+197 198 7 above
+198 199 8 described
+199 200 5 solving
+200 201 4 for
+201 202 1 a
+202 203 2 semiconductor
+203 204 3 device
+204 205 9 problems
+205 206 13 below
+206 207 12 described
+207 208 11 be
+208 209 10 will
+209 210 14 . 3.10425850475
+210
+0 211 6 the
+211 212 7 above
+212 213 8 described
+213 214 5 solving
+214 215 9 problems
+215 216 4 for
+216 217 1 a
+217 218 2 semiconductor
+218 219 3 device
+219 220 13 below
+220 221 12 described
+221 222 10 will
+222 223 11 be
+223 224 14 . 6.81783057145
+224

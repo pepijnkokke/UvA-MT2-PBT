@@ -1,0 +1,160 @@
+0 1 2 or
+1 2 9 above
+2 3 5 the
+3 4 6 breast
+4 5 7 pump
+5 6 4 using
+6 7 3 after
+7 8 8 mentioned
+8 9 1 before
+9 10 10 ,
+10 11 11 the
+11 12 12 breast
+12 13 13 pump
+13 14 18 boiling
+14 15 17 by
+15 16 16 sterilized
+16 17 15 be
+17 18 14 should
+18 19 19 . 2.27359755612
+19
+0 20 2 or
+20 21 9 above
+21 22 5 the
+22 23 6 breast
+23 24 7 pump
+24 25 4 using
+25 26 8 mentioned
+26 27 3 after
+27 28 1 before
+28 29 10 ,
+29 30 11 the
+30 31 12 breast
+31 32 13 pump
+32 33 18 boiling
+33 34 17 by
+34 35 16 sterilized
+35 36 15 be
+36 37 14 should
+37 38 19 . 3.52636052462
+38
+0 39 9 above
+39 40 2 or
+40 41 5 the
+41 42 6 breast
+42 43 7 pump
+43 44 4 using
+44 45 3 after
+45 46 8 mentioned
+46 47 1 before
+47 48 10 ,
+48 49 11 the
+49 50 12 breast
+50 51 13 pump
+51 52 18 boiling
+52 53 17 by
+53 54 16 sterilized
+54 55 15 be
+55 56 14 should
+56 57 19 . 0.491407537909
+57
+0 58 2 or
+58 59 9 above
+59 60 5 the
+60 61 6 breast
+61 62 7 pump
+62 63 8 mentioned
+63 64 4 using
+64 65 3 after
+65 66 1 before
+66 67 10 ,
+67 68 11 the
+68 69 12 breast
+69 70 13 pump
+70 71 18 boiling
+71 72 17 by
+72 73 16 sterilized
+73 74 15 be
+74 75 14 should
+75 76 19 . 3.189888288
+76
+0 77 9 above
+77 78 2 or
+78 79 5 the
+79 80 6 breast
+80 81 7 pump
+81 82 4 using
+82 83 8 mentioned
+83 84 3 after
+84 85 1 before
+85 86 10 ,
+86 87 11 the
+87 88 12 breast
+88 89 13 pump
+89 90 18 boiling
+90 91 17 by
+91 92 16 sterilized
+92 93 15 be
+93 94 14 should
+94 95 19 . 4.21950770518
+95
+0 96 9 above
+96 97 2 or
+97 98 5 the
+98 99 6 breast
+99 100 7 pump
+100 101 4 using
+101 102 3 after
+102 103 1 before
+103 104 8 mentioned
+104 105 10 ,
+105 106 11 the
+106 107 12 breast
+107 108 13 pump
+108 109 18 boiling
+109 110 17 by
+110 111 16 sterilized
+111 112 15 be
+112 113 14 should
+113 114 19 . 1.9577446067
+114
+0 115 9 above
+115 116 2 or
+116 117 5 the
+117 118 6 breast
+118 119 7 pump
+119 120 8 mentioned
+120 121 4 using
+121 122 3 after
+122 123 1 before
+123 124 10 ,
+124 125 11 the
+125 126 12 breast
+126 127 13 pump
+127 128 18 boiling
+128 129 17 by
+129 130 16 sterilized
+130 131 15 be
+131 132 14 should
+132 133 19 . 2.93857385971
+133
+0 134 9 above
+134 135 2 or
+135 136 5 the
+136 137 6 breast
+137 138 7 pump
+138 139 4 using
+139 140 3 after
+140 141 8 mentioned
+141 142 1 before
+142 143 10 ,
+143 144 11 the
+144 145 12 breast
+145 146 13 pump
+146 147 18 boiling
+147 148 17 by
+148 149 15 be
+149 150 16 sterilized
+150 151 14 should
+151 152 19 . 5.13579843705
+152

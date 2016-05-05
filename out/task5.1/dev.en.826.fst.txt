@@ -1,0 +1,170 @@
+0 1 2 this
+1 2 3 step
+2 3 1 in
+3 4 4 ,
+4 5 5 impurity
+5 6 6 ions
+6 7 11 the
+7 8 12 source
+8 9 13 and
+9 10 14 drain
+10 11 15 regions
+11 12 10 forming
+12 13 9 for
+13 14 7 were
+14 15 8 implanted
+15 16 16 . 0.807688722293
+16
+0 17 2 this
+17 18 3 step
+18 19 4 ,
+19 20 1 in
+20 21 5 impurity
+21 22 6 ions
+22 23 11 the
+23 24 12 source
+24 25 13 and
+25 26 14 drain
+26 27 15 regions
+27 28 10 forming
+28 29 9 for
+29 30 7 were
+30 31 8 implanted
+31 32 16 . 3.00007067515
+32
+0 33 2 this
+33 34 3 step
+34 35 1 in
+35 36 4 ,
+36 37 5 impurity
+37 38 6 ions
+38 39 11 the
+39 40 12 source
+40 41 13 and
+41 42 14 drain
+42 43 10 forming
+43 44 15 regions
+44 45 9 for
+45 46 7 were
+46 47 8 implanted
+47 48 16 . 6.13556489108
+48
+0 49 2 this
+49 50 3 step
+50 51 1 in
+51 52 4 ,
+52 53 5 impurity
+53 54 6 ions
+54 55 11 the
+55 56 12 source
+56 57 13 and
+57 58 14 drain
+58 59 15 regions
+59 60 7 were
+60 61 10 forming
+61 62 9 for
+62 63 8 implanted
+63 64 16 . 3.00007067515
+64
+0 65 2 this
+65 66 3 step
+66 67 1 in
+67 68 4 ,
+68 69 5 impurity
+69 70 6 ions
+70 71 11 the
+71 72 12 source
+72 73 13 and
+73 74 14 drain
+74 75 15 regions
+75 76 9 for
+76 77 10 forming
+77 78 7 were
+78 79 8 implanted
+79 80 16 . 2.02469102691
+80
+0 81 2 this
+81 82 1 in
+82 83 3 step
+83 84 4 ,
+84 85 5 impurity
+85 86 6 ions
+86 87 11 the
+87 88 12 source
+88 89 13 and
+89 90 14 drain
+90 91 15 regions
+91 92 10 forming
+92 93 9 for
+93 94 7 were
+94 95 8 implanted
+95 96 16 . 3.42751468998
+96
+0 97 2 this
+97 98 3 step
+98 99 1 in
+99 100 4 ,
+100 101 5 impurity
+101 102 6 ions
+102 103 11 the
+103 104 12 source
+104 105 10 forming
+105 106 13 and
+106 107 14 drain
+107 108 15 regions
+108 109 9 for
+109 110 7 were
+110 111 8 implanted
+111 112 16 . 5.44241771052
+112
+0 113 2 this
+113 114 3 step
+114 115 4 ,
+115 116 5 impurity
+116 117 6 ions
+117 118 1 in
+118 119 11 the
+119 120 12 source
+120 121 13 and
+121 122 14 drain
+122 123 15 regions
+123 124 10 forming
+124 125 9 for
+125 126 7 were
+126 127 8 implanted
+127 128 16 . 1.29137780462
+128
+0 129 2 this
+129 130 3 step
+130 131 1 in
+131 132 4 ,
+132 133 5 impurity
+133 134 6 ions
+134 135 11 the
+135 136 12 source
+136 137 13 and
+137 138 14 drain
+138 139 10 forming
+139 140 9 for
+140 141 7 were
+141 142 8 implanted
+142 143 15 regions
+143 144 16 . 5.03695260241
+144
+0 145 2 this
+145 146 3 step
+146 147 1 in
+147 148 4 ,
+148 149 5 impurity
+149 150 11 the
+150 151 12 source
+151 152 13 and
+152 153 14 drain
+153 154 15 regions
+154 155 6 ions
+155 156 10 forming
+156 157 9 for
+157 158 7 were
+158 159 8 implanted
+159 160 16 . 6.13556489108
+160

@@ -1,0 +1,390 @@
+0 1 1 therefore
+1 2 2 ,
+2 3 8 polycrystalline
+3 4 9 silicon
+4 5 10 layer
+5 6 11 10a
+6 7 7 into
+7 8 3 impurity
+8 9 6 also
+9 10 4 uniformly
+10 11 5 diffuses
+11 12 12 . 1.92347499064
+12
+0 13 1 therefore
+13 14 2 ,
+14 15 8 polycrystalline
+15 16 9 silicon
+16 17 10 layer
+17 18 11 10a
+18 19 7 into
+19 20 3 impurity
+20 21 4 uniformly
+21 22 6 also
+22 23 5 diffuses
+23 24 12 . 2.17085770149
+24
+0 25 1 therefore
+25 26 2 ,
+26 27 8 polycrystalline
+27 28 9 silicon
+28 29 10 layer
+29 30 11 10a
+30 31 7 into
+31 32 6 also
+32 33 3 impurity
+33 34 4 uniformly
+34 35 5 diffuses
+35 36 12 . 0.607444264547
+36
+0 37 1 therefore
+37 38 2 ,
+38 39 8 polycrystalline
+39 40 9 silicon
+40 41 10 layer
+41 42 11 10a
+42 43 3 impurity
+43 44 7 into
+44 45 6 also
+45 46 4 uniformly
+46 47 5 diffuses
+47 48 12 . 5.51427728249
+48
+0 49 1 therefore
+49 50 2 ,
+50 51 8 polycrystalline
+51 52 9 silicon
+52 53 10 layer
+53 54 11 10a
+54 55 3 impurity
+55 56 7 into
+56 57 4 uniformly
+57 58 6 also
+58 59 5 diffuses
+59 60 12 . 6.66695679243
+60
+0 61 1 therefore
+61 62 2 ,
+62 63 8 polycrystalline
+63 64 9 silicon
+64 65 10 layer
+65 66 11 10a
+66 67 7 into
+67 68 3 impurity
+68 69 4 uniformly
+69 70 5 diffuses
+70 71 6 also
+71 72 12 . 2.19531799907
+72
+0 73 1 therefore
+73 74 2 ,
+74 75 8 polycrystalline
+75 76 9 silicon
+76 77 10 layer
+77 78 11 10a
+78 79 3 impurity
+79 80 4 uniformly
+80 81 7 into
+81 82 6 also
+82 83 5 diffuses
+83 84 12 . 4.8751973232
+84
+0 85 1 therefore
+85 86 2 ,
+86 87 8 polycrystalline
+87 88 9 silicon
+88 89 10 layer
+89 90 11 10a
+90 91 3 impurity
+91 92 7 into
+92 93 4 uniformly
+93 94 5 diffuses
+94 95 6 also
+95 96 12 . 7.07242190054
+96
+0 97 1 therefore
+97 98 2 ,
+98 99 8 polycrystalline
+99 100 9 silicon
+100 101 10 layer
+101 102 11 10a
+102 103 3 impurity
+103 104 4 uniformly
+104 105 7 into
+105 106 5 diffuses
+106 107 6 also
+107 108 12 . 5.97380961187
+108
+0 109 1 therefore
+109 110 2 ,
+110 111 8 polycrystalline
+111 112 9 silicon
+112 113 10 layer
+113 114 11 10a
+114 115 3 impurity
+115 116 4 uniformly
+116 117 5 diffuses
+117 118 7 into
+118 119 6 also
+119 120 12 . 3.89436807019
+120
+0 121 1 therefore
+121 122 2 ,
+122 123 8 polycrystalline
+123 124 9 silicon
+124 125 10 layer
+125 126 11 10a
+126 127 6 also
+127 128 7 into
+128 129 3 impurity
+129 130 4 uniformly
+130 131 5 diffuses
+131 132 12 . 6.06082098886
+132
+0 133 1 therefore
+133 134 2 ,
+134 135 8 polycrystalline
+135 136 9 silicon
+136 137 10 layer
+137 138 11 10a
+138 139 7 into
+139 140 3 impurity
+140 141 6 also
+141 142 5 diffuses
+142 143 4 uniformly
+143 144 12 . 6.26149168432
+144
+0 145 1 therefore
+145 146 2 ,
+146 147 3 impurity
+147 148 8 polycrystalline
+148 149 9 silicon
+149 150 10 layer
+150 151 11 10a
+151 152 7 into
+152 153 6 also
+153 154 4 uniformly
+154 155 5 diffuses
+155 156 12 . 4.28432899176
+156
+0 157 1 therefore
+157 158 2 ,
+158 159 8 polycrystalline
+159 160 9 silicon
+160 161 10 layer
+161 162 7 into
+162 163 11 10a
+163 164 6 also
+164 165 3 impurity
+165 166 4 uniformly
+166 167 5 diffuses
+167 168 12 . 6.5128061126
+168
+0 169 1 therefore
+169 170 2 ,
+170 171 3 impurity
+171 172 8 polycrystalline
+172 173 9 silicon
+173 174 10 layer
+174 175 11 10a
+175 176 7 into
+176 177 4 uniformly
+177 178 6 also
+178 179 5 diffuses
+179 180 12 . 5.68612753942
+180
+0 181 1 therefore
+181 182 2 ,
+182 183 8 polycrystalline
+183 184 9 silicon
+184 185 10 layer
+185 186 11 10a
+186 187 7 into
+187 188 6 also
+188 189 3 impurity
+189 190 5 diffuses
+190 191 4 uniformly
+191 192 12 . 7.07242190054
+192
+0 193 1 therefore
+193 194 2 ,
+194 195 8 polycrystalline
+195 196 9 silicon
+196 197 10 layer
+197 198 11 10a
+198 199 7 into
+199 200 3 impurity
+200 201 5 diffuses
+201 202 6 also
+202 203 4 uniformly
+203 204 12 . 8.45871626166
+204
+0 205 1 therefore
+205 206 2 ,
+206 207 8 polycrystalline
+207 208 9 silicon
+208 209 10 layer
+209 210 7 into
+210 211 11 10a
+211 212 3 impurity
+212 213 4 uniformly
+213 214 5 diffuses
+214 215 6 also
+215 216 12 . 8.45871626166
+216
+0 217 1 therefore
+217 218 2 ,
+218 219 8 polycrystalline
+219 220 9 silicon
+220 221 10 layer
+221 222 11 10a
+222 223 7 into
+223 224 3 impurity
+224 225 5 diffuses
+225 226 4 uniformly
+226 227 6 also
+227 228 12 . 6.66695679243
+228
+0 229 1 therefore
+229 230 2 ,
+230 231 3 impurity
+231 232 8 polycrystalline
+232 233 9 silicon
+233 234 10 layer
+234 235 11 10a
+235 236 4 uniformly
+236 237 7 into
+237 238 6 also
+238 239 5 diffuses
+239 240 12 . 8.45871626166
+240
+0 241 1 therefore
+241 242 2 ,
+242 243 8 polycrystalline
+243 244 9 silicon
+244 245 10 layer
+245 246 11 10a
+246 247 3 impurity
+247 248 6 also
+248 249 4 uniformly
+249 250 5 diffuses
+250 251 7 into
+251 252 12 . 6.37927471998
+252
+0 253 1 therefore
+253 254 2 ,
+254 255 3 impurity
+255 256 8 polycrystalline
+256 257 9 silicon
+257 258 10 layer
+258 259 11 10a
+259 260 7 into
+260 261 4 uniformly
+261 262 5 diffuses
+262 263 6 also
+263 264 12 . 6.26149168432
+264
+0 265 1 therefore
+265 266 2 ,
+266 267 8 polycrystalline
+267 268 9 silicon
+268 269 10 layer
+269 270 11 10a
+270 271 3 impurity
+271 272 4 uniformly
+272 273 6 also
+273 274 5 diffuses
+274 275 7 into
+275 276 12 . 6.84927834922
+276
+0 277 1 therefore
+277 278 2 ,
+278 279 8 polycrystalline
+279 280 9 silicon
+280 281 10 layer
+281 282 11 10a
+282 283 6 also
+283 284 3 impurity
+284 285 4 uniformly
+285 286 5 diffuses
+286 287 7 into
+287 288 12 . 7.36010397299
+288
+0 289 1 therefore
+289 290 2 ,
+290 291 8 polycrystalline
+291 292 9 silicon
+292 293 10 layer
+293 294 11 10a
+294 295 3 impurity
+295 296 4 uniformly
+296 297 5 diffuses
+297 298 6 also
+298 299 7 into
+299 300 12 . 4.39827325111
+300
+0 301 1 therefore
+301 302 2 ,
+302 303 3 impurity
+303 304 8 polycrystalline
+304 305 9 silicon
+305 306 10 layer
+306 307 11 10a
+307 308 4 uniformly
+308 309 5 diffuses
+309 310 7 into
+310 311 6 also
+311 312 12 . 8.45871626166
+312
+0 313 1 therefore
+313 314 2 ,
+314 315 8 polycrystalline
+315 316 9 silicon
+316 317 10 layer
+317 318 7 into
+318 319 6 also
+319 320 11 10a
+320 321 3 impurity
+321 322 4 uniformly
+322 323 5 diffuses
+323 324 12 . 6.37927471998
+324
+0 325 1 therefore
+325 326 2 ,
+326 327 3 impurity
+327 328 8 polycrystalline
+328 329 9 silicon
+329 330 10 layer
+330 331 11 10a
+331 332 6 also
+332 333 7 into
+333 334 4 uniformly
+334 335 5 diffuses
+335 336 12 . 7.7655690811
+336
+0 337 1 therefore
+337 338 2 ,
+338 339 3 impurity
+339 340 8 polycrystalline
+340 341 9 silicon
+341 342 10 layer
+342 343 7 into
+343 344 11 10a
+344 345 6 also
+345 346 4 uniformly
+346 347 5 diffuses
+347 348 12 . 8.45871626166
+348
+0 349 1 therefore
+349 350 2 ,
+350 351 3 impurity
+351 352 8 polycrystalline
+352 353 9 silicon
+353 354 10 layer
+354 355 11 10a
+355 356 7 into
+356 357 6 also
+357 358 5 diffuses
+358 359 4 uniformly
+359 360 12 . 6.66695679243
+360

@@ -1,0 +1,240 @@
+0 1 1 the
+1 2 4 expansion
+2 3 5 adaptor
+3 4 6 cards
+4 5 3 of
+5 6 2 use
+6 7 7 to
+7 8 9 the
+8 9 10 system
+9 10 11 configurations
+10 11 8 expand
+11 12 12 has
+12 13 17 desktop
+13 14 18 computers
+14 15 16 for
+15 16 14 especially
+16 17 15 effective
+17 18 13 been
+18 19 19 . 2.86537045569
+19
+0 20 1 the
+20 21 4 expansion
+21 22 5 adaptor
+22 23 6 cards
+23 24 3 of
+24 25 2 use
+25 26 7 to
+26 27 9 the
+27 28 10 system
+28 29 8 expand
+29 30 11 configurations
+30 31 12 has
+31 32 17 desktop
+32 33 18 computers
+33 34 16 for
+34 35 14 especially
+35 36 15 effective
+36 37 13 been
+37 38 19 . 5.06259503303
+38
+0 39 1 the
+39 40 4 expansion
+40 41 5 adaptor
+41 42 6 cards
+42 43 3 of
+43 44 2 use
+44 45 9 the
+45 46 10 system
+46 47 11 configurations
+47 48 7 to
+48 49 8 expand
+49 50 12 has
+50 51 17 desktop
+51 52 18 computers
+52 53 16 for
+53 54 14 especially
+54 55 15 effective
+55 56 13 been
+56 57 19 . 1.9271008171
+57
+0 58 1 the
+58 59 4 expansion
+59 60 5 adaptor
+60 61 6 cards
+61 62 7 to
+62 63 3 of
+63 64 2 use
+64 65 9 the
+65 66 10 system
+66 67 11 configurations
+67 68 8 expand
+68 69 12 has
+69 70 17 desktop
+70 71 18 computers
+71 72 16 for
+72 73 14 especially
+73 74 15 effective
+74 75 13 been
+75 76 19 . 5.35027710548
+76
+0 77 1 the
+77 78 4 expansion
+78 79 5 adaptor
+79 80 6 cards
+80 81 3 of
+81 82 2 use
+82 83 9 the
+83 84 10 system
+84 85 7 to
+85 86 8 expand
+86 87 11 configurations
+87 88 12 has
+88 89 17 desktop
+89 90 18 computers
+90 91 16 for
+91 92 14 especially
+92 93 15 effective
+93 94 13 been
+94 95 19 . 5.75574221359
+95
+0 96 1 the
+96 97 4 expansion
+97 98 5 adaptor
+98 99 6 cards
+99 100 3 of
+100 101 2 use
+101 102 9 the
+102 103 7 to
+103 104 8 expand
+104 105 10 system
+105 106 11 configurations
+106 107 12 has
+107 108 17 desktop
+108 109 18 computers
+109 110 16 for
+110 111 14 especially
+111 112 15 effective
+112 113 13 been
+113 114 19 . 5.75574221359
+114
+0 115 4 expansion
+115 116 5 adaptor
+116 117 6 cards
+117 118 3 of
+118 119 1 the
+119 120 2 use
+120 121 7 to
+121 122 9 the
+122 123 10 system
+123 124 11 configurations
+124 125 8 expand
+125 126 12 has
+126 127 17 desktop
+127 128 18 computers
+128 129 16 for
+129 130 14 especially
+130 131 15 effective
+131 132 13 been
+132 133 19 . 3.31339517822
+133
+0 134 1 the
+134 135 4 expansion
+135 136 5 adaptor
+136 137 6 cards
+137 138 3 of
+138 139 2 use
+139 140 7 to
+140 141 8 expand
+141 142 9 the
+142 143 10 system
+143 144 11 configurations
+144 145 12 has
+145 146 17 desktop
+146 147 18 computers
+147 148 16 for
+148 149 14 especially
+149 150 15 effective
+150 151 13 been
+151 152 19 . 0.947631183602
+152
+0 153 1 the
+153 154 4 expansion
+154 155 5 adaptor
+155 156 6 cards
+156 157 3 of
+157 158 2 use
+158 159 7 to
+159 160 9 the
+160 161 10 system
+161 162 11 configurations
+162 163 12 has
+163 164 8 expand
+164 165 17 desktop
+165 166 18 computers
+166 167 16 for
+167 168 14 especially
+168 169 15 effective
+169 170 13 been
+170 171 19 . 5.35027710548
+171
+0 172 4 expansion
+172 173 5 adaptor
+173 174 6 cards
+174 175 3 of
+175 176 1 the
+176 177 2 use
+177 178 9 the
+178 179 10 system
+179 180 11 configurations
+180 181 7 to
+181 182 8 expand
+182 183 12 has
+183 184 17 desktop
+184 185 18 computers
+185 186 16 for
+186 187 14 especially
+187 188 15 effective
+188 189 13 been
+189 190 19 . 1.67820476968
+190
+0 191 1 the
+191 192 4 expansion
+192 193 5 adaptor
+193 194 6 cards
+194 195 7 to
+195 196 3 of
+196 197 2 use
+197 198 8 expand
+198 199 9 the
+199 200 10 system
+200 201 11 configurations
+201 202 12 has
+202 203 17 desktop
+203 204 18 computers
+204 205 16 for
+205 206 14 especially
+206 207 15 effective
+207 208 13 been
+208 209 19 . 4.50297924509
+209
+0 210 4 expansion
+210 211 5 adaptor
+211 212 6 cards
+212 213 3 of
+213 214 1 the
+214 215 2 use
+215 216 7 to
+216 217 8 expand
+217 218 9 the
+218 219 10 system
+219 220 11 configurations
+220 221 12 has
+221 222 17 desktop
+222 223 18 computers
+223 224 16 for
+224 225 14 especially
+225 226 15 effective
+226 227 13 been
+227 228 19 . 1.87417841564
+228

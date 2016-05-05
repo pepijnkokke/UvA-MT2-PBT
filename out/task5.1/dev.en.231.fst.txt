@@ -1,0 +1,76 @@
+0 1 1 a
+1 2 2 structural
+2 3 3 element
+3 4 4 ,
+4 5 5 such
+5 6 7 a
+6 7 8 gear
+7 8 9 ,
+8 9 10 expands
+9 10 6 as
+10 11 11 or
+11 12 15 the
+12 13 16 ambient
+13 14 17 temperature
+14 15 14 on
+15 16 13 depending
+16 17 12 contracts
+17 18 18 . 1.04726294204
+18
+0 19 1 a
+19 20 2 structural
+20 21 3 element
+21 22 4 ,
+22 23 5 such
+23 24 7 a
+24 25 8 gear
+25 26 9 ,
+26 27 6 as
+27 28 10 expands
+28 29 11 or
+29 30 15 the
+30 31 16 ambient
+31 32 17 temperature
+32 33 14 on
+33 34 13 depending
+34 35 12 contracts
+35 36 18 . 3.57459030771
+36
+0 37 1 a
+37 38 2 structural
+38 39 3 element
+39 40 4 ,
+40 41 5 such
+41 42 7 a
+42 43 8 gear
+43 44 9 ,
+44 45 10 expands
+45 46 11 or
+46 47 6 as
+47 48 15 the
+48 49 16 ambient
+49 50 17 temperature
+50 51 14 on
+51 52 13 depending
+52 53 12 contracts
+53 54 18 . 1.0345643587
+54
+0 55 1 a
+55 56 2 structural
+56 57 3 element
+57 58 4 ,
+58 59 5 such
+59 60 7 a
+60 61 8 gear
+61 62 6 as
+62 63 9 ,
+63 64 10 expands
+64 65 11 or
+65 66 15 the
+66 67 16 ambient
+67 68 17 temperature
+68 69 14 on
+69 70 13 depending
+70 71 12 contracts
+71 72 18 . 1.32540599144
+72

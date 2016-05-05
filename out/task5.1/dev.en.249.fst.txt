@@ -1,0 +1,216 @@
+0 1 1 this
+1 2 5 the
+2 3 6 optical
+3 4 7 transmission
+4 5 8 circuit
+5 6 9 46
+6 7 4 from
+7 8 2 switching
+8 9 3 signal
+9 10 10 is
+10 11 11 optically
+11 12 14 the
+12 13 15 led
+13 14 16 47
+14 15 13 from
+15 16 12 transmitted
+16 17 17 . 0.638488768023
+17
+0 18 1 this
+18 19 5 the
+19 20 6 optical
+20 21 7 transmission
+21 22 8 circuit
+22 23 9 46
+23 24 4 from
+24 25 2 switching
+25 26 3 signal
+26 27 10 is
+27 28 14 the
+28 29 15 led
+29 30 16 47
+30 31 11 optically
+31 32 13 from
+32 33 12 transmitted
+33 34 17 . 4.82510860635
+34
+0 35 1 this
+35 36 5 the
+36 37 6 optical
+37 38 7 transmission
+38 39 8 circuit
+39 40 9 46
+40 41 4 from
+41 42 2 switching
+42 43 3 signal
+43 44 10 is
+44 45 14 the
+45 46 15 led
+46 47 16 47
+47 48 13 from
+48 49 11 optically
+49 50 12 transmitted
+50 51 17 . 0.904324095256
+51
+0 52 1 this
+52 53 6 optical
+53 54 5 the
+54 55 7 transmission
+55 56 8 circuit
+56 57 9 46
+57 58 4 from
+58 59 2 switching
+59 60 3 signal
+60 61 10 is
+61 62 11 optically
+62 63 14 the
+63 64 15 led
+64 65 16 47
+65 66 13 from
+66 67 12 transmitted
+67 68 17 . 6.94537214255
+68
+0 69 1 this
+69 70 5 the
+70 71 6 optical
+71 72 7 transmission
+72 73 8 circuit
+73 74 9 46
+74 75 4 from
+75 76 3 signal
+76 77 2 switching
+77 78 10 is
+78 79 11 optically
+79 80 14 the
+80 81 15 led
+81 82 16 47
+82 83 13 from
+83 84 12 transmitted
+84 85 17 . 6.09807428216
+85
+0 86 1 this
+86 87 5 the
+87 88 6 optical
+88 89 7 transmission
+89 90 8 circuit
+90 91 9 46
+91 92 4 from
+92 93 2 switching
+93 94 3 signal
+94 95 10 is
+95 96 14 the
+96 97 15 led
+97 98 13 from
+98 99 16 47
+99 100 11 optically
+100 101 12 transmitted
+101 102 17 . 7.35083725066
+102
+0 103 1 this
+103 104 5 the
+104 105 6 optical
+105 106 7 transmission
+106 107 8 circuit
+107 108 9 46
+108 109 4 from
+109 110 10 is
+110 111 2 switching
+111 112 3 signal
+112 113 14 the
+113 114 15 led
+114 115 16 47
+115 116 11 optically
+116 117 13 from
+117 118 12 transmitted
+118 119 17 . 8.04398443122
+119
+0 120 1 this
+120 121 5 the
+121 122 6 optical
+122 123 7 transmission
+123 124 8 circuit
+124 125 9 46
+125 126 4 from
+126 127 2 switching
+127 128 3 signal
+128 129 10 is
+129 130 14 the
+130 131 15 led
+131 132 16 47
+132 133 11 optically
+133 134 12 transmitted
+134 135 13 from
+135 136 17 . 7.35083725066
+136
+0 137 1 this
+137 138 5 the
+138 139 6 optical
+139 140 7 transmission
+140 141 8 circuit
+141 142 9 46
+142 143 4 from
+143 144 10 is
+144 145 2 switching
+145 146 3 signal
+146 147 14 the
+147 148 15 led
+148 149 16 47
+149 150 13 from
+150 151 11 optically
+151 152 12 transmitted
+152 153 17 . 8.04398443122
+153
+0 154 1 this
+154 155 6 optical
+155 156 5 the
+156 157 7 transmission
+157 158 8 circuit
+158 159 9 46
+159 160 4 from
+160 161 2 switching
+161 162 3 signal
+162 163 10 is
+163 164 14 the
+164 165 15 led
+165 166 16 47
+166 167 13 from
+167 168 11 optically
+168 169 12 transmitted
+169 170 17 . 8.04398443122
+170
+0 171 1 this
+171 172 5 the
+172 173 6 optical
+173 174 7 transmission
+174 175 8 circuit
+175 176 9 46
+176 177 4 from
+177 178 3 signal
+178 179 2 switching
+179 180 10 is
+180 181 14 the
+181 182 15 led
+182 183 16 47
+183 184 13 from
+184 185 11 optically
+185 186 12 transmitted
+186 187 17 . 6.6576900701
+187
+0 188 1 this
+188 189 5 the
+189 190 6 optical
+190 191 7 transmission
+191 192 8 circuit
+192 193 9 46
+193 194 10 is
+194 195 4 from
+195 196 2 switching
+196 197 3 signal
+197 198 11 optically
+198 199 14 the
+199 200 15 led
+200 201 16 47
+201 202 13 from
+202 203 12 transmitted
+203 204 17 . 2.95023423041
+204

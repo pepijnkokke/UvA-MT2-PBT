@@ -1,0 +1,17 @@
+0 1 1 the
+1 2 2 priority
+2 3 3 may
+3 4 4 be
+4 5 5 modified
+5 6 6 according
+6 7 7 to
+7 8 8 the
+8 9 9 frequency
+9 10 10 of
+10 11 11 use
+11 12 12 of
+12 13 13 the
+13 14 14 caption
+14 15 15 data
+15 16 16 .
+16

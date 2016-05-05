@@ -1,0 +1,112 @@
+0 1 4 the
+1 2 5 reactant
+2 3 3 of
+3 4 1 the
+4 5 2 composition
+5 6 6 is
+6 7 10 the
+7 8 11 following
+8 9 12 table
+9 10 9 in
+10 11 8 shown
+11 12 7 as
+12 13 13 . 1.15844742877
+13
+0 14 4 the
+14 15 5 reactant
+15 16 1 the
+16 17 3 of
+17 18 2 composition
+18 19 6 is
+19 20 10 the
+20 21 11 following
+21 22 12 table
+22 23 9 in
+23 24 8 shown
+24 25 7 as
+25 26 13 . 7.62924693255
+26
+0 27 1 the
+27 28 4 the
+28 29 5 reactant
+29 30 3 of
+30 31 2 composition
+31 32 6 is
+32 33 10 the
+33 34 11 following
+34 35 12 table
+35 36 9 in
+36 37 8 shown
+37 38 7 as
+38 39 13 . 1.16856031153
+39
+0 40 1 the
+40 41 4 the
+41 42 5 reactant
+42 43 6 is
+43 44 3 of
+44 45 2 composition
+45 46 10 the
+46 47 11 following
+47 48 12 table
+48 49 9 in
+49 50 8 shown
+50 51 7 as
+51 52 13 . 4.14800684321
+52
+0 53 4 the
+53 54 5 reactant
+54 55 3 of
+55 56 2 composition
+56 57 1 the
+57 58 6 is
+58 59 10 the
+59 60 11 following
+60 61 12 table
+61 62 9 in
+62 63 8 shown
+63 64 7 as
+64 65 13 . 1.13700709753
+65
+0 66 4 the
+66 67 5 reactant
+67 68 3 of
+68 69 1 the
+69 70 2 composition
+70 71 6 is
+71 72 10 the
+72 73 11 following
+73 74 12 table
+74 75 9 in
+75 76 7 as
+76 77 8 shown
+77 78 13 . 5.06429757509
+78
+0 79 1 the
+79 80 4 the
+80 81 5 reactant
+81 82 3 of
+82 83 2 composition
+83 84 6 is
+84 85 10 the
+85 86 11 following
+86 87 12 table
+87 88 9 in
+88 89 7 as
+89 90 8 shown
+90 91 13 . 5.02655724711
+91
+0 92 4 the
+92 93 5 reactant
+93 94 3 of
+94 95 1 the
+95 96 2 composition
+96 97 6 is
+97 98 11 following
+98 99 10 the
+99 100 12 table
+100 101 9 in
+101 102 8 shown
+102 103 7 as
+103 104 13 . 3.67800321397
+104

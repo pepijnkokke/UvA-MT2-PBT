@@ -1,0 +1,255 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 5
+3 4 13 the
+4 5 14 present
+5 6 15 invention
+6 7 12 of
+7 8 8 the
+8 9 9 clock
+9 10 10 switch
+10 11 11 circuit
+11 12 7 of
+12 13 5 an
+13 14 6 outline
+14 15 4 shows
+15 16 16 . 0.549811787838
+16
+0 17 1 fig
+17 18 2 .
+18 19 3 5
+19 20 13 the
+20 21 14 present
+21 22 15 invention
+22 23 12 of
+23 24 8 the
+24 25 9 clock
+25 26 10 switch
+26 27 11 circuit
+27 28 4 shows
+28 29 7 of
+29 30 5 an
+30 31 6 outline
+31 32 16 . 8.86855404053
+32
+0 33 1 fig
+33 34 2 .
+34 35 3 5
+35 36 13 the
+36 37 14 present
+37 38 15 invention
+38 39 8 the
+39 40 12 of
+40 41 9 clock
+41 42 10 switch
+42 43 11 circuit
+43 44 7 of
+44 45 5 an
+45 46 6 outline
+46 47 4 shows
+47 48 16 . 5.77751158717
+48
+0 49 1 fig
+49 50 2 .
+50 51 3 5
+51 52 14 present
+52 53 13 the
+53 54 15 invention
+54 55 12 of
+55 56 8 the
+56 57 9 clock
+57 58 10 switch
+58 59 11 circuit
+59 60 7 of
+60 61 5 an
+61 62 6 outline
+62 63 4 shows
+63 64 16 . 8.86855404053
+64
+0 65 1 fig
+65 66 2 .
+66 67 3 5
+67 68 13 the
+68 69 14 present
+69 70 15 invention
+70 71 12 of
+71 72 8 the
+72 73 9 clock
+73 74 10 switch
+74 75 11 circuit
+75 76 7 of
+76 77 6 outline
+77 78 5 an
+78 79 4 shows
+79 80 16 . 8.86855404053
+80
+0 81 1 fig
+81 82 2 .
+82 83 3 5
+83 84 13 the
+84 85 14 present
+85 86 15 invention
+86 87 12 of
+87 88 4 shows
+88 89 8 the
+89 90 9 clock
+90 91 10 switch
+91 92 11 circuit
+92 93 7 of
+93 94 5 an
+94 95 6 outline
+95 96 16 . 7.2591161281
+96
+0 97 1 fig
+97 98 2 .
+98 99 3 5
+99 100 13 the
+100 101 14 present
+101 102 15 invention
+102 103 8 the
+103 104 9 clock
+104 105 12 of
+105 106 10 switch
+106 107 11 circuit
+107 108 7 of
+108 109 5 an
+109 110 6 outline
+110 111 4 shows
+111 112 16 . 8.86855404053
+112
+0 113 1 fig
+113 114 2 .
+114 115 3 5
+115 116 14 present
+116 117 15 invention
+117 118 13 the
+118 119 12 of
+119 120 8 the
+120 121 9 clock
+121 122 10 switch
+122 123 11 circuit
+123 124 7 of
+124 125 5 an
+125 126 6 outline
+126 127 4 shows
+127 128 16 . 4.21459369037
+128
+0 129 1 fig
+129 130 2 .
+130 131 3 5
+131 132 13 the
+132 133 14 present
+133 134 15 invention
+134 135 12 of
+135 136 9 clock
+136 137 10 switch
+137 138 8 the
+138 139 11 circuit
+139 140 7 of
+140 141 5 an
+141 142 6 outline
+142 143 4 shows
+143 144 16 . 8.17540685997
+144
+0 145 1 fig
+145 146 2 .
+146 147 3 5
+147 148 13 the
+148 149 14 present
+149 150 15 invention
+150 151 12 of
+151 152 8 the
+152 153 9 clock
+153 154 10 switch
+154 155 11 circuit
+155 156 5 an
+156 157 6 outline
+157 158 7 of
+158 159 4 shows
+159 160 16 . 5.01840643882
+160
+0 161 1 fig
+161 162 2 .
+162 163 3 5
+163 164 4 shows
+164 165 13 the
+165 166 14 present
+166 167 15 invention
+167 168 12 of
+168 169 8 the
+169 170 9 clock
+170 171 10 switch
+171 172 11 circuit
+172 173 7 of
+173 174 5 an
+174 175 6 outline
+175 176 16 . 0.979844516349
+176
+0 177 1 fig
+177 178 2 .
+178 179 3 5
+179 180 14 present
+180 181 15 invention
+181 182 13 the
+182 183 8 the
+183 184 12 of
+184 185 9 clock
+185 186 10 switch
+186 187 11 circuit
+187 188 7 of
+188 189 5 an
+189 190 6 outline
+190 191 4 shows
+191 192 16 . 8.86855404053
+192
+0 193 1 fig
+193 194 2 .
+194 195 3 5
+195 196 13 the
+196 197 14 present
+197 198 15 invention
+198 199 12 of
+199 200 8 the
+200 201 9 clock
+201 202 10 switch
+202 203 11 circuit
+203 204 4 shows
+204 205 5 an
+205 206 6 outline
+206 207 7 of
+207 208 16 . 8.17540685997
+208
+0 209 1 fig
+209 210 2 .
+210 211 3 5
+211 212 13 the
+212 213 14 present
+213 214 15 invention
+214 215 12 of
+215 216 9 clock
+216 217 10 switch
+217 218 11 circuit
+218 219 8 the
+219 220 7 of
+220 221 5 an
+221 222 6 outline
+222 223 4 shows
+223 224 16 . 4.02436695407
+224
+0 225 1 fig
+225 226 2 .
+226 227 3 5
+227 228 12 of
+228 229 13 the
+229 230 14 present
+230 231 15 invention
+231 232 8 the
+232 233 9 clock
+233 234 10 switch
+234 235 11 circuit
+235 236 7 of
+236 237 5 an
+237 238 6 outline
+238 239 4 shows
+239 240 16 . 5.7330598246
+240

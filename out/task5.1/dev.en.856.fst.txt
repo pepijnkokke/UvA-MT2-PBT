@@ -1,0 +1,380 @@
+0 1 1 a
+1 2 2 surface
+2 3 3 treatment
+3 4 4 material
+4 5 14 japanese
+5 6 15 patent
+6 7 16 application
+7 8 17 no.
+8 9 18 6-135794
+9 10 13 in
+10 11 7 fusing
+11 12 8 dental
+12 13 9 porcelain
+13 14 6 in
+14 15 10 has
+15 16 12 proposed
+16 17 11 been
+17 18 5 required
+18 19 19 . 3.38047125114
+19
+0 20 1 a
+20 21 2 surface
+21 22 3 treatment
+22 23 4 material
+23 24 14 japanese
+24 25 15 patent
+25 26 16 application
+26 27 17 no.
+27 28 18 6-135794
+28 29 13 in
+29 30 7 fusing
+30 31 8 dental
+31 32 9 porcelain
+32 33 6 in
+33 34 5 required
+34 35 10 has
+35 36 12 proposed
+36 37 11 been
+37 38 19 . 4.33598269617
+38
+0 39 1 a
+39 40 2 surface
+40 41 3 treatment
+41 42 4 material
+42 43 14 japanese
+43 44 15 patent
+44 45 16 application
+45 46 17 no.
+46 47 18 6-135794
+47 48 13 in
+48 49 7 fusing
+49 50 8 dental
+50 51 9 porcelain
+51 52 10 has
+52 53 6 in
+53 54 12 proposed
+54 55 11 been
+55 56 5 required
+56 57 19 . 4.47908353982
+57
+0 58 1 a
+58 59 2 surface
+59 60 3 treatment
+60 61 4 material
+61 62 14 japanese
+62 63 15 patent
+63 64 16 application
+64 65 17 no.
+65 66 18 6-135794
+66 67 13 in
+67 68 7 fusing
+68 69 8 dental
+69 70 9 porcelain
+70 71 10 has
+71 72 6 in
+72 73 5 required
+73 74 12 proposed
+74 75 11 been
+75 76 19 . 7.04403289727
+76
+0 77 1 a
+77 78 2 surface
+78 79 3 treatment
+79 80 4 material
+80 81 14 japanese
+81 82 15 patent
+82 83 16 application
+83 84 17 no.
+84 85 18 6-135794
+85 86 13 in
+86 87 7 fusing
+87 88 8 dental
+88 89 6 in
+89 90 9 porcelain
+90 91 10 has
+91 92 12 proposed
+92 93 11 been
+93 94 5 required
+94 95 19 . 4.74144780428
+95
+0 96 1 a
+96 97 2 surface
+97 98 3 treatment
+98 99 4 material
+99 100 7 fusing
+100 101 8 dental
+101 102 14 japanese
+102 103 15 patent
+103 104 16 application
+104 105 17 no.
+105 106 18 6-135794
+106 107 13 in
+107 108 9 porcelain
+108 109 10 has
+109 110 12 proposed
+110 111 11 been
+111 112 6 in
+112 113 5 required
+113 114 19 . 4.84680831994
+114
+0 115 1 a
+115 116 2 surface
+116 117 3 treatment
+117 118 4 material
+118 119 7 fusing
+119 120 14 japanese
+120 121 15 patent
+121 122 16 application
+122 123 17 no.
+123 124 18 6-135794
+124 125 13 in
+125 126 8 dental
+126 127 9 porcelain
+127 128 10 has
+128 129 12 proposed
+129 130 11 been
+130 131 6 in
+131 132 5 required
+132 133 19 . 5.25227342805
+133
+0 134 1 a
+134 135 2 surface
+135 136 3 treatment
+136 137 4 material
+137 138 14 japanese
+138 139 15 patent
+139 140 16 application
+140 141 17 no.
+141 142 18 6-135794
+142 143 13 in
+143 144 7 fusing
+144 145 8 dental
+145 146 9 porcelain
+146 147 10 has
+147 148 12 proposed
+148 149 11 been
+149 150 6 in
+150 151 5 required
+151 152 19 . 0.776832348734
+152
+0 153 1 a
+153 154 2 surface
+154 155 3 treatment
+155 156 4 material
+156 157 14 japanese
+157 158 15 patent
+158 159 16 application
+159 160 17 no.
+160 161 18 6-135794
+161 162 13 in
+162 163 7 fusing
+163 164 6 in
+164 165 8 dental
+165 166 9 porcelain
+166 167 10 has
+167 168 12 proposed
+168 169 11 been
+169 170 5 required
+170 171 19 . 7.04403289727
+171
+0 172 1 a
+172 173 2 surface
+173 174 3 treatment
+174 175 4 material
+175 176 7 fusing
+176 177 8 dental
+177 178 9 porcelain
+178 179 14 japanese
+179 180 15 patent
+180 181 16 application
+181 182 17 no.
+182 183 18 6-135794
+183 184 13 in
+184 185 10 has
+185 186 12 proposed
+186 187 11 been
+187 188 6 in
+188 189 5 required
+189 190 19 . 3.38047125114
+190
+0 191 1 a
+191 192 2 surface
+192 193 3 treatment
+193 194 4 material
+194 195 7 fusing
+195 196 8 dental
+196 197 9 porcelain
+197 198 6 in
+198 199 14 japanese
+199 200 15 patent
+200 201 16 application
+201 202 17 no.
+202 203 18 6-135794
+203 204 13 in
+204 205 10 has
+205 206 12 proposed
+206 207 11 been
+207 208 5 required
+208 209 19 . 4.9645913556
+209
+0 210 1 a
+210 211 2 surface
+211 212 3 treatment
+212 213 4 material
+213 214 14 japanese
+214 215 15 patent
+215 216 16 application
+216 217 17 no.
+217 218 18 6-135794
+218 219 13 in
+219 220 7 fusing
+220 221 8 dental
+221 222 9 porcelain
+222 223 6 in
+223 224 10 has
+224 225 11 been
+225 226 12 proposed
+226 227 5 required
+227 228 19 . 5.43459498484
+228
+0 229 1 a
+229 230 2 surface
+230 231 3 treatment
+231 232 4 material
+232 233 14 japanese
+233 234 15 patent
+234 235 16 application
+235 236 17 no.
+236 237 18 6-135794
+237 238 13 in
+238 239 7 fusing
+239 240 8 dental
+240 241 9 porcelain
+241 242 6 in
+242 243 12 proposed
+243 244 10 has
+244 245 11 been
+245 246 5 required
+246 247 19 . 7.04403289727
+247
+0 248 1 a
+248 249 2 surface
+249 250 3 treatment
+250 251 4 material
+251 252 14 japanese
+252 253 15 patent
+253 254 16 application
+254 255 17 no.
+255 256 18 6-135794
+256 257 7 fusing
+257 258 8 dental
+258 259 9 porcelain
+259 260 10 has
+260 261 13 in
+261 262 12 proposed
+262 263 11 been
+263 264 6 in
+264 265 5 required
+265 266 19 . 7.04403289727
+266
+0 267 7 fusing
+267 268 8 dental
+268 269 9 porcelain
+269 270 6 in
+270 271 1 a
+271 272 2 surface
+272 273 3 treatment
+273 274 4 material
+274 275 5 required
+275 276 14 japanese
+276 277 15 patent
+277 278 16 application
+278 279 17 no.
+279 280 18 6-135794
+280 281 13 in
+281 282 10 has
+282 283 12 proposed
+283 284 11 been
+284 285 19 . 1.46053658849
+285
+0 286 1 a
+286 287 2 surface
+287 288 3 treatment
+288 289 4 material
+289 290 14 japanese
+290 291 15 patent
+291 292 16 application
+292 293 17 no.
+293 294 18 6-135794
+294 295 13 in
+295 296 6 in
+296 297 7 fusing
+297 298 8 dental
+298 299 9 porcelain
+299 300 10 has
+300 301 12 proposed
+301 302 11 been
+302 303 5 required
+303 304 19 . 1.75072807255
+304
+0 305 1 a
+305 306 7 fusing
+306 307 8 dental
+307 308 9 porcelain
+308 309 6 in
+309 310 2 surface
+310 311 3 treatment
+311 312 4 material
+312 313 5 required
+313 314 14 japanese
+314 315 15 patent
+315 316 16 application
+316 317 17 no.
+317 318 18 6-135794
+318 319 13 in
+319 320 10 has
+320 321 12 proposed
+321 322 11 been
+322 323 19 . 5.94542060861
+323
+0 324 1 a
+324 325 2 surface
+325 326 3 treatment
+326 327 4 material
+327 328 14 japanese
+328 329 15 patent
+329 330 16 application
+330 331 17 no.
+331 332 18 6-135794
+332 333 13 in
+333 334 7 fusing
+334 335 8 dental
+335 336 6 in
+336 337 5 required
+337 338 9 porcelain
+338 339 10 has
+339 340 12 proposed
+340 341 11 been
+341 342 19 . 7.04403289727
+342
+0 343 1 a
+343 344 2 surface
+344 345 7 fusing
+345 346 8 dental
+346 347 9 porcelain
+347 348 6 in
+348 349 3 treatment
+349 350 4 material
+350 351 5 required
+351 352 14 japanese
+352 353 15 patent
+353 354 16 application
+354 355 17 no.
+355 356 18 6-135794
+356 357 13 in
+357 358 10 has
+358 359 12 proposed
+359 360 11 been
+360 361 19 . 6.35088571671
+361

@@ -141,8 +141,8 @@ if __name__ == "__main__":
     best_translations = []
 
     # Set the number of sentences to convert to FSTs.
-    s = os.getenv('S', 1316)
-    n = os.getenv('N', 100)
+    s = os.getenv('S', 0)
+    n = os.getenv('N', 1416)
 
     # Iterate over fsts
     for i in range(0, n):

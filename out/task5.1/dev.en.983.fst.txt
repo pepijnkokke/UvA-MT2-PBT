@@ -1,0 +1,144 @@
+0 1 1 first
+1 2 3 all
+2 3 4 ,
+3 4 8 the
+4 5 9 microprocessor
+5 6 10 module
+6 7 11 10
+7 8 7 of
+8 9 5 each
+9 10 6 construction
+10 11 2 of
+11 12 12 will
+12 13 13 be
+13 14 14 explained
+14 15 15 . 2.2253954543
+15
+0 16 1 first
+16 17 3 all
+17 18 4 ,
+18 19 8 the
+19 20 9 microprocessor
+20 21 10 module
+21 22 11 10
+22 23 7 of
+23 24 5 each
+24 25 6 construction
+25 26 2 of
+26 27 12 will
+27 28 14 explained
+28 29 13 be
+29 30 15 . 2.27668874869
+30
+0 31 1 first
+31 32 3 all
+32 33 4 ,
+33 34 2 of
+34 35 8 the
+35 36 9 microprocessor
+36 37 10 module
+37 38 11 10
+38 39 7 of
+39 40 5 each
+40 41 6 construction
+41 42 12 will
+42 43 13 be
+43 44 14 explained
+44 45 15 . 4.86445278392
+45
+0 46 1 first
+46 47 3 all
+47 48 4 ,
+48 49 8 the
+49 50 9 microprocessor
+50 51 10 module
+51 52 11 10
+52 53 7 of
+53 54 5 each
+54 55 6 construction
+55 56 12 will
+56 57 2 of
+57 58 13 be
+58 59 14 explained
+59 60 15 . 1.62186043243
+60
+0 61 1 first
+61 62 3 all
+62 63 2 of
+63 64 4 ,
+64 65 8 the
+65 66 9 microprocessor
+66 67 10 module
+67 68 11 10
+68 69 7 of
+69 70 5 each
+70 71 6 construction
+71 72 12 will
+72 73 13 be
+73 74 14 explained
+74 75 15 . 2.83630453663
+75
+0 76 1 first
+76 77 3 all
+77 78 4 ,
+78 79 2 of
+79 80 8 the
+80 81 9 microprocessor
+81 82 10 module
+82 83 11 10
+83 84 7 of
+84 85 5 each
+85 86 6 construction
+86 87 12 will
+87 88 14 explained
+88 89 13 be
+89 90 15 . 4.68213122712
+90
+0 91 1 first
+91 92 3 all
+92 93 4 ,
+93 94 8 the
+94 95 9 microprocessor
+95 96 10 module
+96 97 11 10
+97 98 7 of
+98 99 5 each
+99 100 6 construction
+100 101 12 will
+101 102 2 of
+102 103 14 explained
+103 104 13 be
+104 105 15 . 2.05505008856
+105
+0 106 1 first
+106 107 3 all
+107 108 2 of
+108 109 4 ,
+109 110 8 the
+110 111 9 microprocessor
+111 112 10 module
+112 113 11 10
+113 114 7 of
+114 115 5 each
+115 116 6 construction
+116 117 12 will
+117 118 14 explained
+118 119 13 be
+119 120 15 . 2.91854263486
+120
+0 121 1 first
+121 122 2 of
+122 123 3 all
+123 124 4 ,
+124 125 8 the
+125 126 9 microprocessor
+126 127 10 module
+127 128 11 10
+128 129 7 of
+129 130 5 each
+130 131 6 construction
+131 132 12 will
+132 133 13 be
+133 134 14 explained
+134 135 15 . 1.09630014891
+135

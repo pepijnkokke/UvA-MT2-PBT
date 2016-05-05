@@ -1,0 +1,15 @@
+0 1 1 during
+1 2 2 this
+2 3 3 period
+3 4 4 ,
+4 5 5 data
+5 6 6 q0
+6 7 7 is
+7 8 8 continuously
+8 9 9 output
+9 10 10 from
+10 11 11 the
+11 12 12 output
+12 13 13 circuit
+13 14 14 .
+14

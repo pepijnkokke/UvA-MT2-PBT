@@ -1,0 +1,247 @@
+0 1 1 the
+1 2 2 differential
+2 3 3 amplifier
+3 4 4 123
+4 5 11 hereinafter
+5 6 9 more
+6 7 10 detail
+7 8 8 in
+8 9 5 will
+9 10 7 explained
+10 11 6 be
+11 12 12 . 4.88880562029
+12
+0 13 1 the
+13 14 2 differential
+14 15 3 amplifier
+15 16 4 123
+16 17 11 hereinafter
+17 18 9 more
+18 19 10 detail
+19 20 5 will
+20 21 8 in
+21 22 7 explained
+22 23 6 be
+23 24 12 . 5.91330993681
+24
+0 25 1 the
+25 26 2 differential
+26 27 3 amplifier
+27 28 4 123
+28 29 11 hereinafter
+29 30 9 more
+30 31 10 detail
+31 32 8 in
+32 33 7 explained
+33 34 5 will
+34 35 6 be
+35 36 12 . 6.35514268909
+36
+0 37 1 the
+37 38 2 differential
+38 39 3 amplifier
+39 40 4 123
+40 41 11 hereinafter
+41 42 9 more
+42 43 10 detail
+43 44 8 in
+44 45 7 explained
+45 46 6 be
+46 47 5 will
+47 48 12 . 0.555040443426
+48
+0 49 1 the
+49 50 2 differential
+50 51 3 amplifier
+51 52 4 123
+52 53 11 hereinafter
+53 54 5 will
+54 55 9 more
+55 56 10 detail
+56 57 8 in
+57 58 7 explained
+58 59 6 be
+59 60 12 . 1.87906929866
+60
+0 61 1 the
+61 62 2 differential
+62 63 3 amplifier
+63 64 4 123
+64 65 5 will
+65 66 11 hereinafter
+66 67 9 more
+67 68 10 detail
+68 69 8 in
+69 70 7 explained
+70 71 6 be
+71 72 12 . 1.4689794188
+72
+0 73 1 the
+73 74 2 differential
+74 75 3 amplifier
+75 76 11 hereinafter
+76 77 4 123
+77 78 9 more
+78 79 10 detail
+79 80 8 in
+80 81 7 explained
+81 82 6 be
+82 83 5 will
+83 84 12 . 7.1660729053
+84
+0 85 1 the
+85 86 2 differential
+86 87 3 amplifier
+87 88 11 hereinafter
+88 89 4 123
+89 90 5 will
+90 91 9 more
+91 92 10 detail
+92 93 8 in
+93 94 7 explained
+94 95 6 be
+95 96 12 . 7.45375497776
+96
+0 97 1 the
+97 98 2 differential
+98 99 3 amplifier
+99 100 4 123
+100 101 11 hereinafter
+101 102 9 more
+102 103 10 detail
+103 104 8 in
+104 105 5 will
+105 106 6 be
+106 107 7 explained
+107 108 12 . 5.84431706532
+108
+0 109 1 the
+109 110 2 differential
+110 111 3 amplifier
+111 112 4 123
+112 113 11 hereinafter
+113 114 9 more
+114 115 10 detail
+115 116 8 in
+116 117 6 be
+117 118 7 explained
+118 119 5 will
+119 120 12 . 4.66054696831
+120
+0 121 1 the
+121 122 2 differential
+122 123 3 amplifier
+123 124 4 123
+124 125 11 hereinafter
+125 126 5 will
+126 127 9 more
+127 128 10 detail
+128 129 8 in
+129 130 6 be
+130 131 7 explained
+131 132 12 . 4.54503408119
+132
+0 133 2 differential
+133 134 1 the
+134 135 3 amplifier
+135 136 4 123
+136 137 11 hereinafter
+137 138 9 more
+138 139 10 detail
+139 140 8 in
+140 141 7 explained
+141 142 6 be
+142 143 5 will
+143 144 12 . 7.85922008586
+144
+0 145 1 the
+145 146 2 differential
+146 147 3 amplifier
+147 148 4 123
+148 149 9 more
+149 150 11 hereinafter
+150 151 10 detail
+151 152 8 in
+152 153 5 will
+153 154 7 explained
+154 155 6 be
+155 156 12 . 8.55236726643
+156
+0 157 1 the
+157 158 2 differential
+158 159 3 amplifier
+159 160 4 123
+160 161 9 more
+161 162 11 hereinafter
+162 163 10 detail
+163 164 8 in
+164 165 7 explained
+165 166 6 be
+166 167 5 will
+167 168 12 . 5.91330993681
+168
+0 169 1 the
+169 170 2 differential
+170 171 3 amplifier
+171 172 4 123
+172 173 11 hereinafter
+173 174 9 more
+174 175 8 in
+175 176 10 detail
+176 177 7 explained
+177 178 6 be
+178 179 5 will
+179 180 12 . 7.85922008586
+180
+0 181 1 the
+181 182 2 differential
+182 183 3 amplifier
+183 184 4 123
+184 185 11 hereinafter
+185 186 10 detail
+186 187 9 more
+187 188 8 in
+188 189 7 explained
+189 190 5 will
+190 191 6 be
+191 192 12 . 8.55236726643
+192
+0 193 1 the
+193 194 2 differential
+194 195 3 amplifier
+195 196 4 123
+196 197 11 hereinafter
+197 198 5 will
+198 199 9 more
+199 200 8 in
+200 201 10 detail
+201 202 7 explained
+202 203 6 be
+203 204 12 . 8.55236726643
+204
+0 205 1 the
+205 206 2 differential
+206 207 3 amplifier
+207 208 4 123
+208 209 11 hereinafter
+209 210 9 more
+210 211 10 detail
+211 212 7 explained
+212 213 8 in
+213 214 6 be
+214 215 5 will
+215 216 12 . 7.85922008586
+216
+0 217 1 the
+217 218 2 differential
+218 219 3 amplifier
+219 220 4 123
+220 221 11 hereinafter
+221 222 10 detail
+222 223 9 more
+223 224 8 in
+224 225 7 explained
+225 226 6 be
+226 227 5 will
+227 228 12 . 6.06746061664
+228

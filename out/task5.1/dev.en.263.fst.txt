@@ -1,0 +1,238 @@
+0 1 1 therefore
+1 2 2 ,
+2 3 3 the
+3 4 4 response
+4 5 5 access
+5 6 6 information
+6 7 15 change
+7 8 14 without
+8 9 11 the
+9 10 12 dram
+10 11 13 23
+11 12 10 in
+12 13 9 stored
+13 14 8 be
+14 15 7 can
+15 16 16 . 0.214079178541
+16
+0 17 1 therefore
+17 18 2 ,
+18 19 3 the
+19 20 4 response
+20 21 5 access
+21 22 15 change
+22 23 14 without
+23 24 6 information
+24 25 11 the
+25 26 12 dram
+26 27 13 23
+27 28 10 in
+28 29 9 stored
+29 30 8 be
+30 31 7 can
+31 32 16 . 5.73611136177
+32
+0 33 1 therefore
+33 34 2 ,
+34 35 3 the
+35 36 4 response
+36 37 15 change
+37 38 5 access
+38 39 6 information
+39 40 14 without
+40 41 11 the
+41 42 12 dram
+42 43 13 23
+43 44 10 in
+44 45 9 stored
+45 46 8 be
+46 47 7 can
+47 48 16 . 7.68202151083
+48
+0 49 1 therefore
+49 50 2 ,
+50 51 3 the
+51 52 4 response
+52 53 15 change
+53 54 14 without
+54 55 5 access
+55 56 6 information
+56 57 11 the
+57 58 12 dram
+58 59 13 23
+59 60 10 in
+60 61 9 stored
+61 62 8 be
+62 63 7 can
+63 64 16 . 3.44791500623
+64
+0 65 1 therefore
+65 66 2 ,
+66 67 3 the
+67 68 4 response
+68 69 5 access
+69 70 6 information
+70 71 15 change
+71 72 14 without
+72 73 11 the
+73 74 12 dram
+74 75 13 23
+75 76 10 in
+76 77 8 be
+77 78 9 stored
+78 79 7 can
+79 80 16 . 3.14942201767
+80
+0 81 1 therefore
+81 82 2 ,
+82 83 3 the
+83 84 4 response
+84 85 5 access
+85 86 15 change
+86 87 14 without
+87 88 6 information
+88 89 11 the
+89 90 12 dram
+90 91 13 23
+91 92 10 in
+92 93 8 be
+93 94 9 stored
+94 95 7 can
+95 96 16 . 7.68202151083
+96
+0 97 1 therefore
+97 98 2 ,
+98 99 3 the
+99 100 4 response
+100 101 5 access
+101 102 6 information
+102 103 15 change
+103 104 11 the
+104 105 14 without
+105 106 12 dram
+106 107 13 23
+107 108 10 in
+108 109 9 stored
+109 110 8 be
+110 111 7 can
+111 112 16 . 6.98887433027
+112
+0 113 1 therefore
+113 114 2 ,
+114 115 3 the
+115 116 15 change
+116 117 4 response
+117 118 5 access
+118 119 6 information
+119 120 14 without
+120 121 11 the
+121 122 12 dram
+122 123 13 23
+123 124 10 in
+124 125 9 stored
+125 126 8 be
+126 127 7 can
+127 128 16 . 7.68202151083
+128
+0 129 1 therefore
+129 130 2 ,
+130 131 3 the
+131 132 4 response
+132 133 15 change
+133 134 5 access
+134 135 6 information
+135 136 14 without
+136 137 11 the
+137 138 12 dram
+138 139 13 23
+139 140 10 in
+140 141 8 be
+141 142 9 stored
+142 143 7 can
+143 144 16 . 7.68202151083
+144
+0 145 1 therefore
+145 146 2 ,
+146 147 3 the
+147 148 4 response
+148 149 15 change
+149 150 14 without
+150 151 5 access
+151 152 6 information
+152 153 11 the
+153 154 12 dram
+154 155 13 23
+155 156 10 in
+156 157 8 be
+157 158 9 stored
+158 159 7 can
+159 160 16 . 7.68202151083
+160
+0 161 1 therefore
+161 162 2 ,
+162 163 3 the
+163 164 4 response
+164 165 5 access
+165 166 6 information
+166 167 14 without
+167 168 15 change
+168 169 11 the
+169 170 12 dram
+170 171 13 23
+171 172 10 in
+172 173 9 stored
+173 174 8 be
+174 175 7 can
+175 176 16 . 2.23528413916
+176
+0 177 1 therefore
+177 178 2 ,
+178 179 3 the
+179 180 4 response
+180 181 5 access
+181 182 6 information
+182 183 15 change
+183 184 14 without
+184 185 11 the
+185 186 12 dram
+186 187 10 in
+187 188 13 23
+188 189 9 stored
+189 190 8 be
+190 191 7 can
+191 192 16 . 7.68202151083
+192
+0 193 1 therefore
+193 194 2 ,
+194 195 3 the
+195 196 4 response
+196 197 14 without
+197 198 15 change
+198 199 5 access
+199 200 6 information
+200 201 11 the
+201 202 12 dram
+202 203 13 23
+203 204 10 in
+204 205 9 stored
+205 206 8 be
+206 207 7 can
+207 208 16 . 6.98887433027
+208
+0 209 1 therefore
+209 210 2 ,
+210 211 3 the
+211 212 4 response
+212 213 5 access
+213 214 6 information
+214 215 11 the
+215 216 15 change
+216 217 14 without
+217 218 12 dram
+218 219 13 23
+219 220 10 in
+220 221 9 stored
+221 222 8 be
+222 223 7 can
+223 224 16 . 5.73611136177
+224

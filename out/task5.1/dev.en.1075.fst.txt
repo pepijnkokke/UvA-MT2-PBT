@@ -1,0 +1,60 @@
+0 1 1 the
+1 2 2 first
+2 3 3 retainer
+3 4 4 20
+4 5 5 serves
+5 6 16 a
+6 7 17 rolling
+7 8 18 bearing
+8 9 15 of
+9 10 11 the
+10 11 12 steel
+11 12 13 balls
+12 13 14 11
+13 14 10 between
+14 15 8 constant
+15 16 9 intervals
+16 17 6 to
+17 18 7 maintain
+18 19 19 . 0.437006602637
+19
+0 20 1 the
+20 21 2 first
+21 22 3 retainer
+22 23 4 20
+23 24 5 serves
+24 25 16 a
+25 26 17 rolling
+26 27 18 bearing
+27 28 15 of
+28 29 11 the
+29 30 12 steel
+30 31 13 balls
+31 32 14 11
+32 33 10 between
+33 34 6 to
+34 35 8 constant
+35 36 9 intervals
+36 37 7 maintain
+37 38 19 . 1.77267087267
+38
+0 39 2 first
+39 40 1 the
+40 41 3 retainer
+41 42 4 20
+42 43 5 serves
+43 44 16 a
+44 45 17 rolling
+45 46 18 bearing
+46 47 15 of
+47 48 11 the
+48 49 12 steel
+49 50 13 balls
+50 51 14 11
+51 52 10 between
+52 53 8 constant
+53 54 9 intervals
+54 55 6 to
+55 56 7 maintain
+56 57 19 . 1.69198196141
+57

@@ -1,0 +1,273 @@
+0 1 1 these
+1 2 2 clock
+2 3 3 signals
+3 4 4 are
+4 5 7 vibrating
+5 6 8 about
+6 7 9 1
+7 8 5 both
+8 9 6 clocks
+9 10 10 /
+10 11 11 2vdd
+11 12 12 . 3.76882834876
+12
+0 13 1 these
+13 14 2 clock
+14 15 3 signals
+15 16 4 are
+16 17 7 vibrating
+17 18 8 about
+18 19 9 1
+19 20 6 clocks
+20 21 5 both
+21 22 10 /
+22 23 11 2vdd
+23 24 12 . 2.6520886755
+24
+0 25 1 these
+25 26 2 clock
+26 27 3 signals
+27 28 4 are
+28 29 7 vibrating
+29 30 8 about
+30 31 9 1
+31 32 10 /
+32 33 5 both
+33 34 6 clocks
+34 35 11 2vdd
+35 36 12 . 6.92278462753
+36
+0 37 1 these
+37 38 2 clock
+38 39 3 signals
+39 40 4 are
+40 41 7 vibrating
+41 42 8 about
+42 43 9 1
+43 44 10 /
+44 45 6 clocks
+45 46 5 both
+46 47 11 2vdd
+47 48 12 . 4.917451058
+48
+0 49 1 these
+49 50 2 clock
+50 51 3 signals
+51 52 4 are
+52 53 7 vibrating
+53 54 8 about
+54 55 9 1
+55 56 10 /
+56 57 11 2vdd
+57 58 5 both
+58 59 6 clocks
+59 60 12 . 2.55333677506
+60
+0 61 1 these
+61 62 2 clock
+62 63 3 signals
+63 64 4 are
+64 65 7 vibrating
+65 66 8 about
+66 67 9 1
+67 68 6 clocks
+68 69 10 /
+69 70 11 2vdd
+70 71 5 both
+71 72 12 . 5.31334671509
+72
+0 73 1 these
+73 74 2 clock
+74 75 3 signals
+75 76 4 are
+76 77 7 vibrating
+77 78 8 about
+78 79 9 1
+79 80 10 /
+80 81 6 clocks
+81 82 11 2vdd
+82 83 5 both
+83 84 12 . 7.07693530735
+84
+0 85 1 these
+85 86 2 clock
+86 87 3 signals
+87 88 4 are
+88 89 7 vibrating
+89 90 8 about
+90 91 9 1
+91 92 10 /
+92 93 11 2vdd
+93 94 6 clocks
+94 95 5 both
+95 96 12 . 1.46685319784
+96
+0 97 1 these
+97 98 2 clock
+98 99 3 signals
+99 100 4 are
+100 101 5 both
+101 102 7 vibrating
+102 103 8 about
+103 104 9 1
+104 105 6 clocks
+105 106 10 /
+106 107 11 2vdd
+107 108 12 . 3.50271876156
+108
+0 109 1 these
+109 110 2 clock
+110 111 3 signals
+111 112 4 are
+112 113 5 both
+113 114 7 vibrating
+114 115 8 about
+115 116 9 1
+116 117 10 /
+117 118 6 clocks
+118 119 11 2vdd
+119 120 12 . 6.30374541912
+120
+0 121 1 these
+121 122 2 clock
+122 123 3 signals
+123 124 4 are
+124 125 5 both
+125 126 7 vibrating
+126 127 8 about
+127 128 9 1
+128 129 10 /
+129 130 11 2vdd
+130 131 6 clocks
+131 132 12 . 2.0741081957
+132
+0 133 1 these
+133 134 2 clock
+134 135 3 signals
+135 136 4 are
+136 137 6 clocks
+137 138 7 vibrating
+138 139 8 about
+139 140 9 1
+140 141 5 both
+141 142 10 /
+142 143 11 2vdd
+143 144 12 . 6.78925323491
+144
+0 145 1 these
+145 146 2 clock
+146 147 3 signals
+147 148 4 are
+148 149 7 vibrating
+149 150 9 1
+150 151 8 about
+151 152 6 clocks
+152 153 5 both
+153 154 10 /
+154 155 11 2vdd
+155 156 12 . 8.86869477658
+156
+0 157 1 these
+157 158 2 clock
+158 159 3 signals
+159 160 4 are
+160 161 6 clocks
+161 162 7 vibrating
+162 163 8 about
+163 164 9 1
+164 165 10 /
+165 166 5 both
+166 167 11 2vdd
+167 168 12 . 6.38378812679
+168
+0 169 1 these
+169 170 2 clock
+170 171 3 signals
+171 172 4 are
+172 173 6 clocks
+173 174 7 vibrating
+174 175 8 about
+175 176 5 both
+176 177 9 1
+177 178 10 /
+178 179 11 2vdd
+179 180 12 . 8.86869477658
+180
+0 181 1 these
+181 182 2 clock
+182 183 3 signals
+183 184 4 are
+184 185 6 clocks
+185 186 7 vibrating
+186 187 8 about
+187 188 9 1
+188 189 10 /
+189 190 11 2vdd
+190 191 5 both
+191 192 12 . 3.2965407444
+192
+0 193 1 these
+193 194 2 clock
+194 195 3 signals
+195 196 4 are
+196 197 7 vibrating
+197 198 9 1
+198 199 8 about
+199 200 10 /
+200 201 11 2vdd
+201 202 6 clocks
+202 203 5 both
+203 204 12 . 8.86869477658
+204
+0 205 1 these
+205 206 2 clock
+206 207 3 signals
+207 208 4 are
+208 209 6 clocks
+209 210 7 vibrating
+210 211 5 both
+211 212 8 about
+212 213 9 1
+213 214 10 /
+214 215 11 2vdd
+215 216 12 . 8.86869477658
+216
+0 217 1 these
+217 218 2 clock
+218 219 3 signals
+219 220 5 both
+220 221 4 are
+221 222 7 vibrating
+222 223 8 about
+223 224 9 1
+224 225 6 clocks
+225 226 10 /
+226 227 11 2vdd
+227 228 12 . 7.77008248791
+228
+0 229 1 these
+229 230 2 clock
+230 231 3 signals
+231 232 5 both
+232 233 4 are
+233 234 7 vibrating
+234 235 8 about
+235 236 9 1
+236 237 10 /
+237 238 11 2vdd
+238 239 6 clocks
+239 240 12 . 6.78925323491
+240
+0 241 1 these
+241 242 2 clock
+242 243 3 signals
+243 244 4 are
+244 245 5 both
+245 246 6 clocks
+246 247 7 vibrating
+247 248 8 about
+248 249 9 1
+249 250 10 /
+250 251 11 2vdd
+251 252 12 . 0.956271655108
+252

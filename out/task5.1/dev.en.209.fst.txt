@@ -1,0 +1,270 @@
+0 1 1 the
+1 2 2 reference
+2 3 3 spectrum
+3 4 8 or
+4 5 5 be
+5 6 6 registered
+6 7 4 can
+7 8 9 again
+8 9 7 additionally
+9 10 12 analysis
+10 11 13 procedure
+11 12 11 during
+12 13 10 even
+13 14 14 . 1.12404261845
+14
+0 15 1 the
+15 16 2 reference
+16 17 8 or
+17 18 3 spectrum
+18 19 5 be
+19 20 6 registered
+20 21 4 can
+21 22 9 again
+22 23 7 additionally
+23 24 12 analysis
+24 25 13 procedure
+25 26 11 during
+26 27 10 even
+27 28 14 . 5.54664121639
+28
+0 29 2 reference
+29 30 1 the
+30 31 3 spectrum
+31 32 8 or
+32 33 5 be
+33 34 6 registered
+34 35 4 can
+35 36 9 again
+36 37 7 additionally
+37 38 12 analysis
+38 39 13 procedure
+39 40 11 during
+40 41 10 even
+41 42 14 . 7.62608275807
+42
+0 43 1 the
+43 44 8 or
+44 45 2 reference
+45 46 3 spectrum
+46 47 5 be
+47 48 6 registered
+48 49 4 can
+49 50 9 again
+50 51 7 additionally
+51 52 12 analysis
+52 53 13 procedure
+53 54 11 during
+54 55 10 even
+55 56 14 . 3.64640110417
+56
+0 57 1 the
+57 58 2 reference
+58 59 3 spectrum
+59 60 8 or
+60 61 6 registered
+61 62 5 be
+62 63 4 can
+63 64 9 again
+64 65 7 additionally
+65 66 12 analysis
+66 67 13 procedure
+67 68 11 during
+68 69 10 even
+69 70 14 . 4.22488537641
+70
+0 71 1 the
+71 72 2 reference
+72 73 3 spectrum
+73 74 5 be
+74 75 6 registered
+75 76 4 can
+76 77 8 or
+77 78 9 again
+78 79 7 additionally
+79 80 12 analysis
+80 81 13 procedure
+81 82 11 during
+82 83 10 even
+83 84 14 . 7.62608275807
+84
+0 85 1 the
+85 86 2 reference
+86 87 3 spectrum
+87 88 8 or
+88 89 5 be
+89 90 4 can
+90 91 6 registered
+91 92 9 again
+92 93 7 additionally
+93 94 12 analysis
+94 95 13 procedure
+95 96 11 during
+96 97 10 even
+97 98 14 . 7.62608275807
+98
+0 99 1 the
+99 100 2 reference
+100 101 3 spectrum
+101 102 8 or
+102 103 5 be
+103 104 6 registered
+104 105 4 can
+105 106 9 again
+106 107 7 additionally
+107 108 12 analysis
+108 109 11 during
+109 110 13 procedure
+110 111 10 even
+111 112 14 . 7.62608275807
+112
+0 113 1 the
+113 114 3 spectrum
+114 115 2 reference
+115 116 8 or
+116 117 5 be
+117 118 6 registered
+118 119 4 can
+119 120 9 again
+120 121 7 additionally
+121 122 12 analysis
+122 123 13 procedure
+123 124 11 during
+124 125 10 even
+125 126 14 . 8.31922993863
+126
+0 127 1 the
+127 128 2 reference
+128 129 3 spectrum
+129 130 5 be
+130 131 6 registered
+131 132 4 can
+132 133 7 additionally
+133 134 8 or
+134 135 9 again
+135 136 12 analysis
+136 137 13 procedure
+137 138 11 during
+138 139 10 even
+139 140 14 . 0.917388359887
+140
+0 141 1 the
+141 142 2 reference
+142 143 8 or
+143 144 3 spectrum
+144 145 6 registered
+145 146 5 be
+146 147 4 can
+147 148 9 again
+148 149 7 additionally
+149 150 12 analysis
+150 151 13 procedure
+151 152 11 during
+152 153 10 even
+153 154 14 . 7.22061764996
+154
+0 155 1 the
+155 156 2 reference
+156 157 3 spectrum
+157 158 8 or
+158 159 5 be
+159 160 6 registered
+160 161 9 again
+161 162 7 additionally
+162 163 4 can
+163 164 12 analysis
+164 165 13 procedure
+165 166 11 during
+166 167 10 even
+167 168 14 . 2.59238219105
+168
+0 169 8 or
+169 170 1 the
+170 171 2 reference
+171 172 3 spectrum
+172 173 5 be
+173 174 6 registered
+174 175 4 can
+175 176 9 again
+176 177 7 additionally
+177 178 12 analysis
+178 179 13 procedure
+179 180 11 during
+180 181 10 even
+181 182 14 . 2.34542032676
+182
+0 183 2 reference
+183 184 3 spectrum
+184 185 1 the
+185 186 8 or
+186 187 5 be
+187 188 6 registered
+188 189 4 can
+189 190 9 again
+190 191 7 additionally
+191 192 12 analysis
+192 193 13 procedure
+193 194 11 during
+194 195 10 even
+195 196 14 . 2.90312953643
+196
+0 197 1 the
+197 198 8 or
+198 199 2 reference
+199 200 3 spectrum
+200 201 6 registered
+201 202 5 be
+202 203 4 can
+203 204 9 again
+204 205 7 additionally
+205 206 12 analysis
+206 207 13 procedure
+207 208 11 during
+208 209 10 even
+209 210 14 . 6.93293557751
+210
+0 211 1 the
+211 212 2 reference
+212 213 3 spectrum
+213 214 5 be
+214 215 6 registered
+215 216 7 additionally
+216 217 4 can
+217 218 8 or
+218 219 9 again
+219 220 12 analysis
+220 221 13 procedure
+221 222 11 during
+222 223 10 even
+223 224 14 . 7.62608275807
+224
+0 225 1 the
+225 226 8 or
+226 227 2 reference
+227 228 3 spectrum
+228 229 5 be
+229 230 4 can
+230 231 6 registered
+231 232 9 again
+232 233 7 additionally
+233 234 12 analysis
+234 235 13 procedure
+235 236 11 during
+236 237 10 even
+237 238 14 . 7.62608275807
+238
+0 239 1 the
+239 240 2 reference
+240 241 3 spectrum
+241 242 5 be
+242 243 6 registered
+243 244 4 can
+244 245 9 again
+245 246 8 or
+246 247 7 additionally
+247 248 12 analysis
+248 249 13 procedure
+249 250 11 during
+250 251 10 even
+251 252 14 . 7.62608275807
+252

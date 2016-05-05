@@ -1,0 +1,187 @@
+0 1 5 the
+1 2 6 second
+2 3 7 drum
+3 4 8 32
+4 5 4 of
+5 6 1 the
+6 7 2 cylindrical
+7 8 3 portion
+8 9 13 outer
+9 10 14 teeth
+10 11 15 32a
+11 12 12 of
+12 13 10 a
+13 14 11 plurality
+14 15 9 includes
+15 16 16 . 0.741756267319
+16
+0 17 5 the
+17 18 6 second
+18 19 7 drum
+19 20 8 32
+20 21 1 the
+21 22 4 of
+22 23 2 cylindrical
+23 24 3 portion
+24 25 13 outer
+25 26 14 teeth
+26 27 15 32a
+27 28 12 of
+28 29 10 a
+29 30 11 plurality
+30 31 9 includes
+31 32 16 . 7.92334821193
+32
+0 33 5 the
+33 34 6 second
+34 35 7 drum
+35 36 8 32
+36 37 4 of
+37 38 1 the
+38 39 2 cylindrical
+39 40 3 portion
+40 41 13 outer
+41 42 14 teeth
+42 43 15 32a
+43 44 12 of
+44 45 9 includes
+45 46 10 a
+46 47 11 plurality
+47 48 16 . 6.53705385081
+48
+0 49 5 the
+49 50 6 second
+50 51 7 drum
+51 52 8 32
+52 53 4 of
+53 54 1 the
+54 55 2 cylindrical
+55 56 3 portion
+56 57 13 outer
+57 58 14 teeth
+58 59 15 32a
+59 60 9 includes
+60 61 12 of
+61 62 10 a
+62 63 11 plurality
+63 64 16 . 7.92334821193
+64
+0 65 6 second
+65 66 5 the
+66 67 7 drum
+67 68 8 32
+68 69 4 of
+69 70 1 the
+70 71 2 cylindrical
+71 72 3 portion
+72 73 13 outer
+73 74 14 teeth
+74 75 15 32a
+75 76 12 of
+76 77 10 a
+77 78 11 plurality
+78 79 9 includes
+79 80 16 . 2.62503084538
+80
+0 81 1 the
+81 82 5 the
+82 83 6 second
+83 84 7 drum
+84 85 8 32
+85 86 4 of
+86 87 2 cylindrical
+87 88 3 portion
+88 89 13 outer
+89 90 14 teeth
+90 91 15 32a
+91 92 12 of
+92 93 10 a
+93 94 11 plurality
+94 95 9 includes
+95 96 16 . 1.61889940951
+96
+0 97 5 the
+97 98 6 second
+98 99 7 drum
+99 100 8 32
+100 101 4 of
+101 102 2 cylindrical
+102 103 1 the
+103 104 3 portion
+104 105 13 outer
+105 106 14 teeth
+106 107 15 32a
+107 108 12 of
+108 109 10 a
+109 110 11 plurality
+110 111 9 includes
+111 112 16 . 4.97890923276
+112
+0 113 5 the
+113 114 6 second
+114 115 7 drum
+115 116 8 32
+116 117 4 of
+117 118 1 the
+118 119 2 cylindrical
+119 120 3 portion
+120 121 13 outer
+121 122 14 teeth
+122 123 12 of
+123 124 15 32a
+124 125 10 a
+125 126 11 plurality
+126 127 9 includes
+127 128 16 . 7.92334821193
+128
+0 129 5 the
+129 130 6 second
+130 131 7 drum
+131 132 8 32
+132 133 4 of
+133 134 1 the
+134 135 2 cylindrical
+135 136 3 portion
+136 137 9 includes
+137 138 13 outer
+138 139 14 teeth
+139 140 15 32a
+140 141 12 of
+141 142 10 a
+142 143 11 plurality
+143 144 16 . 1.41607049955
+144
+0 145 5 the
+145 146 6 second
+146 147 7 drum
+147 148 8 32
+148 149 4 of
+149 150 1 the
+150 151 2 cylindrical
+151 152 3 portion
+152 153 13 outer
+153 154 14 teeth
+154 155 15 32a
+155 156 12 of
+156 157 11 plurality
+157 158 10 a
+158 159 9 includes
+159 160 16 . 7.92334821193
+160
+0 161 1 the
+161 162 5 the
+162 163 6 second
+163 164 7 drum
+164 165 8 32
+165 166 4 of
+166 167 2 cylindrical
+167 168 3 portion
+168 169 13 outer
+169 170 14 teeth
+170 171 15 32a
+171 172 12 of
+172 173 9 includes
+173 174 10 a
+174 175 11 plurality
+175 176 16 . 7.23020103137
+176

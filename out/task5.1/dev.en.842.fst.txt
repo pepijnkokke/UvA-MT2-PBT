@@ -1,0 +1,323 @@
+0 1 1 the
+1 2 2 value
+2 3 3 is
+3 4 5 to
+4 5 14 correlation
+5 6 15 as
+6 7 16 it
+7 8 17 is
+8 9 13 of
+9 10 11 the
+10 11 12 degree
+11 12 10 represents
+12 13 9 which
+13 14 7 a
+14 15 8 value
+15 16 6 be
+16 17 4 considered
+17 18 18 . 0.678758443107
+18
+0 19 1 the
+19 20 2 value
+20 21 3 is
+21 22 5 to
+22 23 14 correlation
+23 24 15 as
+24 25 16 it
+25 26 13 of
+26 27 11 the
+27 28 12 degree
+28 29 10 represents
+29 30 9 which
+30 31 7 a
+31 32 8 value
+32 33 6 be
+33 34 4 considered
+34 35 17 is
+35 36 18 . 2.15466496291
+36
+0 37 1 the
+37 38 2 value
+38 39 3 is
+39 40 14 correlation
+40 41 15 as
+41 42 16 it
+42 43 13 of
+43 44 5 to
+44 45 11 the
+45 46 12 degree
+46 47 10 represents
+47 48 9 which
+48 49 7 a
+49 50 8 value
+50 51 6 be
+51 52 4 considered
+52 53 17 is
+53 54 18 . 4.92725368516
+54
+0 55 1 the
+55 56 2 value
+56 57 3 is
+57 58 5 to
+58 59 14 correlation
+59 60 15 as
+60 61 16 it
+61 62 17 is
+62 63 13 of
+63 64 11 the
+64 65 12 degree
+65 66 9 which
+66 67 10 represents
+67 68 7 a
+68 69 8 value
+69 70 6 be
+70 71 4 considered
+71 72 18 . 4.92725368516
+72
+0 73 1 the
+73 74 2 value
+74 75 3 is
+75 76 14 correlation
+76 77 15 as
+77 78 16 it
+78 79 13 of
+79 80 11 the
+80 81 12 degree
+81 82 10 represents
+82 83 9 which
+83 84 7 a
+84 85 8 value
+85 86 5 to
+86 87 6 be
+87 88 4 considered
+88 89 17 is
+89 90 18 . 4.2341065046
+90
+0 91 1 the
+91 92 2 value
+92 93 3 is
+93 94 5 to
+94 95 14 correlation
+95 96 15 as
+96 97 16 it
+97 98 17 is
+98 99 13 of
+99 100 11 the
+100 101 10 represents
+101 102 12 degree
+102 103 9 which
+103 104 7 a
+104 105 8 value
+105 106 6 be
+106 107 4 considered
+107 108 18 . 4.92725368516
+108
+0 109 1 the
+109 110 2 value
+110 111 3 is
+111 112 14 correlation
+112 113 15 as
+113 114 16 it
+114 115 13 of
+115 116 11 the
+116 117 12 degree
+117 118 10 represents
+118 119 9 which
+119 120 7 a
+120 121 8 value
+121 122 6 be
+122 123 5 to
+123 124 4 considered
+124 125 17 is
+125 126 18 . 1.74919985481
+126
+0 127 1 the
+127 128 2 value
+128 129 3 is
+129 130 5 to
+130 131 14 correlation
+131 132 15 as
+132 133 16 it
+133 134 13 of
+134 135 11 the
+135 136 12 degree
+136 137 10 represents
+137 138 9 which
+138 139 7 a
+139 140 8 value
+140 141 6 be
+141 142 17 is
+142 143 4 considered
+143 144 18 . 4.92725368516
+144
+0 145 1 the
+145 146 2 value
+146 147 3 is
+147 148 5 to
+148 149 14 correlation
+149 150 15 as
+150 151 16 it
+151 152 13 of
+152 153 11 the
+153 154 10 represents
+154 155 12 degree
+155 156 9 which
+156 157 7 a
+157 158 8 value
+158 159 6 be
+159 160 4 considered
+160 161 17 is
+161 162 18 . 4.2341065046
+162
+0 163 1 the
+163 164 2 value
+164 165 3 is
+165 166 14 correlation
+166 167 15 as
+167 168 16 it
+168 169 13 of
+169 170 11 the
+170 171 12 degree
+171 172 10 represents
+172 173 5 to
+173 174 9 which
+174 175 7 a
+175 176 8 value
+176 177 6 be
+177 178 4 considered
+178 179 17 is
+179 180 18 . 4.92725368516
+180
+0 181 1 the
+181 182 2 value
+182 183 3 is
+183 184 14 correlation
+184 185 15 as
+185 186 16 it
+186 187 13 of
+187 188 11 the
+188 189 12 degree
+189 190 10 represents
+190 191 9 which
+191 192 5 to
+192 193 7 a
+193 194 8 value
+194 195 6 be
+195 196 4 considered
+196 197 17 is
+197 198 18 . 3.54095932404
+198
+0 199 1 the
+199 200 2 value
+200 201 3 is
+201 202 14 correlation
+202 203 15 as
+203 204 16 it
+204 205 17 is
+205 206 5 to
+206 207 13 of
+207 208 11 the
+208 209 12 degree
+209 210 10 represents
+210 211 9 which
+211 212 7 a
+212 213 8 value
+213 214 6 be
+214 215 4 considered
+215 216 18 . 4.92725368516
+216
+0 217 1 the
+217 218 2 value
+218 219 3 is
+219 220 14 correlation
+220 221 15 as
+221 222 16 it
+222 223 17 is
+223 224 13 of
+224 225 5 to
+225 226 11 the
+226 227 12 degree
+227 228 10 represents
+228 229 9 which
+229 230 7 a
+230 231 8 value
+231 232 6 be
+232 233 4 considered
+233 234 18 . 4.92725368516
+234
+0 235 1 the
+235 236 2 value
+236 237 3 is
+237 238 5 to
+238 239 14 correlation
+239 240 15 as
+240 241 16 it
+241 242 13 of
+242 243 11 the
+243 244 12 degree
+244 245 10 represents
+245 246 9 which
+246 247 7 a
+247 248 8 value
+248 249 17 is
+249 250 6 be
+250 251 4 considered
+251 252 18 . 4.92725368516
+252
+0 253 1 the
+253 254 2 value
+254 255 3 is
+255 256 5 to
+256 257 14 correlation
+257 258 15 as
+258 259 16 it
+259 260 13 of
+260 261 11 the
+261 262 12 degree
+262 263 10 represents
+263 264 17 is
+264 265 9 which
+265 266 7 a
+266 267 8 value
+267 268 6 be
+268 269 4 considered
+269 270 18 . 2.62466859216
+270
+0 271 1 the
+271 272 2 value
+272 273 3 is
+273 274 5 to
+274 275 14 correlation
+275 276 15 as
+276 277 16 it
+277 278 13 of
+278 279 11 the
+279 280 12 degree
+280 281 10 represents
+281 282 9 which
+282 283 17 is
+283 284 7 a
+284 285 8 value
+285 286 6 be
+286 287 4 considered
+287 288 18 . 4.92725368516
+288
+0 289 1 the
+289 290 2 value
+290 291 3 is
+291 292 14 correlation
+292 293 15 as
+293 294 16 it
+294 295 13 of
+295 296 11 the
+296 297 12 degree
+297 298 9 which
+298 299 10 represents
+299 300 7 a
+300 301 8 value
+301 302 5 to
+302 303 6 be
+303 304 4 considered
+304 305 17 is
+305 306 18 . 4.92725368516
+306

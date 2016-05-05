@@ -1,0 +1,143 @@
+0 1 1 the
+1 2 2 data
+2 3 3 recording
+3 4 4 /
+4 5 5 reproducing
+5 6 6 device
+6 7 7 40
+7 8 9 this
+8 9 10 close
+9 10 11 command
+10 11 8 receives
+11 12 12 . 0.518793793415
+12
+0 13 1 the
+13 14 2 data
+14 15 3 recording
+15 16 4 /
+16 17 5 reproducing
+17 18 6 device
+18 19 7 40
+19 20 9 this
+20 21 10 close
+21 22 8 receives
+22 23 11 command
+23 24 12 . 5.41164605185
+24
+0 25 1 the
+25 26 2 data
+26 27 3 recording
+27 28 4 /
+28 29 5 reproducing
+29 30 6 device
+30 31 7 40
+31 32 9 this
+32 33 11 command
+33 34 10 close
+34 35 8 receives
+35 36 12 . 2.05720386927
+36
+0 37 2 data
+37 38 1 the
+38 39 3 recording
+39 40 4 /
+40 41 5 reproducing
+41 42 6 device
+42 43 7 40
+43 44 9 this
+44 45 10 close
+45 46 11 command
+46 47 8 receives
+47 48 12 . 4.96981329958
+48
+0 49 1 the
+49 50 2 data
+50 51 3 recording
+51 52 4 /
+52 53 5 reproducing
+53 54 6 device
+54 55 7 40
+55 56 9 this
+56 57 8 receives
+57 58 10 close
+58 59 11 command
+59 60 12 . 3.31841118804
+60
+0 61 1 the
+61 62 2 data
+62 63 3 recording
+63 64 4 /
+64 65 5 reproducing
+65 66 6 device
+66 67 7 40
+67 68 10 close
+68 69 9 this
+69 70 8 receives
+70 71 11 command
+71 72 12 . 5.8742695738
+72
+0 73 1 the
+73 74 2 data
+74 75 3 recording
+75 76 4 /
+76 77 5 reproducing
+77 78 6 device
+78 79 7 40
+79 80 11 command
+80 81 9 this
+81 82 10 close
+82 83 8 receives
+83 84 12 . 6.51025834052
+84
+0 85 2 data
+85 86 1 the
+86 87 3 recording
+87 88 4 /
+88 89 5 reproducing
+89 90 6 device
+90 91 7 40
+91 92 9 this
+92 93 11 command
+93 94 10 close
+94 95 8 receives
+95 96 12 . 6.51025834052
+96
+0 97 1 the
+97 98 2 data
+98 99 3 recording
+99 100 4 /
+100 101 5 reproducing
+101 102 6 device
+102 103 7 40
+103 104 9 this
+104 105 8 receives
+105 106 11 command
+106 107 10 close
+107 108 12 . 3.76584049525
+108
+0 109 1 the
+109 110 2 data
+110 111 3 recording
+111 112 4 /
+112 113 5 reproducing
+113 114 6 device
+114 115 7 40
+115 116 9 this
+116 117 11 command
+117 118 10 close
+118 119 12 .
+119 120 8 receives 8.70748291786
+120
+0 121 1 the
+121 122 2 data
+122 123 3 recording
+123 124 4 /
+124 125 5 reproducing
+125 126 6 device
+126 127 7 40
+127 128 8 receives
+128 129 9 this
+129 130 10 close
+130 131 11 command
+131 132 12 . 1.60828117431
+132

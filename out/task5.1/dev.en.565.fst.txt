@@ -1,0 +1,154 @@
+0 1 1 this
+1 2 6 the
+2 3 7 second
+3 4 8 period
+4 5 9 tm2
+5 6 5 into
+6 7 3 the
+7 8 4 operation
+8 9 2 shifts
+9 10 10 . 0.421957422416
+10
+0 11 1 this
+11 12 6 the
+12 13 7 second
+13 14 8 period
+14 15 9 tm2
+15 16 3 the
+16 17 5 into
+17 18 4 operation
+18 19 2 shifts
+19 20 10 . 8.02010609376
+20
+0 21 1 this
+21 22 7 second
+22 23 6 the
+23 24 8 period
+24 25 9 tm2
+25 26 5 into
+26 27 3 the
+27 28 4 operation
+28 29 2 shifts
+29 30 10 . 4.55437019096
+30
+0 31 1 this
+31 32 6 the
+32 33 9 tm2
+33 34 7 second
+34 35 8 period
+35 36 5 into
+36 37 3 the
+37 38 4 operation
+38 39 2 shifts
+39 40 10 . 6.00520307322
+40
+0 41 1 this
+41 42 6 the
+42 43 7 second
+43 44 8 period
+44 45 9 tm2
+45 46 5 into
+46 47 4 operation
+47 48 3 the
+48 49 2 shifts
+49 50 10 . 4.97558365604
+50
+0 51 1 this
+51 52 6 the
+52 53 7 second
+53 54 8 period
+54 55 9 tm2
+55 56 5 into
+56 57 2 shifts
+57 58 3 the
+58 59 4 operation
+59 60 10 . 7.3269589132
+60
+0 61 1 this
+61 62 6 the
+62 63 7 second
+63 64 8 period
+64 65 9 tm2
+65 66 3 the
+66 67 4 operation
+67 68 5 into
+68 69 2 shifts
+69 70 10 . 4.57011854793
+70
+0 71 1 this
+71 72 9 tm2
+72 73 6 the
+73 74 7 second
+74 75 8 period
+75 76 5 into
+76 77 3 the
+77 78 4 operation
+78 79 2 shifts
+79 80 10 . 1.20941252762
+80
+0 81 1 this
+81 82 6 the
+82 83 7 second
+83 84 8 period
+84 85 9 tm2
+85 86 4 operation
+86 87 5 into
+87 88 3 the
+88 89 2 shifts
+89 90 10 . 8.02010609376
+90
+0 91 1 this
+91 92 7 second
+92 93 6 the
+93 94 8 period
+94 95 9 tm2
+95 96 5 into
+96 97 4 operation
+97 98 3 the
+98 99 2 shifts
+99 100 10 . 8.71325327432
+100
+0 101 1 this
+101 102 7 second
+102 103 6 the
+103 104 8 period
+104 105 9 tm2
+105 106 3 the
+106 107 4 operation
+107 108 5 into
+108 109 2 shifts
+109 110 10 . 8.71325327432
+110
+0 111 1 this
+111 112 6 the
+112 113 9 tm2
+113 114 7 second
+114 115 8 period
+115 116 3 the
+116 117 4 operation
+117 118 5 into
+118 119 2 shifts
+119 120 10 . 8.71325327432
+120
+0 121 1 this
+121 122 9 tm2
+122 123 7 second
+123 124 6 the
+124 125 8 period
+125 126 5 into
+126 127 3 the
+127 128 4 operation
+128 129 2 shifts
+129 130 10 . 4.86310567261
+130
+0 131 1 this
+131 132 7 second
+132 133 8 period
+133 134 9 tm2
+134 135 6 the
+135 136 5 into
+136 137 3 the
+137 138 4 operation
+138 139 2 shifts
+139 140 10 . 5.10233536168
+140

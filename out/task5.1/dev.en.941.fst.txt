@@ -1,0 +1,182 @@
+0 1 1 the
+1 2 2 writing
+2 3 3 operation
+3 4 4 is
+4 5 9 a
+5 6 10 time
+6 7 11 t9
+7 8 8 after
+8 9 7 waveforms
+9 10 6 by
+10 11 5 represented
+11 12 12 . 0.487139911489
+12
+0 13 1 the
+13 14 2 writing
+14 15 3 operation
+15 16 4 is
+16 17 9 a
+17 18 10 time
+18 19 11 t9
+19 20 8 after
+20 21 6 by
+21 22 7 waveforms
+22 23 5 represented
+23 24 12 . 2.18157103676
+24
+0 25 2 writing
+25 26 1 the
+26 27 3 operation
+27 28 4 is
+28 29 9 a
+29 30 10 time
+30 31 11 t9
+31 32 8 after
+32 33 7 waveforms
+33 34 6 by
+34 35 5 represented
+35 36 12 . 6.22866271413
+36
+0 37 1 the
+37 38 2 writing
+38 39 3 operation
+39 40 4 is
+40 41 9 a
+41 42 10 time
+42 43 8 after
+43 44 11 t9
+44 45 7 waveforms
+45 46 6 by
+46 47 5 represented
+47 48 12 . 7.40731771047
+48
+0 49 1 the
+49 50 2 writing
+50 51 3 operation
+51 52 4 is
+52 53 9 a
+53 54 10 time
+54 55 11 t9
+55 56 8 after
+56 57 7 waveforms
+57 58 5 represented
+58 59 6 by
+59 60 12 . 4.51694595257
+60
+0 61 1 the
+61 62 3 operation
+62 63 2 writing
+63 64 4 is
+64 65 9 a
+65 66 10 time
+66 67 11 t9
+67 68 8 after
+68 69 7 waveforms
+69 70 6 by
+70 71 5 represented
+71 72 12 . 7.69499978292
+72
+0 73 2 writing
+73 74 1 the
+74 75 3 operation
+75 76 4 is
+76 77 9 a
+77 78 10 time
+78 79 11 t9
+79 80 8 after
+80 81 6 by
+81 82 7 waveforms
+82 83 5 represented
+83 84 12 . 8.10046489103
+84
+0 85 2 writing
+85 86 3 operation
+86 87 1 the
+87 88 4 is
+88 89 9 a
+89 90 10 time
+90 91 11 t9
+91 92 8 after
+92 93 7 waveforms
+93 94 6 by
+94 95 5 represented
+95 96 12 . 1.76896304113
+96
+0 97 1 the
+97 98 2 writing
+98 99 3 operation
+99 100 4 is
+100 101 9 a
+101 102 10 time
+102 103 8 after
+103 104 11 t9
+104 105 6 by
+105 106 7 waveforms
+106 107 5 represented
+107 108 12 . 8.10046489103
+108
+0 109 1 the
+109 110 2 writing
+110 111 3 operation
+111 112 4 is
+112 113 9 a
+113 114 10 time
+114 115 11 t9
+115 116 8 after
+116 117 6 by
+117 118 5 represented
+118 119 7 waveforms
+119 120 12 . 6.4910269786
+120
+0 121 1 the
+121 122 2 writing
+122 123 3 operation
+123 124 4 is
+124 125 9 a
+125 126 10 time
+126 127 11 t9
+127 128 6 by
+128 129 8 after
+129 130 7 waveforms
+130 131 5 represented
+131 132 12 . 8.79361207159
+132
+0 133 1 the
+133 134 2 writing
+134 135 3 operation
+135 136 4 is
+136 137 9 a
+137 138 10 time
+138 139 8 after
+139 140 7 waveforms
+140 141 11 t9
+141 142 6 by
+142 143 5 represented
+143 144 12 . 4.05741362319
+144
+0 145 3 operation
+145 146 1 the
+146 147 2 writing
+147 148 4 is
+148 149 9 a
+149 150 10 time
+150 151 11 t9
+151 152 8 after
+152 153 7 waveforms
+153 154 6 by
+154 155 5 represented
+155 156 12 . 7.40731771047
+156
+0 157 1 the
+157 158 2 writing
+158 159 3 operation
+159 160 4 is
+160 161 11 t9
+161 162 9 a
+162 163 10 time
+163 164 8 after
+164 165 7 waveforms
+165 166 6 by
+166 167 5 represented
+167 168 12 . 2.68658918385
+168

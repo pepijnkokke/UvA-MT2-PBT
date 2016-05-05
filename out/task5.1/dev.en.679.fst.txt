@@ -1,0 +1,272 @@
+0 1 1 this
+1 2 2 processing
+2 3 3 is
+3 4 13 output
+4 5 14 data
+5 6 12 to
+6 7 8 the
+7 8 9 predetermined
+8 9 10 time
+9 10 11 t
+10 11 7 of
+11 12 6 intervals
+12 13 5 at
+13 14 4 repeated
+14 15 15 . 0.458242966443
+15
+0 16 1 this
+16 17 2 processing
+17 18 13 output
+18 19 14 data
+19 20 3 is
+20 21 12 to
+21 22 8 the
+22 23 9 predetermined
+23 24 10 time
+24 25 11 t
+25 26 7 of
+26 27 6 intervals
+27 28 5 at
+28 29 4 repeated
+29 30 15 . 7.83161727635
+30
+0 31 1 this
+31 32 2 processing
+32 33 13 output
+33 34 14 data
+34 35 12 to
+35 36 3 is
+36 37 8 the
+37 38 9 predetermined
+38 39 10 time
+39 40 11 t
+40 41 7 of
+41 42 6 intervals
+42 43 5 at
+43 44 4 repeated
+44 45 15 . 3.41277666856
+45
+0 46 1 this
+46 47 2 processing
+47 48 3 is
+48 49 13 output
+49 50 14 data
+50 51 12 to
+51 52 8 the
+52 53 9 predetermined
+53 54 10 time
+54 55 11 t
+55 56 7 of
+56 57 5 at
+57 58 6 intervals
+58 59 4 repeated
+59 60 15 . 2.10151749338
+60
+0 61 1 this
+61 62 2 processing
+62 63 3 is
+63 64 13 output
+64 65 14 data
+65 66 12 to
+66 67 8 the
+67 68 9 predetermined
+68 69 10 time
+69 70 7 of
+70 71 11 t
+71 72 6 intervals
+72 73 5 at
+73 74 4 repeated
+74 75 15 . 6.73300498769
+75
+0 76 1 this
+76 77 3 is
+77 78 2 processing
+78 79 13 output
+79 80 14 data
+80 81 12 to
+81 82 8 the
+82 83 9 predetermined
+83 84 10 time
+84 85 11 t
+85 86 7 of
+86 87 6 intervals
+87 88 5 at
+88 89 4 repeated
+89 90 15 . 6.44532291523
+90
+0 91 1 this
+91 92 2 processing
+92 93 3 is
+93 94 13 output
+94 95 14 data
+95 96 12 to
+96 97 8 the
+97 98 9 predetermined
+98 99 10 time
+99 100 11 t
+100 101 7 of
+101 102 6 intervals
+102 103 4 repeated
+103 104 5 at
+104 105 15 . 7.13847009579
+105
+0 106 1 this
+106 107 2 processing
+107 108 3 is
+108 109 12 to
+109 110 13 output
+110 111 14 data
+111 112 8 the
+112 113 9 predetermined
+113 114 10 time
+114 115 11 t
+115 116 7 of
+116 117 6 intervals
+117 118 5 at
+118 119 4 repeated
+119 120 15 . 2.41108227708
+120
+0 121 1 this
+121 122 2 processing
+122 123 3 is
+123 124 13 output
+124 125 14 data
+125 126 12 to
+126 127 9 predetermined
+127 128 8 the
+128 129 10 time
+129 130 11 t
+130 131 7 of
+131 132 6 intervals
+132 133 5 at
+133 134 4 repeated
+134 135 15 . 6.44532291523
+135
+0 136 1 this
+136 137 2 processing
+137 138 13 output
+138 139 14 data
+139 140 3 is
+140 141 8 the
+141 142 9 predetermined
+142 143 12 to
+143 144 10 time
+144 145 11 t
+145 146 7 of
+146 147 6 intervals
+147 148 5 at
+148 149 4 repeated
+149 150 15 . 7.83161727635
+150
+0 151 1 this
+151 152 2 processing
+152 153 3 is
+153 154 14 data
+154 155 13 output
+155 156 12 to
+156 157 8 the
+157 158 9 predetermined
+158 159 10 time
+159 160 11 t
+160 161 7 of
+161 162 6 intervals
+162 163 5 at
+163 164 4 repeated
+164 165 15 . 6.44532291523
+165
+0 166 1 this
+166 167 2 processing
+167 168 3 is
+168 169 8 the
+169 170 13 output
+170 171 14 data
+171 172 12 to
+172 173 9 predetermined
+173 174 10 time
+174 175 11 t
+175 176 7 of
+176 177 6 intervals
+177 178 5 at
+178 179 4 repeated
+179 180 15 . 3.22644709036
+180
+0 181 1 this
+181 182 2 processing
+182 183 12 to
+183 184 3 is
+184 185 13 output
+185 186 14 data
+186 187 8 the
+187 188 9 predetermined
+188 189 10 time
+189 190 11 t
+190 191 7 of
+191 192 6 intervals
+192 193 5 at
+193 194 4 repeated
+194 195 15 . 7.83161727635
+195
+0 196 1 this
+196 197 2 processing
+197 198 13 output
+198 199 14 data
+199 200 12 to
+200 201 3 is
+201 202 8 the
+202 203 9 predetermined
+203 204 10 time
+204 205 11 t
+205 206 7 of
+206 207 5 at
+207 208 6 intervals
+208 209 4 repeated
+209 210 15 . 4.94124551846
+210
+0 211 1 this
+211 212 2 processing
+212 213 3 is
+213 214 13 output
+214 215 14 data
+215 216 8 the
+216 217 9 predetermined
+217 218 10 time
+218 219 11 t
+219 220 12 to
+220 221 7 of
+221 222 6 intervals
+222 223 5 at
+223 224 4 repeated
+224 225 15 . 2.75644346112
+225
+0 226 1 this
+226 227 2 processing
+227 228 3 is
+228 229 13 output
+229 230 14 data
+230 231 12 to
+231 232 8 the
+232 233 9 predetermined
+233 234 10 time
+234 235 7 of
+235 236 11 t
+236 237 5 at
+237 238 6 intervals
+238 239 4 repeated
+239 240 15 . 7.83161727635
+240
+0 241 1 this
+241 242 2 processing
+242 243 3 is
+243 244 14 data
+244 245 12 to
+245 246 13 output
+246 247 8 the
+247 248 9 predetermined
+248 249 10 time
+249 250 11 t
+250 251 7 of
+251 252 6 intervals
+252 253 5 at
+253 254 4 repeated
+254 255 15 . 5.52903218336
+255

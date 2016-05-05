@@ -1,0 +1,289 @@
+0 1 4 the
+1 2 5 present
+2 3 6 invention
+3 4 3 of
+4 5 1 an
+5 6 2 embodiment
+6 7 7 is
+7 8 14 accompanying
+8 9 13 the
+9 10 15 drawings
+10 11 12 with
+11 12 11 conjunction
+12 13 8 now
+13 14 10 in
+14 15 9 explained
+15 16 16 . 3.09256661156
+16
+0 17 4 the
+17 18 5 present
+18 19 6 invention
+19 20 3 of
+20 21 1 an
+21 22 2 embodiment
+22 23 7 is
+23 24 14 accompanying
+24 25 13 the
+25 26 15 drawings
+26 27 12 with
+27 28 11 conjunction
+28 29 10 in
+29 30 8 now
+30 31 9 explained
+31 32 16 . 1.28087292743
+32
+0 33 4 the
+33 34 5 present
+34 35 6 invention
+35 36 3 of
+36 37 1 an
+37 38 2 embodiment
+38 39 7 is
+39 40 14 accompanying
+40 41 13 the
+41 42 15 drawings
+42 43 8 now
+43 44 12 with
+44 45 11 conjunction
+45 46 10 in
+46 47 9 explained
+47 48 16 . 4.07116122676
+48
+0 49 4 the
+49 50 5 present
+50 51 6 invention
+51 52 3 of
+52 53 1 an
+53 54 2 embodiment
+54 55 7 is
+55 56 14 accompanying
+56 57 13 the
+57 58 15 drawings
+58 59 11 conjunction
+59 60 12 with
+60 61 8 now
+61 62 10 in
+62 63 9 explained
+63 64 16 . 5.53156356004
+64
+0 65 4 the
+65 66 5 present
+66 67 6 invention
+67 68 3 of
+68 69 1 an
+69 70 2 embodiment
+70 71 7 is
+71 72 14 accompanying
+72 73 13 the
+73 74 15 drawings
+74 75 12 with
+75 76 11 conjunction
+76 77 8 now
+77 78 9 explained
+78 79 10 in
+79 80 16 . 2.04677946227
+80
+0 81 4 the
+81 82 5 present
+82 83 6 invention
+83 84 3 of
+84 85 1 an
+85 86 2 embodiment
+86 87 7 is
+87 88 14 accompanying
+88 89 13 the
+89 90 15 drawings
+90 91 11 conjunction
+91 92 12 with
+92 93 10 in
+93 94 8 now
+94 95 9 explained
+95 96 16 . 3.17653199167
+96
+0 97 4 the
+97 98 5 present
+98 99 6 invention
+99 100 3 of
+100 101 1 an
+101 102 2 embodiment
+102 103 7 is
+103 104 14 accompanying
+104 105 13 the
+105 106 15 drawings
+106 107 8 now
+107 108 11 conjunction
+108 109 12 with
+109 110 10 in
+110 111 9 explained
+111 112 16 . 3.87700521233
+112
+0 113 4 the
+113 114 5 present
+114 115 6 invention
+115 116 3 of
+116 117 1 an
+117 118 2 embodiment
+118 119 7 is
+119 120 8 now
+120 121 14 accompanying
+121 122 13 the
+122 123 15 drawings
+123 124 12 with
+124 125 11 conjunction
+125 126 10 in
+126 127 9 explained
+127 128 16 . 1.6748906497
+128
+0 129 4 the
+129 130 5 present
+130 131 6 invention
+131 132 3 of
+132 133 1 an
+133 134 2 embodiment
+134 135 7 is
+135 136 14 accompanying
+136 137 13 the
+137 138 15 drawings
+138 139 8 now
+139 140 12 with
+140 141 11 conjunction
+141 142 9 explained
+142 143 10 in
+143 144 16 . 8.0965129175
+144
+0 145 4 the
+145 146 5 present
+146 147 6 invention
+147 148 3 of
+148 149 1 an
+149 150 2 embodiment
+150 151 7 is
+151 152 14 accompanying
+152 153 15 drawings
+153 154 13 the
+154 155 12 with
+155 156 11 conjunction
+156 157 8 now
+157 158 10 in
+158 159 9 explained
+159 160 16 . 8.0965129175
+160
+0 161 4 the
+161 162 5 present
+162 163 6 invention
+163 164 3 of
+164 165 1 an
+165 166 2 embodiment
+166 167 7 is
+167 168 13 the
+168 169 14 accompanying
+169 170 15 drawings
+170 171 12 with
+171 172 11 conjunction
+172 173 8 now
+173 174 10 in
+174 175 9 explained
+175 176 16 . 4.38294085079
+176
+0 177 4 the
+177 178 5 present
+178 179 6 invention
+179 180 3 of
+180 181 1 an
+181 182 2 embodiment
+182 183 7 is
+183 184 14 accompanying
+184 185 13 the
+185 186 15 drawings
+186 187 12 with
+187 188 11 conjunction
+188 189 10 in
+189 190 9 explained
+190 191 8 now
+191 192 16 . 1.63660846312
+192
+0 193 4 the
+193 194 5 present
+194 195 6 invention
+195 196 3 of
+196 197 1 an
+197 198 2 embodiment
+198 199 7 is
+199 200 14 accompanying
+200 201 15 drawings
+201 202 13 the
+202 203 12 with
+203 204 11 conjunction
+204 205 10 in
+205 206 8 now
+206 207 9 explained
+207 208 16 . 6.71021855638
+208
+0 209 4 the
+209 210 5 present
+210 211 6 invention
+211 212 3 of
+212 213 1 an
+213 214 2 embodiment
+214 215 7 is
+215 216 14 accompanying
+216 217 13 the
+217 218 12 with
+218 219 15 drawings
+219 220 11 conjunction
+220 221 10 in
+221 222 8 now
+222 223 9 explained
+223 224 16 . 8.0965129175
+224
+0 225 4 the
+225 226 5 present
+226 227 6 invention
+227 228 3 of
+228 229 1 an
+229 230 2 embodiment
+230 231 7 is
+231 232 14 accompanying
+232 233 15 drawings
+233 234 13 the
+234 235 8 now
+235 236 12 with
+236 237 11 conjunction
+237 238 10 in
+238 239 9 explained
+239 240 16 . 6.71021855638
+240
+0 241 4 the
+241 242 5 present
+242 243 6 invention
+243 244 3 of
+244 245 1 an
+245 246 2 embodiment
+246 247 7 is
+247 248 14 accompanying
+248 249 13 the
+249 250 15 drawings
+250 251 11 conjunction
+251 252 12 with
+252 253 8 now
+253 254 9 explained
+254 255 10 in
+255 256 16 . 4.40763346339
+256
+0 257 4 the
+257 258 5 present
+258 259 6 invention
+259 260 3 of
+260 261 1 an
+261 262 2 embodiment
+262 263 7 is
+263 264 13 the
+264 265 14 accompanying
+265 266 15 drawings
+266 267 12 with
+267 268 11 conjunction
+268 269 10 in
+269 270 8 now
+270 271 9 explained
+271 272 16 . 2.91472936721
+272

@@ -1,0 +1,360 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 1
+3 4 16 the
+4 5 17 present
+5 6 18 invention
+6 7 15 to
+7 8 14 according
+8 9 9 a
+9 10 10 thin
+10 11 11 film
+11 12 12 semiconductor
+12 13 13 device
+13 14 8 of
+14 15 5 a
+15 16 6 cross
+16 17 7 section
+17 18 4 shows
+18 19 19 . 0.474073066397
+19
+0 20 1 fig
+20 21 2 .
+21 22 3 1
+22 23 17 present
+23 24 16 the
+24 25 18 invention
+25 26 15 to
+26 27 14 according
+27 28 9 a
+28 29 10 thin
+29 30 11 film
+30 31 12 semiconductor
+31 32 13 device
+32 33 8 of
+33 34 5 a
+34 35 6 cross
+35 36 7 section
+36 37 4 shows
+37 38 19 . 8.2912958519
+38
+0 39 1 fig
+39 40 2 .
+40 41 3 1
+41 42 16 the
+42 43 17 present
+43 44 18 invention
+44 45 15 to
+45 46 14 according
+46 47 9 a
+47 48 10 thin
+48 49 11 film
+49 50 12 semiconductor
+50 51 13 device
+51 52 5 a
+52 53 8 of
+53 54 6 cross
+54 55 7 section
+55 56 4 shows
+56 57 19 . 8.2912958519
+57
+0 58 1 fig
+58 59 3 1
+59 60 2 .
+60 61 16 the
+61 62 17 present
+62 63 18 invention
+63 64 15 to
+64 65 14 according
+65 66 9 a
+66 67 10 thin
+67 68 11 film
+68 69 12 semiconductor
+69 70 13 device
+70 71 8 of
+71 72 5 a
+72 73 6 cross
+73 74 7 section
+74 75 4 shows
+75 76 19 . 8.2912958519
+76
+0 77 1 fig
+77 78 2 .
+78 79 3 1
+79 80 16 the
+80 81 17 present
+81 82 18 invention
+82 83 15 to
+83 84 14 according
+84 85 9 a
+85 86 10 thin
+86 87 11 film
+87 88 12 semiconductor
+88 89 13 device
+89 90 8 of
+90 91 4 shows
+91 92 5 a
+92 93 6 cross
+93 94 7 section
+94 95 19 . 7.59814867135
+95
+0 96 1 fig
+96 97 2 .
+97 98 3 1
+98 99 16 the
+99 100 17 present
+100 101 18 invention
+101 102 15 to
+102 103 14 according
+103 104 9 a
+104 105 12 semiconductor
+105 106 13 device
+106 107 10 thin
+107 108 11 film
+108 109 8 of
+109 110 5 a
+110 111 6 cross
+111 112 7 section
+112 113 4 shows
+113 114 19 . 6.90500149079
+114
+0 115 1 fig
+115 116 2 .
+116 117 3 1
+117 118 16 the
+118 119 17 present
+119 120 18 invention
+120 121 15 to
+121 122 14 according
+122 123 9 a
+123 124 10 thin
+124 125 11 film
+125 126 8 of
+126 127 12 semiconductor
+127 128 13 device
+128 129 5 a
+129 130 6 cross
+130 131 7 section
+131 132 4 shows
+132 133 19 . 7.59814867135
+133
+0 134 1 fig
+134 135 2 .
+135 136 3 1
+136 137 17 present
+137 138 18 invention
+138 139 16 the
+139 140 15 to
+140 141 14 according
+141 142 9 a
+142 143 10 thin
+143 144 11 film
+144 145 12 semiconductor
+145 146 13 device
+146 147 8 of
+147 148 5 a
+148 149 6 cross
+149 150 7 section
+150 151 4 shows
+151 152 19 . 4.04280060986
+152
+0 153 1 fig
+153 154 2 .
+154 155 3 1
+155 156 9 a
+156 157 16 the
+157 158 17 present
+158 159 18 invention
+159 160 15 to
+160 161 14 according
+161 162 10 thin
+162 163 11 film
+163 164 12 semiconductor
+164 165 13 device
+165 166 8 of
+166 167 5 a
+167 168 6 cross
+168 169 7 section
+169 170 4 shows
+170 171 19 . 7.19268356324
+171
+0 172 1 fig
+172 173 2 .
+173 174 3 1
+174 175 16 the
+175 176 17 present
+176 177 18 invention
+177 178 15 to
+178 179 14 according
+179 180 9 a
+180 181 10 thin
+181 182 11 film
+182 183 12 semiconductor
+183 184 13 device
+184 185 5 a
+185 186 6 cross
+186 187 8 of
+187 188 7 section
+188 189 4 shows
+189 190 19 . 7.59814867135
+190
+0 191 1 fig
+191 192 2 .
+192 193 3 1
+193 194 16 the
+194 195 17 present
+195 196 18 invention
+196 197 15 to
+197 198 14 according
+198 199 9 a
+199 200 10 thin
+200 201 11 film
+201 202 12 semiconductor
+202 203 13 device
+203 204 8 of
+204 205 6 cross
+205 206 7 section
+206 207 5 a
+207 208 4 shows
+208 209 19 . 6.90500149079
+209
+0 210 1 fig
+210 211 2 .
+211 212 3 1
+212 213 16 the
+213 214 17 present
+214 215 18 invention
+215 216 15 to
+216 217 14 according
+217 218 10 thin
+218 219 11 film
+219 220 9 a
+220 221 12 semiconductor
+221 222 13 device
+222 223 8 of
+223 224 5 a
+224 225 6 cross
+225 226 7 section
+226 227 4 shows
+227 228 19 . 7.19268356324
+228
+0 229 1 fig
+229 230 2 .
+230 231 3 1
+231 232 16 the
+232 233 17 present
+233 234 18 invention
+234 235 15 to
+235 236 14 according
+236 237 9 a
+237 238 10 thin
+238 239 11 film
+239 240 12 semiconductor
+240 241 13 device
+241 242 8 of
+242 243 7 section
+243 244 5 a
+244 245 6 cross
+245 246 4 shows
+246 247 19 . 8.2912958519
+247
+0 248 1 fig
+248 249 2 .
+249 250 3 1
+250 251 16 the
+251 252 17 present
+252 253 18 invention
+253 254 15 to
+254 255 14 according
+255 256 13 device
+256 257 9 a
+257 258 10 thin
+258 259 11 film
+259 260 12 semiconductor
+260 261 8 of
+261 262 5 a
+262 263 6 cross
+263 264 7 section
+264 265 4 shows
+265 266 19 . 8.2912958519
+266
+0 267 1 fig
+267 268 2 .
+268 269 3 1
+269 270 16 the
+270 271 17 present
+271 272 18 invention
+272 273 15 to
+273 274 14 according
+274 275 12 semiconductor
+275 276 13 device
+276 277 9 a
+277 278 10 thin
+278 279 11 film
+279 280 8 of
+280 281 5 a
+281 282 6 cross
+282 283 7 section
+283 284 4 shows
+284 285 19 . 1.04564078431
+285
+0 286 1 fig
+286 287 2 .
+287 288 3 1
+288 289 16 the
+289 290 17 present
+290 291 18 invention
+291 292 15 to
+292 293 9 a
+293 294 10 thin
+294 295 11 film
+295 296 12 semiconductor
+296 297 13 device
+297 298 14 according
+298 299 8 of
+299 300 5 a
+300 301 6 cross
+301 302 7 section
+302 303 4 shows
+303 304 19 . 8.2912958519
+304
+0 305 1 fig
+305 306 2 .
+306 307 3 1
+307 308 17 present
+308 309 18 invention
+309 310 15 to
+310 311 16 the
+311 312 14 according
+312 313 9 a
+313 314 10 thin
+314 315 11 film
+315 316 12 semiconductor
+316 317 13 device
+317 318 8 of
+318 319 5 a
+319 320 6 cross
+320 321 7 section
+321 322 4 shows
+322 323 19 . 6.34538570285
+323
+0 324 1 fig
+324 325 3 1
+325 326 2 .
+326 327 17 present
+327 328 18 invention
+328 329 16 the
+329 330 15 to
+330 331 14 according
+331 332 9 a
+332 333 10 thin
+333 334 11 film
+334 335 12 semiconductor
+335 336 13 device
+336 337 8 of
+337 338 5 a
+338 339 6 cross
+339 340 7 section
+340 341 4 shows
+341 342 19 . 8.2912958519
+342

@@ -1,0 +1,112 @@
+0 1 1 the
+1 2 2 cam
+2 3 3 channel
+3 4 4 33
+4 5 13 hereinafter
+5 6 10 the
+6 7 11 cam
+7 8 12 member
+8 9 9 of
+9 10 6 an
+10 11 7 engaging
+11 12 8 portion
+12 13 5 receives
+13 14 14 described
+14 15 15 . 0.0848038047204
+15
+0 16 1 the
+16 17 2 cam
+17 18 3 channel
+18 19 4 33
+19 20 10 the
+20 21 13 hereinafter
+21 22 11 cam
+22 23 12 member
+23 24 9 of
+24 25 6 an
+25 26 7 engaging
+26 27 8 portion
+27 28 5 receives
+28 29 14 described
+29 30 15 . 3.28472927059
+30
+0 31 1 the
+31 32 2 cam
+32 33 3 channel
+33 34 13 hereinafter
+34 35 4 33
+35 36 10 the
+36 37 11 cam
+37 38 12 member
+38 39 9 of
+39 40 6 an
+40 41 7 engaging
+41 42 8 portion
+42 43 5 receives
+43 44 14 described
+44 45 15 . 7.61546261087
+45
+0 46 1 the
+46 47 2 cam
+47 48 3 channel
+48 49 4 33
+49 50 13 hereinafter
+50 51 10 the
+51 52 11 cam
+52 53 12 member
+53 54 9 of
+54 55 6 an
+55 56 7 engaging
+56 57 8 portion
+57 58 14 described
+58 59 5 receives
+59 60 15 . 3.4008689205
+60
+0 61 1 the
+61 62 2 cam
+62 63 3 channel
+63 64 4 33
+64 65 13 hereinafter
+65 66 10 the
+66 67 11 cam
+67 68 12 member
+68 69 6 an
+69 70 9 of
+70 71 7 engaging
+71 72 8 portion
+72 73 5 receives
+73 74 14 described
+74 75 15 . 8.71407489954
+75
+0 76 1 the
+76 77 2 cam
+77 78 3 channel
+78 79 4 33
+79 80 10 the
+80 81 13 hereinafter
+81 82 11 cam
+82 83 12 member
+83 84 9 of
+84 85 6 an
+85 86 7 engaging
+86 87 8 portion
+87 88 14 described
+88 89 5 receives
+89 90 15 . 5.88086155548
+90
+0 91 1 the
+91 92 2 cam
+92 93 13 hereinafter
+93 94 3 channel
+94 95 4 33
+95 96 10 the
+96 97 11 cam
+97 98 12 member
+98 99 9 of
+99 100 6 an
+100 101 7 engaging
+101 102 8 portion
+102 103 5 receives
+103 104 14 described
+104 105 15 . 4.95287478385
+105

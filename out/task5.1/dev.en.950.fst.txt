@@ -1,0 +1,162 @@
+0 1 1 then
+1 2 2 ,
+2 3 3 the
+3 4 4 mixture
+4 5 5 that
+5 6 6 has
+6 7 10 the
+7 8 11 squish
+8 9 12 area
+9 10 13 9
+10 11 9 into
+11 12 8 sucked
+12 13 7 been
+13 14 14 is
+14 15 15 rapidly
+15 16 16 burnt
+16 17 17 . 1.26670885453
+17
+0 18 1 then
+18 19 2 ,
+19 20 3 the
+20 21 4 mixture
+21 22 5 that
+22 23 6 has
+23 24 10 the
+24 25 11 squish
+25 26 12 area
+26 27 13 9
+27 28 9 into
+28 29 8 sucked
+29 30 14 is
+30 31 15 rapidly
+31 32 7 been
+32 33 16 burnt
+33 34 17 . 6.037393479
+34
+0 35 1 then
+35 36 2 ,
+36 37 3 the
+37 38 4 mixture
+38 39 5 that
+39 40 6 has
+40 41 10 the
+41 42 11 squish
+42 43 12 area
+43 44 9 into
+44 45 8 sucked
+45 46 7 been
+46 47 13 9
+47 48 14 is
+48 49 15 rapidly
+49 50 16 burnt
+50 51 17 . 0.547629647877
+51
+0 52 1 then
+52 53 2 ,
+53 54 3 the
+54 55 5 that
+55 56 4 mixture
+56 57 6 has
+57 58 10 the
+58 59 11 squish
+59 60 12 area
+60 61 13 9
+61 62 9 into
+62 63 8 sucked
+63 64 7 been
+64 65 14 is
+65 66 15 rapidly
+66 67 16 burnt
+67 68 17 . 6.95368421087
+68
+0 69 1 then
+69 70 2 ,
+70 71 3 the
+71 72 4 mixture
+72 73 5 that
+73 74 6 has
+74 75 10 the
+75 76 11 squish
+76 77 12 area
+77 78 13 9
+78 79 14 is
+79 80 9 into
+80 81 8 sucked
+81 82 7 been
+82 83 15 rapidly
+83 84 16 burnt
+84 85 17 . 2.18299958641
+85
+0 86 1 then
+86 87 2 ,
+87 88 3 the
+88 89 4 mixture
+89 90 5 that
+90 91 6 has
+91 92 10 the
+92 93 11 squish
+93 94 12 area
+94 95 13 9
+95 96 9 into
+96 97 7 been
+97 98 8 sucked
+98 99 14 is
+99 100 15 rapidly
+100 101 16 burnt
+101 102 17 . 6.95368421087
+102
+0 103 1 then
+103 104 2 ,
+104 105 3 the
+105 106 4 mixture
+106 107 5 that
+107 108 6 has
+108 109 11 squish
+109 110 10 the
+110 111 12 area
+111 112 13 9
+112 113 9 into
+113 114 8 sucked
+114 115 7 been
+115 116 14 is
+116 117 15 rapidly
+117 118 16 burnt
+118 119 17 . 7.64683139143
+119
+0 120 1 then
+120 121 2 ,
+121 122 4 mixture
+122 123 3 the
+123 124 5 that
+124 125 6 has
+125 126 10 the
+126 127 11 squish
+127 128 12 area
+128 129 13 9
+129 130 9 into
+130 131 8 sucked
+131 132 7 been
+132 133 14 is
+133 134 15 rapidly
+134 135 16 burnt
+135 136 17 . 4.31462688126
+136
+0 137 1 then
+137 138 2 ,
+138 139 3 the
+139 140 4 mixture
+140 141 5 that
+141 142 6 has
+142 143 10 the
+143 144 11 squish
+144 145 12 area
+145 146 13 9
+146 147 9 into
+147 148 8 sucked
+148 149 14 is
+149 150 15 rapidly
+150 151 16 burnt
+151 152 7 been
+152 153 17 . 4.70239241226
+153

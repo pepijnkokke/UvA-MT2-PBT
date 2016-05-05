@@ -1,0 +1,57 @@
+0 1 1 the
+1 2 2 transmitting-receiving
+2 3 3 device
+3 4 4 8
+4 5 5 and
+5 6 6 the
+6 7 7 signal
+7 8 8 processor
+8 9 9 9
+9 10 10 are
+10 11 15 the
+11 12 16 conventional
+12 13 17 apparatus
+13 14 14 of
+14 15 13 those
+15 16 12 to
+16 17 11 identical
+17 18 18 . 0.00671393793922
+18
+0 19 1 the
+19 20 2 transmitting-receiving
+20 21 3 device
+21 22 4 8
+22 23 5 and
+23 24 6 the
+24 25 7 signal
+25 26 8 processor
+26 27 9 9
+27 28 10 are
+28 29 15 the
+29 30 16 conventional
+30 31 17 apparatus
+31 32 14 of
+32 33 12 to
+33 34 13 those
+34 35 11 identical
+35 36 18 . 5.10001513777
+36
+0 37 2 transmitting-receiving
+37 38 1 the
+38 39 3 device
+39 40 4 8
+40 41 5 and
+41 42 6 the
+42 43 7 signal
+43 44 8 processor
+44 45 9 9
+45 46 10 are
+46 47 15 the
+47 48 16 conventional
+48 49 17 apparatus
+49 50 14 of
+50 51 13 those
+51 52 12 to
+52 53 11 identical
+53 54 18 . 7.42729284335
+54

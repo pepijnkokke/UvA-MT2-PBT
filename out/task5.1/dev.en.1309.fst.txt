@@ -1,0 +1,306 @@
+0 1 10 the
+1 2 11 same
+2 3 12 manner
+3 4 9 in
+4 5 7 insulated
+5 6 8 boards
+6 7 6 of
+7 8 3 these
+8 9 4 three
+9 10 5 kinds
+10 11 2 tested
+11 12 1 we
+12 13 15 embodiment
+13 14 16 1
+14 15 14 in
+15 16 13 as
+16 17 17 . 0.194715371568
+17
+0 18 10 the
+18 19 11 same
+19 20 12 manner
+20 21 9 in
+21 22 7 insulated
+22 23 8 boards
+23 24 3 these
+24 25 6 of
+25 26 4 three
+26 27 5 kinds
+27 28 2 tested
+28 29 1 we
+29 30 15 embodiment
+30 31 16 1
+31 32 14 in
+32 33 13 as
+33 34 17 . 5.61208480948
+34
+0 35 10 the
+35 36 11 same
+36 37 12 manner
+37 38 9 in
+38 39 7 insulated
+39 40 8 boards
+40 41 6 of
+41 42 3 these
+42 43 4 three
+43 44 5 kinds
+44 45 1 we
+45 46 2 tested
+46 47 15 embodiment
+47 48 16 1
+48 49 14 in
+49 50 13 as
+50 51 17 . 4.56226268497
+51
+0 52 10 the
+52 53 11 same
+53 54 9 in
+54 55 12 manner
+55 56 7 insulated
+56 57 8 boards
+57 58 6 of
+58 59 3 these
+59 60 4 three
+60 61 5 kinds
+61 62 2 tested
+62 63 1 we
+63 64 15 embodiment
+64 65 16 1
+65 66 14 in
+66 67 13 as
+67 68 17 . 5.61208480948
+68
+0 69 11 same
+69 70 10 the
+70 71 12 manner
+71 72 9 in
+72 73 7 insulated
+73 74 8 boards
+74 75 6 of
+75 76 3 these
+76 77 4 three
+77 78 5 kinds
+78 79 2 tested
+79 80 1 we
+80 81 15 embodiment
+81 82 16 1
+82 83 14 in
+83 84 13 as
+84 85 17 . 3.21418953668
+85
+0 86 10 the
+86 87 11 same
+87 88 12 manner
+88 89 9 in
+89 90 8 boards
+90 91 7 insulated
+91 92 6 of
+92 93 3 these
+93 94 4 three
+94 95 5 kinds
+95 96 2 tested
+96 97 1 we
+97 98 15 embodiment
+98 99 16 1
+99 100 14 in
+100 101 13 as
+101 102 17 . 4.78540623629
+102
+0 103 10 the
+103 104 11 same
+104 105 12 manner
+105 106 9 in
+106 107 7 insulated
+107 108 8 boards
+108 109 3 these
+109 110 4 three
+110 111 6 of
+111 112 5 kinds
+112 113 2 tested
+113 114 1 we
+114 115 15 embodiment
+115 116 16 1
+116 117 14 in
+117 118 13 as
+118 119 17 . 7.55799495853
+119
+0 120 10 the
+120 121 11 same
+121 122 12 manner
+122 123 9 in
+123 124 6 of
+124 125 7 insulated
+125 126 8 boards
+126 127 3 these
+127 128 4 three
+128 129 5 kinds
+129 130 2 tested
+130 131 1 we
+131 132 15 embodiment
+132 133 16 1
+133 134 14 in
+134 135 13 as
+135 136 17 . 5.9485570461
+136
+0 137 10 the
+137 138 11 same
+138 139 12 manner
+139 140 9 in
+140 141 3 these
+141 142 7 insulated
+142 143 8 boards
+143 144 6 of
+144 145 4 three
+145 146 5 kinds
+146 147 2 tested
+147 148 1 we
+148 149 15 embodiment
+149 150 16 1
+150 151 14 in
+151 152 13 as
+152 153 17 . 5.9485570461
+153
+0 154 11 same
+154 155 10 the
+155 156 12 manner
+156 157 9 in
+157 158 7 insulated
+158 159 8 boards
+159 160 6 of
+160 161 3 these
+161 162 4 three
+162 163 5 kinds
+163 164 1 we
+164 165 2 tested
+165 166 15 embodiment
+166 167 16 1
+167 168 14 in
+168 169 13 as
+169 170 17 . 7.55799495853
+170
+0 171 10 the
+171 172 11 same
+172 173 12 manner
+173 174 9 in
+174 175 7 insulated
+175 176 8 boards
+176 177 1 we
+177 178 6 of
+178 179 3 these
+179 180 4 three
+180 181 5 kinds
+181 182 2 tested
+182 183 15 embodiment
+183 184 16 1
+184 185 14 in
+185 186 13 as
+186 187 17 . 7.55799495853
+187
+0 188 10 the
+188 189 11 same
+189 190 12 manner
+190 191 9 in
+191 192 7 insulated
+192 193 8 boards
+193 194 3 these
+194 195 4 three
+195 196 5 kinds
+196 197 6 of
+197 198 2 tested
+198 199 1 we
+199 200 15 embodiment
+200 201 16 1
+201 202 14 in
+202 203 13 as
+203 204 17 . 4.15679757687
+204
+0 205 10 the
+205 206 11 same
+206 207 12 manner
+207 208 7 insulated
+208 209 8 boards
+209 210 9 in
+210 211 6 of
+211 212 3 these
+212 213 4 three
+213 214 5 kinds
+214 215 2 tested
+215 216 1 we
+216 217 15 embodiment
+217 218 16 1
+218 219 14 in
+219 220 13 as
+220 221 17 . 6.45938266986
+221
+0 222 10 the
+222 223 11 same
+223 224 12 manner
+224 225 9 in
+225 226 7 insulated
+226 227 8 boards
+227 228 6 of
+228 229 5 kinds
+229 230 3 these
+230 231 4 three
+231 232 2 tested
+232 233 1 we
+233 234 15 embodiment
+234 235 16 1
+235 236 14 in
+236 237 13 as
+237 238 17 . 2.58126121611
+238
+0 239 11 same
+239 240 10 the
+240 241 9 in
+241 242 12 manner
+242 243 7 insulated
+243 244 8 boards
+244 245 6 of
+245 246 3 these
+246 247 4 three
+247 248 5 kinds
+248 249 2 tested
+249 250 1 we
+250 251 15 embodiment
+251 252 16 1
+252 253 14 in
+253 254 13 as
+254 255 17 . 7.55799495853
+255
+0 256 10 the
+256 257 11 same
+257 258 12 manner
+258 259 9 in
+259 260 7 insulated
+260 261 8 boards
+261 262 6 of
+262 263 2 tested
+263 264 3 these
+264 265 4 three
+265 266 5 kinds
+266 267 1 we
+267 268 15 embodiment
+268 269 16 1
+269 270 14 in
+270 271 13 as
+271 272 17 . 4.91893762892
+272
+0 273 11 same
+273 274 12 manner
+274 275 10 the
+275 276 9 in
+276 277 7 insulated
+277 278 8 boards
+278 279 6 of
+279 280 3 these
+280 281 4 three
+281 282 5 kinds
+282 283 2 tested
+283 284 1 we
+284 285 15 embodiment
+285 286 16 1
+286 287 14 in
+287 288 13 as
+288 289 17 . 5.7662354893
+289

@@ -1,0 +1,114 @@
+0 1 1 a
+1 2 2 substantially
+2 3 3 rectangular
+3 4 4 central
+4 5 5 opening
+5 6 6 12
+6 7 7 is
+7 8 14 the
+8 9 15 main
+9 10 16 chassis
+10 11 17 11
+11 12 13 of
+12 13 10 the
+13 14 11 central
+14 15 12 portion
+15 16 9 in
+16 17 8 formed
+17 18 18 . 0.0342614934342
+18
+0 19 1 a
+19 20 2 substantially
+20 21 3 rectangular
+21 22 4 central
+22 23 5 opening
+23 24 6 12
+24 25 14 the
+25 26 15 main
+26 27 16 chassis
+27 28 17 11
+28 29 7 is
+29 30 13 of
+30 31 10 the
+31 32 11 central
+32 33 12 portion
+33 34 9 in
+34 35 8 formed
+35 36 18 . 7.65349490966
+36
+0 37 1 a
+37 38 2 substantially
+38 39 3 rectangular
+39 40 4 central
+40 41 5 opening
+41 42 6 12
+42 43 14 the
+43 44 15 main
+44 45 16 chassis
+45 46 17 11
+46 47 13 of
+47 48 7 is
+48 49 10 the
+49 50 11 central
+50 51 12 portion
+51 52 9 in
+52 53 8 formed
+53 54 18 . 4.5624524563
+54
+0 55 1 a
+55 56 2 substantially
+56 57 3 rectangular
+57 58 4 central
+58 59 5 opening
+59 60 6 12
+60 61 7 is
+61 62 14 the
+62 63 15 main
+63 64 16 chassis
+64 65 17 11
+65 66 10 the
+66 67 13 of
+67 68 11 central
+68 69 12 portion
+69 70 9 in
+70 71 8 formed
+71 72 18 . 4.70905593049
+72
+0 73 1 a
+73 74 2 substantially
+74 75 3 rectangular
+75 76 4 central
+76 77 5 opening
+77 78 6 12
+78 79 7 is
+79 80 14 the
+80 81 15 main
+81 82 16 chassis
+82 83 17 11
+83 84 13 of
+84 85 10 the
+85 86 11 central
+86 87 12 portion
+87 88 8 formed
+88 89 9 in
+89 90 18 . 4.60897247194
+90
+0 91 1 a
+91 92 2 substantially
+92 93 3 rectangular
+93 94 4 central
+94 95 5 opening
+95 96 6 12
+96 97 14 the
+97 98 15 main
+98 99 16 chassis
+99 100 17 11
+100 101 13 of
+101 102 10 the
+102 103 11 central
+103 104 12 portion
+104 105 7 is
+105 106 9 in
+106 107 8 formed
+107 108 18 . 5.57405336798
+108

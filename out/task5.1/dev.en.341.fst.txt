@@ -1,0 +1,144 @@
+0 1 2 this
+1 2 3 case
+2 3 4 ,
+3 4 1 in
+4 5 5 the
+5 6 6 smallest
+6 7 7 and
+7 8 8 condition
+8 9 9 is
+9 10 10 used
+10 11 11 . 2.29696353498
+11
+0 12 2 this
+12 13 3 case
+13 14 1 in
+14 15 4 ,
+15 16 5 the
+16 17 6 smallest
+17 18 7 and
+18 19 8 condition
+19 20 9 is
+20 21 10 used
+21 22 11 . 1.32681498798
+22
+0 23 2 this
+23 24 3 case
+24 25 4 ,
+25 26 5 the
+26 27 6 smallest
+27 28 1 in
+28 29 7 and
+29 30 8 condition
+30 31 9 is
+31 32 10 used
+32 33 11 . 2.4179161454
+33
+0 34 2 this
+34 35 3 case
+35 36 4 ,
+36 37 5 the
+37 38 6 smallest
+38 39 7 and
+39 40 1 in
+40 41 8 condition
+41 42 9 is
+42 43 10 used
+43 44 11 . 2.54158380851
+44
+0 45 2 this
+45 46 3 case
+46 47 4 ,
+47 48 1 in
+48 49 6 smallest
+49 50 5 the
+50 51 7 and
+51 52 8 condition
+52 53 9 is
+53 54 10 used
+54 55 11 . 3.64250823693
+55
+0 56 2 this
+56 57 3 case
+57 58 1 in
+58 59 4 ,
+59 60 6 smallest
+60 61 5 the
+61 62 7 and
+62 63 8 condition
+63 64 9 is
+64 65 10 used
+65 66 11 . 2.44271080402
+66
+0 67 2 this
+67 68 1 in
+68 69 3 case
+69 70 4 ,
+70 71 5 the
+71 72 6 smallest
+72 73 7 and
+73 74 8 condition
+74 75 9 is
+75 76 10 used
+76 77 11 . 3.31400416996
+77
+0 78 2 this
+78 79 3 case
+79 80 4 ,
+80 81 6 smallest
+81 82 5 the
+82 83 1 in
+83 84 7 and
+84 85 8 condition
+85 86 9 is
+86 87 10 used
+87 88 11 . 4.23029490183
+88
+0 89 2 this
+89 90 3 case
+90 91 4 ,
+91 92 5 the
+92 93 6 smallest
+93 94 7 and
+94 95 8 condition
+95 96 1 in
+96 97 9 is
+97 98 10 used
+98 99 11 . 1.51477268589
+99
+0 100 2 this
+100 101 3 case
+101 102 4 ,
+102 103 6 smallest
+103 104 5 the
+104 105 7 and
+105 106 1 in
+106 107 8 condition
+107 108 9 is
+108 109 10 used
+109 110 11 . 2.68007634906
+110
+0 111 2 this
+111 112 3 case
+112 113 4 ,
+113 114 1 in
+114 115 5 the
+115 116 6 smallest
+116 117 7 and
+117 118 8 condition
+118 119 10 used
+119 120 9 is
+120 121 11 . 6.53287999483
+121
+0 122 2 this
+122 123 1 in
+123 124 3 case
+124 125 4 ,
+125 126 6 smallest
+126 127 5 the
+127 128 7 and
+128 129 8 condition
+129 130 9 is
+130 131 10 used
+131 132 11 . 4.39281383133
+132

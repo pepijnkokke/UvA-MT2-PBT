@@ -1,0 +1,165 @@
+0 1 1 the
+1 2 2 user
+2 3 3 designates
+3 4 4 which
+4 5 5 rules
+5 6 6 are
+6 7 7 to
+7 8 8 be
+8 9 9 learned
+9 10 10 . 0.804180851298
+10
+0 11 2 user
+11 12 1 the
+12 13 3 designates
+13 14 4 which
+14 15 5 rules
+15 16 6 are
+16 17 7 to
+17 18 8 be
+18 19 9 learned
+19 20 10 . 1.2228620108
+20
+0 21 1 the
+21 22 2 user
+22 23 3 designates
+23 24 4 which
+24 25 5 rules
+25 26 6 are
+26 27 8 be
+27 28 7 to
+28 29 9 learned
+29 30 10 . 5.54256988107
+30
+0 31 2 user
+31 32 1 the
+32 33 3 designates
+33 34 4 which
+34 35 5 rules
+35 36 6 are
+36 37 8 be
+37 38 7 to
+38 39 9 learned
+39 40 10 . 5.72489143787
+40
+0 41 1 the
+41 42 2 user
+42 43 3 designates
+43 44 4 which
+44 45 5 rules
+45 46 6 are
+46 47 8 be
+47 48 9 learned
+48 49 7 to
+49 50 10 . 2.03476276435
+50
+0 51 2 user
+51 52 1 the
+52 53 3 designates
+53 54 4 which
+54 55 5 rules
+55 56 6 are
+56 57 8 be
+57 58 9 learned
+58 59 7 to
+59 60 10 . 2.33206230587
+60
+0 61 1 the
+61 62 2 user
+62 63 3 designates
+63 64 5 rules
+64 65 4 which
+65 66 6 are
+66 67 7 to
+67 68 8 be
+68 69 9 learned
+69 70 10 . 5.88741036736
+70
+0 71 1 the
+71 72 2 user
+72 73 3 designates
+73 74 4 which
+74 75 5 rules
+75 76 7 to
+76 77 6 are
+77 78 8 be
+78 79 9 learned
+79 80 10 . 7.62201142275
+80
+0 81 1 the
+81 82 2 user
+82 83 4 which
+83 84 3 designates
+84 85 5 rules
+85 86 6 are
+86 87 7 to
+87 88 8 be
+88 89 9 learned
+89 90 10 . 4.91396122165
+90
+0 91 2 user
+91 92 1 the
+92 93 3 designates
+93 94 5 rules
+94 95 4 which
+95 96 6 are
+96 97 7 to
+97 98 8 be
+98 99 9 learned
+99 100 10 . 4.95942359573
+100
+0 101 2 user
+101 102 1 the
+102 103 3 designates
+103 104 4 which
+104 105 5 rules
+105 106 7 to
+106 107 6 are
+107 108 8 be
+108 109 9 learned
+109 110 10 . 8.72062371142
+110
+0 111 2 user
+111 112 1 the
+112 113 4 which
+113 114 3 designates
+114 115 5 rules
+115 116 6 are
+116 117 7 to
+117 118 8 be
+118 119 9 learned
+119 120 10 . 5.54256988107
+120
+0 121 2 user
+121 122 1 the
+122 123 3 designates
+123 124 5 rules
+124 125 4 which
+125 126 6 are
+126 127 8 be
+127 128 7 to
+128 129 9 learned
+129 130 10 . 8.72062371142
+130
+0 131 1 the
+131 132 2 user
+132 133 3 designates
+133 134 6 are
+134 135 4 which
+135 136 5 rules
+136 137 7 to
+137 138 8 be
+138 139 9 learned
+139 140 10 . 8.02747653086
+140
+0 141 1 the
+141 142 2 user
+142 143 3 designates
+143 144 5 rules
+144 145 4 which
+145 146 6 are
+146 147 8 be
+147 148 9 learned
+148 149 7 to
+149 150 10 . 6.92886424219
+150

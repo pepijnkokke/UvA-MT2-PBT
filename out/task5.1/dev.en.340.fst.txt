@@ -1,0 +1,180 @@
+0 1 1 that
+1 2 2 is
+2 3 3 ,
+3 4 7 step
+4 5 8 126
+5 6 6 of
+6 7 4 the
+7 8 5 process
+8 9 12 the
+9 10 13 relationship
+10 11 11 until
+11 12 9 is
+12 13 10 repeated
+13 14 14 tga.gtoreq.wthaga
+14 15 15 is
+15 16 16 established
+16 17 17 . 1.45126681587
+17
+0 18 1 that
+18 19 2 is
+19 20 3 ,
+20 21 7 step
+21 22 8 126
+22 23 6 of
+23 24 4 the
+24 25 5 process
+25 26 12 the
+26 27 13 relationship
+27 28 9 is
+28 29 11 until
+29 30 10 repeated
+30 31 14 tga.gtoreq.wthaga
+31 32 15 is
+32 33 16 established
+33 34 17 . 6.5388631511
+34
+0 35 1 that
+35 36 2 is
+36 37 3 ,
+37 38 7 step
+38 39 8 126
+39 40 6 of
+40 41 4 the
+41 42 5 process
+42 43 9 is
+43 44 12 the
+44 45 13 relationship
+45 46 11 until
+46 47 10 repeated
+47 48 14 tga.gtoreq.wthaga
+48 49 15 is
+49 50 16 established
+50 51 17 . 0.927561529243
+51
+0 52 1 that
+52 53 2 is
+53 54 3 ,
+54 55 7 step
+55 56 8 126
+56 57 6 of
+57 58 4 the
+58 59 5 process
+59 60 9 is
+60 61 12 the
+61 62 13 relationship
+62 63 11 until
+63 64 14 tga.gtoreq.wthaga
+64 65 10 repeated
+65 66 15 is
+66 67 16 established
+67 68 17 . 6.5388631511
+68
+0 69 1 that
+69 70 2 is
+70 71 3 ,
+71 72 7 step
+72 73 8 126
+73 74 6 of
+74 75 4 the
+75 76 5 process
+76 77 9 is
+77 78 12 the
+78 79 13 relationship
+79 80 14 tga.gtoreq.wthaga
+80 81 11 until
+81 82 10 repeated
+82 83 15 is
+83 84 16 established
+84 85 17 . 1.61888222527
+85
+0 86 1 that
+86 87 2 is
+87 88 3 ,
+88 89 7 step
+89 90 8 126
+90 91 6 of
+91 92 4 the
+92 93 5 process
+93 94 12 the
+94 95 13 relationship
+95 96 11 until
+96 97 14 tga.gtoreq.wthaga
+97 98 9 is
+98 99 10 repeated
+99 100 15 is
+100 101 16 established
+101 102 17 . 5.84571597055
+102
+0 103 1 that
+103 104 2 is
+104 105 3 ,
+105 106 7 step
+106 107 8 126
+107 108 6 of
+108 109 4 the
+109 110 5 process
+110 111 12 the
+111 112 13 relationship
+112 113 14 tga.gtoreq.wthaga
+113 114 11 until
+114 115 9 is
+115 116 10 repeated
+116 117 15 is
+117 118 16 established
+118 119 17 . 2.01707457405
+119
+0 120 1 that
+120 121 2 is
+121 122 3 ,
+122 123 7 step
+123 124 8 126
+124 125 6 of
+125 126 4 the
+126 127 5 process
+127 128 12 the
+128 129 13 relationship
+129 130 14 tga.gtoreq.wthaga
+130 131 9 is
+131 132 11 until
+132 133 10 repeated
+133 134 15 is
+134 135 16 established
+135 136 17 . 7.23201033166
+136
+0 137 1 that
+137 138 2 is
+138 139 3 ,
+139 140 7 step
+140 141 8 126
+141 142 6 of
+142 143 5 process
+143 144 4 the
+144 145 12 the
+145 146 13 relationship
+146 147 11 until
+147 148 9 is
+148 149 10 repeated
+149 150 14 tga.gtoreq.wthaga
+150 151 15 is
+151 152 16 established
+152 153 17 . 3.67666227017
+153
+0 154 2 is
+154 155 1 that
+155 156 3 ,
+156 157 7 step
+157 158 8 126
+158 159 6 of
+159 160 4 the
+160 161 5 process
+161 162 12 the
+162 163 13 relationship
+163 164 11 until
+164 165 9 is
+165 166 10 repeated
+166 167 14 tga.gtoreq.wthaga
+167 168 15 is
+168 169 16 established
+169 170 17 . 4.92942523867
+170

@@ -1,0 +1,84 @@
+0 1 7 the
+1 2 8 servo
+2 3 9 motor
+3 4 10 22
+4 5 6 of
+5 6 3 the
+6 7 4 rotation
+7 8 5 amount
+8 9 2 on
+9 10 1 depending
+10 11 11 ,
+11 12 15 the
+12 13 16 flap
+13 14 17 13
+14 15 14 of
+15 16 12 the
+16 17 13 angle
+17 18 18 is
+18 19 19 controlled
+19 20 20 . 0.044421378978
+20
+0 21 7 the
+21 22 8 servo
+22 23 9 motor
+23 24 10 22
+24 25 6 of
+25 26 3 the
+26 27 4 rotation
+27 28 5 amount
+28 29 2 on
+29 30 1 depending
+30 31 11 ,
+31 32 15 the
+32 33 16 flap
+33 34 17 13
+34 35 18 is
+35 36 14 of
+36 37 12 the
+37 38 13 angle
+38 39 19 controlled
+39 40 20 . 5.51879068931
+40
+0 41 7 the
+41 42 8 servo
+42 43 9 motor
+43 44 10 22
+44 45 3 the
+45 46 6 of
+46 47 4 rotation
+47 48 5 amount
+48 49 2 on
+49 50 1 depending
+50 51 11 ,
+51 52 15 the
+52 53 16 flap
+53 54 17 13
+54 55 14 of
+55 56 12 the
+56 57 13 angle
+57 58 18 is
+58 59 19 controlled
+59 60 20 . 7.31055015853
+60
+0 61 7 the
+61 62 8 servo
+62 63 9 motor
+63 64 10 22
+64 65 6 of
+65 66 3 the
+66 67 4 rotation
+67 68 5 amount
+68 69 2 on
+69 70 1 depending
+70 71 11 ,
+71 72 15 the
+72 73 16 flap
+73 74 17 13
+74 75 14 of
+75 76 13 angle
+76 77 12 the
+77 78 18 is
+78 79 19 controlled
+79 80 20 . 3.25010714799
+80

@@ -131,8 +131,8 @@ if __name__ == "__main__":
                                    os.path.join(data_dir,'rules.monotone.dev'))
 
     # Set the number of sentences to convert to FSTs.
-    s = os.getenv('S', 1316)
-    n = os.getenv('N', 100)
+    s = os.getenv('S', 0)
+    n = os.getenv('N', 1416)
 
     # Read the first N entries from DEV_EN.
     with open(dev_en, 'r') as f:

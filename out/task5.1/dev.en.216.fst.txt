@@ -1,0 +1,135 @@
+0 1 1 this
+1 2 2 difference
+2 3 3 signal
+3 4 4 is
+4 5 6 compressed
+5 6 7 and
+6 7 8 an
+7 8 9 amount
+8 9 10 of
+9 10 11 code
+10 11 12 is
+11 12 13 compressed
+12 13 5 then
+13 14 14 . 0.664728488652
+14
+0 15 1 this
+15 16 2 difference
+16 17 3 signal
+17 18 4 is
+18 19 6 compressed
+19 20 7 and
+20 21 8 an
+21 22 10 of
+22 23 9 amount
+23 24 11 code
+24 25 12 is
+25 26 13 compressed
+26 27 5 then
+27 28 14 . 5.67469689376
+28
+0 29 1 this
+29 30 2 difference
+30 31 3 signal
+31 32 4 is
+32 33 6 compressed
+33 34 7 and
+34 35 10 of
+35 36 8 an
+36 37 9 amount
+37 38 11 code
+38 39 12 is
+39 40 13 compressed
+40 41 5 then
+41 42 14 . 3.5229346905
+42
+0 43 1 this
+43 44 2 difference
+44 45 3 signal
+45 46 4 is
+46 47 6 compressed
+47 48 7 and
+48 49 8 an
+49 50 10 of
+50 51 11 code
+51 52 9 amount
+52 53 12 is
+53 54 13 compressed
+54 55 5 then
+55 56 14 . 7.28413480619
+56
+0 57 1 this
+57 58 2 difference
+58 59 3 signal
+59 60 4 is
+60 61 6 compressed
+61 62 10 of
+62 63 7 and
+63 64 8 an
+64 65 9 amount
+65 66 11 code
+66 67 12 is
+67 68 13 compressed
+68 69 5 then
+69 70 14 . 4.48077442528
+70
+0 71 1 this
+71 72 2 difference
+72 73 3 signal
+73 74 4 is
+74 75 6 compressed
+75 76 7 and
+76 77 8 an
+77 78 9 amount
+78 79 10 of
+79 80 11 code
+80 81 12 is
+81 82 5 then
+82 83 13 compressed
+83 84 14 . 5.26923178565
+84
+0 85 1 this
+85 86 2 difference
+86 87 3 signal
+87 88 4 is
+88 89 6 compressed
+89 90 7 and
+90 91 10 of
+91 92 8 an
+92 93 9 amount
+93 94 11 code
+94 95 12 is
+95 96 5 then
+96 97 13 compressed
+97 98 14 . 7.28413480619
+98
+0 99 1 this
+99 100 2 difference
+100 101 3 signal
+101 102 4 is
+102 103 6 compressed
+103 104 7 and
+104 105 10 of
+105 106 11 code
+106 107 8 an
+107 108 9 amount
+108 109 12 is
+109 110 13 compressed
+110 111 5 then
+111 112 14 . 3.89974454285
+112
+0 113 1 this
+113 114 2 difference
+114 115 3 signal
+115 116 4 is
+116 117 6 compressed
+117 118 7 and
+118 119 8 an
+119 120 9 amount
+120 121 10 of
+121 122 11 code
+122 123 5 then
+123 124 12 is
+124 125 13 compressed
+125 126 14 . 0.880560608261
+126

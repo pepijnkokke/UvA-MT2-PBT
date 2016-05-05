@@ -1,0 +1,57 @@
+0 1 1 the
+1 2 2 system
+2 3 3 controlling
+3 4 4 component
+4 5 5 8
+5 6 6 comprises
+6 7 7 the
+7 8 8 r0m
+8 9 9 storing
+9 10 10 the
+10 11 11 program
+11 12 12 which
+12 13 14 the
+13 14 15 whole
+14 15 16 facsimile
+15 16 17 apparatus
+16 17 13 controls
+17 18 18 . 0.0552499535193
+18
+0 19 1 the
+19 20 2 system
+20 21 3 controlling
+21 22 4 component
+22 23 5 8
+23 24 6 comprises
+24 25 7 the
+25 26 8 r0m
+26 27 10 the
+27 28 9 storing
+28 29 11 program
+29 30 12 which
+30 31 14 the
+31 32 15 whole
+32 33 16 facsimile
+33 34 17 apparatus
+34 35 13 controls
+35 36 18 . 6.79458658087
+36
+0 37 1 the
+37 38 2 system
+38 39 3 controlling
+39 40 4 component
+40 41 5 8
+41 42 6 comprises
+42 43 7 the
+43 44 8 r0m
+44 45 10 the
+45 46 11 program
+46 47 9 storing
+47 48 12 which
+48 49 14 the
+49 50 15 whole
+50 51 16 facsimile
+51 52 17 apparatus
+52 53 13 controls
+53 54 18 . 2.94443897917
+54

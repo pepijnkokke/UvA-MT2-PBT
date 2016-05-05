@@ -1,0 +1,238 @@
+0 1 1 the
+1 2 7 the
+2 3 8 above-described
+3 4 9 structure
+4 5 10 operates
+5 6 6 having
+6 7 2 sprag
+7 8 3 inserting
+8 9 4 section
+9 10 5 50
+10 11 12 follows
+11 12 11 as
+12 13 13 . 1.92557491241
+13
+0 14 1 the
+14 15 8 above-described
+15 16 7 the
+16 17 9 structure
+17 18 10 operates
+18 19 6 having
+19 20 2 sprag
+20 21 3 inserting
+21 22 4 section
+22 23 5 50
+23 24 12 follows
+24 25 11 as
+25 26 13 . 6.2205901701
+26
+0 27 1 the
+27 28 7 the
+28 29 8 above-described
+29 30 9 structure
+30 31 6 having
+31 32 2 sprag
+32 33 3 inserting
+33 34 4 section
+34 35 5 50
+35 36 12 follows
+36 37 11 as
+37 38 10 operates
+38 39 13 . 1.73195380037
+39
+0 40 1 the
+40 41 7 the
+41 42 8 above-described
+42 43 9 structure
+43 44 6 having
+44 45 2 sprag
+45 46 3 inserting
+46 47 4 section
+47 48 5 50
+48 49 10 operates
+49 50 12 follows
+50 51 11 as
+51 52 13 . 2.93717582409
+52
+0 53 1 the
+53 54 7 the
+54 55 8 above-described
+55 56 9 structure
+56 57 10 operates
+57 58 6 having
+58 59 2 sprag
+59 60 3 inserting
+60 61 4 section
+61 62 5 50
+62 63 11 as
+63 64 12 follows
+64 65 13 . 4.92130718597
+65
+0 66 1 the
+66 67 7 the
+67 68 8 above-described
+68 69 9 structure
+69 70 2 sprag
+70 71 6 having
+71 72 3 inserting
+72 73 4 section
+73 74 5 50
+74 75 12 follows
+75 76 11 as
+76 77 10 operates
+77 78 13 . 7.31920245877
+78
+0 79 7 the
+79 80 8 above-described
+80 81 9 structure
+81 82 10 operates
+82 83 6 having
+83 84 1 the
+84 85 2 sprag
+85 86 3 inserting
+86 87 4 section
+87 88 5 50
+88 89 12 follows
+89 90 11 as
+90 91 13 . 0.597776757978
+91
+0 92 1 the
+92 93 7 the
+93 94 8 above-described
+94 95 9 structure
+95 96 2 sprag
+96 97 6 having
+97 98 3 inserting
+98 99 4 section
+99 100 5 50
+100 101 10 operates
+101 102 12 follows
+102 103 11 as
+103 104 13 . 7.31920245877
+104
+0 105 1 the
+105 106 2 sprag
+106 107 7 the
+107 108 8 above-described
+108 109 9 structure
+109 110 10 operates
+110 111 6 having
+111 112 3 inserting
+112 113 4 section
+113 114 5 50
+114 115 12 follows
+115 116 11 as
+116 117 13 . 3.36795874019
+117
+0 118 7 the
+118 119 8 above-described
+119 120 9 structure
+120 121 6 having
+121 122 10 operates
+122 123 1 the
+123 124 2 sprag
+124 125 3 inserting
+125 126 4 section
+126 127 5 50
+127 128 12 follows
+128 129 11 as
+129 130 13 . 5.52744298954
+130
+0 131 1 the
+131 132 2 sprag
+132 133 7 the
+133 134 8 above-described
+134 135 9 structure
+135 136 6 having
+136 137 10 operates
+137 138 3 inserting
+138 139 4 section
+139 140 5 50
+140 141 12 follows
+141 142 11 as
+142 143 13 . 7.31920245877
+143
+0 144 1 the
+144 145 7 the
+145 146 8 above-described
+146 147 9 structure
+147 148 10 operates
+148 149 2 sprag
+149 150 3 inserting
+150 151 4 section
+151 152 5 50
+152 153 6 having
+153 154 12 follows
+154 155 11 as
+155 156 13 . 6.62605527821
+156
+0 157 1 the
+157 158 8 above-described
+158 159 9 structure
+159 160 7 the
+160 161 10 operates
+161 162 6 having
+162 163 2 sprag
+163 164 3 inserting
+164 165 4 section
+165 166 5 50
+166 167 12 follows
+167 168 11 as
+168 169 13 . 5.37329230971
+169
+0 170 1 the
+170 171 8 above-described
+171 172 7 the
+172 173 9 structure
+173 174 6 having
+174 175 2 sprag
+175 176 3 inserting
+176 177 4 section
+177 178 5 50
+178 179 12 follows
+179 180 11 as
+180 181 10 operates
+181 182 13 . 4.22816000541
+182
+0 183 1 the
+183 184 2 sprag
+184 185 7 the
+185 186 8 above-described
+186 187 9 structure
+187 188 10 operates
+188 189 3 inserting
+189 190 6 having
+190 191 4 section
+191 192 5 50
+192 193 12 follows
+193 194 11 as
+194 195 13 . 7.31920245877
+195
+0 196 1 the
+196 197 8 above-described
+197 198 7 the
+198 199 9 structure
+199 200 6 having
+200 201 2 sprag
+201 202 3 inserting
+202 203 4 section
+203 204 5 50
+204 205 10 operates
+205 206 12 follows
+206 207 11 as
+207 208 13 . 5.93290809765
+208
+0 209 1 the
+209 210 8 above-described
+210 211 7 the
+211 212 9 structure
+212 213 10 operates
+213 214 6 having
+214 215 2 sprag
+215 216 3 inserting
+216 217 4 section
+217 218 5 50
+218 219 11 as
+219 220 12 follows
+220 221 13 . 7.31920245877
+221

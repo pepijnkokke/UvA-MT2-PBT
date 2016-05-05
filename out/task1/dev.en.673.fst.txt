@@ -1,0 +1,14 @@
+0 1 1 for
+1 2 2 this
+2 3 3 reason
+3 4 4 ,
+4 5 5 the
+5 6 6 front
+6 7 7 wheel
+7 8 8 6
+8 9 9 is
+9 10 10 prevented
+10 11 11 from
+11 12 12 locking
+12 13 13 .
+13

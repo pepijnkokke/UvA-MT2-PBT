@@ -1,0 +1,210 @@
+0 1 1 each
+1 2 2 host
+2 3 3 is
+3 4 11 the
+4 5 12 ethernet
+5 6 13 19
+6 7 10 on
+7 8 6 the
+8 9 7 same
+9 10 8 physical
+10 11 9 segment
+11 12 5 to
+12 13 4 connected
+13 14 14 . 0.110890812511
+14
+0 15 1 each
+15 16 2 host
+16 17 3 is
+17 18 11 the
+18 19 12 ethernet
+19 20 13 19
+20 21 6 the
+21 22 10 on
+22 23 7 same
+23 24 8 physical
+24 25 9 segment
+25 26 5 to
+26 27 4 connected
+27 28 14 . 7.02482695057
+28
+0 29 1 each
+29 30 2 host
+30 31 3 is
+31 32 11 the
+32 33 12 ethernet
+33 34 13 19
+34 35 10 on
+35 36 7 same
+36 37 6 the
+37 38 8 physical
+38 39 9 segment
+39 40 5 to
+40 41 4 connected
+41 42 14 . 3.8384743174
+42
+0 43 2 host
+43 44 1 each
+44 45 3 is
+45 46 11 the
+46 47 12 ethernet
+47 48 13 19
+48 49 10 on
+49 50 6 the
+50 51 7 same
+51 52 8 physical
+52 53 9 segment
+53 54 5 to
+54 55 4 connected
+55 56 14 . 4.13445519267
+56
+0 57 1 each
+57 58 2 host
+58 59 3 is
+59 60 11 the
+60 61 12 ethernet
+61 62 13 19
+62 63 10 on
+63 64 6 the
+64 65 7 same
+65 66 8 physical
+66 67 9 segment
+67 68 4 connected
+68 69 5 to
+69 70 14 . 8.634264863
+70
+0 71 1 each
+71 72 2 host
+72 73 3 is
+73 74 11 the
+74 75 12 ethernet
+75 76 13 19
+76 77 10 on
+77 78 6 the
+78 79 8 physical
+79 80 9 segment
+80 81 7 same
+81 82 5 to
+82 83 4 connected
+83 84 14 . 6.43704028567
+84
+0 85 1 each
+85 86 2 host
+86 87 3 is
+87 88 11 the
+88 89 12 ethernet
+89 90 13 19
+90 91 6 the
+91 92 7 same
+92 93 10 on
+93 94 8 physical
+94 95 9 segment
+95 96 5 to
+96 97 4 connected
+97 98 14 . 6.68835471395
+98
+0 99 1 each
+99 100 2 host
+100 101 3 is
+101 102 11 the
+102 103 12 ethernet
+103 104 13 19
+104 105 10 on
+105 106 7 same
+106 107 8 physical
+107 108 6 the
+108 109 9 segment
+109 110 5 to
+110 111 4 connected
+111 112 14 . 8.634264863
+112
+0 113 1 each
+113 114 2 host
+114 115 3 is
+115 116 11 the
+116 117 12 ethernet
+117 118 13 19
+118 119 10 on
+119 120 6 the
+120 121 7 same
+121 122 8 physical
+122 123 5 to
+123 124 4 connected
+124 125 9 segment
+125 126 14 . 8.634264863
+126
+0 127 2 host
+127 128 1 each
+128 129 3 is
+129 130 11 the
+130 131 12 ethernet
+131 132 13 19
+132 133 10 on
+133 134 7 same
+134 135 6 the
+135 136 8 physical
+136 137 9 segment
+137 138 5 to
+138 139 4 connected
+139 140 14 . 8.634264863
+140
+0 141 3 is
+141 142 1 each
+142 143 2 host
+143 144 11 the
+144 145 12 ethernet
+145 146 13 19
+146 147 10 on
+147 148 6 the
+148 149 7 same
+149 150 8 physical
+150 151 9 segment
+151 152 5 to
+152 153 4 connected
+153 154 14 . 7.94111768244
+154
+0 155 1 each
+155 156 2 host
+156 157 11 the
+157 158 12 ethernet
+158 159 13 19
+159 160 10 on
+160 161 3 is
+161 162 6 the
+162 163 7 same
+163 164 8 physical
+164 165 9 segment
+165 166 5 to
+166 167 4 connected
+167 168 14 . 3.35615020377
+168
+0 169 1 each
+169 170 2 host
+170 171 3 is
+171 172 11 the
+172 173 12 ethernet
+173 174 13 19
+174 175 10 on
+175 176 7 same
+176 177 8 physical
+177 178 9 segment
+178 179 6 the
+179 180 5 to
+180 181 4 connected
+181 182 14 . 3.59083974608
+182
+0 183 1 each
+183 184 2 host
+184 185 11 the
+185 186 12 ethernet
+186 187 13 19
+187 188 3 is
+188 189 6 the
+189 190 10 on
+190 191 7 same
+191 192 8 physical
+192 193 9 segment
+193 194 5 to
+194 195 4 connected
+195 196 14 . 8.634264863
+196

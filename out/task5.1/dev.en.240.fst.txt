@@ -1,0 +1,266 @@
+0 1 1 copy
+1 2 2 this
+2 3 3 is
+3 4 7 duplicating
+4 5 8 specified
+5 6 9 data
+6 7 10 or
+7 8 6 for
+8 9 4 a
+9 10 5 command
+10 11 11 image
+11 12 12 data
+12 13 13 . 0.949727194302
+13
+0 14 1 copy
+14 15 2 this
+15 16 3 is
+16 17 7 duplicating
+17 18 8 specified
+18 19 9 data
+19 20 6 for
+20 21 10 or
+21 22 4 a
+22 23 5 command
+23 24 11 image
+24 25 12 data
+25 26 13 . 7.99463231143
+26
+0 27 1 copy
+27 28 2 this
+28 29 3 is
+29 30 7 duplicating
+30 31 8 specified
+31 32 9 data
+32 33 10 or
+33 34 11 image
+34 35 6 for
+35 36 4 a
+36 37 5 command
+37 38 12 data
+38 39 13 . 3.83574922807
+39
+0 40 1 copy
+40 41 2 this
+41 42 3 is
+42 43 7 duplicating
+43 44 8 specified
+44 45 9 data
+45 46 10 or
+46 47 6 for
+47 48 11 image
+48 49 12 data
+49 50 4 a
+50 51 5 command
+51 52 13 . 4.99890003788
+52
+0 53 1 copy
+53 54 2 this
+54 55 3 is
+55 56 7 duplicating
+56 57 8 specified
+57 58 9 data
+58 59 10 or
+59 60 11 image
+60 61 12 data
+61 62 6 for
+62 63 4 a
+63 64 5 command
+64 65 13 . 1.65603823323
+65
+0 66 1 copy
+66 67 2 this
+67 68 3 is
+68 69 7 duplicating
+69 70 8 specified
+70 71 9 data
+71 72 6 for
+72 73 10 or
+73 74 11 image
+74 75 12 data
+75 76 4 a
+76 77 5 command
+77 78 13 . 6.04872216238
+78
+0 79 1 copy
+79 80 2 this
+80 81 3 is
+81 82 7 duplicating
+82 83 8 specified
+83 84 9 data
+84 85 6 for
+85 86 4 a
+86 87 5 command
+87 88 10 or
+88 89 11 image
+89 90 12 data
+90 91 13 . 1.09188957427
+91
+0 92 1 copy
+92 93 2 this
+93 94 3 is
+94 95 7 duplicating
+95 96 8 specified
+96 97 9 data
+97 98 11 image
+98 99 10 or
+99 100 12 data
+100 101 6 for
+101 102 4 a
+102 103 5 command
+103 104 13 . 7.99463231143
+104
+0 105 1 copy
+105 106 2 this
+106 107 3 is
+107 108 7 duplicating
+108 109 8 specified
+109 110 9 data
+110 111 11 image
+111 112 12 data
+112 113 10 or
+113 114 6 for
+114 115 4 a
+115 116 5 command
+116 117 13 . 6.89602002276
+117
+0 118 1 copy
+118 119 2 this
+119 120 3 is
+120 121 7 duplicating
+121 122 9 data
+122 123 8 specified
+123 124 10 or
+124 125 6 for
+125 126 4 a
+126 127 5 command
+127 128 11 image
+128 129 12 data
+129 130 13 . 7.99463231143
+130
+0 131 1 copy
+131 132 2 this
+132 133 3 is
+133 134 7 duplicating
+134 135 8 specified
+135 136 9 data
+136 137 6 for
+137 138 11 image
+138 139 12 data
+139 140 10 or
+140 141 4 a
+141 142 5 command
+142 143 13 . 7.99463231143
+143
+0 144 1 copy
+144 145 2 this
+145 146 3 is
+146 147 7 duplicating
+147 148 8 specified
+148 149 9 data
+149 150 10 or
+150 151 6 for
+151 152 4 a
+152 153 5 command
+153 154 12 data
+154 155 11 image
+155 156 13 . 7.99463231143
+156
+0 157 1 copy
+157 158 2 this
+158 159 3 is
+159 160 7 duplicating
+160 161 8 specified
+161 162 9 data
+162 163 6 for
+163 164 4 a
+164 165 5 command
+165 166 11 image
+166 167 12 data
+167 168 10 or
+168 169 13 . 3.77512460626
+169
+0 170 1 copy
+170 171 2 this
+171 172 3 is
+172 173 7 duplicating
+173 174 8 specified
+174 175 9 data
+175 176 10 or
+176 177 6 for
+177 178 5 command
+178 179 4 a
+179 180 11 image
+180 181 12 data
+181 182 13 . 6.89602002276
+182
+0 183 1 copy
+183 184 2 this
+184 185 3 is
+185 186 7 duplicating
+186 187 8 specified
+187 188 9 data
+188 189 10 or
+189 190 4 a
+190 191 5 command
+191 192 6 for
+192 193 11 image
+193 194 12 data
+194 195 13 . 3.73195243439
+195
+0 196 1 copy
+196 197 2 this
+197 198 3 is
+198 199 8 specified
+199 200 7 duplicating
+200 201 9 data
+201 202 10 or
+202 203 11 image
+203 204 12 data
+204 205 6 for
+205 206 4 a
+206 207 5 command
+207 208 13 . 7.99463231143
+208
+0 209 1 copy
+209 210 2 this
+210 211 3 is
+211 212 11 image
+212 213 7 duplicating
+213 214 8 specified
+214 215 9 data
+215 216 10 or
+216 217 6 for
+217 218 4 a
+218 219 5 command
+219 220 12 data
+220 221 13 . 5.42968295397
+221
+0 222 1 copy
+222 223 2 this
+223 224 3 is
+224 225 7 duplicating
+225 226 6 for
+226 227 8 specified
+227 228 9 data
+228 229 10 or
+229 230 4 a
+230 231 5 command
+231 232 11 image
+232 233 12 data
+233 234 13 . 7.99463231143
+234
+0 235 1 copy
+235 236 2 this
+236 237 3 is
+237 238 7 duplicating
+238 239 9 data
+239 240 8 specified
+240 241 10 or
+241 242 6 for
+242 243 11 image
+243 244 12 data
+244 245 4 a
+245 246 5 command
+246 247 13 . 7.99463231143
+247

@@ -1,0 +1,16 @@
+0 1 1 then
+1 2 2 the
+2 3 3 lower
+3 4 4 shield
+4 5 5 case
+5 6 6 80
+6 7 7 is
+7 8 8 fitted
+8 9 9 to
+9 10 10 the
+10 11 11 upper
+11 12 12 shield
+12 13 13 case
+13 14 14 79
+14 15 15 .
+15

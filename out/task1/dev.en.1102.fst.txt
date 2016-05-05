@@ -1,0 +1,15 @@
+0 1 1 this
+1 2 2 problem
+2 3 3 becomes
+3 4 4 grave
+4 5 5 as
+5 6 6 the
+6 7 7 width
+7 8 8 of
+8 9 9 the
+9 10 10 gate
+10 11 11 electrode
+11 12 12 size
+12 13 13 decreases
+13 14 14 .
+14

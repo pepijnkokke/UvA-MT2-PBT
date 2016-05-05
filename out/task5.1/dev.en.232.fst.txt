@@ -1,0 +1,80 @@
+0 1 1 the
+1 2 2 linear
+2 3 3 approximater
+3 4 4 403
+4 5 5 approximates
+5 6 16 a
+6 7 17 linear
+7 8 18 sequence
+8 9 15 with
+9 10 11 the
+10 11 12 slit
+11 12 13 light
+12 13 14 plane
+13 14 10 to
+14 15 9 converted
+15 16 6 the
+16 17 7 pixel
+17 18 8 sequence
+18 19 19 . 0.316413330492
+19
+0 20 1 the
+20 21 2 linear
+21 22 3 approximater
+22 23 4 403
+23 24 5 approximates
+24 25 16 a
+25 26 17 linear
+26 27 18 sequence
+27 28 15 with
+28 29 11 the
+29 30 12 slit
+30 31 14 plane
+31 32 13 light
+32 33 10 to
+33 34 9 converted
+34 35 6 the
+35 36 7 pixel
+36 37 8 sequence
+37 38 19 . 6.82219739062
+38
+0 39 1 the
+39 40 2 linear
+40 41 3 approximater
+41 42 4 403
+42 43 5 approximates
+43 44 16 a
+44 45 17 linear
+45 46 18 sequence
+46 47 15 with
+47 48 6 the
+48 49 11 the
+49 50 12 slit
+50 51 13 light
+51 52 14 plane
+52 53 10 to
+53 54 9 converted
+54 55 7 pixel
+55 56 8 sequence
+56 57 19 . 3.87775841145
+57
+0 58 1 the
+58 59 2 linear
+59 60 3 approximater
+60 61 4 403
+61 62 5 approximates
+62 63 16 a
+63 64 17 linear
+64 65 18 sequence
+65 66 15 with
+66 67 14 plane
+67 68 11 the
+68 69 12 slit
+69 70 13 light
+70 71 10 to
+71 72 9 converted
+72 73 6 the
+73 74 7 pixel
+74 75 8 sequence
+75 76 19 . 1.38847538706
+76

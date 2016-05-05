@@ -1,0 +1,342 @@
+0 1 5 above
+1 2 4 described
+2 3 2 the
+3 4 3 procedure
+4 5 1 with
+5 6 6 ,
+6 7 14 pulses
+7 8 13 of
+8 9 10 a
+9 10 11 desired
+10 11 12 number
+11 12 9 with
+12 13 7 position
+13 14 8 measurement
+14 15 15 is
+15 16 16 accomplished
+16 17 17 . 2.06002345582
+17
+0 18 5 above
+18 19 4 described
+19 20 2 the
+20 21 3 procedure
+21 22 1 with
+22 23 6 ,
+23 24 14 pulses
+24 25 13 of
+25 26 10 a
+26 27 11 desired
+27 28 12 number
+28 29 9 with
+29 30 8 measurement
+30 31 7 position
+31 32 15 is
+32 33 16 accomplished
+33 34 17 . 2.32238772029
+34
+0 35 5 above
+35 36 4 described
+36 37 2 the
+37 38 3 procedure
+38 39 1 with
+39 40 6 ,
+40 41 14 pulses
+41 42 10 a
+42 43 11 desired
+43 44 13 of
+44 45 12 number
+45 46 9 with
+46 47 7 position
+47 48 8 measurement
+48 49 15 is
+49 50 16 accomplished
+50 51 17 . 3.01553490085
+51
+0 52 5 above
+52 53 4 described
+53 54 2 the
+54 55 3 procedure
+55 56 1 with
+56 57 6 ,
+57 58 14 pulses
+58 59 13 of
+59 60 10 a
+60 61 11 desired
+61 62 12 number
+62 63 8 measurement
+63 64 9 with
+64 65 7 position
+65 66 15 is
+66 67 16 accomplished
+67 68 17 . 2.22707754048
+68
+0 69 5 above
+69 70 4 described
+70 71 2 the
+71 72 3 procedure
+72 73 1 with
+73 74 6 ,
+74 75 10 a
+75 76 14 pulses
+76 77 13 of
+77 78 11 desired
+78 79 12 number
+79 80 9 with
+80 81 7 position
+81 82 8 measurement
+82 83 15 is
+83 84 16 accomplished
+84 85 17 . 4.62497281328
+85
+0 86 5 above
+86 87 4 described
+87 88 2 the
+88 89 3 procedure
+89 90 1 with
+90 91 6 ,
+91 92 14 pulses
+92 93 10 a
+93 94 11 desired
+94 95 13 of
+95 96 12 number
+96 97 9 with
+97 98 8 measurement
+98 99 7 position
+99 100 15 is
+100 101 16 accomplished
+101 102 17 . 3.23867845216
+102
+0 103 5 above
+103 104 4 described
+104 105 2 the
+105 106 3 procedure
+106 107 1 with
+107 108 14 pulses
+108 109 10 a
+109 110 11 desired
+110 111 13 of
+111 112 12 number
+112 113 9 with
+113 114 6 ,
+114 115 7 position
+115 116 8 measurement
+116 117 15 is
+117 118 16 accomplished
+118 119 17 . 4.62497281328
+119
+0 120 5 above
+120 121 4 described
+121 122 2 the
+122 123 3 procedure
+123 124 1 with
+124 125 6 ,
+125 126 14 pulses
+126 127 10 a
+127 128 11 desired
+128 129 13 of
+129 130 12 number
+130 131 8 measurement
+131 132 9 with
+132 133 7 position
+133 134 15 is
+134 135 16 accomplished
+135 136 17 . 3.23867845216
+136
+0 137 5 above
+137 138 4 described
+138 139 2 the
+139 140 3 procedure
+140 141 1 with
+141 142 14 pulses
+142 143 6 ,
+143 144 10 a
+144 145 11 desired
+145 146 13 of
+146 147 12 number
+147 148 9 with
+148 149 7 position
+149 150 8 measurement
+150 151 15 is
+151 152 16 accomplished
+152 153 17 . 4.62497281328
+153
+0 154 5 above
+154 155 6 ,
+155 156 4 described
+156 157 2 the
+157 158 3 procedure
+158 159 1 with
+159 160 13 of
+160 161 14 pulses
+161 162 10 a
+162 163 11 desired
+163 164 12 number
+164 165 9 with
+165 166 8 measurement
+166 167 7 position
+167 168 15 is
+168 169 16 accomplished
+169 170 17 . 4.62497281328
+170
+0 171 5 above
+171 172 4 described
+172 173 2 the
+173 174 3 procedure
+174 175 1 with
+175 176 6 ,
+176 177 13 of
+177 178 14 pulses
+178 179 10 a
+179 180 11 desired
+180 181 12 number
+181 182 9 with
+182 183 7 position
+183 184 8 measurement
+184 185 15 is
+185 186 16 accomplished
+186 187 17 . 3.52636052462
+187
+0 188 5 above
+188 189 4 described
+189 190 2 the
+190 191 3 procedure
+191 192 1 with
+192 193 6 ,
+193 194 10 a
+194 195 11 desired
+195 196 14 pulses
+196 197 13 of
+197 198 12 number
+198 199 9 with
+199 200 7 position
+200 201 8 measurement
+201 202 15 is
+202 203 16 accomplished
+203 204 17 . 2.22707754048
+204
+0 205 5 above
+205 206 4 described
+206 207 2 the
+207 208 3 procedure
+208 209 1 with
+209 210 6 ,
+210 211 14 pulses
+211 212 13 of
+212 213 10 a
+213 214 11 desired
+214 215 12 number
+215 216 7 position
+216 217 8 measurement
+217 218 9 with
+218 219 15 is
+219 220 16 accomplished
+220 221 17 . 2.32238772029
+221
+0 222 5 above
+222 223 4 described
+223 224 2 the
+224 225 3 procedure
+225 226 1 with
+226 227 6 ,
+227 228 13 of
+228 229 14 pulses
+229 230 10 a
+230 231 11 desired
+231 232 12 number
+232 233 9 with
+233 234 8 measurement
+234 235 7 position
+235 236 15 is
+236 237 16 accomplished
+237 238 17 . 2.22707754048
+238
+0 239 6 ,
+239 240 5 above
+240 241 4 described
+241 242 2 the
+242 243 3 procedure
+243 244 1 with
+244 245 14 pulses
+245 246 10 a
+246 247 11 desired
+247 248 13 of
+248 249 12 number
+249 250 9 with
+250 251 8 measurement
+251 252 7 position
+252 253 15 is
+253 254 16 accomplished
+254 255 17 . 4.62497281328
+255
+0 256 5 above
+256 257 2 the
+257 258 3 procedure
+258 259 4 described
+259 260 1 with
+260 261 6 ,
+261 262 14 pulses
+262 263 13 of
+263 264 10 a
+264 265 11 desired
+265 266 12 number
+266 267 9 with
+267 268 8 measurement
+268 269 7 position
+269 270 15 is
+270 271 16 accomplished
+271 272 17 . 4.62497281328
+272
+0 273 5 above
+273 274 4 described
+274 275 2 the
+275 276 3 procedure
+276 277 1 with
+277 278 6 ,
+278 279 13 of
+279 280 14 pulses
+280 281 10 a
+281 282 11 desired
+282 283 12 number
+283 284 8 measurement
+284 285 9 with
+285 286 7 position
+286 287 15 is
+287 288 16 accomplished
+288 289 17 . 2.42774823595
+289
+0 290 5 above
+290 291 4 described
+291 292 2 the
+292 293 3 procedure
+293 294 1 with
+294 295 14 pulses
+295 296 13 of
+296 297 10 a
+297 298 11 desired
+298 299 12 number
+299 300 9 with
+300 301 8 measurement
+301 302 6 ,
+302 303 7 position
+303 304 15 is
+304 305 16 accomplished
+305 306 17 . 3.93182563272
+306
+0 307 5 above
+307 308 2 the
+308 309 3 procedure
+309 310 4 described
+310 311 1 with
+311 312 6 ,
+312 313 14 pulses
+313 314 13 of
+314 315 10 a
+315 316 11 desired
+316 317 12 number
+317 318 8 measurement
+318 319 9 with
+319 320 7 position
+320 321 15 is
+321 322 16 accomplished
+322 323 17 . 3.52636052462
+323

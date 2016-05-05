@@ -1,0 +1,342 @@
+0 1 1 the
+1 2 2 switching
+2 3 3 element
+3 4 4 drive
+4 5 5 signal
+5 6 6 generating
+6 7 7 circuit
+7 8 8 9
+8 9 9 will
+9 10 13 more
+10 11 16 follows
+11 12 15 as
+12 13 14 detail
+13 14 12 in
+14 15 10 be
+15 16 11 described
+16 17 17 . 1.10930757778
+17
+0 18 1 the
+18 19 2 switching
+19 20 3 element
+20 21 4 drive
+21 22 5 signal
+22 23 6 generating
+23 24 7 circuit
+24 25 8 9
+25 26 9 will
+26 27 13 more
+27 28 16 follows
+28 29 15 as
+29 30 14 detail
+30 31 12 in
+31 32 11 described
+32 33 10 be
+33 34 17 . 1.47990386024
+34
+0 35 1 the
+35 36 2 switching
+36 37 3 element
+37 38 4 drive
+38 39 5 signal
+39 40 6 generating
+40 41 7 circuit
+41 42 8 9
+42 43 9 will
+43 44 16 follows
+44 45 13 more
+45 46 15 as
+46 47 14 detail
+47 48 12 in
+48 49 10 be
+49 50 11 described
+50 51 17 . 7.76217060714
+51
+0 52 1 the
+52 53 2 switching
+53 54 3 element
+54 55 4 drive
+55 56 5 signal
+56 57 6 generating
+57 58 7 circuit
+58 59 8 9
+59 60 9 will
+60 61 16 follows
+61 62 13 more
+62 63 15 as
+63 64 14 detail
+64 65 12 in
+65 66 11 described
+66 67 10 be
+67 68 17 . 7.76217060714
+68
+0 69 1 the
+69 70 2 switching
+70 71 3 element
+71 72 4 drive
+72 73 5 signal
+73 74 6 generating
+74 75 7 circuit
+75 76 8 9
+76 77 9 will
+77 78 16 follows
+78 79 15 as
+79 80 13 more
+80 81 14 detail
+81 82 12 in
+82 83 10 be
+83 84 11 described
+84 85 17 . 1.58422649309
+85
+0 86 1 the
+86 87 2 switching
+87 88 3 element
+88 89 4 drive
+89 90 5 signal
+90 91 6 generating
+91 92 7 circuit
+92 93 8 9
+93 94 9 will
+94 95 13 more
+95 96 16 follows
+96 97 14 detail
+97 98 15 as
+98 99 12 in
+99 100 10 be
+100 101 11 described
+101 102 17 . 7.06902342658
+102
+0 103 1 the
+103 104 2 switching
+104 105 3 element
+105 106 4 drive
+106 107 5 signal
+107 108 6 generating
+108 109 7 circuit
+109 110 8 9
+110 111 16 follows
+111 112 9 will
+112 113 13 more
+113 114 15 as
+114 115 14 detail
+115 116 12 in
+116 117 11 described
+117 118 10 be
+118 119 17 . 7.76217060714
+119
+0 120 1 the
+120 121 2 switching
+121 122 3 element
+122 123 4 drive
+123 124 5 signal
+124 125 6 generating
+125 126 7 circuit
+126 127 8 9
+127 128 13 more
+128 129 16 follows
+129 130 15 as
+130 131 14 detail
+131 132 12 in
+132 133 9 will
+133 134 10 be
+134 135 11 described
+135 136 17 . 4.9895818849
+136
+0 137 1 the
+137 138 2 switching
+138 139 3 element
+139 140 4 drive
+140 141 5 signal
+141 142 6 generating
+142 143 7 circuit
+143 144 8 9
+144 145 9 will
+145 146 16 follows
+146 147 15 as
+147 148 13 more
+148 149 14 detail
+149 150 12 in
+150 151 11 described
+151 152 10 be
+152 153 17 . 1.86227325356
+153
+0 154 1 the
+154 155 2 switching
+155 156 3 element
+156 157 4 drive
+157 158 5 signal
+158 159 6 generating
+159 160 7 circuit
+160 161 8 9
+161 162 13 more
+162 163 16 follows
+163 164 15 as
+164 165 14 detail
+165 166 9 will
+166 167 12 in
+167 168 11 described
+168 169 10 be
+169 170 17 . 7.76217060714
+170
+0 171 1 the
+171 172 2 switching
+172 173 3 element
+173 174 4 drive
+174 175 5 signal
+175 176 6 generating
+176 177 7 circuit
+177 178 8 9
+178 179 9 will
+179 180 16 follows
+180 181 13 more
+181 182 14 detail
+182 183 15 as
+183 184 12 in
+184 185 10 be
+185 186 11 described
+186 187 17 . 7.76217060714
+187
+0 188 1 the
+188 189 2 switching
+189 190 3 element
+190 191 4 drive
+191 192 5 signal
+192 193 6 generating
+193 194 7 circuit
+194 195 8 9
+195 196 9 will
+196 197 13 more
+197 198 16 follows
+198 199 15 as
+199 200 14 detail
+200 201 10 be
+201 202 12 in
+202 203 11 described
+203 204 17 . 7.76217060714
+204
+0 205 1 the
+205 206 2 switching
+206 207 3 element
+207 208 4 drive
+208 209 5 signal
+209 210 6 generating
+210 211 7 circuit
+211 212 8 9
+212 213 13 more
+213 214 16 follows
+214 215 15 as
+215 216 14 detail
+216 217 12 in
+217 218 9 will
+218 219 11 described
+219 220 10 be
+220 221 17 . 4.32818340265
+221
+0 222 1 the
+222 223 2 switching
+223 224 3 element
+224 225 4 drive
+225 226 5 signal
+226 227 6 generating
+227 228 7 circuit
+228 229 8 9
+229 230 16 follows
+230 231 15 as
+231 232 9 will
+232 233 13 more
+233 234 14 detail
+234 235 12 in
+235 236 10 be
+236 237 11 described
+237 238 17 . 3.97798097322
+238
+0 239 2 switching
+239 240 1 the
+240 241 3 element
+241 242 4 drive
+242 243 5 signal
+243 244 6 generating
+244 245 7 circuit
+245 246 8 9
+246 247 9 will
+247 248 13 more
+248 249 16 follows
+249 250 15 as
+250 251 14 detail
+251 252 12 in
+252 253 10 be
+253 254 11 described
+254 255 17 . 7.76217060714
+255
+0 256 1 the
+256 257 2 switching
+257 258 3 element
+258 259 4 drive
+259 260 5 signal
+260 261 6 generating
+261 262 7 circuit
+262 263 8 9
+263 264 16 follows
+264 265 15 as
+265 266 9 will
+266 267 13 more
+267 268 14 detail
+268 269 12 in
+269 270 11 described
+270 271 10 be
+271 272 17 . 3.93352921065
+272
+0 273 1 the
+273 274 2 switching
+274 275 3 element
+275 276 4 drive
+276 277 5 signal
+277 278 6 generating
+278 279 7 circuit
+279 280 8 9
+280 281 9 will
+281 282 13 more
+282 283 14 detail
+283 284 16 follows
+284 285 15 as
+285 286 12 in
+286 287 10 be
+287 288 11 described
+288 289 17 . 4.46633374114
+289
+0 290 1 the
+290 291 2 switching
+291 292 3 element
+292 293 4 drive
+293 294 5 signal
+294 295 6 generating
+295 296 7 circuit
+296 297 8 9
+297 298 16 follows
+298 299 15 as
+299 300 13 more
+300 301 14 detail
+301 302 12 in
+302 303 9 will
+303 304 10 be
+304 305 11 described
+305 306 17 . 4.81773162797
+306
+0 307 1 the
+307 308 2 switching
+308 309 3 element
+309 310 4 drive
+310 311 5 signal
+311 312 6 generating
+312 313 7 circuit
+313 314 8 9
+314 315 16 follows
+315 316 9 will
+316 317 13 more
+317 318 14 detail
+318 319 15 as
+319 320 12 in
+320 321 11 described
+321 322 10 be
+322 323 17 . 7.76217060714
+323

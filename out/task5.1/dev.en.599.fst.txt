@@ -1,0 +1,165 @@
+0 1 1 the
+1 2 2 decoder
+2 3 3 circuit
+3 4 11 the
+4 5 12 input
+5 6 13 latch
+6 7 10 from
+7 8 8 outputting
+8 9 9 data
+9 10 7 after
+10 11 6 operate
+11 12 5 to
+12 13 4 begins
+13 14 14 . 0.353379196343
+14
+0 15 1 the
+15 16 2 decoder
+16 17 3 circuit
+17 18 11 the
+18 19 12 input
+19 20 13 latch
+20 21 10 from
+21 22 9 data
+22 23 8 outputting
+23 24 7 after
+24 25 6 operate
+25 26 5 to
+26 27 4 begins
+27 28 14 . 1.41525524519
+28
+0 29 1 the
+29 30 2 decoder
+30 31 3 circuit
+31 32 11 the
+32 33 12 input
+33 34 13 latch
+34 35 10 from
+35 36 8 outputting
+36 37 7 after
+37 38 9 data
+38 39 6 operate
+39 40 5 to
+40 41 4 begins
+41 42 14 . 7.69938940626
+42
+0 43 1 the
+43 44 2 decoder
+44 45 3 circuit
+45 46 11 the
+46 47 12 input
+47 48 13 latch
+48 49 10 from
+49 50 8 outputting
+50 51 9 data
+51 52 7 after
+52 53 5 to
+53 54 6 operate
+54 55 4 begins
+55 56 14 . 7.0062422257
+56
+0 57 1 the
+57 58 2 decoder
+58 59 3 circuit
+59 60 12 input
+60 61 11 the
+61 62 13 latch
+62 63 10 from
+63 64 8 outputting
+64 65 9 data
+65 66 7 after
+66 67 6 operate
+67 68 5 to
+68 69 4 begins
+69 70 14 . 7.69938940626
+70
+0 71 1 the
+71 72 2 decoder
+72 73 3 circuit
+73 74 11 the
+74 75 12 input
+75 76 13 latch
+76 77 10 from
+77 78 8 outputting
+78 79 9 data
+79 80 7 after
+80 81 6 operate
+81 82 4 begins
+82 83 5 to
+83 84 14 . 7.69938940626
+84
+0 85 2 decoder
+85 86 1 the
+86 87 3 circuit
+87 88 11 the
+88 89 12 input
+89 90 13 latch
+90 91 10 from
+91 92 8 outputting
+92 93 9 data
+93 94 7 after
+94 95 6 operate
+95 96 5 to
+96 97 4 begins
+97 98 14 . 7.0062422257
+98
+0 99 1 the
+99 100 2 decoder
+100 101 11 the
+101 102 12 input
+102 103 13 latch
+103 104 3 circuit
+104 105 10 from
+105 106 8 outputting
+106 107 9 data
+107 108 7 after
+108 109 6 operate
+109 110 5 to
+110 111 4 begins
+111 112 14 . 8.39253658681
+112
+0 113 1 the
+113 114 2 decoder
+114 115 3 circuit
+115 116 11 the
+116 117 12 input
+117 118 13 latch
+118 119 10 from
+119 120 9 data
+120 121 7 after
+121 122 8 outputting
+122 123 6 operate
+123 124 5 to
+124 125 4 begins
+125 126 14 . 4.1158704678
+126
+0 127 1 the
+127 128 2 decoder
+128 129 3 circuit
+129 130 11 the
+130 131 12 input
+131 132 13 latch
+132 133 9 data
+133 134 10 from
+134 135 8 outputting
+135 136 7 after
+136 137 6 operate
+137 138 5 to
+138 139 4 begins
+139 140 14 . 3.46528290166
+140
+0 141 1 the
+141 142 2 decoder
+142 143 11 the
+143 144 12 input
+144 145 13 latch
+145 146 10 from
+146 147 3 circuit
+147 148 8 outputting
+148 149 9 data
+149 150 7 after
+150 151 6 operate
+151 152 5 to
+152 153 4 begins
+153 154 14 . 5.55932324276
+154

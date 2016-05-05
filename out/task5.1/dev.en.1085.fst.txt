@@ -1,0 +1,480 @@
+0 1 1 furthermore
+1 2 2 ,
+2 3 6 user
+3 4 7 programs
+4 5 5 of
+5 6 3 execution
+6 7 4 control
+7 8 13 break
+8 9 14 instructions
+9 10 8 is
+10 11 12 software
+11 12 11 using
+12 13 10 by
+13 14 9 performed
+14 15 15 . 4.94556329735
+15
+0 16 1 furthermore
+16 17 2 ,
+17 18 6 user
+18 19 7 programs
+19 20 5 of
+20 21 3 execution
+21 22 4 control
+22 23 8 is
+23 24 13 break
+24 25 14 instructions
+25 26 12 software
+26 27 11 using
+27 28 10 by
+28 29 9 performed
+29 30 15 . 1.31988991914
+30
+0 31 1 furthermore
+31 32 2 ,
+32 33 6 user
+33 34 7 programs
+34 35 5 of
+35 36 3 execution
+36 37 4 control
+37 38 13 break
+38 39 14 instructions
+39 40 12 software
+40 41 11 using
+41 42 8 is
+42 43 10 by
+43 44 9 performed
+44 45 15 . 7.24814839035
+45
+0 46 1 furthermore
+46 47 2 ,
+47 48 6 user
+48 49 7 programs
+49 50 5 of
+50 51 3 execution
+51 52 4 control
+52 53 13 break
+53 54 14 instructions
+54 55 12 software
+55 56 11 using
+56 57 10 by
+57 58 8 is
+58 59 9 performed
+59 60 15 . 3.66462945189
+60
+0 61 1 furthermore
+61 62 2 ,
+62 63 6 user
+63 64 7 programs
+64 65 5 of
+65 66 3 execution
+66 67 4 control
+67 68 8 is
+68 69 12 software
+69 70 13 break
+70 71 14 instructions
+71 72 11 using
+72 73 10 by
+73 74 9 performed
+74 75 15 . 1.81442638679
+75
+0 76 1 furthermore
+76 77 2 ,
+77 78 6 user
+78 79 7 programs
+79 80 5 of
+80 81 3 execution
+81 82 4 control
+82 83 12 software
+83 84 13 break
+84 85 14 instructions
+85 86 11 using
+86 87 8 is
+87 88 10 by
+88 89 9 performed
+89 90 15 . 6.33185765848
+90
+0 91 1 furthermore
+91 92 2 ,
+92 93 6 user
+93 94 5 of
+94 95 7 programs
+95 96 3 execution
+96 97 4 control
+97 98 8 is
+98 99 12 software
+99 100 13 break
+100 101 14 instructions
+101 102 11 using
+102 103 10 by
+103 104 9 performed
+104 105 15 . 7.94129557091
+105
+0 106 1 furthermore
+106 107 2 ,
+107 108 6 user
+108 109 7 programs
+109 110 5 of
+110 111 3 execution
+111 112 4 control
+112 113 12 software
+113 114 13 break
+114 115 14 instructions
+115 116 11 using
+116 117 10 by
+117 118 8 is
+118 119 9 performed
+119 120 15 . 3.66462945189
+120
+0 121 1 furthermore
+121 122 2 ,
+122 123 6 user
+123 124 5 of
+124 125 3 execution
+125 126 4 control
+126 127 7 programs
+127 128 13 break
+128 129 14 instructions
+129 130 8 is
+130 131 12 software
+131 132 11 using
+132 133 10 by
+133 134 9 performed
+134 135 15 . 4.76324174056
+135
+0 136 1 furthermore
+136 137 2 ,
+137 138 6 user
+138 139 5 of
+139 140 3 execution
+140 141 4 control
+141 142 7 programs
+142 143 8 is
+143 144 13 break
+144 145 14 instructions
+145 146 12 software
+146 147 11 using
+147 148 10 by
+148 149 9 performed
+149 150 15 . 1.90104085963
+150
+0 151 1 furthermore
+151 152 2 ,
+152 153 6 user
+153 154 5 of
+154 155 3 execution
+155 156 4 control
+156 157 7 programs
+157 158 13 break
+158 159 14 instructions
+159 160 12 software
+160 161 11 using
+161 162 8 is
+162 163 10 by
+163 164 9 performed
+164 165 15 . 7.24814839035
+165
+0 166 1 furthermore
+166 167 2 ,
+167 168 6 user
+168 169 5 of
+169 170 3 execution
+170 171 4 control
+171 172 7 programs
+172 173 13 break
+173 174 14 instructions
+174 175 12 software
+175 176 11 using
+176 177 10 by
+177 178 8 is
+178 179 9 performed
+179 180 15 . 3.69280032886
+180
+0 181 1 furthermore
+181 182 2 ,
+182 183 6 user
+183 184 5 of
+184 185 3 execution
+185 186 4 control
+186 187 7 programs
+187 188 8 is
+188 189 12 software
+189 190 13 break
+190 191 14 instructions
+191 192 11 using
+192 193 10 by
+193 194 9 performed
+194 195 15 . 2.42786682474
+195
+0 196 1 furthermore
+196 197 2 ,
+197 198 6 user
+198 199 5 of
+199 200 3 execution
+200 201 4 control
+201 202 7 programs
+202 203 12 software
+203 204 13 break
+204 205 14 instructions
+205 206 11 using
+206 207 8 is
+207 208 10 by
+208 209 9 performed
+209 210 15 . 7.94129557091
+210
+0 211 1 furthermore
+211 212 2 ,
+212 213 6 user
+213 214 5 of
+214 215 3 execution
+215 216 4 control
+216 217 13 break
+217 218 14 instructions
+218 219 7 programs
+219 220 8 is
+220 221 12 software
+221 222 11 using
+222 223 10 by
+223 224 9 performed
+224 225 15 . 2.91085764951
+225
+0 226 1 furthermore
+226 227 2 ,
+227 228 6 user
+228 229 7 programs
+229 230 5 of
+230 231 4 control
+231 232 3 execution
+232 233 13 break
+233 234 14 instructions
+234 235 8 is
+235 236 12 software
+236 237 11 using
+237 238 10 by
+238 239 9 performed
+239 240 15 . 6.33185765848
+240
+0 241 1 furthermore
+241 242 2 ,
+242 243 6 user
+243 244 5 of
+244 245 3 execution
+245 246 4 control
+246 247 13 break
+247 248 14 instructions
+248 249 7 programs
+249 250 12 software
+250 251 11 using
+251 252 8 is
+252 253 10 by
+253 254 9 performed
+254 255 15 . 6.84268328224
+255
+0 256 1 furthermore
+256 257 2 ,
+257 258 6 user
+258 259 7 programs
+259 260 5 of
+260 261 4 control
+261 262 3 execution
+262 263 8 is
+263 264 13 break
+264 265 14 instructions
+265 266 12 software
+266 267 11 using
+267 268 10 by
+268 269 9 performed
+269 270 15 . 2.68380019888
+270
+0 271 1 furthermore
+271 272 2 ,
+272 273 6 user
+273 274 5 of
+274 275 3 execution
+275 276 4 control
+276 277 7 programs
+277 278 12 software
+278 279 13 break
+279 280 14 instructions
+280 281 11 using
+281 282 10 by
+282 283 8 is
+283 284 9 performed
+284 285 15 . 3.75164082888
+285
+0 286 1 furthermore
+286 287 2 ,
+287 288 6 user
+288 289 5 of
+289 290 3 execution
+290 291 4 control
+291 292 13 break
+292 293 14 instructions
+293 294 7 programs
+294 295 12 software
+295 296 11 using
+296 297 10 by
+297 298 8 is
+298 299 9 performed
+299 300 15 . 4.33037765826
+300
+0 301 1 furthermore
+301 302 2 ,
+302 303 6 user
+303 304 7 programs
+304 305 5 of
+305 306 4 control
+306 307 3 execution
+307 308 13 break
+308 309 14 instructions
+309 310 12 software
+310 311 11 using
+311 312 10 by
+312 313 8 is
+313 314 9 performed
+314 315 15 . 4.60909106073
+315
+0 316 1 furthermore
+316 317 2 ,
+317 318 6 user
+318 319 7 programs
+319 320 5 of
+320 321 4 control
+321 322 3 execution
+322 323 8 is
+323 324 12 software
+324 325 13 break
+325 326 14 instructions
+326 327 11 using
+327 328 10 by
+328 329 9 performed
+329 330 15 . 3.37694737944
+330
+0 331 1 furthermore
+331 332 2 ,
+332 333 6 user
+333 334 7 programs
+334 335 5 of
+335 336 4 control
+336 337 3 execution
+337 338 12 software
+338 339 13 break
+339 340 14 instructions
+340 341 11 using
+341 342 8 is
+342 343 10 by
+343 344 9 performed
+344 345 15 . 7.94129557091
+345
+0 346 1 furthermore
+346 347 2 ,
+347 348 6 user
+348 349 7 programs
+349 350 3 execution
+350 351 5 of
+351 352 4 control
+352 353 8 is
+353 354 13 break
+354 355 14 instructions
+355 356 12 software
+356 357 11 using
+357 358 10 by
+358 359 9 performed
+359 360 15 . 7.94129557091
+360
+0 361 1 furthermore
+361 362 2 ,
+362 363 6 user
+363 364 5 of
+364 365 4 control
+365 366 7 programs
+366 367 3 execution
+367 368 8 is
+368 369 13 break
+369 370 14 instructions
+370 371 12 software
+371 372 11 using
+372 373 10 by
+373 374 9 performed
+374 375 15 . 7.94129557091
+375
+0 376 1 furthermore
+376 377 2 ,
+377 378 6 user
+378 379 7 programs
+379 380 5 of
+380 381 4 control
+381 382 3 execution
+382 383 12 software
+383 384 13 break
+384 385 14 instructions
+385 386 11 using
+386 387 10 by
+387 388 8 is
+388 389 9 performed
+389 390 15 . 4.6454587049
+390
+0 391 1 furthermore
+391 392 2 ,
+392 393 6 user
+393 394 5 of
+394 395 3 execution
+395 396 4 control
+396 397 13 break
+397 398 14 instructions
+398 399 12 software
+399 400 11 using
+400 401 7 programs
+401 402 8 is
+402 403 10 by
+403 404 9 performed
+404 405 15 . 5.16870684867
+405
+0 406 1 furthermore
+406 407 2 ,
+407 408 6 user
+408 409 5 of
+409 410 4 control
+410 411 3 execution
+411 412 7 programs
+412 413 13 break
+413 414 14 instructions
+414 415 8 is
+415 416 12 software
+416 417 11 using
+417 418 10 by
+418 419 9 performed
+419 420 15 . 6.33185765848
+420
+0 421 1 furthermore
+421 422 2 ,
+422 423 6 user
+423 424 5 of
+424 425 4 control
+425 426 3 execution
+426 427 7 programs
+427 428 8 is
+428 429 13 break
+429 430 14 instructions
+430 431 12 software
+431 432 11 using
+432 433 10 by
+433 434 9 performed
+434 435 15 . 4.44478800944
+435
+0 436 1 furthermore
+436 437 2 ,
+437 438 6 user
+438 439 7 programs
+439 440 5 of
+440 441 3 execution
+441 442 4 control
+442 443 13 break
+443 444 14 instructions
+444 445 12 software
+445 446 11 using
+446 447 8 is
+447 448 9 performed
+448 449 10 by
+449 450 15 . 7.94129557091
+450

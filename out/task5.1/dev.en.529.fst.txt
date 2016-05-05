@@ -1,0 +1,133 @@
+0 1 1 the
+1 2 5 the
+2 3 6 sound
+3 4 7 scape
+4 5 8 designing
+5 6 4 in
+6 7 2 constituent
+7 8 3 sound
+8 9 9 is
+9 10 10 roughly
+10 11 13 the
+11 12 14 fundamental
+12 13 15 sound
+13 14 16 and
+14 15 17 ornaments
+15 16 12 into
+16 17 11 classified
+17 18 18 . 2.65324196461
+18
+0 19 1 the
+19 20 5 the
+20 21 6 sound
+21 22 7 scape
+22 23 8 designing
+23 24 9 is
+24 25 4 in
+25 26 2 constituent
+26 27 3 sound
+27 28 10 roughly
+28 29 13 the
+29 30 14 fundamental
+30 31 15 sound
+31 32 16 and
+32 33 17 ornaments
+33 34 12 into
+34 35 11 classified
+35 36 18 . 3.62082599087
+36
+0 37 1 the
+37 38 5 the
+38 39 6 sound
+39 40 7 scape
+40 41 8 designing
+41 42 4 in
+42 43 2 constituent
+43 44 3 sound
+44 45 9 is
+45 46 10 roughly
+46 47 13 the
+47 48 14 fundamental
+48 49 15 sound
+49 50 16 and
+50 51 12 into
+51 52 11 classified
+52 53 17 ornaments
+53 54 18 . 6.56526497003
+54
+0 55 1 the
+55 56 5 the
+56 57 6 sound
+57 58 7 scape
+58 59 8 designing
+59 60 9 is
+60 61 10 roughly
+61 62 4 in
+62 63 2 constituent
+63 64 3 sound
+64 65 13 the
+65 66 14 fundamental
+66 67 15 sound
+67 68 16 and
+68 69 17 ornaments
+69 70 12 into
+70 71 11 classified
+71 72 18 . 1.19462694191
+72
+0 73 1 the
+73 74 2 constituent
+74 75 5 the
+75 76 6 sound
+76 77 7 scape
+77 78 8 designing
+78 79 9 is
+79 80 4 in
+80 81 3 sound
+81 82 10 roughly
+82 83 13 the
+83 84 14 fundamental
+84 85 15 sound
+85 86 16 and
+86 87 17 ornaments
+87 88 12 into
+88 89 11 classified
+89 90 18 . 4.16736969724
+90
+0 91 1 the
+91 92 2 constituent
+92 93 5 the
+93 94 6 sound
+94 95 7 scape
+95 96 8 designing
+96 97 9 is
+97 98 10 roughly
+98 99 4 in
+99 100 3 sound
+100 101 13 the
+101 102 14 fundamental
+102 103 15 sound
+103 104 16 and
+104 105 17 ornaments
+105 106 12 into
+106 107 11 classified
+107 108 18 . 0.556451784592
+108
+0 109 1 the
+109 110 2 constituent
+110 111 5 the
+111 112 6 sound
+112 113 7 scape
+113 114 8 designing
+114 115 4 in
+115 116 3 sound
+116 117 9 is
+117 118 10 roughly
+118 119 13 the
+119 120 14 fundamental
+120 121 15 sound
+121 122 16 and
+122 123 17 ornaments
+123 124 12 into
+124 125 11 classified
+125 126 18 . 4.61935482098
+126

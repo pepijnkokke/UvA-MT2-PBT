@@ -1,0 +1,104 @@
+0 1 1 the
+1 2 2 time
+2 3 7 the
+3 4 8 group
+4 5 9 3
+5 6 6 where
+6 7 4 a
+7 8 5 position
+8 9 3 indicates
+9 10 10 is
+10 11 11 positioned
+11 12 12 . 0.775519762716
+12
+0 13 1 the
+13 14 2 time
+14 15 7 the
+15 16 8 group
+16 17 9 3
+17 18 6 where
+18 19 3 indicates
+19 20 4 a
+20 21 5 position
+21 22 10 is
+22 23 11 positioned
+23 24 12 . 8.75998249498
+24
+0 25 1 the
+25 26 2 time
+26 27 7 the
+27 28 8 group
+28 29 9 3
+29 30 3 indicates
+30 31 6 where
+31 32 4 a
+32 33 5 position
+33 34 10 is
+34 35 11 positioned
+35 36 12 . 8.75998249498
+36
+0 37 2 time
+37 38 1 the
+38 39 7 the
+39 40 8 group
+40 41 9 3
+41 42 6 where
+42 43 4 a
+43 44 5 position
+44 45 3 indicates
+45 46 10 is
+46 47 11 positioned
+47 48 12 . 5.62448827905
+48
+0 49 1 the
+49 50 2 time
+50 51 7 the
+51 52 8 group
+52 53 9 3
+53 54 6 where
+54 55 5 position
+55 56 4 a
+56 57 3 indicates
+57 58 10 is
+58 59 11 positioned
+59 60 12 . 8.06683531442
+60
+0 61 1 the
+61 62 2 time
+62 63 7 the
+63 64 8 group
+64 65 9 3
+65 66 6 where
+66 67 4 a
+67 68 5 position
+68 69 3 indicates
+69 70 11 positioned
+70 71 10 is
+71 72 12 . 6.81407234593
+72
+0 73 1 the
+73 74 2 time
+74 75 7 the
+75 76 8 group
+76 77 6 where
+77 78 4 a
+78 79 5 position
+79 80 3 indicates
+80 81 9 3
+81 82 10 is
+82 83 11 positioned
+83 84 12 . 1.37972670655
+84
+0 85 1 the
+85 86 2 time
+86 87 3 indicates
+87 88 7 the
+88 89 8 group
+89 90 9 3
+90 91 6 where
+91 92 4 a
+92 93 5 position
+93 94 10 is
+94 95 11 positioned
+95 96 12 . 1.2638851498
+96

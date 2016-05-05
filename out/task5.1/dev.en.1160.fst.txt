@@ -1,0 +1,150 @@
+0 1 5 the
+1 2 6 first
+2 3 7 image
+3 4 8 division
+4 5 9 unit
+5 6 10 500a
+6 7 4 of
+7 8 1 a
+8 9 2 processing
+9 10 3 process
+10 11 11 is
+11 12 13 below
+12 13 12 described
+13 14 14 . 0.118657543801
+14
+0 15 6 first
+15 16 5 the
+16 17 7 image
+17 18 8 division
+18 19 9 unit
+19 20 10 500a
+20 21 4 of
+21 22 1 a
+22 23 2 processing
+23 24 3 process
+24 25 11 is
+25 26 13 below
+26 27 12 described
+27 28 14 . 2.77492244559
+28
+0 29 5 the
+29 30 6 first
+30 31 7 image
+31 32 8 division
+32 33 9 unit
+33 34 10 500a
+34 35 4 of
+35 36 1 a
+36 37 2 processing
+37 38 3 process
+38 39 13 below
+39 40 11 is
+40 41 12 described
+41 42 14 . 4.25933466266
+42
+0 43 5 the
+43 44 6 first
+44 45 7 image
+45 46 8 division
+46 47 9 unit
+47 48 10 500a
+48 49 1 a
+49 50 4 of
+50 51 2 processing
+51 52 3 process
+52 53 11 is
+53 54 13 below
+54 55 12 described
+55 56 14 . 8.14089846061
+56
+0 57 5 the
+57 58 6 first
+58 59 7 image
+59 60 8 division
+60 61 9 unit
+61 62 10 500a
+62 63 4 of
+63 64 2 processing
+64 65 1 a
+65 66 3 process
+66 67 11 is
+67 68 13 below
+68 69 12 described
+69 70 14 . 8.14089846061
+70
+0 71 5 the
+71 72 6 first
+72 73 7 image
+73 74 8 division
+74 75 9 unit
+75 76 10 500a
+76 77 4 of
+77 78 1 a
+78 79 2 processing
+79 80 3 process
+80 81 11 is
+81 82 12 described
+82 83 13 below
+83 84 14 . 7.04228617194
+84
+0 85 6 first
+85 86 5 the
+86 87 7 image
+87 88 8 division
+88 89 9 unit
+89 90 10 500a
+90 91 4 of
+91 92 1 a
+92 93 2 processing
+93 94 3 process
+94 95 13 below
+95 96 11 is
+96 97 12 described
+97 98 14 . 6.63682106383
+98
+0 99 6 first
+99 100 7 image
+100 101 5 the
+101 102 8 division
+102 103 9 unit
+103 104 10 500a
+104 105 4 of
+105 106 1 a
+106 107 2 processing
+107 108 3 process
+108 109 11 is
+109 110 13 below
+110 111 12 described
+111 112 14 . 5.50184113099
+112
+0 113 5 the
+113 114 6 first
+114 115 7 image
+115 116 8 division
+116 117 9 unit
+117 118 10 500a
+118 119 4 of
+119 120 1 a
+120 121 2 processing
+121 122 3 process
+122 123 13 below
+123 124 12 described
+124 125 11 is
+125 126 14 . 5.12047357446
+126
+0 127 5 the
+127 128 6 first
+128 129 7 image
+129 130 8 division
+130 131 9 unit
+131 132 10 500a
+132 133 4 of
+133 134 3 process
+134 135 1 a
+135 136 2 processing
+136 137 11 is
+137 138 13 below
+138 139 12 described
+139 140 14 . 3.79062052425
+140

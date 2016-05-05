@@ -1,0 +1,16 @@
+0 1 1 demultiplexing
+1 2 2 of
+2 3 3 data
+3 4 4 from
+4 5 5 the
+5 6 6 transmission
+6 7 7 line
+7 8 8 to
+8 9 9 the
+9 10 10 terminal
+10 11 11 will
+11 12 12 be
+12 13 13 explained
+13 14 14 below
+14 15 15 .
+15

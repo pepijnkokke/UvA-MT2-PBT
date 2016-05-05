@@ -1,0 +1,66 @@
+0 1 1 the
+1 2 2 above
+2 3 3 operation
+3 4 18 a
+4 5 19 high
+5 6 20 potential
+6 7 17 to
+7 8 14 a
+8 9 15 low
+9 10 16 potential
+10 11 13 from
+11 12 9 the
+12 13 10 output
+13 14 11 logical
+14 15 12 level
+15 16 8 of
+16 17 6 the
+17 18 7 transition
+18 19 5 in
+19 20 4 results
+20 21 21 . 0.0412179557213
+21
+0 22 2 above
+22 23 1 the
+23 24 3 operation
+24 25 18 a
+25 26 19 high
+26 27 20 potential
+27 28 17 to
+28 29 14 a
+29 30 15 low
+30 31 16 potential
+31 32 13 from
+32 33 9 the
+33 34 10 output
+34 35 11 logical
+35 36 12 level
+36 37 8 of
+37 38 6 the
+38 39 7 transition
+39 40 5 in
+40 41 4 results
+41 42 21 . 4.43319492125
+42
+0 43 1 the
+43 44 2 above
+44 45 3 operation
+45 46 18 a
+46 47 19 high
+47 48 20 potential
+48 49 17 to
+49 50 14 a
+50 51 15 low
+51 52 16 potential
+52 53 13 from
+53 54 9 the
+54 55 10 output
+55 56 11 logical
+56 57 12 level
+57 58 8 of
+58 59 6 the
+59 60 7 transition
+60 61 4 results
+61 62 5 in
+62 63 21 . 3.55772618389
+63

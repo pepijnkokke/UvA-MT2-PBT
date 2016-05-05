@@ -1,0 +1,100 @@
+0 1 5 the
+1 2 6 amplifier
+2 3 7 41
+3 4 4 of
+4 5 1 the
+5 6 2 output
+6 7 3 terminal
+7 8 8 is
+8 9 16 a
+9 10 17 comparator
+10 11 18 46
+11 12 15 of
+12 13 11 the
+13 14 12 inverted
+14 15 13 input
+15 16 14 terminal
+16 17 10 to
+17 18 9 connected
+18 19 19 . 0.0083449719317
+19
+0 20 5 the
+20 21 6 amplifier
+21 22 7 41
+22 23 1 the
+23 24 4 of
+24 25 2 output
+25 26 3 terminal
+26 27 8 is
+27 28 16 a
+28 29 17 comparator
+29 30 18 46
+30 31 15 of
+31 32 11 the
+32 33 12 inverted
+33 34 13 input
+34 35 14 terminal
+35 36 10 to
+36 37 9 connected
+37 38 19 . 7.49831587077
+38
+0 39 5 the
+39 40 6 amplifier
+40 41 7 41
+41 42 4 of
+42 43 1 the
+43 44 2 output
+44 45 3 terminal
+45 46 8 is
+46 47 16 a
+47 48 17 comparator
+48 49 18 46
+49 50 11 the
+50 51 15 of
+51 52 12 inverted
+52 53 13 input
+53 54 14 terminal
+54 55 10 to
+55 56 9 connected
+56 57 19 . 6.8051686902
+57
+0 58 5 the
+58 59 6 amplifier
+59 60 7 41
+60 61 4 of
+61 62 2 output
+62 63 1 the
+63 64 3 terminal
+64 65 8 is
+65 66 16 a
+66 67 17 comparator
+67 68 18 46
+68 69 15 of
+69 70 11 the
+70 71 12 inverted
+71 72 13 input
+72 73 14 terminal
+73 74 10 to
+74 75 9 connected
+75 76 19 . 5.79356777853
+76
+0 77 5 the
+77 78 6 amplifier
+78 79 7 41
+79 80 4 of
+80 81 1 the
+81 82 2 output
+82 83 3 terminal
+83 84 8 is
+84 85 16 a
+85 86 17 comparator
+86 87 18 46
+87 88 15 of
+88 89 11 the
+89 90 13 input
+90 91 14 terminal
+91 92 12 inverted
+92 93 10 to
+93 94 9 connected
+94 95 19 . 5.62651369387
+95

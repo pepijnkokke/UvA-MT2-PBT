@@ -1,0 +1,80 @@
+0 1 1 receiving
+1 2 2 the
+2 3 3 command
+3 4 4 ,
+4 5 5 the
+5 6 6 laser
+6 7 7 oscillator
+7 8 8 6
+8 9 9 again
+9 10 11 the
+10 11 12 laser
+11 12 13 beam
+12 13 14 irradiation
+13 14 10 starts
+14 15 15 . 0.421334640477
+15
+0 16 1 receiving
+16 17 2 the
+17 18 3 command
+18 19 4 ,
+19 20 5 the
+20 21 6 laser
+21 22 9 again
+22 23 7 oscillator
+23 24 8 6
+24 25 11 the
+25 26 12 laser
+26 27 13 beam
+27 28 14 irradiation
+28 29 10 starts
+29 30 15 . 5.56834450376
+30
+0 31 1 receiving
+31 32 2 the
+32 33 3 command
+33 34 4 ,
+34 35 5 the
+35 36 9 again
+36 37 6 laser
+37 38 7 oscillator
+38 39 8 6
+39 40 11 the
+40 41 12 laser
+41 42 13 beam
+42 43 14 irradiation
+43 44 10 starts
+44 45 15 . 2.29119977077
+45
+0 46 1 receiving
+46 47 2 the
+47 48 3 command
+48 49 4 ,
+49 50 9 again
+50 51 5 the
+51 52 6 laser
+52 53 7 oscillator
+53 54 8 6
+54 55 11 the
+55 56 12 laser
+56 57 13 beam
+57 58 14 irradiation
+58 59 10 starts
+59 60 15 . 1.44525052825
+60
+0 61 2 the
+61 62 1 receiving
+62 63 3 command
+63 64 4 ,
+64 65 5 the
+65 66 6 laser
+66 67 7 oscillator
+67 68 8 6
+68 69 9 again
+69 70 11 the
+70 71 12 laser
+71 72 13 beam
+72 73 14 irradiation
+73 74 10 starts
+74 75 15 . 5.75066606055
+75

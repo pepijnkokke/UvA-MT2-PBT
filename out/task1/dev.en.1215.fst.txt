@@ -1,0 +1,15 @@
+0 1 1 thus
+1 2 2 ,
+2 3 3 the
+3 4 4 os
+4 5 5 /
+5 6 6 driver
+6 7 7 flashes
+7 8 8 file
+8 9 9 allocation
+9 10 10 information
+10 11 11 of
+11 12 12 the
+12 13 13 fd
+13 14 14 .
+14

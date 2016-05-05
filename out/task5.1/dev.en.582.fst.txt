@@ -1,0 +1,112 @@
+0 1 1 the
+1 2 2 gate-to-emitter
+2 3 3 voltage
+3 4 4 vge
+4 5 8 time
+5 6 9 t5
+6 7 7 at
+7 8 5 reaches
+8 9 6 0
+9 10 10 and
+10 11 11 the
+11 12 12 operation
+12 13 13 is
+13 14 14 completed
+14 15 15 . 0.700566398482
+15
+0 16 1 the
+16 17 2 gate-to-emitter
+17 18 3 voltage
+18 19 8 time
+19 20 9 t5
+20 21 7 at
+21 22 4 vge
+22 23 5 reaches
+23 24 6 0
+24 25 10 and
+25 26 11 the
+26 27 12 operation
+27 28 13 is
+28 29 14 completed
+29 30 15 . 1.61685713036
+30
+0 31 1 the
+31 32 2 gate-to-emitter
+32 33 3 voltage
+33 34 4 vge
+34 35 8 time
+35 36 9 t5
+36 37 10 and
+37 38 7 at
+38 39 5 reaches
+39 40 6 0
+40 41 11 the
+41 42 12 operation
+42 43 13 is
+43 44 14 completed
+44 45 15 . 2.82794740245
+45
+0 46 1 the
+46 47 2 gate-to-emitter
+47 48 3 voltage
+48 49 4 vge
+49 50 8 time
+50 51 9 t5
+51 52 7 at
+52 53 10 and
+53 54 5 reaches
+54 55 6 0
+55 56 11 the
+56 57 12 operation
+57 58 13 is
+58 59 14 completed
+59 60 15 . 5.75468680452
+60
+0 61 1 the
+61 62 2 gate-to-emitter
+62 63 3 voltage
+63 64 4 vge
+64 65 8 time
+65 66 9 t5
+66 67 10 and
+67 68 11 the
+68 69 7 at
+69 70 5 reaches
+70 71 6 0
+71 72 12 operation
+72 73 13 is
+73 74 14 completed
+74 75 15 . 6.16015191263
+75
+0 76 1 the
+76 77 2 gate-to-emitter
+77 78 3 voltage
+78 79 4 vge
+79 80 8 time
+80 81 9 t5
+81 82 10 and
+82 83 11 the
+83 84 12 operation
+84 85 7 at
+85 86 5 reaches
+86 87 6 0
+87 88 13 is
+88 89 14 completed
+89 90 15 . 2.13480022189
+90
+0 91 1 the
+91 92 2 gate-to-emitter
+92 93 3 voltage
+93 94 4 vge
+94 95 8 time
+95 96 9 t5
+96 97 7 at
+97 98 6 0
+98 99 5 reaches
+99 100 10 and
+100 101 11 the
+101 102 12 operation
+102 103 13 is
+103 104 14 completed
+104 105 15 . 2.09970890208
+105

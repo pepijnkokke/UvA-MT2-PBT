@@ -1,0 +1,209 @@
+0 1 7 the
+1 2 8 bus
+2 3 9 81
+3 4 6 from
+4 5 3 extracts
+5 6 4 desired
+6 7 5 data
+7 8 1 each
+8 9 2 portion
+9 10 10 . 0.349440389426
+10
+0 11 7 the
+11 12 8 bus
+12 13 9 81
+13 14 6 from
+14 15 4 desired
+15 16 5 data
+16 17 3 extracts
+17 18 1 each
+18 19 2 portion
+19 20 10 . 1.3373346388
+20
+0 21 7 the
+21 22 8 bus
+22 23 9 81
+23 24 6 from
+24 25 4 desired
+25 26 5 data
+26 27 1 each
+27 28 2 portion
+28 29 3 extracts
+29 30 10 . 5.89553652942
+30
+0 31 7 the
+31 32 8 bus
+32 33 9 81
+33 34 3 extracts
+34 35 6 from
+35 36 4 desired
+36 37 5 data
+37 38 1 each
+38 39 2 portion
+39 40 10 . 6.42616478048
+40
+0 41 7 the
+41 42 8 bus
+42 43 9 81
+43 44 6 from
+44 45 3 extracts
+45 46 4 desired
+46 47 5 data
+47 48 2 portion
+48 49 1 each
+49 50 10 . 6.93699040425
+50
+0 51 7 the
+51 52 8 bus
+52 53 9 81
+53 54 6 from
+54 55 1 each
+55 56 2 portion
+56 57 3 extracts
+57 58 4 desired
+58 59 5 data
+59 60 10 . 4.65121242957
+60
+0 61 7 the
+61 62 8 bus
+62 63 9 81
+63 64 6 from
+64 65 4 desired
+65 66 5 data
+66 67 3 extracts
+67 68 2 portion
+68 69 1 each
+69 70 10 . 8.72874987348
+70
+0 71 7 the
+71 72 8 bus
+72 73 9 81
+73 74 6 from
+74 75 5 data
+75 76 4 desired
+76 77 3 extracts
+77 78 1 each
+78 79 2 portion
+79 80 10 . 8.72874987348
+80
+0 81 1 each
+81 82 7 the
+82 83 8 bus
+83 84 9 81
+84 85 6 from
+85 86 3 extracts
+86 87 4 desired
+87 88 5 data
+88 89 2 portion
+89 90 10 . 5.83837811558
+90
+0 91 7 the
+91 92 8 bus
+92 93 9 81
+93 94 6 from
+94 95 1 each
+95 96 2 portion
+96 97 4 desired
+97 98 5 data
+98 99 3 extracts
+99 100 10 . 5.29476266899
+100
+0 101 8 bus
+101 102 9 81
+102 103 7 the
+103 104 6 from
+104 105 3 extracts
+105 106 4 desired
+106 107 5 data
+107 108 1 each
+108 109 2 portion
+109 110 10 . 5.59325565755
+110
+0 111 1 each
+111 112 7 the
+112 113 8 bus
+113 114 9 81
+114 115 6 from
+115 116 4 desired
+116 117 5 data
+117 118 3 extracts
+118 119 2 portion
+119 120 10 . 7.11931196104
+120
+0 121 7 the
+121 122 8 bus
+122 123 9 81
+123 124 1 each
+124 125 2 portion
+125 126 6 from
+126 127 4 desired
+127 128 5 data
+128 129 3 extracts
+129 130 10 . 8.72874987348
+130
+0 131 8 bus
+131 132 9 81
+132 133 7 the
+133 134 6 from
+134 135 4 desired
+135 136 5 data
+136 137 3 extracts
+137 138 1 each
+138 139 2 portion
+139 140 10 . 6.08969254386
+140
+0 141 7 the
+141 142 8 bus
+142 143 9 81
+143 144 4 desired
+144 145 5 data
+145 146 6 from
+146 147 3 extracts
+147 148 1 each
+148 149 2 portion
+149 150 10 . 8.72874987348
+150
+0 151 1 each
+151 152 7 the
+152 153 8 bus
+153 154 9 81
+154 155 6 from
+155 156 2 portion
+156 157 4 desired
+157 158 5 data
+158 159 3 extracts
+159 160 10 . 8.72874987348
+160
+0 161 7 the
+161 162 8 bus
+162 163 9 81
+163 164 3 extracts
+164 165 4 desired
+165 166 5 data
+166 167 6 from
+167 168 1 each
+168 169 2 portion
+169 170 10 . 6.93699040425
+170
+0 171 8 bus
+171 172 9 81
+172 173 6 from
+173 174 7 the
+174 175 3 extracts
+175 176 4 desired
+176 177 5 data
+177 178 1 each
+178 179 2 portion
+179 180 10 . 7.34245551236
+180
+0 181 6 from
+181 182 7 the
+182 183 8 bus
+183 184 9 81
+184 185 3 extracts
+185 186 4 desired
+186 187 5 data
+187 188 1 each
+188 189 2 portion
+189 190 10 . 8.03560269292
+190

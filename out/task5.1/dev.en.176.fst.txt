@@ -1,0 +1,126 @@
+0 1 2 this
+1 2 3 manner
+2 3 1 in
+3 4 4 ,
+4 5 5 the
+5 6 6 selector
+6 7 7 circuit
+7 8 8 15
+8 9 17 the
+9 10 18 speaker
+10 11 19 8
+11 12 16 driving
+12 13 15 for
+13 14 12 the
+14 15 13 four
+15 16 14 signals
+16 17 11 from
+17 18 10 one
+18 19 9 selects
+19 20 20 . 0.57746278156
+20
+0 21 2 this
+21 22 3 manner
+22 23 4 ,
+23 24 1 in
+24 25 5 the
+25 26 6 selector
+26 27 7 circuit
+27 28 8 15
+28 29 17 the
+29 30 18 speaker
+30 31 19 8
+31 32 16 driving
+32 33 15 for
+33 34 12 the
+34 35 13 four
+35 36 14 signals
+36 37 11 from
+37 38 10 one
+38 39 9 selects
+39 40 20 . 2.22982573871
+40
+0 41 2 this
+41 42 1 in
+42 43 3 manner
+43 44 4 ,
+44 45 5 the
+45 46 6 selector
+46 47 7 circuit
+47 48 8 15
+48 49 17 the
+49 50 18 speaker
+50 51 19 8
+51 52 16 driving
+52 53 15 for
+53 54 12 the
+54 55 13 four
+55 56 14 signals
+56 57 11 from
+57 58 10 one
+58 59 9 selects
+59 60 20 . 3.03419855438
+60
+0 61 2 this
+61 62 3 manner
+62 63 4 ,
+63 64 5 the
+64 65 1 in
+65 66 6 selector
+66 67 7 circuit
+67 68 8 15
+68 69 17 the
+69 70 18 speaker
+70 71 19 8
+71 72 16 driving
+72 73 15 for
+73 74 12 the
+74 75 13 four
+75 76 14 signals
+76 77 11 from
+77 78 10 one
+78 79 9 selects
+79 80 20 . 6.96602418711
+80
+0 81 2 this
+81 82 3 manner
+82 83 1 in
+83 84 4 ,
+84 85 5 the
+85 86 6 selector
+86 87 7 circuit
+87 88 8 15
+88 89 17 the
+89 90 18 speaker
+90 91 19 8
+91 92 12 the
+92 93 16 driving
+93 94 15 for
+94 95 13 four
+95 96 14 signals
+96 97 11 from
+97 98 10 one
+98 99 9 selects
+99 100 20 . 3.6701873211
+100
+0 101 2 this
+101 102 3 manner
+102 103 1 in
+103 104 4 ,
+104 105 5 the
+105 106 6 selector
+106 107 7 circuit
+107 108 8 15
+108 109 16 driving
+109 110 17 the
+110 111 18 speaker
+111 112 19 8
+112 113 15 for
+113 114 12 the
+114 115 13 four
+115 116 14 signals
+116 117 11 from
+117 118 10 one
+118 119 9 selects
+119 120 20 . 1.36022212081
+120

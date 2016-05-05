@@ -1,0 +1,136 @@
+0 1 1 however
+1 2 2 ,
+2 3 9 another
+3 4 10 shape
+4 5 8 in
+5 6 3 the
+6 7 4 hole
+7 8 6 be
+8 9 7 formed
+9 10 5 may
+10 11 11 ,
+11 12 14 a
+12 13 15 rectangle
+13 14 13 as
+14 15 12 such
+15 16 16 . 0.825710266529
+16
+0 17 1 however
+17 18 2 ,
+18 19 3 the
+19 20 9 another
+20 21 10 shape
+21 22 8 in
+22 23 4 hole
+23 24 6 be
+24 25 7 formed
+25 26 5 may
+26 27 11 ,
+27 28 14 a
+28 29 15 rectangle
+29 30 13 as
+30 31 12 such
+31 32 16 . 5.11616970768
+32
+0 33 1 however
+33 34 2 ,
+34 35 9 another
+35 36 10 shape
+36 37 8 in
+37 38 3 the
+38 39 4 hole
+39 40 7 formed
+40 41 6 be
+41 42 5 may
+42 43 11 ,
+43 44 14 a
+44 45 15 rectangle
+45 46 13 as
+46 47 12 such
+47 48 16 . 2.75449569831
+48
+0 49 1 however
+49 50 2 ,
+50 51 3 the
+51 52 4 hole
+52 53 9 another
+53 54 10 shape
+54 55 8 in
+55 56 6 be
+56 57 7 formed
+57 58 5 may
+58 59 11 ,
+59 60 14 a
+60 61 15 rectangle
+61 62 13 as
+62 63 12 such
+63 64 16 . 2.42861802812
+64
+0 65 1 however
+65 66 2 ,
+66 67 9 another
+67 68 10 shape
+68 69 3 the
+69 70 4 hole
+70 71 8 in
+71 72 7 formed
+72 73 6 be
+73 74 5 may
+74 75 11 ,
+75 76 14 a
+76 77 15 rectangle
+77 78 13 as
+78 79 12 such
+79 80 16 . 6.30575377455
+80
+0 81 1 however
+81 82 2 ,
+82 83 3 the
+83 84 9 another
+84 85 10 shape
+85 86 8 in
+86 87 4 hole
+87 88 7 formed
+88 89 6 be
+89 90 5 may
+90 91 11 ,
+91 92 14 a
+92 93 15 rectangle
+93 94 13 as
+94 95 12 such
+95 96 16 . 6.64222601117
+96
+0 97 1 however
+97 98 2 ,
+98 99 9 another
+99 100 10 shape
+100 101 8 in
+101 102 3 the
+102 103 4 hole
+103 104 6 be
+104 105 7 formed
+105 106 5 may
+106 107 11 ,
+107 108 14 a
+108 109 15 rectangle
+109 110 12 such
+110 111 13 as
+111 112 16 . 5.61260659399
+112
+0 113 1 however
+113 114 2 ,
+114 115 3 the
+115 116 4 hole
+116 117 9 another
+117 118 10 shape
+118 119 8 in
+119 120 7 formed
+120 121 6 be
+121 122 5 may
+122 123 11 ,
+123 124 14 a
+124 125 15 rectangle
+125 126 13 as
+126 127 12 such
+127 128 16 . 0.922570187359
+128

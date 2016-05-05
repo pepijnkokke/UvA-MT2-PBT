@@ -1,0 +1,12 @@
+0 1 1 the
+1 2 2 particle
+2 3 3 size
+3 4 4 of
+4 5 5 the
+5 6 6 particles
+6 7 7 formed
+7 8 8 was
+8 9 9 40
+9 10 10 nm
+10 11 11 .
+11

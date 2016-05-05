@@ -1,0 +1,123 @@
+digraph FST {
+rankdir = LR;
+size = "8.5,11";
+label = "";
+center = 1;
+orientation = Portrait;
+ranksep = "0.4";
+nodesep = "0.25";
+0 [label = "0", shape = circle, style = bold, fontsize = 14]
+	0 -> 1 [label = "1:no/0.93848", fontsize = 14];
+	0 -> 2 [label = "2:isomeric/1.624", fontsize = 14];
+	0 -> 3 [label = "3:azasilacyclobutane/3.9492", fontsize = 14];
+	0 -> 4 [label = "4:was/3.9336", fontsize = 14];
+	0 -> 5 [label = "5:produced/8.5137", fontsize = 14];
+1 [label = "1", shape = circle, style = solid, fontsize = 14]
+	1 -> 6 [label = "2:isomeric", fontsize = 14];
+	1 -> 7 [label = "3:azasilacyclobutane/7.5752", fontsize = 14];
+	1 -> 8 [label = "4:was/6.3232", fontsize = 14];
+2 [label = "2", shape = circle, style = solid, fontsize = 14]
+	2 -> 9 [label = "1:no/0.1416", fontsize = 14];
+	2 -> 10 [label = "3:azasilacyclobutane", fontsize = 14];
+	2 -> 11 [label = "4:was/7.583", fontsize = 14];
+	2 -> 12 [label = "5:produced/7.583", fontsize = 14];
+3 [label = "3", shape = circle, style = solid, fontsize = 14]
+	3 -> 13 [label = "1:no/1.9248", fontsize = 14];
+	3 -> 14 [label = "2:isomeric/0.21387", fontsize = 14];
+	3 -> 15 [label = "4:was", fontsize = 14];
+	3 -> 16 [label = "5:produced/4.1592", fontsize = 14];
+4 [label = "4", shape = circle, style = solid, fontsize = 14]
+	4 -> 17 [label = "5:produced", fontsize = 14];
+5 [label = "5", shape = circle, style = solid, fontsize = 14]
+	5 -> 18 [label = "2:isomeric", fontsize = 14];
+6 [label = "6", shape = circle, style = solid, fontsize = 14]
+	6 -> 19 [label = "3:azasilacyclobutane", fontsize = 14];
+	6 -> 20 [label = "4:was/5.2246", fontsize = 14];
+7 [label = "7", shape = circle, style = solid, fontsize = 14]
+	7 -> 21 [label = "2:isomeric", fontsize = 14];
+	7 -> 22 [label = "4:was", fontsize = 14];
+8 [label = "8", shape = circle, style = solid, fontsize = 14]
+	8 -> 23 [label = "5:produced", fontsize = 14];
+9 [label = "9", shape = circle, style = solid, fontsize = 14]
+	9 -> 24 [label = "3:azasilacyclobutane", fontsize = 14];
+	9 -> 20 [label = "4:was/3.8857", fontsize = 14];
+	9 -> 25 [label = "5:produced/7.4414", fontsize = 14];
+10 [label = "10", shape = circle, style = solid, fontsize = 14]
+	10 -> 26 [label = "1:no", fontsize = 14];
+	10 -> 27 [label = "4:was/0.60254", fontsize = 14];
+	10 -> 35 [label = "5:produced/3.7324", fontsize = 14];
+11 [label = "11", shape = circle, style = solid, fontsize = 14]
+	11 -> 28 [label = "5:produced", fontsize = 14];
+12 [label = "12", shape = circle, style = solid, fontsize = 14]
+	12 -> 28 [label = "4:was", fontsize = 14];
+13 [label = "13", shape = circle, style = solid, fontsize = 14]
+	13 -> 29 [label = "2:isomeric", fontsize = 14];
+14 [label = "14", shape = circle, style = solid, fontsize = 14]
+	14 -> 30 [label = "1:no", fontsize = 14];
+	14 -> 31 [label = "4:was/5.0439", fontsize = 14];
+15 [label = "15", shape = circle, style = solid, fontsize = 14]
+	15 -> 32 [label = "5:produced", fontsize = 14];
+16 [label = "16", shape = circle, style = solid, fontsize = 14]
+	16 -> 33 [label = "4:was", fontsize = 14];
+17 [label = "17", shape = circle, style = solid, fontsize = 14]
+	17 -> 23 [label = "1:no/1.4443", fontsize = 14];
+	17 -> 34 [label = "2:isomeric", fontsize = 14];
+18 [label = "18", shape = circle, style = solid, fontsize = 14]
+	18 -> 35 [label = "3:azasilacyclobutane", fontsize = 14];
+19 [label = "19", shape = circle, style = solid, fontsize = 14]
+	19 -> 36 [label = "4:was", fontsize = 14];
+	19 -> 37 [label = "5:produced/2.7158", fontsize = 14];
+20 [label = "20", shape = circle, style = solid, fontsize = 14]
+	20 -> 38 [label = "5:produced", fontsize = 14];
+21 [label = "21", shape = circle, style = solid, fontsize = 14]
+	21 -> 36 [label = "4:was", fontsize = 14];
+22 [label = "22", shape = circle, style = solid, fontsize = 14]
+	22 -> 39 [label = "5:produced", fontsize = 14];
+23 [label = "23", shape = circle, style = solid, fontsize = 14]
+	23 -> 38 [label = "2:isomeric", fontsize = 14];
+24 [label = "24", shape = circle, style = solid, fontsize = 14]
+	24 -> 36 [label = "4:was", fontsize = 14];
+	24 -> 37 [label = "5:produced/2.998", fontsize = 14];
+25 [label = "25", shape = circle, style = solid, fontsize = 14]
+	25 -> 37 [label = "3:azasilacyclobutane", fontsize = 14];
+	25 -> 38 [label = "4:was", fontsize = 14];
+26 [label = "26", shape = circle, style = solid, fontsize = 14]
+	26 -> 36 [label = "4:was", fontsize = 14];
+	26 -> 37 [label = "5:produced/2.3047", fontsize = 14];
+27 [label = "27", shape = circle, style = solid, fontsize = 14]
+	27 -> 36 [label = "1:no/5.1885", fontsize = 14];
+	27 -> 40 [label = "5:produced", fontsize = 14];
+28 [label = "28", shape = circle, style = solid, fontsize = 14]
+	28 -> 40 [label = "3:azasilacyclobutane", fontsize = 14];
+29 [label = "29", shape = circle, style = solid, fontsize = 14]
+	29 -> 36 [label = "4:was", fontsize = 14];
+	29 -> 37 [label = "5:produced/3.333", fontsize = 14];
+30 [label = "30", shape = circle, style = solid, fontsize = 14]
+	30 -> 36 [label = "4:was", fontsize = 14];
+	30 -> 37 [label = "5:produced/1.9082", fontsize = 14];
+31 [label = "31", shape = circle, style = solid, fontsize = 14]
+	31 -> 40 [label = "5:produced", fontsize = 14];
+32 [label = "32", shape = circle, style = solid, fontsize = 14]
+	32 -> 39 [label = "1:no/2.7725", fontsize = 14];
+	32 -> 40 [label = "2:isomeric", fontsize = 14];
+33 [label = "33", shape = circle, style = solid, fontsize = 14]
+	33 -> 40 [label = "2:isomeric", fontsize = 14];
+34 [label = "34", shape = circle, style = solid, fontsize = 14]
+	34 -> 38 [label = "1:no/4.5801", fontsize = 14];
+	34 -> 40 [label = "3:azasilacyclobutane", fontsize = 14];
+35 [label = "35", shape = circle, style = solid, fontsize = 14]
+	35 -> 40 [label = "4:was", fontsize = 14];
+36 [label = "36", shape = circle, style = solid, fontsize = 14]
+	36 -> 41 [label = "5:produced", fontsize = 14];
+37 [label = "37", shape = circle, style = solid, fontsize = 14]
+	37 -> 41 [label = "4:was", fontsize = 14];
+38 [label = "38", shape = circle, style = solid, fontsize = 14]
+	38 -> 41 [label = "3:azasilacyclobutane", fontsize = 14];
+39 [label = "39", shape = circle, style = solid, fontsize = 14]
+	39 -> 41 [label = "2:isomeric", fontsize = 14];
+40 [label = "40", shape = circle, style = solid, fontsize = 14]
+	40 -> 41 [label = "1:no", fontsize = 14];
+41 [label = "41", shape = circle, style = solid, fontsize = 14]
+	41 -> 42 [label = "6:.", fontsize = 14];
+42 [label = "42", shape = doublecircle, style = solid, fontsize = 14]
+}

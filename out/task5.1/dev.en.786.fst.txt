@@ -1,0 +1,132 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 23
+3 4 4 shows
+4 5 9 this
+5 6 10 circuit
+6 7 8 of
+7 8 7 waveform
+8 9 5 the
+9 10 6 operation
+10 11 11 . 0.93464994352
+11
+0 12 1 fig
+12 13 2 .
+13 14 3 23
+14 15 4 shows
+15 16 9 this
+16 17 10 circuit
+17 18 8 of
+18 19 5 the
+19 20 6 operation
+20 21 7 waveform
+21 22 11 . 1.72298419666
+22
+0 23 1 fig
+23 24 2 .
+24 25 3 23
+25 26 9 this
+26 27 10 circuit
+27 28 8 of
+28 29 4 shows
+29 30 5 the
+30 31 6 operation
+31 32 7 waveform
+32 33 11 . 7.92214019052
+33
+0 34 1 fig
+34 35 2 .
+35 36 3 23
+36 37 9 this
+37 38 10 circuit
+38 39 8 of
+39 40 7 waveform
+40 41 4 shows
+41 42 5 the
+42 43 6 operation
+43 44 11 . 6.94131093751
+44
+0 45 1 fig
+45 46 2 .
+46 47 3 23
+47 48 9 this
+48 49 10 circuit
+49 50 8 of
+50 51 7 waveform
+51 52 5 the
+52 53 6 operation
+53 54 4 shows
+54 55 11 . 1.77367189461
+55
+0 56 1 fig
+56 57 2 .
+57 58 3 23
+58 59 9 this
+59 60 10 circuit
+60 61 8 of
+61 62 5 the
+62 63 6 operation
+63 64 7 waveform
+64 65 4 shows
+65 66 11 . 1.39174858954
+66
+0 67 1 fig
+67 68 2 .
+68 69 3 23
+69 70 4 shows
+70 71 9 this
+71 72 10 circuit
+72 73 8 of
+73 74 7 waveform
+74 75 6 operation
+75 76 5 the
+76 77 11 . 6.53584582941
+77
+0 78 1 fig
+78 79 3 23
+79 80 2 .
+80 81 4 shows
+81 82 9 this
+82 83 10 circuit
+83 84 8 of
+84 85 7 waveform
+85 86 5 the
+86 87 6 operation
+87 88 11 . 8.32760529863
+88
+0 89 1 fig
+89 90 2 .
+90 91 3 23
+91 92 4 shows
+92 93 10 circuit
+93 94 9 this
+94 95 8 of
+95 96 7 waveform
+96 97 5 the
+97 98 6 operation
+98 99 11 . 6.13038072129
+99
+0 100 1 fig
+100 101 2 .
+101 102 3 23
+102 103 4 shows
+103 104 9 this
+104 105 10 circuit
+105 106 7 waveform
+106 107 8 of
+107 108 5 the
+108 109 6 operation
+109 110 11 . 7.41131456676
+110
+0 111 1 fig
+111 112 2 .
+112 113 3 23
+113 114 4 shows
+114 115 9 this
+115 116 10 circuit
+116 117 8 of
+117 118 6 operation
+118 119 7 waveform
+119 120 5 the
+120 121 11 . 5.38316631946
+121

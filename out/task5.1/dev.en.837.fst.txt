@@ -1,0 +1,187 @@
+0 1 2 an
+1 2 3 example
+2 3 1 as
+3 4 4 ,
+4 5 11 a
+5 6 12 serial
+6 7 13 printer
+7 8 10 in
+8 9 5 a
+9 10 9 printing
+10 11 8 during
+11 12 6 dma
+12 13 7 process
+13 14 14 is
+14 15 15 given
+15 16 16 . 2.50232169139
+16
+0 17 2 an
+17 18 3 example
+18 19 1 as
+19 20 4 ,
+20 21 11 a
+21 22 12 serial
+22 23 13 printer
+23 24 5 a
+24 25 10 in
+25 26 9 printing
+26 27 8 during
+27 28 6 dma
+28 29 7 process
+29 30 14 is
+30 31 15 given
+31 32 16 . 7.72267751647
+32
+0 33 2 an
+33 34 3 example
+34 35 1 as
+35 36 4 ,
+36 37 11 a
+37 38 12 serial
+38 39 13 printer
+39 40 10 in
+40 41 9 printing
+41 42 8 during
+42 43 5 a
+43 44 6 dma
+44 45 7 process
+45 46 14 is
+46 47 15 given
+47 48 16 . 0.586194307879
+48
+0 49 2 an
+49 50 3 example
+50 51 1 as
+51 52 4 ,
+52 53 11 a
+53 54 12 serial
+54 55 13 printer
+55 56 10 in
+56 57 5 a
+57 58 6 dma
+58 59 9 printing
+59 60 8 during
+60 61 7 process
+61 62 14 is
+62 63 15 given
+63 64 16 . 5.15772815901
+64
+0 65 2 an
+65 66 3 example
+66 67 1 as
+67 68 4 ,
+68 69 5 a
+69 70 11 a
+70 71 12 serial
+71 72 13 printer
+72 73 10 in
+73 74 9 printing
+74 75 8 during
+75 76 6 dma
+76 77 7 process
+77 78 14 is
+78 79 15 given
+79 80 16 . 2.09146573464
+80
+0 81 2 an
+81 82 3 example
+82 83 1 as
+83 84 4 ,
+84 85 11 a
+85 86 12 serial
+86 87 13 printer
+87 88 10 in
+88 89 9 printing
+89 90 5 a
+90 91 6 dma
+91 92 7 process
+92 93 8 during
+93 94 14 is
+94 95 15 given
+95 96 16 . 7.72267751647
+96
+0 97 2 an
+97 98 3 example
+98 99 1 as
+99 100 4 ,
+100 101 5 a
+101 102 11 a
+102 103 12 serial
+103 104 13 printer
+104 105 10 in
+105 106 6 dma
+106 107 9 printing
+107 108 8 during
+108 109 7 process
+109 110 14 is
+110 111 15 given
+111 112 16 . 7.72267751647
+112
+0 113 2 an
+113 114 3 example
+114 115 1 as
+115 116 4 ,
+116 117 11 a
+117 118 12 serial
+118 119 13 printer
+119 120 10 in
+120 121 5 a
+121 122 6 dma
+122 123 7 process
+123 124 9 printing
+124 125 8 during
+125 126 14 is
+126 127 15 given
+127 128 16 . 1.47657075099
+128
+0 129 2 an
+129 130 3 example
+130 131 1 as
+131 132 4 ,
+132 133 11 a
+133 134 12 serial
+134 135 13 printer
+135 136 9 printing
+136 137 10 in
+137 138 8 during
+138 139 5 a
+139 140 6 dma
+140 141 7 process
+141 142 14 is
+142 143 15 given
+143 144 16 . 7.02953033591
+144
+0 145 2 an
+145 146 3 example
+146 147 1 as
+147 148 4 ,
+148 149 11 a
+149 150 12 serial
+150 151 13 printer
+151 152 10 in
+152 153 5 a
+153 154 8 during
+154 155 9 printing
+155 156 6 dma
+156 157 7 process
+157 158 14 is
+158 159 15 given
+159 160 16 . 7.72267751647
+160
+0 161 2 an
+161 162 3 example
+162 163 4 ,
+163 164 1 as
+164 165 11 a
+165 166 12 serial
+166 167 13 printer
+167 168 10 in
+168 169 9 printing
+169 170 8 during
+170 171 5 a
+171 172 6 dma
+172 173 7 process
+173 174 14 is
+174 175 15 given
+175 176 16 . 6.6240652278
+176

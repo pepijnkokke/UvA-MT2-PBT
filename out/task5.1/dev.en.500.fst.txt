@@ -1,0 +1,216 @@
+0 1 1 the
+1 2 2 read-out
+2 3 3 light
+3 4 4 source
+4 5 5 53
+5 6 14 these
+6 7 15 charge
+7 8 16 patterns
+8 9 12 reading
+9 10 13 out
+10 11 11 for
+11 12 7 a
+12 13 8 laser
+13 14 9 beam
+14 15 10 50
+15 16 6 emits
+16 17 17 . 0.794007790895
+17
+0 18 1 the
+18 19 2 read-out
+19 20 3 light
+20 21 4 source
+21 22 5 53
+22 23 14 these
+23 24 15 charge
+24 25 16 patterns
+25 26 7 a
+26 27 12 reading
+27 28 13 out
+28 29 11 for
+29 30 8 laser
+30 31 9 beam
+31 32 10 50
+32 33 6 emits
+33 34 17 . 6.988413182
+34
+0 35 1 the
+35 36 2 read-out
+36 37 3 light
+37 38 4 source
+38 39 5 53
+39 40 14 these
+40 41 15 charge
+41 42 16 patterns
+42 43 12 reading
+43 44 13 out
+44 45 7 a
+45 46 8 laser
+46 47 9 beam
+47 48 10 50
+48 49 6 emits
+49 50 11 for
+50 51 17 . 4.50350653221
+51
+0 52 1 the
+52 53 2 read-out
+53 54 3 light
+54 55 4 source
+55 56 5 53
+56 57 14 these
+57 58 15 charge
+58 59 16 patterns
+59 60 12 reading
+60 61 11 for
+61 62 7 a
+62 63 8 laser
+63 64 9 beam
+64 65 10 50
+65 66 6 emits
+66 67 13 out
+67 68 17 . 4.2803629809
+68
+0 69 1 the
+69 70 2 read-out
+70 71 3 light
+71 72 4 source
+72 73 5 53
+73 74 14 these
+74 75 15 charge
+75 76 16 patterns
+76 77 12 reading
+77 78 13 out
+78 79 11 for
+79 80 7 a
+80 81 8 laser
+81 82 9 beam
+82 83 6 emits
+83 84 10 50
+84 85 17 . 6.988413182
+85
+0 86 1 the
+86 87 2 read-out
+87 88 3 light
+88 89 4 source
+89 90 5 53
+90 91 14 these
+91 92 15 charge
+92 93 16 patterns
+93 94 12 reading
+94 95 13 out
+95 96 7 a
+96 97 8 laser
+97 98 9 beam
+98 99 10 50
+99 100 11 for
+100 101 6 emits
+101 102 17 . 5.88980089333
+102
+0 103 1 the
+103 104 2 read-out
+104 105 3 light
+105 106 4 source
+106 107 5 53
+107 108 14 these
+108 109 15 charge
+109 110 16 patterns
+110 111 7 a
+111 112 8 laser
+112 113 9 beam
+113 114 10 50
+114 115 6 emits
+115 116 12 reading
+116 117 13 out
+117 118 11 for
+118 119 17 . 3.76953735713
+119
+0 120 1 the
+120 121 2 read-out
+121 122 3 light
+122 123 4 source
+123 124 5 53
+124 125 14 these
+125 126 15 charge
+126 127 16 patterns
+127 128 12 reading
+128 129 11 for
+129 130 13 out
+130 131 7 a
+131 132 8 laser
+132 133 9 beam
+133 134 10 50
+134 135 6 emits
+135 136 17 . 5.60211882088
+136
+0 137 1 the
+137 138 2 read-out
+138 139 3 light
+139 140 4 source
+140 141 5 53
+141 142 14 these
+142 143 15 charge
+143 144 16 patterns
+144 145 13 out
+145 146 12 reading
+146 147 11 for
+147 148 7 a
+148 149 8 laser
+149 150 9 beam
+150 151 10 50
+151 152 6 emits
+152 153 17 . 2.2262392472
+153
+0 154 1 the
+154 155 2 read-out
+155 156 3 light
+156 157 4 source
+157 158 5 53
+158 159 7 a
+159 160 14 these
+160 161 15 charge
+161 162 16 patterns
+162 163 12 reading
+163 164 13 out
+164 165 11 for
+165 166 8 laser
+166 167 9 beam
+167 168 10 50
+168 169 6 emits
+169 170 17 . 4.68582808901
+170
+0 171 1 the
+171 172 2 read-out
+172 173 3 light
+173 174 4 source
+174 175 5 53
+175 176 14 these
+176 177 15 charge
+177 178 16 patterns
+178 179 7 a
+179 180 12 reading
+180 181 11 for
+181 182 8 laser
+182 183 9 beam
+183 184 10 50
+184 185 6 emits
+185 186 13 out
+186 187 17 . 6.988413182
+187
+0 188 1 the
+188 189 2 read-out
+189 190 3 light
+190 191 4 source
+191 192 5 53
+192 193 6 emits
+193 194 14 these
+194 195 15 charge
+195 196 16 patterns
+196 197 12 reading
+197 198 13 out
+198 199 11 for
+199 200 7 a
+200 201 8 laser
+201 202 9 beam
+202 203 10 50
+203 204 17 . 0.984526114894
+204

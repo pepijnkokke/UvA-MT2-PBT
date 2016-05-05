@@ -1,0 +1,85 @@
+0 1 1 furthermore
+1 2 2 ,
+2 3 3 other
+3 4 4 application
+4 5 5 examples
+5 6 6 are
+6 7 8 in
+7 8 9 figs
+8 9 10 .
+9 10 7 shown
+10 11 11 6
+11 12 12 and
+12 13 13 7
+13 14 14 ,
+14 15 15 respectively
+15 16 16 . 3.38933239852
+16
+0 17 1 furthermore
+17 18 2 ,
+18 19 3 other
+19 20 4 application
+20 21 5 examples
+21 22 6 are
+22 23 8 in
+23 24 7 shown
+24 25 9 figs
+25 26 10 .
+26 27 11 6
+27 28 12 and
+28 29 13 7
+29 30 14 ,
+30 31 15 respectively
+31 32 16 . 2.20242750271
+32
+0 33 1 furthermore
+33 34 2 ,
+34 35 3 other
+35 36 4 application
+36 37 5 examples
+37 38 6 are
+38 39 7 shown
+39 40 8 in
+40 41 9 figs
+41 42 10 .
+42 43 11 6
+43 44 12 and
+44 45 13 7
+45 46 14 ,
+46 47 15 respectively
+47 48 16 . 0.691591567076
+48
+0 49 1 furthermore
+49 50 2 ,
+50 51 3 other
+51 52 4 application
+52 53 5 examples
+53 54 6 are
+54 55 9 figs
+55 56 10 .
+56 57 8 in
+57 58 7 shown
+58 59 11 6
+59 60 12 and
+60 61 13 7
+61 62 14 ,
+62 63 15 respectively
+63 64 16 . 1.17684034905
+64
+0 65 1 furthermore
+65 66 2 ,
+66 67 3 other
+67 68 4 application
+68 69 5 examples
+69 70 8 in
+70 71 6 are
+71 72 7 shown
+72 73 9 figs
+73 74 10 .
+74 75 11 6
+75 76 12 and
+76 77 13 7
+77 78 14 ,
+78 79 15 respectively
+79 80 16 . 3.06390999808
+80

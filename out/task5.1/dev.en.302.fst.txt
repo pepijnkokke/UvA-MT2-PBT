@@ -1,0 +1,144 @@
+0 1 6 the
+1 2 7 radiation
+2 3 8 detecting
+3 4 9 unit
+4 5 10 10
+5 6 5 from
+6 7 4 outputted
+7 8 1 a
+8 9 2 detection
+9 10 3 signal
+10 11 11 is
+11 12 14 the
+12 13 15 amplifier
+13 14 16 60
+14 15 13 to
+15 16 12 inputted
+16 17 17 . 0.182397518661
+17
+0 18 6 the
+18 19 7 radiation
+19 20 8 detecting
+20 21 9 unit
+21 22 10 10
+22 23 5 from
+23 24 1 a
+24 25 4 outputted
+25 26 2 detection
+26 27 3 signal
+27 28 11 is
+28 29 14 the
+29 30 15 amplifier
+30 31 16 60
+31 32 13 to
+32 33 12 inputted
+33 34 17 . 8.56902634006
+34
+0 35 6 the
+35 36 7 radiation
+36 37 8 detecting
+37 38 9 unit
+38 39 10 10
+39 40 5 from
+40 41 4 outputted
+41 42 1 a
+42 43 2 detection
+43 44 3 signal
+44 45 11 is
+45 46 15 amplifier
+46 47 14 the
+47 48 16 60
+48 49 13 to
+49 50 12 inputted
+50 51 17 . 8.56902634006
+51
+0 52 6 the
+52 53 7 radiation
+53 54 8 detecting
+54 55 9 unit
+55 56 10 10
+56 57 5 from
+57 58 1 a
+58 59 2 detection
+59 60 3 signal
+60 61 4 outputted
+61 62 11 is
+62 63 14 the
+63 64 15 amplifier
+64 65 16 60
+65 66 13 to
+66 67 12 inputted
+67 68 17 . 1.873227423
+68
+0 69 6 the
+69 70 7 radiation
+70 71 8 detecting
+71 72 9 unit
+72 73 10 10
+73 74 5 from
+74 75 4 outputted
+75 76 1 a
+76 77 2 detection
+77 78 3 signal
+78 79 11 is
+79 80 14 the
+80 81 15 amplifier
+81 82 13 to
+82 83 12 inputted
+83 84 16 60
+84 85 17 . 7.18273197894
+85
+0 86 6 the
+86 87 7 radiation
+87 88 8 detecting
+88 89 9 unit
+89 90 5 from
+90 91 4 outputted
+91 92 10 10
+92 93 1 a
+93 94 2 detection
+94 95 3 signal
+95 96 11 is
+96 97 14 the
+97 98 15 amplifier
+98 99 16 60
+99 100 13 to
+100 101 12 inputted
+101 102 17 . 6.26644124706
+102
+0 103 6 the
+103 104 7 radiation
+104 105 8 detecting
+105 106 9 unit
+106 107 10 10
+107 108 5 from
+108 109 4 outputted
+109 110 11 is
+110 111 1 a
+111 112 2 detection
+112 113 3 signal
+113 114 14 the
+114 115 15 amplifier
+115 116 16 60
+116 117 13 to
+117 118 12 inputted
+118 119 17 . 7.8758791595
+119
+0 120 6 the
+120 121 7 radiation
+121 122 8 detecting
+122 123 9 unit
+123 124 10 10
+124 125 5 from
+125 126 4 outputted
+126 127 1 a
+127 128 2 detection
+128 129 3 signal
+129 130 11 is
+130 131 15 amplifier
+131 132 16 60
+132 133 14 the
+133 134 13 to
+134 135 12 inputted
+135 136 17 . 4.63720070733
+136

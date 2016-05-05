@@ -1,0 +1,340 @@
+0 1 2 the
+1 2 3 aforesaid
+2 3 4 two
+3 4 5 conditions
+4 5 1 if
+5 6 6 are
+6 7 7 satisfied
+7 8 8 ,
+8 9 9 then
+9 10 10 conditional
+10 11 11 expression
+11 12 12 (
+12 13 13 37
+13 14 14 )
+14 15 15 will
+15 16 16 be
+16 17 17 automatically
+17 18 18 satisfied
+18 19 19 . 3.97994122561
+19
+0 20 2 the
+20 21 3 aforesaid
+21 22 4 two
+22 23 5 conditions
+23 24 1 if
+24 25 6 are
+25 26 7 satisfied
+26 27 8 ,
+27 28 9 then
+28 29 10 conditional
+29 30 11 expression
+30 31 12 (
+31 32 13 37
+32 33 14 )
+33 34 15 will
+34 35 17 automatically
+35 36 18 satisfied
+36 37 16 be
+37 38 19 . 4.30536362604
+38
+0 39 2 the
+39 40 3 aforesaid
+40 41 1 if
+41 42 4 two
+42 43 5 conditions
+43 44 6 are
+44 45 7 satisfied
+45 46 8 ,
+46 47 9 then
+47 48 10 conditional
+48 49 11 expression
+49 50 12 (
+50 51 13 37
+51 52 14 )
+52 53 15 will
+53 54 16 be
+54 55 17 automatically
+55 56 18 satisfied
+56 57 19 . 4.0669526026
+57
+0 58 2 the
+58 59 3 aforesaid
+59 60 1 if
+60 61 4 two
+61 62 5 conditions
+62 63 6 are
+63 64 7 satisfied
+64 65 8 ,
+65 66 9 then
+66 67 10 conditional
+67 68 11 expression
+68 69 12 (
+69 70 13 37
+70 71 14 )
+71 72 15 will
+72 73 17 automatically
+73 74 18 satisfied
+74 75 16 be
+75 76 19 . 4.44994485486
+76
+0 77 2 the
+77 78 3 aforesaid
+78 79 4 two
+79 80 5 conditions
+80 81 6 are
+81 82 7 satisfied
+82 83 1 if
+83 84 8 ,
+84 85 9 then
+85 86 10 conditional
+86 87 11 expression
+87 88 12 (
+88 89 13 37
+89 90 14 )
+90 91 15 will
+91 92 16 be
+92 93 17 automatically
+93 94 18 satisfied
+94 95 19 . 1.52201568465
+95
+0 96 2 the
+96 97 3 aforesaid
+97 98 4 two
+98 99 5 conditions
+99 100 6 are
+100 101 7 satisfied
+101 102 1 if
+102 103 8 ,
+103 104 9 then
+104 105 10 conditional
+105 106 11 expression
+106 107 12 (
+107 108 13 37
+108 109 14 )
+109 110 15 will
+110 111 17 automatically
+111 112 18 satisfied
+112 113 16 be
+113 114 19 . 1.86804593908
+114
+0 115 2 the
+115 116 1 if
+116 117 3 aforesaid
+117 118 4 two
+118 119 5 conditions
+119 120 6 are
+120 121 7 satisfied
+121 122 8 ,
+122 123 9 then
+123 124 10 conditional
+124 125 11 expression
+125 126 12 (
+126 127 13 37
+127 128 14 )
+128 129 15 will
+129 130 16 be
+130 131 17 automatically
+131 132 18 satisfied
+132 133 19 . 6.87031298351
+133
+0 134 2 the
+134 135 1 if
+135 136 3 aforesaid
+136 137 4 two
+137 138 5 conditions
+138 139 6 are
+139 140 7 satisfied
+140 141 8 ,
+141 142 9 then
+142 143 10 conditional
+143 144 11 expression
+144 145 12 (
+145 146 13 37
+146 147 14 )
+147 148 15 will
+148 149 17 automatically
+149 150 18 satisfied
+150 151 16 be
+151 152 19 . 7.56346016407
+152
+0 153 1 if
+153 154 2 the
+154 155 3 aforesaid
+155 156 4 two
+156 157 5 conditions
+157 158 6 are
+158 159 7 satisfied
+159 160 8 ,
+160 161 9 then
+161 162 10 conditional
+162 163 11 expression
+163 164 12 (
+164 165 13 37
+165 166 14 )
+166 167 15 will
+167 168 16 be
+168 169 17 automatically
+169 170 18 satisfied
+170 171 19 . 1.41820214378
+171
+0 172 1 if
+172 173 2 the
+173 174 3 aforesaid
+174 175 4 two
+175 176 5 conditions
+176 177 6 are
+177 178 7 satisfied
+178 179 8 ,
+179 180 9 then
+180 181 10 conditional
+181 182 11 expression
+182 183 12 (
+183 184 13 37
+184 185 14 )
+185 186 15 will
+186 187 17 automatically
+187 188 18 satisfied
+188 189 16 be
+189 190 19 . 1.86301659067
+190
+0 191 2 the
+191 192 3 aforesaid
+192 193 4 two
+193 194 5 conditions
+194 195 1 if
+195 196 6 are
+196 197 7 satisfied
+197 198 8 ,
+198 199 9 then
+199 200 10 conditional
+200 201 11 expression
+201 202 12 (
+202 203 13 37
+203 204 14 )
+204 205 16 be
+205 206 15 will
+206 207 17 automatically
+207 208 18 satisfied
+208 209 19 . 5.03773151976
+209
+0 210 2 the
+210 211 3 aforesaid
+211 212 1 if
+212 213 4 two
+213 214 5 conditions
+214 215 6 are
+215 216 7 satisfied
+216 217 8 ,
+217 218 9 then
+218 219 10 conditional
+219 220 11 expression
+220 221 12 (
+221 222 13 37
+222 223 14 )
+223 224 16 be
+224 225 15 will
+225 226 17 automatically
+226 227 18 satisfied
+227 228 19 . 5.42339400057
+228
+0 229 2 the
+229 230 3 aforesaid
+230 231 4 two
+231 232 5 conditions
+232 233 6 are
+233 234 7 satisfied
+234 235 1 if
+235 236 8 ,
+236 237 9 then
+237 238 10 conditional
+238 239 11 expression
+239 240 12 (
+240 241 13 37
+241 242 14 )
+242 243 16 be
+243 244 15 will
+244 245 17 automatically
+245 246 18 satisfied
+246 247 19 . 2.58328407745
+247
+0 248 2 the
+248 249 1 if
+249 250 3 aforesaid
+250 251 4 two
+251 252 5 conditions
+252 253 6 are
+253 254 7 satisfied
+254 255 8 ,
+255 256 9 then
+256 257 10 conditional
+257 258 11 expression
+258 259 12 (
+259 260 13 37
+260 261 14 )
+261 262 16 be
+262 263 15 will
+263 264 17 automatically
+264 265 18 satisfied
+265 266 19 . 7.56346016407
+266
+0 267 1 if
+267 268 2 the
+268 269 3 aforesaid
+269 270 4 two
+270 271 5 conditions
+271 272 6 are
+272 273 7 satisfied
+273 274 8 ,
+274 275 9 then
+275 276 10 conditional
+276 277 11 expression
+277 278 12 (
+278 279 13 37
+279 280 14 )
+280 281 16 be
+281 282 15 will
+282 283 17 automatically
+283 284 18 satisfied
+284 285 19 . 2.54618032725
+285
+0 286 3 aforesaid
+286 287 2 the
+287 288 4 two
+288 289 5 conditions
+289 290 1 if
+290 291 6 are
+291 292 7 satisfied
+292 293 8 ,
+293 294 9 then
+294 295 10 conditional
+295 296 11 expression
+296 297 12 (
+297 298 13 37
+298 299 14 )
+299 300 15 will
+300 301 16 be
+301 302 17 automatically
+302 303 18 satisfied
+303 304 19 . 6.87031298351
+304
+0 305 3 aforesaid
+305 306 2 the
+306 307 4 two
+307 308 5 conditions
+308 309 1 if
+309 310 6 are
+310 311 7 satisfied
+311 312 8 ,
+312 313 9 then
+313 314 10 conditional
+314 315 11 expression
+315 316 12 (
+316 317 13 37
+317 318 14 )
+318 319 15 will
+319 320 17 automatically
+320 321 18 satisfied
+321 322 16 be
+322 323 19 . 6.87031298351
+323

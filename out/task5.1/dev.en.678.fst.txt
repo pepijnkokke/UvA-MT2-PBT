@@ -1,0 +1,180 @@
+0 1 1 therefore
+1 2 2 ,
+2 3 7 the
+3 4 8 correlation
+4 5 9 peaks
+5 6 10 28
+6 7 6 between
+7 8 3 the
+8 9 4 interval
+9 10 5 s
+10 11 11 is
+11 12 12 readily
+12 13 13 measured
+13 14 14 . 0.328518470901
+14
+0 15 1 therefore
+15 16 2 ,
+16 17 7 the
+17 18 8 correlation
+18 19 9 peaks
+19 20 10 28
+20 21 6 between
+21 22 3 the
+22 23 11 is
+23 24 4 interval
+24 25 5 s
+25 26 12 readily
+26 27 13 measured
+27 28 14 . 8.25764495821
+28
+0 29 1 therefore
+29 30 2 ,
+30 31 7 the
+31 32 8 correlation
+32 33 9 peaks
+33 34 10 28
+34 35 11 is
+35 36 6 between
+36 37 3 the
+37 38 4 interval
+38 39 5 s
+39 40 12 readily
+40 41 13 measured
+41 42 14 . 1.82309843942
+42
+0 43 1 therefore
+43 44 2 ,
+44 45 7 the
+45 46 8 correlation
+46 47 9 peaks
+47 48 10 28
+48 49 6 between
+49 50 11 is
+50 51 3 the
+51 52 4 interval
+52 53 5 s
+53 54 12 readily
+54 55 13 measured
+55 56 14 . 7.56449777765
+56
+0 57 1 therefore
+57 58 2 ,
+58 59 7 the
+59 60 8 correlation
+60 61 9 peaks
+61 62 10 28
+62 63 11 is
+63 64 6 between
+64 65 3 the
+65 66 5 s
+66 67 4 interval
+67 68 12 readily
+68 69 13 measured
+69 70 14 . 8.25764495821
+70
+0 71 1 therefore
+71 72 2 ,
+72 73 7 the
+73 74 8 correlation
+74 75 9 peaks
+75 76 10 28
+76 77 11 is
+77 78 12 readily
+78 79 6 between
+79 80 3 the
+80 81 4 interval
+81 82 5 s
+82 83 13 measured
+83 84 14 . 4.05295233882
+84
+0 85 1 therefore
+85 86 2 ,
+86 87 7 the
+87 88 8 correlation
+88 89 9 peaks
+89 90 10 28
+90 91 6 between
+91 92 5 s
+92 93 3 the
+93 94 4 interval
+94 95 11 is
+95 96 12 readily
+96 97 13 measured
+97 98 14 . 4.59408331208
+98
+0 99 1 therefore
+99 100 2 ,
+100 101 7 the
+101 102 8 correlation
+102 103 9 peaks
+103 104 10 28
+104 105 6 between
+105 106 3 the
+106 107 4 interval
+107 108 5 s
+108 109 12 readily
+109 110 13 measured
+110 111 11 is
+111 112 14 . 6.64820704577
+112
+0 113 1 therefore
+113 114 2 ,
+114 115 7 the
+115 116 8 correlation
+116 117 9 peaks
+117 118 10 28
+118 119 6 between
+119 120 4 interval
+120 121 5 s
+121 122 3 the
+122 123 11 is
+123 124 12 readily
+124 125 13 measured
+125 126 14 . 4.30640123963
+126
+0 127 1 therefore
+127 128 2 ,
+128 129 3 the
+129 130 7 the
+130 131 8 correlation
+131 132 9 peaks
+132 133 10 28
+133 134 6 between
+134 135 4 interval
+135 136 5 s
+136 137 11 is
+137 138 12 readily
+138 139 13 measured
+139 140 14 . 2.61573788727
+140
+0 141 1 therefore
+141 142 2 ,
+142 143 7 the
+143 144 8 correlation
+144 145 9 peaks
+145 146 10 28
+146 147 6 between
+147 148 3 the
+148 149 4 interval
+149 150 5 s
+150 151 13 measured
+151 152 11 is
+152 153 12 readily
+153 154 14 . 6.46588548898
+154
+0 155 1 therefore
+155 156 2 ,
+156 157 8 correlation
+157 158 9 peaks
+158 159 7 the
+159 160 10 28
+160 161 6 between
+161 162 3 the
+162 163 4 interval
+163 164 5 s
+164 165 11 is
+165 166 12 readily
+166 167 13 measured
+167 168 14 . 7.56449777765
+168

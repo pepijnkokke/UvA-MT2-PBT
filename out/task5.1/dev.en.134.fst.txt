@@ -1,0 +1,342 @@
+0 1 1 this
+1 2 2 driving
+2 3 3 signal
+3 4 4 is
+4 5 13 the
+5 6 14 power
+6 7 15 source
+7 8 16 circuit
+8 9 17 32
+9 10 12 from
+10 11 11 supplied
+11 12 8 bias
+12 13 9 voltages
+13 14 10 v0-v5
+14 15 7 to
+15 16 6 according
+16 17 5 produced
+17 18 18 . 0.424565279482
+18
+0 19 1 this
+19 20 2 driving
+20 21 3 signal
+21 22 4 is
+22 23 13 the
+23 24 14 power
+24 25 15 source
+25 26 16 circuit
+26 27 17 32
+27 28 12 from
+28 29 8 bias
+29 30 9 voltages
+30 31 10 v0-v5
+31 32 11 supplied
+32 33 7 to
+33 34 6 according
+34 35 5 produced
+35 36 18 . 1.6898024222
+36
+0 37 1 this
+37 38 2 driving
+38 39 3 signal
+39 40 4 is
+40 41 13 the
+41 42 14 power
+42 43 15 source
+43 44 16 circuit
+44 45 17 32
+45 46 12 from
+46 47 8 bias
+47 48 9 voltages
+48 49 10 v0-v5
+49 50 7 to
+50 51 6 according
+51 52 11 supplied
+52 53 5 produced
+53 54 18 . 6.76080086603
+54
+0 55 1 this
+55 56 2 driving
+56 57 3 signal
+57 58 4 is
+58 59 14 power
+59 60 13 the
+60 61 15 source
+61 62 16 circuit
+62 63 17 32
+63 64 12 from
+64 65 11 supplied
+65 66 8 bias
+66 67 9 voltages
+67 68 10 v0-v5
+68 69 7 to
+69 70 6 according
+70 71 5 produced
+71 72 18 . 4.56357628869
+72
+0 73 1 this
+73 74 2 driving
+74 75 3 signal
+75 76 4 is
+76 77 14 power
+77 78 13 the
+78 79 15 source
+79 80 16 circuit
+80 81 17 32
+81 82 12 from
+82 83 8 bias
+83 84 9 voltages
+84 85 10 v0-v5
+85 86 11 supplied
+86 87 7 to
+87 88 6 according
+88 89 5 produced
+89 90 18 . 6.24997524226
+90
+0 91 1 this
+91 92 2 driving
+92 93 3 signal
+93 94 4 is
+94 95 13 the
+95 96 14 power
+96 97 15 source
+97 98 16 circuit
+98 99 17 32
+99 100 12 from
+100 101 8 bias
+101 102 9 voltages
+102 103 10 v0-v5
+103 104 7 to
+104 105 6 according
+105 106 5 produced
+106 107 11 supplied
+107 108 18 . 5.22035582508
+108
+0 109 1 this
+109 110 2 driving
+110 111 3 signal
+111 112 4 is
+112 113 13 the
+113 114 14 power
+114 115 15 source
+115 116 16 circuit
+116 117 17 32
+117 118 12 from
+118 119 11 supplied
+119 120 8 bias
+120 121 9 voltages
+121 122 7 to
+122 123 6 according
+123 124 10 v0-v5
+124 125 5 produced
+125 126 18 . 7.85941315469
+126
+0 127 1 this
+127 128 2 driving
+128 129 3 signal
+129 130 4 is
+130 131 13 the
+131 132 14 power
+132 133 15 source
+133 134 16 circuit
+134 135 17 32
+135 136 8 bias
+136 137 9 voltages
+137 138 10 v0-v5
+138 139 12 from
+139 140 11 supplied
+140 141 7 to
+141 142 6 according
+142 143 5 produced
+143 144 18 . 7.85941315469
+144
+0 145 1 this
+145 146 2 driving
+146 147 3 signal
+147 148 4 is
+148 149 13 the
+149 150 14 power
+150 151 15 source
+151 152 16 circuit
+152 153 17 32
+153 154 12 from
+154 155 11 supplied
+155 156 10 v0-v5
+156 157 8 bias
+157 158 9 voltages
+158 159 7 to
+159 160 6 according
+160 161 5 produced
+161 162 18 . 2.47034142488
+162
+0 163 1 this
+163 164 2 driving
+164 165 3 signal
+165 166 4 is
+166 167 13 the
+167 168 14 power
+168 169 15 source
+169 170 16 circuit
+170 171 17 32
+171 172 12 from
+172 173 11 supplied
+173 174 8 bias
+174 175 9 voltages
+175 176 7 to
+176 177 6 according
+177 178 5 produced
+178 179 10 v0-v5
+179 180 18 . 5.4615178819
+180
+0 181 1 this
+181 182 2 driving
+182 183 3 signal
+183 184 4 is
+184 185 13 the
+185 186 14 power
+186 187 15 source
+187 188 16 circuit
+188 189 17 32
+189 190 12 from
+190 191 10 v0-v5
+191 192 11 supplied
+192 193 8 bias
+193 194 9 voltages
+194 195 7 to
+195 196 6 according
+196 197 5 produced
+197 198 18 . 3.27444567602
+198
+0 199 1 this
+199 200 2 driving
+200 201 3 signal
+201 202 4 is
+202 203 13 the
+203 204 14 power
+204 205 15 source
+205 206 16 circuit
+206 207 17 32
+207 208 10 v0-v5
+208 209 12 from
+209 210 11 supplied
+210 211 8 bias
+211 212 9 voltages
+212 213 7 to
+213 214 6 according
+214 215 5 produced
+215 216 18 . 7.16626597413
+216
+0 217 1 this
+217 218 2 driving
+218 219 3 signal
+219 220 4 is
+220 221 13 the
+221 222 14 power
+222 223 15 source
+223 224 16 circuit
+224 225 17 32
+225 226 12 from
+226 227 8 bias
+227 228 9 voltages
+228 229 7 to
+229 230 6 according
+230 231 10 v0-v5
+231 232 11 supplied
+232 233 5 produced
+233 234 18 . 5.29446379723
+234
+0 235 1 this
+235 236 2 driving
+236 237 3 signal
+237 238 4 is
+238 239 13 the
+239 240 14 power
+240 241 15 source
+241 242 16 circuit
+242 243 17 32
+243 244 12 from
+244 245 5 produced
+245 246 8 bias
+246 247 9 voltages
+247 248 10 v0-v5
+248 249 11 supplied
+249 250 7 to
+250 251 6 according
+251 252 18 . 7.16626597413
+252
+0 253 1 this
+253 254 2 driving
+254 255 3 signal
+255 256 13 the
+256 257 14 power
+257 258 15 source
+258 259 16 circuit
+259 260 17 32
+260 261 12 from
+261 262 4 is
+262 263 11 supplied
+263 264 8 bias
+264 265 9 voltages
+265 266 10 v0-v5
+266 267 7 to
+267 268 6 according
+268 269 5 produced
+269 270 18 . 7.16626597413
+270
+0 271 1 this
+271 272 2 driving
+272 273 3 signal
+273 274 13 the
+274 275 14 power
+275 276 15 source
+276 277 16 circuit
+277 278 17 32
+278 279 12 from
+279 280 4 is
+280 281 8 bias
+281 282 9 voltages
+282 283 10 v0-v5
+283 284 11 supplied
+284 285 7 to
+285 286 6 according
+286 287 5 produced
+287 288 18 . 5.22035582508
+288
+0 289 1 this
+289 290 2 driving
+290 291 3 signal
+291 292 4 is
+292 293 14 power
+293 294 13 the
+294 295 15 source
+295 296 16 circuit
+296 297 17 32
+297 298 12 from
+298 299 11 supplied
+299 300 10 v0-v5
+300 301 8 bias
+301 302 9 voltages
+302 303 7 to
+303 304 6 according
+304 305 5 produced
+305 306 18 . 6.76080086603
+306
+0 307 1 this
+307 308 2 driving
+308 309 3 signal
+309 310 4 is
+310 311 13 the
+311 312 14 power
+312 313 15 source
+313 314 16 circuit
+314 315 17 32
+315 316 12 from
+316 317 11 supplied
+317 318 7 to
+318 319 8 bias
+319 320 9 voltages
+320 321 10 v0-v5
+321 322 6 according
+322 323 5 produced
+323 324 18 . 6.76080086603
+324

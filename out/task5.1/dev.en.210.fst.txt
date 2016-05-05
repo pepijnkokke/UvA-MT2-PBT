@@ -1,0 +1,252 @@
+0 1 1 the
+1 2 2 erasing
+2 3 3 verify
+3 4 4 operation
+4 5 7 all
+5 6 8 memory
+6 7 9 cells
+7 8 6 whether
+8 9 5 determines
+9 10 10 are
+10 11 12 on
+11 12 11 turned
+12 13 13 . 0.719391525469
+13
+0 14 1 the
+14 15 2 erasing
+15 16 3 verify
+16 17 4 operation
+17 18 7 all
+18 19 8 memory
+19 20 9 cells
+20 21 10 are
+21 22 6 whether
+22 23 5 determines
+23 24 12 on
+24 25 11 turned
+25 26 13 . 3.11205705157
+26
+0 27 1 the
+27 28 2 erasing
+28 29 3 verify
+29 30 4 operation
+30 31 7 all
+31 32 8 memory
+32 33 9 cells
+33 34 10 are
+34 35 6 whether
+35 36 12 on
+36 37 11 turned
+37 38 5 determines
+38 39 13 . 6.12431862708
+39
+0 40 1 the
+40 41 2 erasing
+41 42 3 verify
+42 43 4 operation
+43 44 7 all
+44 45 8 memory
+45 46 9 cells
+46 47 6 whether
+47 48 10 are
+48 49 12 on
+49 50 11 turned
+50 51 5 determines
+51 52 13 . 5.2080278952
+52
+0 53 1 the
+53 54 2 erasing
+54 55 3 verify
+55 56 4 operation
+56 57 7 all
+57 58 8 memory
+58 59 9 cells
+59 60 10 are
+60 61 12 on
+61 62 11 turned
+62 63 6 whether
+63 64 5 determines
+64 65 13 . 1.37072843597
+65
+0 66 1 the
+66 67 2 erasing
+67 68 3 verify
+68 69 4 operation
+69 70 7 all
+70 71 8 memory
+71 72 9 cells
+72 73 6 whether
+73 74 5 determines
+74 75 12 on
+75 76 10 are
+76 77 11 turned
+77 78 13 . 3.75719501294
+78
+0 79 2 erasing
+79 80 1 the
+80 81 3 verify
+81 82 4 operation
+82 83 7 all
+83 84 8 memory
+84 85 9 cells
+85 86 6 whether
+86 87 5 determines
+87 88 10 are
+88 89 12 on
+89 90 11 turned
+90 91 13 . 4.69720227143
+91
+0 92 1 the
+92 93 2 erasing
+93 94 3 verify
+94 95 4 operation
+95 96 7 all
+96 97 8 memory
+97 98 9 cells
+98 99 6 whether
+99 100 5 determines
+100 101 10 are
+101 102 11 turned
+102 103 12 on
+103 104 13 . 2.59306811716
+104
+0 105 1 the
+105 106 2 erasing
+106 107 3 verify
+107 108 4 operation
+108 109 8 memory
+109 110 7 all
+110 111 9 cells
+111 112 6 whether
+112 113 5 determines
+113 114 10 are
+114 115 12 on
+115 116 11 turned
+116 117 13 . 7.9160780963
+117
+0 118 1 the
+118 119 2 erasing
+119 120 3 verify
+120 121 4 operation
+121 122 7 all
+122 123 8 memory
+123 124 9 cells
+124 125 10 are
+125 126 6 whether
+126 127 5 determines
+127 128 11 turned
+128 129 12 on
+129 130 13 . 6.12431862708
+130
+0 131 1 the
+131 132 2 erasing
+132 133 3 verify
+133 134 4 operation
+134 135 7 all
+135 136 8 memory
+136 137 9 cells
+137 138 10 are
+138 139 11 turned
+139 140 6 whether
+140 141 5 determines
+141 142 12 on
+142 143 13 . 3.32095824617
+143
+0 144 1 the
+144 145 2 erasing
+145 146 3 verify
+146 147 4 operation
+147 148 7 all
+148 149 8 memory
+149 150 9 cells
+150 151 6 whether
+151 152 10 are
+152 153 11 turned
+153 154 5 determines
+154 155 12 on
+155 156 13 . 6.81746580763
+156
+0 157 1 the
+157 158 2 erasing
+158 159 3 verify
+159 160 4 operation
+160 161 7 all
+161 162 8 memory
+162 163 9 cells
+163 164 6 whether
+164 165 12 on
+165 166 10 are
+166 167 11 turned
+167 168 5 determines
+168 169 13 . 7.22293091574
+169
+0 170 1 the
+170 171 2 erasing
+171 172 3 verify
+172 173 4 operation
+173 174 7 all
+174 175 8 memory
+175 176 9 cells
+176 177 12 on
+177 178 10 are
+178 179 11 turned
+179 180 6 whether
+180 181 5 determines
+181 182 13 . 4.78058388037
+182
+0 183 2 erasing
+183 184 1 the
+184 185 3 verify
+185 186 4 operation
+186 187 7 all
+187 188 8 memory
+188 189 9 cells
+189 190 10 are
+190 191 12 on
+191 192 11 turned
+192 193 6 whether
+193 194 5 determines
+194 195 13 . 4.73802426595
+195
+0 196 1 the
+196 197 2 erasing
+197 198 3 verify
+198 199 4 operation
+199 200 7 all
+200 201 8 memory
+201 202 9 cells
+202 203 10 are
+203 204 11 turned
+204 205 6 whether
+205 206 12 on
+206 207 5 determines
+207 208 13 . 6.81746580763
+208
+0 209 1 the
+209 210 2 erasing
+210 211 3 verify
+211 212 4 operation
+212 213 7 all
+213 214 8 memory
+214 215 9 cells
+215 216 10 are
+216 217 11 turned
+217 218 12 on
+218 219 6 whether
+219 220 5 determines
+220 221 13 . 3.21559773051
+221
+0 222 2 erasing
+222 223 1 the
+223 224 3 verify
+224 225 4 operation
+225 226 7 all
+226 227 8 memory
+227 228 9 cells
+228 229 6 whether
+229 230 5 determines
+230 231 12 on
+231 232 10 are
+232 233 11 turned
+233 234 13 . 7.22293091574
+234

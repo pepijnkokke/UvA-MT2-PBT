@@ -1,0 +1,17 @@
+0 1 1 the
+1 2 2 suction
+2 3 3 plate
+3 4 4 24
+4 5 5 has
+5 6 6 a
+6 7 7 hollow
+7 8 8 inner
+8 9 9 space
+9 10 10 communicating
+10 11 11 with
+11 12 12 the
+12 13 13 suction
+13 14 14 holes
+14 15 15 30
+15 16 16 .
+16

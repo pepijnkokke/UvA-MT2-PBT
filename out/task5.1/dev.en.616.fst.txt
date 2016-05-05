@@ -1,0 +1,195 @@
+0 1 1 the
+1 2 2 substrate
+2 3 3 temperature
+3 4 6 the
+4 5 7 amorphous
+5 6 8 silicon
+6 7 9 film
+7 8 4 in
+8 9 5 forming
+9 10 10 was
+10 11 12 at
+11 12 11 set
+12 13 13 150-550.degree.
+13 14 14 c. 0.909646189155
+14
+0 15 1 the
+15 16 2 substrate
+16 17 6 the
+17 18 3 temperature
+18 19 7 amorphous
+19 20 8 silicon
+20 21 9 film
+21 22 4 in
+22 23 5 forming
+23 24 10 was
+24 25 12 at
+25 26 11 set
+26 27 13 150-550.degree.
+27 28 14 c. 5.92692602597
+28
+0 29 1 the
+29 30 2 substrate
+30 31 6 the
+31 32 7 amorphous
+32 33 8 silicon
+33 34 9 film
+34 35 4 in
+35 36 5 forming
+36 37 3 temperature
+37 38 10 was
+38 39 12 at
+39 40 11 set
+40 41 13 150-550.degree.
+41 42 14 c. 2.88240358825
+42
+0 43 1 the
+43 44 6 the
+44 45 7 amorphous
+45 46 8 silicon
+46 47 9 film
+47 48 4 in
+48 49 5 forming
+49 50 2 substrate
+50 51 3 temperature
+51 52 10 was
+52 53 12 at
+53 54 11 set
+54 55 13 150-550.degree.
+55 56 14 c. 4.54063166485
+56
+0 57 1 the
+57 58 2 substrate
+58 59 3 temperature
+59 60 6 the
+60 61 7 amorphous
+61 62 8 silicon
+62 63 9 film
+63 64 4 in
+64 65 5 forming
+65 66 10 was
+66 67 12 at
+67 68 13 150-550.degree.
+68 69 11 set
+69 70 14 c. 5.92692602597
+70
+0 71 1 the
+71 72 2 substrate
+72 73 6 the
+73 74 7 amorphous
+74 75 8 silicon
+75 76 9 film
+76 77 3 temperature
+77 78 4 in
+78 79 5 forming
+79 80 10 was
+80 81 12 at
+81 82 11 set
+82 83 13 150-550.degree.
+83 84 14 c. 5.92692602597
+84
+0 85 6 the
+85 86 7 amorphous
+86 87 8 silicon
+87 88 9 film
+88 89 4 in
+89 90 5 forming
+90 91 1 the
+91 92 2 substrate
+92 93 3 temperature
+93 94 10 was
+94 95 12 at
+95 96 11 set
+96 97 13 150-550.degree.
+97 98 14 c. 2.93119375242
+98
+0 99 1 the
+99 100 2 substrate
+100 101 3 temperature
+101 102 6 the
+102 103 7 amorphous
+103 104 8 silicon
+104 105 4 in
+105 106 5 forming
+106 107 9 film
+107 108 10 was
+108 109 12 at
+109 110 11 set
+110 111 13 150-550.degree.
+111 112 14 c. 2.46119012317
+112
+0 113 1 the
+113 114 2 substrate
+114 115 3 temperature
+115 116 6 the
+116 117 7 amorphous
+117 118 8 silicon
+118 119 9 film
+119 120 4 in
+120 121 5 forming
+121 122 10 was
+122 123 13 150-550.degree.
+123 124 12 at
+124 125 11 set
+125 126 14 c. 1.44958921149
+126
+0 127 1 the
+127 128 2 substrate
+128 129 6 the
+129 130 3 temperature
+130 131 7 amorphous
+131 132 8 silicon
+132 133 9 film
+133 134 4 in
+134 135 5 forming
+135 136 10 was
+136 137 13 150-550.degree.
+137 138 12 at
+138 139 11 set
+139 140 14 c. 5.92692602597
+140
+0 141 1 the
+141 142 2 substrate
+142 143 6 the
+143 144 7 amorphous
+144 145 8 silicon
+145 146 4 in
+146 147 5 forming
+147 148 3 temperature
+148 149 9 film
+149 150 10 was
+150 151 12 at
+151 152 11 set
+152 153 13 150-550.degree.
+153 154 14 c. 4.54063166485
+154
+0 155 6 the
+155 156 7 amorphous
+156 157 8 silicon
+157 158 4 in
+158 159 5 forming
+159 160 1 the
+160 161 2 substrate
+161 162 3 temperature
+162 163 9 film
+163 164 10 was
+164 165 12 at
+165 166 11 set
+166 167 13 150-550.degree.
+167 168 14 c. 5.23377884541
+168
+0 169 1 the
+169 170 2 substrate
+170 171 3 temperature
+171 172 6 the
+172 173 7 amorphous
+173 174 8 silicon
+174 175 9 film
+175 176 5 forming
+176 177 4 in
+177 178 10 was
+178 179 12 at
+179 180 11 set
+180 181 13 150-550.degree.
+181 182 14 c. 2.03510572786
+182

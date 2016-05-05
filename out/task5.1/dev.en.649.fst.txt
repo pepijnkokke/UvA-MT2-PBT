@@ -1,0 +1,80 @@
+0 1 4 the
+1 2 5 edge
+2 3 6 emphasis
+3 4 7 circuit
+4 5 8 114
+5 6 3 from
+6 7 1 output
+7 8 2 signals
+8 9 16 a
+9 10 17 connector
+10 11 18 115
+11 12 15 via
+12 13 9 are
+13 14 12 the
+14 15 13 controller
+15 16 14 2
+16 17 11 to
+17 18 10 output
+18 19 19 . 1.33433462219
+19
+0 20 4 the
+20 21 5 edge
+21 22 6 emphasis
+22 23 7 circuit
+23 24 8 114
+24 25 3 from
+25 26 1 output
+26 27 2 signals
+27 28 9 are
+28 29 16 a
+29 30 17 connector
+30 31 18 115
+31 32 15 via
+32 33 12 the
+33 34 13 controller
+34 35 14 2
+35 36 11 to
+36 37 10 output
+37 38 19 . 0.620605059562
+38
+0 39 4 the
+39 40 5 edge
+40 41 6 emphasis
+41 42 7 circuit
+42 43 8 114
+43 44 3 from
+44 45 1 output
+45 46 2 signals
+46 47 16 a
+47 48 17 connector
+48 49 18 115
+49 50 15 via
+50 51 9 are
+51 52 12 the
+52 53 13 controller
+53 54 14 2
+54 55 10 output
+55 56 11 to
+56 57 19 . 3.08534443224
+57
+0 58 4 the
+58 59 5 edge
+59 60 6 emphasis
+60 61 7 circuit
+61 62 8 114
+62 63 3 from
+63 64 1 output
+64 65 2 signals
+65 66 9 are
+66 67 16 a
+67 68 17 connector
+68 69 18 115
+69 70 15 via
+70 71 12 the
+71 72 13 controller
+72 73 14 2
+73 74 10 output
+74 75 11 to
+75 76 19 . 1.87514107817
+76

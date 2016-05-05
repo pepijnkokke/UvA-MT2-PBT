@@ -1,0 +1,76 @@
+0 1 5 the
+1 2 6 dividable
+2 3 7 program
+3 4 8 ,
+4 5 9 a
+5 6 10 music
+6 7 11 exclusive
+7 8 12 program
+8 9 14 be
+9 10 15 mentioned
+10 11 13 can
+11 12 16 for
+12 13 4 of
+13 14 2 an
+14 15 3 example
+15 16 1 as
+16 17 17 instance
+17 18 18 . 0.425231551848
+18
+0 19 5 the
+19 20 6 dividable
+20 21 7 program
+21 22 8 ,
+22 23 9 a
+23 24 10 music
+24 25 11 exclusive
+25 26 12 program
+26 27 14 be
+27 28 15 mentioned
+28 29 13 can
+29 30 4 of
+30 31 2 an
+31 32 3 example
+32 33 16 for
+33 34 1 as
+34 35 17 instance
+35 36 18 . 4.43609385594
+36
+0 37 5 the
+37 38 6 dividable
+38 39 7 program
+39 40 8 ,
+40 41 9 a
+41 42 10 music
+42 43 11 exclusive
+43 44 12 program
+44 45 14 be
+45 46 15 mentioned
+46 47 16 for
+47 48 13 can
+48 49 4 of
+49 50 2 an
+50 51 3 example
+51 52 1 as
+52 53 17 instance
+53 54 18 . 3.81492017501
+54
+0 55 5 the
+55 56 6 dividable
+56 57 7 program
+57 58 8 ,
+58 59 9 a
+59 60 10 music
+60 61 11 exclusive
+61 62 12 program
+62 63 15 mentioned
+63 64 14 be
+64 65 13 can
+65 66 16 for
+66 67 4 of
+67 68 2 an
+68 69 3 example
+69 70 1 as
+70 71 17 instance
+71 72 18 . 1.16315080981
+72

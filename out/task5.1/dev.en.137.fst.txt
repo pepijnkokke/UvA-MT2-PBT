@@ -1,0 +1,270 @@
+0 1 1 this
+1 2 4 of
+2 3 3 prevention
+3 4 11 the
+4 5 12 input
+5 6 13 signal
+6 7 10 of
+7 8 9 change
+8 9 8 during
+9 10 2 enables
+10 11 5 a
+11 12 6 through
+12 13 7 current
+13 14 14 . 0.460370357268
+14
+0 15 1 this
+15 16 4 of
+16 17 3 prevention
+17 18 11 the
+18 19 12 input
+19 20 13 signal
+20 21 10 of
+21 22 9 change
+22 23 2 enables
+23 24 8 during
+24 25 5 a
+25 26 6 through
+26 27 7 current
+27 28 14 . 7.89580837708
+28
+0 29 1 this
+29 30 4 of
+30 31 3 prevention
+31 32 11 the
+32 33 12 input
+33 34 13 signal
+34 35 2 enables
+35 36 10 of
+36 37 9 change
+37 38 8 during
+38 39 5 a
+39 40 6 through
+40 41 7 current
+41 42 14 . 7.89580837708
+42
+0 43 1 this
+43 44 4 of
+44 45 3 prevention
+45 46 11 the
+46 47 12 input
+47 48 13 signal
+48 49 10 of
+49 50 8 during
+50 51 9 change
+51 52 2 enables
+52 53 5 a
+53 54 6 through
+54 55 7 current
+55 56 14 . 2.51131331429
+56
+0 57 1 this
+57 58 4 of
+58 59 3 prevention
+59 60 2 enables
+60 61 11 the
+61 62 12 input
+62 63 13 signal
+63 64 10 of
+64 65 9 change
+65 66 8 during
+66 67 5 a
+67 68 6 through
+68 69 7 current
+69 70 14 . 6.10404890786
+70
+0 71 1 this
+71 72 4 of
+72 73 3 prevention
+73 74 11 the
+74 75 12 input
+75 76 13 signal
+76 77 10 of
+77 78 9 change
+78 79 8 during
+79 80 5 a
+80 81 6 through
+81 82 7 current
+82 83 2 enables
+83 84 14 . 7.89580837708
+84
+0 85 1 this
+85 86 4 of
+86 87 3 prevention
+87 88 11 the
+88 89 12 input
+89 90 13 signal
+90 91 2 enables
+91 92 10 of
+92 93 8 during
+93 94 9 change
+94 95 5 a
+95 96 6 through
+96 97 7 current
+97 98 14 . 7.89580837708
+98
+0 99 1 this
+99 100 4 of
+100 101 3 prevention
+101 102 11 the
+102 103 12 input
+103 104 13 signal
+104 105 10 of
+105 106 2 enables
+106 107 5 a
+107 108 9 change
+108 109 8 during
+109 110 6 through
+110 111 7 current
+111 112 14 . 7.89580837708
+112
+0 113 1 this
+113 114 4 of
+114 115 3 prevention
+115 116 11 the
+116 117 12 input
+117 118 13 signal
+118 119 10 of
+119 120 9 change
+120 121 2 enables
+121 122 5 a
+122 123 6 through
+123 124 7 current
+124 125 8 during
+125 126 14 . 6.50951401596
+126
+0 127 1 this
+127 128 4 of
+128 129 3 prevention
+129 130 2 enables
+130 131 11 the
+131 132 12 input
+132 133 13 signal
+133 134 10 of
+134 135 8 during
+135 136 9 change
+136 137 5 a
+137 138 6 through
+138 139 7 current
+139 140 14 . 6.50951401596
+140
+0 141 1 this
+141 142 3 prevention
+142 143 4 of
+143 144 11 the
+144 145 12 input
+145 146 13 signal
+146 147 10 of
+147 148 9 change
+148 149 8 during
+149 150 2 enables
+150 151 5 a
+151 152 6 through
+152 153 7 current
+153 154 14 . 7.20266119652
+154
+0 155 1 this
+155 156 4 of
+156 157 3 prevention
+157 158 11 the
+158 159 12 input
+159 160 13 signal
+160 161 9 change
+161 162 10 of
+162 163 8 during
+163 164 2 enables
+164 165 5 a
+165 166 6 through
+166 167 7 current
+167 168 14 . 5.69858379975
+168
+0 169 1 this
+169 170 4 of
+170 171 3 prevention
+171 172 11 the
+172 173 12 input
+173 174 13 signal
+174 175 10 of
+175 176 9 change
+176 177 8 during
+177 178 2 enables
+178 179 6 through
+179 180 7 current
+180 181 5 a
+181 182 14 . 7.20266119652
+182
+0 183 1 this
+183 184 4 of
+184 185 3 prevention
+185 186 11 the
+186 187 12 input
+187 188 13 signal
+188 189 10 of
+189 190 9 change
+190 191 8 during
+191 192 6 through
+192 193 7 current
+193 194 2 enables
+194 195 5 a
+195 196 14 . 1.70344588761
+196
+0 197 1 this
+197 198 2 enables
+198 199 4 of
+199 200 3 prevention
+200 201 11 the
+201 202 12 input
+202 203 13 signal
+203 204 10 of
+204 205 9 change
+205 206 8 during
+206 207 5 a
+207 208 6 through
+208 209 7 current
+209 210 14 . 4.59997151108
+210
+0 211 1 this
+211 212 4 of
+212 213 3 prevention
+213 214 11 the
+214 215 12 input
+215 216 13 signal
+216 217 2 enables
+217 218 9 change
+218 219 10 of
+219 220 8 during
+220 221 5 a
+221 222 6 through
+222 223 7 current
+223 224 14 . 7.89580837708
+224
+0 225 1 this
+225 226 3 prevention
+226 227 4 of
+227 228 2 enables
+228 229 11 the
+229 230 12 input
+230 231 13 signal
+231 232 10 of
+232 233 9 change
+233 234 8 during
+234 235 5 a
+235 236 6 through
+236 237 7 current
+237 238 14 . 6.28637046465
+238
+0 239 1 this
+239 240 4 of
+240 241 3 prevention
+241 242 11 the
+242 243 12 input
+243 244 13 signal
+244 245 10 of
+245 246 8 during
+246 247 9 change
+247 248 6 through
+248 249 7 current
+249 250 2 enables
+250 251 5 a
+251 252 14 . 2.50673664727
+252

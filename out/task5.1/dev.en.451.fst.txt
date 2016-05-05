@@ -1,0 +1,209 @@
+0 1 1 &quot;
+1 2 6 the
+2 3 7 location
+3 4 5 that
+4 5 2 free
+5 6 3 &quot;
+6 7 4 means
+7 8 8 is
+8 9 9 undecided
+9 10 10 . 0.858590699567
+10
+0 11 1 &quot;
+11 12 6 the
+12 13 5 that
+13 14 7 location
+14 15 2 free
+15 16 3 &quot;
+16 17 4 means
+17 18 8 is
+18 19 9 undecided
+19 20 10 . 8.41449579318
+20
+0 21 1 &quot;
+21 22 2 free
+22 23 6 the
+23 24 7 location
+24 25 5 that
+25 26 3 &quot;
+26 27 4 means
+27 28 8 is
+28 29 9 undecided
+29 30 10 . 5.23644196283
+30
+0 31 1 &quot;
+31 32 6 the
+32 33 7 location
+33 34 2 free
+34 35 3 &quot;
+35 36 4 means
+36 37 5 that
+37 38 8 is
+38 39 9 undecided
+39 40 10 . 3.24970981925
+40
+0 41 1 &quot;
+41 42 6 the
+42 43 7 location
+43 44 5 that
+44 45 2 free
+45 46 3 &quot;
+46 47 4 means
+47 48 9 undecided
+48 49 8 is
+49 50 10 . 4.07069037132
+50
+0 51 6 the
+51 52 7 location
+52 53 1 &quot;
+53 54 5 that
+54 55 2 free
+55 56 3 &quot;
+56 57 4 means
+57 58 8 is
+58 59 9 undecided
+59 60 10 . 2.96775842151
+60
+0 61 1 &quot;
+61 62 7 location
+62 63 6 the
+63 64 5 that
+64 65 2 free
+65 66 3 &quot;
+66 67 4 means
+67 68 8 is
+68 69 9 undecided
+69 70 10 . 7.72134861262
+70
+0 71 1 &quot;
+71 72 2 free
+72 73 6 the
+73 74 7 location
+74 75 3 &quot;
+75 76 5 that
+76 77 4 means
+77 78 8 is
+78 79 9 undecided
+79 80 10 . 8.41449579318
+80
+0 81 1 &quot;
+81 82 5 that
+82 83 6 the
+83 84 7 location
+84 85 2 free
+85 86 3 &quot;
+86 87 4 means
+87 88 8 is
+88 89 9 undecided
+89 90 10 . 4.40716260794
+90
+0 91 6 the
+91 92 7 location
+92 93 1 &quot;
+93 94 2 free
+94 95 3 &quot;
+95 96 5 that
+96 97 4 means
+97 98 8 is
+98 99 9 undecided
+99 100 10 . 8.41449579318
+100
+0 101 1 &quot;
+101 102 2 free
+102 103 6 the
+103 104 7 location
+104 105 3 &quot;
+105 106 4 means
+106 107 5 that
+107 108 8 is
+108 109 9 undecided
+109 110 10 . 6.80505788074
+110
+0 111 6 the
+111 112 7 location
+112 113 5 that
+113 114 1 &quot;
+114 115 2 free
+115 116 3 &quot;
+116 117 4 means
+117 118 8 is
+118 119 9 undecided
+119 120 10 . 1.25753942856
+120
+0 121 1 &quot;
+121 122 2 free
+122 123 3 &quot;
+123 124 6 the
+124 125 7 location
+125 126 5 that
+126 127 4 means
+127 128 8 is
+128 129 9 undecided
+129 130 10 . 2.11738647324
+130
+0 131 1 &quot;
+131 132 7 location
+132 133 5 that
+133 134 6 the
+134 135 2 free
+135 136 3 &quot;
+136 137 4 means
+137 138 8 is
+138 139 9 undecided
+139 140 10 . 7.72134861262
+140
+0 141 1 &quot;
+141 142 6 the
+142 143 5 that
+143 144 2 free
+144 145 3 &quot;
+145 146 4 means
+146 147 7 location
+147 148 8 is
+148 149 9 undecided
+149 150 10 . 7.72134861262
+150
+0 151 1 &quot;
+151 152 2 free
+152 153 6 the
+153 154 7 location
+154 155 5 that
+155 156 3 &quot;
+156 157 4 means
+157 158 9 undecided
+158 159 8 is
+159 160 10 . 8.41449579318
+160
+0 161 1 &quot;
+161 162 6 the
+162 163 7 location
+163 164 2 free
+164 165 3 &quot;
+165 166 4 means
+166 167 5 that
+167 168 9 undecided
+168 169 8 is
+169 170 10 . 6.62273632395
+170
+0 171 6 the
+171 172 7 location
+172 173 1 &quot;
+173 174 2 free
+174 175 3 &quot;
+175 176 4 means
+176 177 5 that
+177 178 8 is
+178 179 9 undecided
+179 180 10 . 3.22153894229
+180
+0 181 6 the
+181 182 7 location
+182 183 1 &quot;
+183 184 5 that
+184 185 2 free
+185 186 3 &quot;
+186 187 4 means
+187 188 9 undecided
+188 189 8 is
+189 190 10 . 6.11191070018
+190

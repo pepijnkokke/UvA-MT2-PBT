@@ -1,0 +1,54 @@
+0 1 1 the
+1 2 2 knowledge
+2 3 3 includes
+3 4 7 a
+4 5 8 data
+5 6 9 base
+6 7 10 which
+7 8 6 of
+8 9 4 the
+9 10 5 structure
+10 11 14 the
+11 12 15 relevant
+12 13 16 domain
+13 14 13 in
+14 15 11 is
+15 16 12 used
+16 17 17 . 0.589223963029
+17
+0 18 1 the
+18 19 2 knowledge
+19 20 7 a
+20 21 8 data
+21 22 9 base
+22 23 10 which
+23 24 6 of
+24 25 4 the
+25 26 5 structure
+26 27 3 includes
+27 28 14 the
+28 29 15 relevant
+29 30 16 domain
+30 31 13 in
+31 32 11 is
+32 33 12 used
+33 34 17 . 0.813176903299
+34
+0 35 1 the
+35 36 2 knowledge
+36 37 3 includes
+37 38 7 a
+38 39 8 data
+39 40 9 base
+40 41 10 which
+41 42 14 the
+42 43 15 relevant
+43 44 16 domain
+44 45 13 in
+45 46 6 of
+46 47 4 the
+47 48 5 structure
+48 49 11 is
+49 50 12 used
+50 51 17 . 6.32256523992
+51

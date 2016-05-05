@@ -1,0 +1,12 @@
+0 1 1 the
+1 2 2 accurate
+2 3 3 gps
+3 4 4 310
+4 5 5 will
+5 6 6 be
+6 7 7 now
+7 8 8 explained
+8 9 9 in
+9 10 10 detail
+10 11 11 .
+11

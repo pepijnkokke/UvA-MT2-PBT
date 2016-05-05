@@ -1,0 +1,160 @@
+0 1 1 the
+1 2 2 reproduced
+2 3 3 data
+3 4 4 is
+4 5 11 the
+5 6 12 external
+6 7 13 apparatus
+7 8 14 10
+8 9 10 to
+9 10 7 the
+10 11 8 processor
+11 12 9 21
+12 13 6 from
+13 14 5 transferred
+14 15 15 . 0.244942950849
+15
+0 16 2 reproduced
+16 17 1 the
+17 18 3 data
+18 19 4 is
+19 20 11 the
+20 21 12 external
+21 22 13 apparatus
+22 23 14 10
+23 24 10 to
+24 25 7 the
+25 26 8 processor
+26 27 9 21
+27 28 6 from
+28 29 5 transferred
+29 30 15 . 8.29978317195
+30
+0 31 1 the
+31 32 3 data
+32 33 2 reproduced
+33 34 4 is
+34 35 11 the
+35 36 12 external
+36 37 13 apparatus
+37 38 14 10
+38 39 10 to
+39 40 7 the
+40 41 8 processor
+41 42 9 21
+42 43 6 from
+43 44 5 transferred
+44 45 15 . 6.35387302289
+45
+0 46 1 the
+46 47 2 reproduced
+47 48 3 data
+48 49 4 is
+49 50 11 the
+50 51 12 external
+51 52 13 apparatus
+52 53 14 10
+53 54 10 to
+54 55 7 the
+55 56 8 processor
+56 57 9 21
+57 58 5 transferred
+58 59 6 from
+59 60 15 . 7.60663599139
+60
+0 61 1 the
+61 62 2 reproduced
+62 63 3 data
+63 64 4 is
+64 65 11 the
+65 66 12 external
+66 67 13 apparatus
+67 68 14 10
+68 69 7 the
+69 70 8 processor
+70 71 9 21
+71 72 10 to
+72 73 6 from
+73 74 5 transferred
+74 75 15 . 2.32852133216
+75
+0 76 2 reproduced
+76 77 3 data
+77 78 1 the
+78 79 4 is
+79 80 11 the
+80 81 12 external
+81 82 13 apparatus
+82 83 14 10
+83 84 10 to
+84 85 7 the
+85 86 8 processor
+86 87 9 21
+87 88 6 from
+88 89 5 transferred
+89 90 15 . 2.23832625303
+90
+0 91 1 the
+91 92 2 reproduced
+92 93 3 data
+93 94 11 the
+94 95 12 external
+95 96 13 apparatus
+96 97 14 10
+97 98 4 is
+98 99 10 to
+99 100 7 the
+100 101 8 processor
+101 102 9 21
+102 103 6 from
+103 104 5 transferred
+104 105 15 . 7.60663599139
+105
+0 106 3 data
+106 107 1 the
+107 108 2 reproduced
+108 109 4 is
+109 110 11 the
+110 111 12 external
+111 112 13 apparatus
+112 113 14 10
+113 114 10 to
+114 115 7 the
+115 116 8 processor
+116 117 9 21
+117 118 6 from
+118 119 5 transferred
+119 120 15 . 6.50802370272
+120
+0 121 1 the
+121 122 2 reproduced
+122 123 3 data
+123 124 4 is
+124 125 12 external
+125 126 13 apparatus
+126 127 11 the
+127 128 14 10
+128 129 10 to
+129 130 7 the
+130 131 8 processor
+131 132 9 21
+132 133 6 from
+133 134 5 transferred
+134 135 15 . 8.29978317195
+135
+0 136 1 the
+136 137 2 reproduced
+137 138 3 data
+138 139 4 is
+139 140 11 the
+140 141 12 external
+141 142 13 apparatus
+142 143 14 10
+143 144 10 to
+144 145 8 processor
+145 146 9 21
+146 147 7 the
+147 148 6 from
+148 149 5 transferred
+149 150 15 . 4.77342264733
+150

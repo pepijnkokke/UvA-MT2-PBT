@@ -1,0 +1,133 @@
+0 1 1 this
+1 2 2 invention
+2 3 5 a
+3 4 6 fluff
+4 5 7 suppression
+5 6 8 apparatus
+6 7 9 which
+7 8 4 to
+8 9 3 relates
+9 10 10 is
+10 11 15 a
+11 12 16 spun
+12 13 17 yarn
+13 14 14 for
+14 15 11 a
+15 16 12 working
+16 17 13 apparatus
+17 18 18 . 0.201664519637
+18
+0 19 1 this
+19 20 2 invention
+20 21 5 a
+21 22 6 fluff
+22 23 7 suppression
+23 24 8 apparatus
+24 25 9 which
+25 26 4 to
+26 27 3 relates
+27 28 10 is
+28 29 15 a
+29 30 16 spun
+30 31 17 yarn
+31 32 11 a
+32 33 14 for
+33 34 12 working
+34 35 13 apparatus
+35 36 18 . 8.04942705711
+36
+0 37 1 this
+37 38 2 invention
+38 39 5 a
+39 40 6 fluff
+40 41 7 suppression
+41 42 8 apparatus
+42 43 9 which
+43 44 10 is
+44 45 4 to
+45 46 3 relates
+46 47 15 a
+47 48 16 spun
+48 49 17 yarn
+49 50 14 for
+50 51 11 a
+51 52 12 working
+52 53 13 apparatus
+53 54 18 . 3.87503978722
+54
+0 55 1 this
+55 56 2 invention
+56 57 5 a
+57 58 6 fluff
+58 59 7 suppression
+59 60 8 apparatus
+60 61 9 which
+61 62 4 to
+62 63 3 relates
+63 64 10 is
+64 65 15 a
+65 66 16 spun
+66 67 14 for
+67 68 17 yarn
+68 69 11 a
+69 70 12 working
+70 71 13 apparatus
+71 72 18 . 7.35627987655
+72
+0 73 1 this
+73 74 2 invention
+74 75 5 a
+75 76 6 fluff
+76 77 9 which
+77 78 7 suppression
+78 79 8 apparatus
+79 80 4 to
+80 81 3 relates
+81 82 10 is
+82 83 15 a
+83 84 16 spun
+84 85 17 yarn
+85 86 14 for
+86 87 11 a
+87 88 12 working
+88 89 13 apparatus
+89 90 18 . 6.95081476844
+90
+0 91 1 this
+91 92 2 invention
+92 93 5 a
+93 94 6 fluff
+94 95 7 suppression
+95 96 8 apparatus
+96 97 4 to
+97 98 3 relates
+98 99 9 which
+99 100 10 is
+100 101 15 a
+101 102 16 spun
+102 103 17 yarn
+103 104 14 for
+104 105 11 a
+105 106 12 working
+106 107 13 apparatus
+107 108 18 . 1.84486929455
+108
+0 109 1 this
+109 110 2 invention
+110 111 5 a
+111 112 6 fluff
+112 113 7 suppression
+113 114 8 apparatus
+114 115 10 is
+115 116 9 which
+116 117 4 to
+117 118 3 relates
+118 119 15 a
+119 120 16 spun
+120 121 17 yarn
+121 122 14 for
+122 123 11 a
+123 124 12 working
+124 125 13 apparatus
+125 126 18 . 6.25766758788
+126

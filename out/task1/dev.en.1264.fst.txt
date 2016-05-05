@@ -1,0 +1,14 @@
+0 1 1 a
+1 2 2 simple
+2 3 3 construction
+3 4 4 using
+4 5 5 a
+5 6 6 one-dimensional
+6 7 7 photoelectric
+7 8 8 element
+8 9 9 array
+9 10 10 is
+10 11 11 shown
+11 12 12 below
+12 13 13 .
+13

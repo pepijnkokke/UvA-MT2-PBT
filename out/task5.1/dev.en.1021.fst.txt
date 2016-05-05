@@ -1,0 +1,240 @@
+0 1 1 furthermore
+1 2 2 ,
+2 3 3 the
+3 4 4 arms
+4 5 5 12a
+5 6 6 do
+6 7 11 holding
+7 8 12 the
+8 9 13 carrier
+9 10 14 11
+10 11 10 for
+11 12 9 projections
+12 13 8 have
+13 14 7 not
+14 15 15 . 0.242064753163
+15
+0 16 1 furthermore
+16 17 2 ,
+17 18 3 the
+18 19 4 arms
+19 20 5 12a
+20 21 6 do
+21 22 11 holding
+22 23 12 the
+23 24 13 carrier
+24 25 14 11
+25 26 10 for
+26 27 8 have
+27 28 9 projections
+28 29 7 not
+29 30 15 . 2.1125062534
+30
+0 31 1 furthermore
+31 32 2 ,
+32 33 3 the
+33 34 4 arms
+34 35 5 12a
+35 36 6 do
+36 37 11 holding
+37 38 12 the
+38 39 13 carrier
+39 40 14 11
+40 41 9 projections
+41 42 10 for
+42 43 8 have
+43 44 7 not
+44 45 15 . 4.52438776818
+45
+0 46 1 furthermore
+46 47 2 ,
+47 48 3 the
+48 49 4 arms
+49 50 5 12a
+50 51 6 do
+51 52 11 holding
+52 53 13 carrier
+53 54 12 the
+54 55 14 11
+55 56 10 for
+56 57 9 projections
+57 58 8 have
+58 59 7 not
+59 60 15 . 6.30216099543
+60
+0 61 1 furthermore
+61 62 3 the
+62 63 2 ,
+63 64 4 arms
+64 65 5 12a
+65 66 6 do
+66 67 11 holding
+67 68 12 the
+68 69 13 carrier
+69 70 14 11
+70 71 10 for
+71 72 9 projections
+72 73 8 have
+73 74 7 not
+74 75 15 . 5.04939802693
+75
+0 76 1 furthermore
+76 77 2 ,
+77 78 3 the
+78 79 4 arms
+79 80 5 12a
+80 81 6 do
+81 82 11 holding
+82 83 12 the
+83 84 13 carrier
+84 85 14 11
+85 86 10 for
+86 87 9 projections
+87 88 7 not
+88 89 8 have
+89 90 15 . 8.09392046466
+90
+0 91 1 furthermore
+91 92 2 ,
+92 93 3 the
+93 94 4 arms
+94 95 5 12a
+95 96 6 do
+96 97 11 holding
+97 98 13 carrier
+98 99 12 the
+99 100 14 11
+100 101 10 for
+101 102 8 have
+102 103 9 projections
+103 104 7 not
+104 105 15 . 7.17762973278
+105
+0 106 1 furthermore
+106 107 2 ,
+107 108 3 the
+108 109 4 arms
+109 110 5 12a
+110 111 6 do
+111 112 13 carrier
+112 113 11 holding
+113 114 12 the
+114 115 14 11
+115 116 10 for
+116 117 9 projections
+117 118 8 have
+118 119 7 not
+119 120 15 . 8.09392046466
+120
+0 121 1 furthermore
+121 122 2 ,
+122 123 3 the
+123 124 4 arms
+124 125 5 12a
+125 126 6 do
+126 127 11 holding
+127 128 12 the
+128 129 13 carrier
+129 130 14 11
+130 131 9 projections
+131 132 8 have
+132 133 10 for
+133 134 7 not
+134 135 15 . 8.78706764522
+135
+0 136 1 furthermore
+136 137 3 the
+137 138 2 ,
+138 139 4 arms
+139 140 5 12a
+140 141 6 do
+141 142 11 holding
+142 143 12 the
+143 144 13 carrier
+144 145 14 11
+145 146 10 for
+146 147 8 have
+147 148 9 projections
+148 149 7 not
+149 150 15 . 6.58984306788
+150
+0 151 1 furthermore
+151 152 2 ,
+152 153 4 arms
+153 154 5 12a
+154 155 3 the
+155 156 6 do
+156 157 11 holding
+157 158 12 the
+158 159 13 carrier
+159 160 14 11
+160 161 10 for
+161 162 9 projections
+162 163 8 have
+163 164 7 not
+164 165 15 . 2.64288201109
+165
+0 166 1 furthermore
+166 167 2 ,
+167 168 3 the
+168 169 4 arms
+169 170 5 12a
+170 171 6 do
+171 172 11 holding
+172 173 13 carrier
+173 174 14 11
+174 175 12 the
+175 176 10 for
+176 177 9 projections
+177 178 8 have
+178 179 7 not
+179 180 15 . 8.09392046466
+180
+0 181 1 furthermore
+181 182 2 ,
+182 183 3 the
+183 184 4 arms
+184 185 5 12a
+185 186 6 do
+186 187 11 holding
+187 188 12 the
+188 189 10 for
+189 190 13 carrier
+190 191 14 11
+191 192 9 projections
+192 193 8 have
+193 194 7 not
+194 195 15 . 8.78706764522
+195
+0 196 1 furthermore
+196 197 3 the
+197 198 4 arms
+198 199 2 ,
+199 200 5 12a
+200 201 6 do
+201 202 11 holding
+202 203 12 the
+203 204 13 carrier
+204 205 14 11
+205 206 10 for
+206 207 9 projections
+207 208 8 have
+208 209 7 not
+209 210 15 . 8.78706764522
+210
+0 211 1 furthermore
+211 212 2 ,
+212 213 3 the
+213 214 6 do
+214 215 4 arms
+215 216 5 12a
+216 217 11 holding
+217 218 12 the
+218 219 13 carrier
+219 220 14 11
+220 221 10 for
+221 222 9 projections
+222 223 8 have
+223 224 7 not
+224 225 15 . 8.09392046466
+225

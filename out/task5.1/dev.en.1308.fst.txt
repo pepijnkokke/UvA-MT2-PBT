@@ -1,0 +1,63 @@
+0 1 1 furthermore
+1 2 2 ,
+2 3 8 the
+3 4 9 first
+4 5 10 and
+5 6 11 second
+6 7 12 embodiments
+7 8 7 of
+8 9 3 the
+9 10 4 logic
+10 11 5 gate
+11 12 6 20
+12 13 17 a
+13 14 18 nor
+14 15 19 gate
+15 16 16 of
+16 17 15 constituted
+17 18 14 be
+18 19 13 can
+19 20 20 . 0.124784785023
+20
+0 21 1 furthermore
+21 22 2 ,
+22 23 8 the
+23 24 9 first
+24 25 10 and
+25 26 11 second
+26 27 12 embodiments
+27 28 7 of
+28 29 3 the
+29 30 4 logic
+30 31 5 gate
+31 32 6 20
+32 33 17 a
+33 34 18 nor
+34 35 19 gate
+35 36 16 of
+36 37 14 be
+37 38 15 constituted
+38 39 13 can
+39 40 20 . 4.47828333608
+40
+0 41 1 furthermore
+41 42 2 ,
+42 43 9 first
+43 44 8 the
+44 45 10 and
+45 46 11 second
+46 47 12 embodiments
+47 48 7 of
+48 49 3 the
+49 50 4 logic
+50 51 5 gate
+51 52 6 20
+52 53 17 a
+53 54 18 nor
+54 55 19 gate
+55 56 16 of
+56 57 15 constituted
+57 58 14 be
+58 59 13 can
+59 60 20 . 2.24469111457
+60

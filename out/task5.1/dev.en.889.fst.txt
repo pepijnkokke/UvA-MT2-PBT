@@ -1,0 +1,23 @@
+0 1 1 the
+1 2 2 normal
+2 3 3 control
+3 4 4 system
+4 5 5 mainly
+5 6 7 a
+6 7 8 speed
+7 8 9 control
+8 9 10 system
+9 10 6 includes
+10 11 11 ,
+11 12 12 a
+12 13 13 transient
+13 14 14 control
+14 15 15 system
+15 16 16 ,
+16 17 17 and
+17 18 18 a
+18 19 19 position
+19 20 20 control
+20 21 21 system
+21 22 22 . -0.0
+22

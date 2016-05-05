@@ -1,0 +1,114 @@
+0 1 1 the
+1 2 2 main
+2 3 3 chamber
+3 4 4 6
+4 5 6 a
+5 6 7 whole
+6 7 5 as
+7 8 8 has
+8 9 9 a
+9 10 10 water
+10 11 11 jacket
+11 12 12 structure
+12 13 13 to
+13 14 14 avoid
+14 15 15 undue
+15 16 16 temperature
+16 17 17 rise
+17 18 18 . 0.0273158106465
+18
+0 19 1 the
+19 20 2 main
+20 21 3 chamber
+21 22 4 6
+22 23 6 a
+23 24 7 whole
+24 25 5 as
+25 26 9 a
+26 27 8 has
+27 28 10 water
+28 29 11 jacket
+29 30 12 structure
+30 31 13 to
+31 32 14 avoid
+32 33 15 undue
+33 34 16 temperature
+34 35 17 rise
+35 36 18 . 5.30031536921
+36
+0 37 1 the
+37 38 2 main
+38 39 3 chamber
+39 40 4 6
+40 41 6 a
+41 42 7 whole
+42 43 5 as
+43 44 8 has
+44 45 9 a
+45 46 10 water
+46 47 11 jacket
+47 48 12 structure
+48 49 13 to
+49 50 15 undue
+50 51 14 avoid
+51 52 16 temperature
+52 53 17 rise
+53 54 18 . 6.90975328164
+54
+0 55 1 the
+55 56 2 main
+56 57 3 chamber
+57 58 4 6
+58 59 6 a
+59 60 7 whole
+60 61 8 has
+61 62 5 as
+62 63 9 a
+63 64 10 water
+64 65 11 jacket
+65 66 12 structure
+66 67 13 to
+67 68 14 avoid
+68 69 15 undue
+69 70 16 temperature
+70 71 17 rise
+71 72 18 . 5.52345892053
+72
+0 73 1 the
+73 74 2 main
+74 75 3 chamber
+75 76 4 6
+76 77 6 a
+77 78 7 whole
+78 79 5 as
+79 80 9 a
+80 81 10 water
+81 82 8 has
+82 83 11 jacket
+83 84 12 structure
+84 85 13 to
+85 86 14 avoid
+86 87 15 undue
+87 88 16 temperature
+88 89 17 rise
+89 90 18 . 4.51185800884
+90
+0 91 1 the
+91 92 2 main
+92 93 3 chamber
+93 94 4 6
+94 95 6 a
+95 96 7 whole
+96 97 5 as
+97 98 8 has
+98 99 9 a
+99 100 10 water
+100 101 11 jacket
+101 102 13 to
+102 103 14 avoid
+103 104 12 structure
+104 105 15 undue
+105 106 16 temperature
+106 107 17 rise
+107 108 18 . 5.11799381242
+108
