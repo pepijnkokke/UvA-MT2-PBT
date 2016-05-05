@@ -97,20 +97,19 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
             curr_state = curr_state + 1
 
             # Delete the source phrase.
-            for i in range(0,len(source)):
+            for i in range(0, len(source)):
 
-                next_state = curr_state + 1
                 if i == 0:
                     os.write("0 {} {} <epsilon> {}\n".
                              format(curr_state, source[i], weight))
                 else:
+                    next_state = curr_state + 1
                     os.write("{} {} {} <epsilon> 0\n".
                              format(curr_state, next_state, source[i]))
-                curr_state = next_state
+                    curr_state = next_state
 
             # Insert the target phrase.
-            for j in range(0,len(target)):
-
+            for j in range(0, len(target)):
                 next_state = curr_state + 1
                 if j < last_index:
                     os.write("{} {} <epsilon> {} 0\n".
@@ -118,6 +117,7 @@ def phrasetable_to_fst(sentence, phrasetable, weight_map, os = sys.stdout):
                 else:
                     os.write("{} 0 <epsilon> {} 0\n".
                              format(curr_state, target[j]))
+
                 curr_state = next_state
 
 
