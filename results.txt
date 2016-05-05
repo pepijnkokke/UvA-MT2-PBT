@@ -1,2 +1,8 @@
+perl data/multi-bleu.perl data/dev.ja < out/task4/monotone.der >> results.txt
+BLEU = 13.35, 51.4/21.1/8.7/3.4 (BP=1.000, ratio=1.208, hyp_len=46185, ref_len=38248)
+perl data/multi-bleu.perl data/dev.ja < out/task4/monotone.trans
 BLEU = 13.67, 53.6/21.7/8.8/3.4 (BP=1.000, ratio=1.118, hyp_len=42752, ref_len=38248)
+perl data/multi-bleu.perl data/dev.ja < out/task6/lattice.der
+BLEU = 18.63, 56.9/26.6/12.7/6.2 (BP=1.000, ratio=1.071, hyp_len=40960, ref_len=38248)
+perl data/multi-bleu.perl data/dev.ja < out/task6/lattice.trans
 BLEU = 18.92, 58.3/27.1/12.8/6.3 (BP=1.000, ratio=1.019, hyp_len=38963, ref_len=38248)
