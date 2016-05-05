@@ -1,0 +1,144 @@
+0 1 6 the
+1 2 7 region
+2 3 5 of
+3 4 3 impurity
+4 5 4 concentration
+5 6 1 the
+6 7 2 surface
+7 8 8 is
+8 9 9 about
+9 10 10 1.times.10.sup.16
+10 11 11 cm.sup.-2. 0.441215347045
+11
+0 12 6 the
+12 13 7 region
+13 14 5 of
+14 15 3 impurity
+15 16 4 concentration
+16 17 1 the
+17 18 2 surface
+18 19 8 is
+19 20 10 1.times.10.sup.16
+20 21 9 about
+21 22 11 cm.sup.-2. 4.3069325996
+22
+0 23 6 the
+23 24 7 region
+24 25 5 of
+25 26 1 the
+26 27 3 impurity
+27 28 4 concentration
+28 29 2 surface
+29 30 8 is
+30 31 9 about
+31 32 10 1.times.10.sup.16
+32 33 11 cm.sup.-2. 7.99581205371
+33
+0 34 6 the
+34 35 7 region
+35 36 5 of
+36 37 3 impurity
+37 38 1 the
+38 39 2 surface
+39 40 4 concentration
+40 41 8 is
+41 42 9 about
+42 43 10 1.times.10.sup.16
+43 44 11 cm.sup.-2. 8.68895923427
+44
+0 45 6 the
+45 46 7 region
+46 47 3 impurity
+47 48 5 of
+48 49 4 concentration
+49 50 1 the
+50 51 2 surface
+51 52 8 is
+52 53 9 about
+53 54 10 1.times.10.sup.16
+54 55 11 cm.sup.-2. 4.68162604904
+55
+0 56 6 the
+56 57 7 region
+57 58 5 of
+58 59 4 concentration
+59 60 3 impurity
+60 61 1 the
+61 62 2 surface
+62 63 8 is
+63 64 9 about
+64 65 10 1.times.10.sup.16
+65 66 11 cm.sup.-2. 6.60951769259
+66
+0 67 6 the
+67 68 7 region
+68 69 5 of
+69 70 3 impurity
+70 71 4 concentration
+71 72 1 the
+72 73 2 surface
+73 74 8 is
+74 75 9 about
+75 76 11 cm.sup.-2.
+76 77 10 1.times.10.sup.16 7.99581205371
+77
+0 78 6 the
+78 79 7 region
+79 80 5 of
+80 81 3 impurity
+81 82 4 concentration
+82 83 2 surface
+83 84 1 the
+84 85 8 is
+85 86 9 about
+86 87 10 1.times.10.sup.16
+87 88 11 cm.sup.-2. 4.54582450788
+88
+0 89 6 the
+89 90 7 region
+90 91 5 of
+91 92 3 impurity
+92 93 4 concentration
+93 94 1 the
+94 95 2 surface
+95 96 8 is
+96 97 10 1.times.10.sup.16
+97 98 11 cm.sup.-2.
+98 99 9 about 1.5572607238
+99
+0 100 6 the
+100 101 7 region
+101 102 5 of
+102 103 1 the
+103 104 3 impurity
+104 105 4 concentration
+105 106 2 surface
+106 107 8 is
+107 108 10 1.times.10.sup.16
+108 109 9 about
+109 110 11 cm.sup.-2. 8.68895923427
+110
+0 111 6 the
+111 112 7 region
+112 113 5 of
+113 114 1 the
+114 115 2 surface
+115 116 3 impurity
+116 117 4 concentration
+117 118 8 is
+118 119 9 about
+119 120 10 1.times.10.sup.16
+120 121 11 cm.sup.-2. 2.20585188281
+121
+0 122 6 the
+122 123 7 region
+123 124 3 impurity
+124 125 5 of
+125 126 4 concentration
+126 127 1 the
+127 128 2 surface
+128 129 8 is
+129 130 10 1.times.10.sup.16
+130 131 9 about
+131 132 11 cm.sup.-2. 8.68895923427
+132

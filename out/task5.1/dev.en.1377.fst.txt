@@ -1,0 +1,336 @@
+0 1 1 selection
+1 2 2 gates
+2 3 3 sg1
+3 4 4 and
+4 5 5 sg2
+5 6 6 are
+6 7 9 row
+7 8 10 directions
+8 9 8 in
+9 10 7 continuous
+10 11 11 . 0.177734136161
+11
+0 12 1 selection
+12 13 2 gates
+13 14 3 sg1
+14 15 4 and
+15 16 5 sg2
+16 17 6 are
+17 18 9 row
+18 19 10 directions
+19 20 7 continuous
+20 21 8 in
+21 22 11 . 4.87620714096
+22
+0 23 1 selection
+23 24 2 gates
+24 25 3 sg1
+25 26 4 and
+26 27 5 sg2
+27 28 9 row
+28 29 10 directions
+29 30 6 are
+30 31 8 in
+31 32 7 continuous
+32 33 11 . 6.79312975314
+33
+0 34 1 selection
+34 35 2 gates
+35 36 3 sg1
+36 37 4 and
+37 38 5 sg2
+38 39 10 directions
+39 40 6 are
+40 41 9 row
+41 42 8 in
+42 43 7 continuous
+43 44 11 . 8.40256766558
+44
+0 45 1 selection
+45 46 2 gates
+46 47 3 sg1
+47 48 4 and
+48 49 5 sg2
+49 50 9 row
+50 51 10 directions
+51 52 8 in
+52 53 6 are
+53 54 7 continuous
+54 55 11 . 2.32952313147
+55
+0 56 1 selection
+56 57 2 gates
+57 58 3 sg1
+58 59 6 are
+59 60 4 and
+60 61 5 sg2
+61 62 9 row
+62 63 10 directions
+63 64 8 in
+64 65 7 continuous
+65 66 11 . 8.40256766558
+66
+0 67 1 selection
+67 68 2 gates
+68 69 3 sg1
+69 70 4 and
+70 71 5 sg2
+71 72 6 are
+72 73 8 in
+73 74 9 row
+74 75 10 directions
+75 76 7 continuous
+76 77 11 . 6.09998257258
+77
+0 78 2 gates
+78 79 3 sg1
+79 80 1 selection
+80 81 4 and
+81 82 5 sg2
+82 83 6 are
+83 84 9 row
+84 85 10 directions
+85 86 8 in
+86 87 7 continuous
+87 88 11 . 9.09571484614
+88
+0 89 1 selection
+89 90 2 gates
+90 91 3 sg1
+91 92 4 and
+92 93 5 sg2
+93 94 9 row
+94 95 10 directions
+95 96 6 are
+96 97 7 continuous
+97 98 8 in
+98 99 11 . 8.40256766558
+99
+0 100 1 selection
+100 101 2 gates
+101 102 3 sg1
+102 103 4 and
+103 104 5 sg2
+104 105 10 directions
+105 106 6 are
+106 107 8 in
+107 108 9 row
+108 109 7 continuous
+109 110 11 . 9.09571484614
+110
+0 111 1 selection
+111 112 2 gates
+112 113 3 sg1
+113 114 4 and
+114 115 5 sg2
+115 116 9 row
+116 117 10 directions
+117 118 8 in
+118 119 7 continuous
+119 120 6 are
+120 121 11 . 4.35951639774
+121
+0 122 1 selection
+122 123 2 gates
+123 124 3 sg1
+124 125 4 and
+125 126 5 sg2
+126 127 6 are
+127 128 7 continuous
+128 129 9 row
+129 130 10 directions
+130 131 8 in
+131 132 11 . 3.63612933199
+132
+0 133 4 and
+133 134 1 selection
+134 135 2 gates
+135 136 3 sg1
+136 137 5 sg2
+137 138 6 are
+138 139 9 row
+139 140 10 directions
+140 141 8 in
+141 142 7 continuous
+142 143 11 . 9.09571484614
+143
+0 144 1 selection
+144 145 2 gates
+145 146 3 sg1
+146 147 4 and
+147 148 5 sg2
+148 149 9 row
+149 150 10 directions
+150 151 7 continuous
+151 152 8 in
+152 153 6 are
+153 154 11 . 7.70942048502
+154
+0 155 1 selection
+155 156 2 gates
+156 157 3 sg1
+157 158 4 and
+158 159 5 sg2
+159 160 8 in
+160 161 9 row
+161 162 10 directions
+162 163 6 are
+163 164 7 continuous
+164 165 11 . 7.4862769337
+165
+0 166 1 selection
+166 167 2 gates
+167 168 3 sg1
+168 169 4 and
+169 170 5 sg2
+170 171 6 are
+171 172 8 in
+172 173 7 continuous
+173 174 9 row
+174 175 10 directions
+175 176 11 . 7.99710255747
+176
+0 177 3 sg1
+177 178 4 and
+178 179 1 selection
+179 180 2 gates
+180 181 5 sg2
+181 182 6 are
+182 183 9 row
+183 184 10 directions
+184 185 8 in
+185 186 7 continuous
+186 187 11 . 9.09571484614
+187
+0 188 2 gates
+188 189 3 sg1
+189 190 4 and
+190 191 5 sg2
+191 192 1 selection
+192 193 6 are
+193 194 9 row
+194 195 10 directions
+195 196 8 in
+196 197 7 continuous
+197 198 11 . 8.40256766558
+198
+0 199 1 selection
+199 200 2 gates
+200 201 3 sg1
+201 202 4 and
+202 203 9 row
+203 204 10 directions
+204 205 8 in
+205 206 5 sg2
+206 207 6 are
+207 208 7 continuous
+208 209 11 . 6.09998257258
+209
+0 210 1 selection
+210 211 2 gates
+211 212 3 sg1
+212 213 9 row
+213 214 10 directions
+214 215 4 and
+215 216 5 sg2
+216 217 6 are
+217 218 8 in
+218 219 7 continuous
+219 220 11 . 9.09571484614
+220
+0 221 1 selection
+221 222 2 gates
+222 223 3 sg1
+223 224 4 and
+224 225 5 sg2
+225 226 8 in
+226 227 9 row
+227 228 10 directions
+228 229 7 continuous
+229 230 6 are
+230 231 11 . 9.09571484614
+231
+0 232 1 selection
+232 233 2 gates
+233 234 3 sg1
+234 235 4 and
+235 236 5 sg2
+236 237 6 are
+237 238 7 continuous
+238 239 8 in
+239 240 9 row
+240 241 10 directions
+241 242 11 . 5.38214277943
+242
+0 243 6 are
+243 244 1 selection
+244 245 2 gates
+245 246 3 sg1
+246 247 4 and
+247 248 5 sg2
+248 249 9 row
+249 250 10 directions
+250 251 8 in
+251 252 7 continuous
+252 253 11 . 8.40256766558
+253
+0 254 1 selection
+254 255 2 gates
+255 256 3 sg1
+256 257 5 sg2
+257 258 6 are
+258 259 9 row
+259 260 10 directions
+260 261 8 in
+261 262 7 continuous
+262 263 4 and
+263 264 11 . 9.09571484614
+264
+0 265 1 selection
+265 266 2 gates
+266 267 3 sg1
+267 268 9 row
+268 269 10 directions
+269 270 4 and
+270 271 5 sg2
+271 272 6 are
+272 273 7 continuous
+273 274 8 in
+274 275 11 . 8.40256766558
+275
+0 276 1 selection
+276 277 2 gates
+277 278 3 sg1
+278 279 4 and
+279 280 5 sg2
+280 281 8 in
+281 282 7 continuous
+282 283 6 are
+283 284 9 row
+284 285 10 directions
+285 286 11 . 9.09571484614
+286
+0 287 1 selection
+287 288 2 gates
+288 289 3 sg1
+289 290 4 and
+290 291 5 sg2
+291 292 7 continuous
+292 293 9 row
+293 294 10 directions
+294 295 8 in
+295 296 6 are
+296 297 11 . 7.99710255747
+297
+0 298 3 sg1
+298 299 4 and
+299 300 5 sg2
+300 301 1 selection
+301 302 2 gates
+302 303 6 are
+303 304 9 row
+304 305 10 directions
+305 306 8 in
+306 307 7 continuous
+307 308 11 . 5.38214277943
+308

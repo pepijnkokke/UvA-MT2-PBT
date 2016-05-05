@@ -1,0 +1,187 @@
+0 1 1 light
+1 2 2 receiving
+2 3 3 portion
+3 4 4 50
+4 5 5 is
+5 6 13 a
+6 7 14 similar
+7 8 15 manner
+8 9 12 in
+9 10 9 a
+10 11 10 stopper
+11 12 11 mechanism
+12 13 8 with
+13 14 6 also
+14 15 7 provided
+15 16 16 . 0.574741937041
+16
+0 17 1 light
+17 18 2 receiving
+18 19 3 portion
+19 20 4 50
+20 21 5 is
+21 22 13 a
+22 23 14 similar
+23 24 15 manner
+24 25 12 in
+25 26 9 a
+26 27 10 stopper
+27 28 11 mechanism
+28 29 6 also
+29 30 8 with
+30 31 7 provided
+31 32 16 . 5.18470063976
+32
+0 33 1 light
+33 34 2 receiving
+34 35 3 portion
+35 36 4 50
+36 37 5 is
+37 38 13 a
+38 39 14 similar
+39 40 15 manner
+40 41 12 in
+41 42 9 a
+42 43 10 stopper
+43 44 11 mechanism
+44 45 8 with
+45 46 7 provided
+46 47 6 also
+47 48 16 . 1.63278704072
+48
+0 49 1 light
+49 50 2 receiving
+50 51 3 portion
+51 52 4 50
+52 53 5 is
+53 54 13 a
+54 55 14 similar
+55 56 15 manner
+56 57 12 in
+57 58 9 a
+58 59 10 stopper
+59 60 8 with
+60 61 11 mechanism
+61 62 6 also
+62 63 7 provided
+63 64 16 . 7.30496417596
+64
+0 65 1 light
+65 66 2 receiving
+66 67 3 portion
+67 68 4 50
+68 69 5 is
+69 70 13 a
+70 71 14 similar
+71 72 15 manner
+72 73 12 in
+73 74 9 a
+74 75 10 stopper
+75 76 11 mechanism
+76 77 6 also
+77 78 7 provided
+78 79 8 with
+79 80 16 . 5.03628063464
+80
+0 81 1 light
+81 82 2 receiving
+82 83 3 portion
+83 84 4 50
+84 85 5 is
+85 86 13 a
+86 87 15 manner
+87 88 14 similar
+88 89 12 in
+89 90 9 a
+90 91 10 stopper
+91 92 11 mechanism
+92 93 8 with
+93 94 6 also
+94 95 7 provided
+95 96 16 . 8.40357646463
+96
+0 97 1 light
+97 98 2 receiving
+98 99 3 portion
+99 100 4 50
+100 101 5 is
+101 102 13 a
+102 103 14 similar
+103 104 15 manner
+104 105 12 in
+105 106 6 also
+106 107 9 a
+107 108 10 stopper
+108 109 11 mechanism
+109 110 8 with
+110 111 7 provided
+111 112 16 . 1.48587085479
+112
+0 113 1 light
+113 114 2 receiving
+114 115 3 portion
+115 116 4 50
+116 117 5 is
+117 118 13 a
+118 119 14 similar
+119 120 15 manner
+120 121 12 in
+121 122 9 a
+122 123 10 stopper
+123 124 8 with
+124 125 6 also
+125 126 7 provided
+126 127 11 mechanism
+127 128 16 . 6.7941385522
+128
+0 129 2 receiving
+129 130 3 portion
+130 131 1 light
+131 132 4 50
+132 133 5 is
+133 134 13 a
+134 135 14 similar
+135 136 15 manner
+136 137 12 in
+137 138 9 a
+138 139 10 stopper
+139 140 11 mechanism
+140 141 8 with
+141 142 6 also
+142 143 7 provided
+143 144 16 . 8.40357646463
+144
+0 145 1 light
+145 146 2 receiving
+146 147 3 portion
+147 148 4 50
+148 149 5 is
+149 150 13 a
+150 151 14 similar
+151 152 15 manner
+152 153 12 in
+153 154 9 a
+154 155 10 stopper
+155 156 8 with
+156 157 7 provided
+157 158 11 mechanism
+158 159 6 also
+159 160 16 . 7.71042928407
+160
+0 161 1 light
+161 162 2 receiving
+162 163 3 portion
+163 164 4 50
+164 165 5 is
+165 166 13 a
+166 167 14 similar
+167 168 15 manner
+168 169 12 in
+169 170 6 also
+170 171 9 a
+171 172 10 stopper
+172 173 11 mechanism
+173 174 7 provided
+174 175 8 with
+175 176 16 . 7.30496417596
+176

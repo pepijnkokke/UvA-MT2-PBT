@@ -1,0 +1,160 @@
+0 1 1 corresponding
+1 2 2 parts
+2 3 3 /
+3 4 12 each
+4 5 13 parts
+5 6 14 table
+6 7 11 of
+7 8 8 the
+8 9 9 right
+9 10 10 side
+10 11 7 on
+11 12 4 programs
+12 13 5 are
+13 14 6 shown
+14 15 15 . 0.828341083958
+15
+0 16 1 corresponding
+16 17 2 parts
+17 18 3 /
+18 19 12 each
+19 20 13 parts
+20 21 14 table
+21 22 11 of
+22 23 8 the
+23 24 9 right
+24 25 10 side
+25 26 4 programs
+26 27 7 on
+27 28 5 are
+28 29 6 shown
+29 30 15 . 7.22693601849
+30
+0 31 1 corresponding
+31 32 2 parts
+32 33 3 /
+33 34 12 each
+34 35 13 parts
+35 36 11 of
+36 37 14 table
+37 38 8 the
+38 39 9 right
+39 40 10 side
+40 41 7 on
+41 42 4 programs
+42 43 5 are
+43 44 6 shown
+44 45 15 . 6.53378883794
+45
+0 46 1 corresponding
+46 47 2 parts
+47 48 3 /
+48 49 12 each
+49 50 13 parts
+50 51 14 table
+51 52 8 the
+52 53 11 of
+53 54 9 right
+54 55 10 side
+55 56 7 on
+56 57 4 programs
+57 58 5 are
+58 59 6 shown
+59 60 15 . 7.22693601849
+60
+0 61 1 corresponding
+61 62 2 parts
+62 63 3 /
+63 64 12 each
+64 65 13 parts
+65 66 14 table
+66 67 11 of
+67 68 9 right
+68 69 8 the
+69 70 10 side
+70 71 7 on
+71 72 4 programs
+72 73 5 are
+73 74 6 shown
+74 75 15 . 4.45434729626
+75
+0 76 1 corresponding
+76 77 2 parts
+77 78 3 /
+78 79 12 each
+79 80 13 parts
+80 81 14 table
+81 82 11 of
+82 83 8 the
+83 84 9 right
+84 85 10 side
+85 86 7 on
+86 87 4 programs
+87 88 6 shown
+88 89 5 are
+89 90 15 . 7.22693601849
+90
+0 91 1 corresponding
+91 92 2 parts
+92 93 3 /
+93 94 12 each
+94 95 13 parts
+95 96 14 table
+96 97 11 of
+97 98 8 the
+98 99 9 right
+99 100 10 side
+100 101 4 programs
+101 102 5 are
+102 103 7 on
+103 104 6 shown
+104 105 15 . 6.53378883794
+105
+0 106 1 corresponding
+106 107 2 parts
+107 108 3 /
+108 109 12 each
+109 110 13 parts
+110 111 14 table
+111 112 11 of
+112 113 8 the
+113 114 9 right
+114 115 10 side
+115 116 7 on
+116 117 5 are
+117 118 6 shown
+118 119 4 programs
+119 120 15 . 0.688796194726
+120
+0 121 1 corresponding
+121 122 2 parts
+122 123 12 each
+123 124 13 parts
+124 125 14 table
+125 126 11 of
+126 127 3 /
+127 128 8 the
+128 129 9 right
+129 130 10 side
+130 131 7 on
+131 132 4 programs
+132 133 5 are
+133 134 6 shown
+134 135 15 . 3.85964018851
+135
+0 136 1 corresponding
+136 137 2 parts
+137 138 3 /
+138 139 12 each
+139 140 13 parts
+140 141 14 table
+141 142 11 of
+142 143 4 programs
+143 144 8 the
+144 145 9 right
+145 146 10 side
+146 147 7 on
+147 148 5 are
+148 149 6 shown
+149 150 15 . 3.76120011569
+150

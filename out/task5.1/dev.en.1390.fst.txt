@@ -1,0 +1,120 @@
+0 1 1 a
+1 2 2 first
+2 3 3 track
+3 4 4 groove
+4 5 5 12
+5 6 6 is
+6 7 15 the
+7 8 16 crank
+8 9 17 spindle
+9 10 18 2
+10 11 14 of
+11 12 10 the
+12 13 11 outer
+13 14 12 peripheral
+14 15 13 surface
+15 16 9 on
+16 17 7 integrally
+17 18 8 formed
+18 19 19 . 0.234274612371
+19
+0 20 1 a
+20 21 2 first
+21 22 3 track
+22 23 4 groove
+23 24 5 12
+24 25 6 is
+25 26 15 the
+26 27 16 crank
+27 28 17 spindle
+28 29 18 2
+29 30 14 of
+30 31 10 the
+31 32 11 outer
+32 33 12 peripheral
+33 34 13 surface
+34 35 7 integrally
+35 36 9 on
+36 37 8 formed
+37 38 19 . 3.86869788069
+38
+0 39 1 a
+39 40 2 first
+40 41 3 track
+41 42 4 groove
+42 43 5 12
+43 44 6 is
+44 45 15 the
+45 46 16 crank
+46 47 17 spindle
+47 48 18 2
+48 49 10 the
+49 50 14 of
+50 51 11 outer
+51 52 12 peripheral
+52 53 13 surface
+53 54 9 on
+54 55 7 integrally
+55 56 8 formed
+56 57 19 . 6.17128297369
+57
+0 58 1 a
+58 59 2 first
+59 60 3 track
+60 61 4 groove
+61 62 5 12
+62 63 6 is
+63 64 15 the
+64 65 16 crank
+65 66 17 spindle
+66 67 18 2
+67 68 14 of
+68 69 10 the
+69 70 11 outer
+70 71 12 peripheral
+71 72 13 surface
+72 73 9 on
+73 74 8 formed
+74 75 7 integrally
+75 76 19 . 1.70998315811
+76
+0 77 1 a
+77 78 2 first
+78 79 3 track
+79 80 4 groove
+80 81 5 12
+81 82 6 is
+82 83 15 the
+83 84 16 crank
+84 85 17 spindle
+85 86 18 2
+86 87 14 of
+87 88 11 outer
+88 89 10 the
+89 90 12 peripheral
+90 91 13 surface
+91 92 9 on
+92 93 7 integrally
+93 94 8 formed
+94 95 19 . 5.47813579312
+95
+0 96 2 first
+96 97 1 a
+97 98 3 track
+98 99 4 groove
+99 100 5 12
+100 101 6 is
+101 102 15 the
+102 103 16 crank
+103 104 17 spindle
+104 105 18 2
+105 106 14 of
+106 107 10 the
+107 108 11 outer
+108 109 12 peripheral
+109 110 13 surface
+110 111 9 on
+111 112 7 integrally
+112 113 8 formed
+113 114 19 . 7.08757370556
+114

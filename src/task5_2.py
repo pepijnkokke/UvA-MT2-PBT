@@ -157,7 +157,7 @@ if __name__ == "__main__":
 
     # Read the first N entries from DEV_EN.
     with open(dev_en, 'r') as f:
-        sentences = parse_sentences(f)
+        sentences = parse_sentences(f)[s:s+n]
 
     # Read the weights.
     with open(weights_lattice, 'r') as f: weight_list = f.readlines()
@@ -178,20 +178,20 @@ if __name__ == "__main__":
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        grammar_file = os.path.join(rules_nbest_dev,'grammar.{}'.format(i))
+        grammar_file = os.path.join(rules_nbest_dev,'grammar.{}'.format(j))
         with open(grammar_file, 'r') as f:
             phrasetable = f.readlines()
 
-        osyms_file = os.path.join(task5_2_out_dir,'dev.ja.{}.osyms'.format(i))
+        osyms_file = os.path.join(task5_2_out_dir,'dev.ja.{}.osyms'.format(j))
         with open(osyms_file, 'w') as f:
             phrasetable_to_osyms(sentence, phrasetable, f)
 
-        fst_txt_file = os.path.join(task5_2_out_dir,'grammar.{}.fst.txt'.format(i))
+        fst_txt_file = os.path.join(task5_2_out_dir,'grammar.{}.fst.txt'.format(j))
         with open(fst_txt_file, 'w') as f:
             phrasetable_to_fst(sentence, phrasetable, weight_map, f)
 
-        fst_file = os.path.join(task5_2_out_dir,'grammar.{}.fst'.format(i))
-        isyms_file = os.path.join(task5_1_out_dir,'dev.en.{}.osyms'.format(i))
+        fst_file = os.path.join(task5_2_out_dir,'grammar.{}.fst'.format(j))
+        isyms_file = os.path.join(task5_1_out_dir,'dev.en.{}.osyms'.format(j))
         subprocess.call(['fstcompile',
                          '--keep_isymbols', '--keep_osymbols',
                          '--isymbols={}'.format(isyms_file),
@@ -201,12 +201,12 @@ if __name__ == "__main__":
                          '--sort_type=ilabel',
                          fst_file,fst_file])
         #
-        # dot_file = os.path.join(task5_2_out_dir, 'grammar.{}.dot'.format(i))
+        # dot_file = os.path.join(task5_2_out_dir, 'grammar.{}.dot'.format(j))
         # subprocess.call(['fstdraw',
         #                  '--portrait=true',
         #                  fst_file, dot_file])
         #
-        # png_file = os.path.join(task5_2_out_dir, 'grammar.{}.png'.format(i))
+        # png_file = os.path.join(task5_2_out_dir, 'grammar.{}.png'.format(j))
         # subprocess.call(['dot', '-Tpng', '-Gdpi=3000', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")

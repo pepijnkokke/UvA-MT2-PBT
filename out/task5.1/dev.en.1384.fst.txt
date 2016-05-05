@@ -1,0 +1,144 @@
+0 1 4 the
+1 2 5 peripheral
+2 3 6 circuitry
+3 4 3 of
+4 5 1 the
+5 6 2 configuration
+6 7 7 will
+7 8 8 now
+8 9 9 be
+9 10 10 described
+10 11 11 . 1.00259226889
+11
+0 12 4 the
+12 13 5 peripheral
+13 14 6 circuitry
+14 15 1 the
+15 16 3 of
+16 17 2 configuration
+17 18 7 will
+18 19 8 now
+19 20 9 be
+20 21 10 described
+21 22 11 . 6.95635494882
+22
+0 23 4 the
+23 24 5 peripheral
+24 25 6 circuitry
+25 26 3 of
+26 27 2 configuration
+27 28 1 the
+28 29 7 will
+29 30 8 now
+30 31 9 be
+31 32 10 described
+32 33 11 . 1.8836842638
+33
+0 34 4 the
+34 35 5 peripheral
+35 36 6 circuitry
+36 37 3 of
+37 38 1 the
+38 39 2 configuration
+39 40 7 will
+40 41 9 be
+41 42 8 now
+42 43 10 described
+43 44 11 . 7.87264568069
+44
+0 45 4 the
+45 46 5 peripheral
+46 47 6 circuitry
+47 48 3 of
+48 49 1 the
+49 50 2 configuration
+50 51 7 will
+51 52 8 now
+52 53 10 described
+53 54 9 be
+54 55 11 . 3.29793470219
+55
+0 56 4 the
+56 57 5 peripheral
+57 58 6 circuitry
+58 59 1 the
+59 60 3 of
+60 61 2 configuration
+61 62 7 will
+62 63 8 now
+63 64 10 described
+64 65 9 be
+65 66 11 . 7.87264568069
+66
+0 67 1 the
+67 68 4 the
+68 69 5 peripheral
+69 70 6 circuitry
+70 71 3 of
+71 72 2 configuration
+72 73 7 will
+73 74 8 now
+74 75 9 be
+75 76 10 described
+76 77 11 . 1.56911137308
+77
+0 78 4 the
+78 79 5 peripheral
+79 80 6 circuitry
+80 81 7 will
+81 82 3 of
+82 83 1 the
+83 84 2 configuration
+84 85 8 now
+85 86 9 be
+86 87 10 described
+87 88 11 . 1.86629252109
+88
+0 89 4 the
+89 90 5 peripheral
+90 91 6 circuitry
+91 92 3 of
+92 93 2 configuration
+93 94 7 will
+94 95 1 the
+95 96 8 now
+96 97 9 be
+97 98 10 described
+98 99 11 . 4.20908403456
+99
+0 100 4 the
+100 101 5 peripheral
+101 102 6 circuitry
+102 103 3 of
+103 104 1 the
+104 105 2 configuration
+105 106 7 will
+106 107 9 be
+107 108 10 described
+108 109 8 now
+109 110 11 . 2.97854420285
+110
+0 111 4 the
+111 112 5 peripheral
+112 113 6 circuitry
+113 114 1 the
+114 115 2 configuration
+115 116 3 of
+116 117 7 will
+117 118 8 now
+118 119 9 be
+119 120 10 described
+120 121 11 . 7.87264568069
+121
+0 122 4 the
+122 123 5 peripheral
+123 124 6 circuitry
+124 125 3 of
+125 126 2 configuration
+126 127 1 the
+127 128 7 will
+128 129 8 now
+129 130 10 described
+130 131 9 be
+131 132 11 . 4.3172976192
+132

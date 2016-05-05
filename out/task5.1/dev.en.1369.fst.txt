@@ -1,0 +1,300 @@
+0 1 3 register
+1 2 4 odr
+2 3 5 prescribes
+3 4 2 defining
+4 5 1 operation
+5 6 6 dma
+6 7 7 transfer
+7 8 8 operations
+8 9 9 . 1.47022056882
+9
+0 10 3 register
+10 11 4 odr
+11 12 2 defining
+12 13 1 operation
+13 14 5 prescribes
+14 15 6 dma
+15 16 7 transfer
+16 17 8 operations
+17 18 9 . 0.830621937319
+18
+0 19 3 register
+19 20 4 odr
+20 21 5 prescribes
+21 22 6 dma
+22 23 7 transfer
+23 24 2 defining
+24 25 1 operation
+25 26 8 operations
+26 27 9 . 5.53769211279
+27
+0 28 3 register
+28 29 4 odr
+29 30 5 prescribes
+30 31 6 dma
+31 32 7 transfer
+32 33 8 operations
+33 34 2 defining
+34 35 1 operation
+35 36 9 . 2.19579447341
+36
+0 37 3 register
+37 38 4 odr
+38 39 2 defining
+39 40 1 operation
+40 41 6 dma
+41 42 7 transfer
+42 43 5 prescribes
+43 44 8 operations
+44 45 9 . 6.68282441709
+45
+0 46 3 register
+46 47 4 odr
+47 48 5 prescribes
+48 49 2 defining
+49 50 1 operation
+50 51 6 dma
+51 52 8 operations
+52 53 7 transfer
+53 54 9 . 7.93558738559
+54
+0 55 3 register
+55 56 4 odr
+56 57 2 defining
+57 58 1 operation
+58 59 5 prescribes
+59 60 6 dma
+60 61 8 operations
+61 62 7 transfer
+62 63 9 . 7.53012227748
+63
+0 64 4 odr
+64 65 3 register
+65 66 2 defining
+66 67 1 operation
+67 68 5 prescribes
+68 69 6 dma
+69 70 7 transfer
+70 71 8 operations
+71 72 9 . 7.24244020503
+72
+0 73 5 prescribes
+73 74 3 register
+74 75 4 odr
+75 76 2 defining
+76 77 1 operation
+77 78 6 dma
+78 79 7 transfer
+79 80 8 operations
+80 81 9 . 3.95590573169
+81
+0 82 2 defining
+82 83 3 register
+83 84 4 odr
+84 85 5 prescribes
+85 86 1 operation
+86 87 6 dma
+87 88 7 transfer
+88 89 8 operations
+89 90 9 . 7.24244020503
+90
+0 91 3 register
+91 92 4 odr
+92 93 2 defining
+93 94 1 operation
+94 95 6 dma
+95 96 7 transfer
+96 97 8 operations
+97 98 5 prescribes
+98 99 9 . 1.99673278875
+99
+0 100 2 defining
+100 101 3 register
+101 102 4 odr
+102 103 1 operation
+103 104 5 prescribes
+104 105 6 dma
+105 106 7 transfer
+106 107 8 operations
+107 108 9 . 7.01929665372
+108
+0 109 3 register
+109 110 2 defining
+110 111 1 operation
+111 112 4 odr
+112 113 5 prescribes
+113 114 6 dma
+114 115 7 transfer
+115 116 8 operations
+116 117 9 . 4.93985511204
+117
+0 118 4 odr
+118 119 5 prescribes
+119 120 3 register
+120 121 2 defining
+121 122 1 operation
+122 123 6 dma
+123 124 7 transfer
+124 125 8 operations
+125 126 9 . 7.24244020503
+126
+0 127 3 register
+127 128 4 odr
+128 129 6 dma
+129 130 7 transfer
+130 131 5 prescribes
+131 132 8 operations
+132 133 2 defining
+133 134 1 operation
+134 135 9 . 6.32614947316
+135
+0 136 4 odr
+136 137 2 defining
+137 138 3 register
+138 139 1 operation
+139 140 5 prescribes
+140 141 6 dma
+141 142 7 transfer
+142 143 8 operations
+143 144 9 . 8.62873456615
+144
+0 145 2 defining
+145 146 3 register
+146 147 4 odr
+147 148 5 prescribes
+148 149 6 dma
+149 150 7 transfer
+150 151 8 operations
+151 152 1 operation
+152 153 9 . 6.43150998881
+153
+0 154 3 register
+154 155 4 odr
+155 156 5 prescribes
+156 157 2 defining
+157 158 1 operation
+158 159 8 operations
+159 160 6 dma
+160 161 7 transfer
+161 162 9 . 4.50160018111
+162
+0 163 3 register
+163 164 4 odr
+164 165 2 defining
+165 166 1 operation
+166 167 5 prescribes
+167 168 8 operations
+168 169 6 dma
+169 170 7 transfer
+170 171 9 . 4.73691426804
+171
+0 172 3 register
+172 173 4 odr
+173 174 6 dma
+174 175 7 transfer
+175 176 8 operations
+176 177 5 prescribes
+177 178 2 defining
+178 179 1 operation
+179 180 9 . 5.73836280825
+180
+0 181 5 prescribes
+181 182 3 register
+182 183 4 odr
+183 184 6 dma
+184 185 7 transfer
+185 186 8 operations
+186 187 2 defining
+187 188 1 operation
+188 189 9 . 7.53012227748
+189
+0 190 4 odr
+190 191 5 prescribes
+191 192 2 defining
+192 193 3 register
+193 194 1 operation
+194 195 6 dma
+195 196 7 transfer
+196 197 8 operations
+197 198 9 . 8.62873456615
+198
+0 199 4 odr
+199 200 3 register
+200 201 2 defining
+201 202 1 operation
+202 203 6 dma
+203 204 7 transfer
+204 205 8 operations
+205 206 5 prescribes
+206 207 9 . 7.93558738559
+207
+0 208 1 operation
+208 209 3 register
+209 210 4 odr
+210 211 5 prescribes
+211 212 2 defining
+212 213 6 dma
+213 214 7 transfer
+214 215 8 operations
+215 216 9 . 7.24244020503
+216
+0 217 6 dma
+217 218 7 transfer
+218 219 3 register
+219 220 4 odr
+220 221 5 prescribes
+221 222 2 defining
+222 223 1 operation
+223 224 8 operations
+224 225 9 . 5.40985874128
+225
+0 226 1 operation
+226 227 3 register
+227 228 4 odr
+228 229 2 defining
+229 230 5 prescribes
+230 231 6 dma
+231 232 7 transfer
+232 233 8 operations
+233 234 9 . 5.4506807358
+234
+0 235 3 register
+235 236 4 odr
+236 237 2 defining
+237 238 1 operation
+238 239 8 operations
+239 240 5 prescribes
+240 241 6 dma
+241 242 7 transfer
+242 243 9 . 5.13222700468
+243
+0 244 5 prescribes
+244 245 2 defining
+245 246 3 register
+246 247 4 odr
+247 248 1 operation
+248 249 6 dma
+249 250 7 transfer
+250 251 8 operations
+251 252 9 . 5.19474736166
+252
+0 253 2 defining
+253 254 3 register
+254 255 4 odr
+255 256 1 operation
+256 257 6 dma
+257 258 7 transfer
+258 259 8 operations
+259 260 5 prescribes
+260 261 9 . 6.54929302447
+261
+0 262 1 operation
+262 263 3 register
+263 264 4 odr
+264 265 5 prescribes
+265 266 6 dma
+266 267 7 transfer
+267 268 8 operations
+268 269 2 defining
+269 270 9 . 6.32614947316
+270

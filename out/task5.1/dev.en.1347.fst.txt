@@ -1,0 +1,117 @@
+0 1 1 the
+1 2 2 embodiment
+2 3 3 2
+3 4 4 offers
+4 5 9 the
+5 6 10 embodiment
+6 7 11 1
+7 8 8 as
+8 9 5 the
+9 10 6 same
+10 11 7 advantages
+11 12 12 . 0.471499942183
+12
+0 13 1 the
+13 14 2 embodiment
+14 15 3 2
+15 16 9 the
+16 17 10 embodiment
+17 18 11 1
+18 19 8 as
+19 20 4 offers
+20 21 5 the
+21 22 6 same
+22 23 7 advantages
+23 24 12 . 1.12384794651
+24
+0 25 1 the
+25 26 2 embodiment
+26 27 3 2
+27 28 4 offers
+28 29 9 the
+29 30 10 embodiment
+30 31 11 1
+31 32 5 the
+32 33 8 as
+33 34 6 same
+34 35 7 advantages
+35 36 12 . 8.63373100766
+36
+0 37 1 the
+37 38 2 embodiment
+38 39 3 2
+39 40 4 offers
+40 41 9 the
+41 42 10 embodiment
+42 43 11 1
+43 44 8 as
+44 45 6 same
+45 46 5 the
+46 47 7 advantages
+47 48 12 . 3.90634318895
+48
+0 49 1 the
+49 50 2 embodiment
+50 51 3 2
+51 52 9 the
+52 53 10 embodiment
+53 54 11 1
+54 55 8 as
+55 56 4 offers
+56 57 6 same
+57 58 5 the
+58 59 7 advantages
+59 60 12 . 4.59067973983
+60
+0 61 1 the
+61 62 2 embodiment
+62 63 3 2
+63 64 9 the
+64 65 10 embodiment
+65 66 11 1
+66 67 8 as
+67 68 5 the
+68 69 6 same
+69 70 4 offers
+70 71 7 advantages
+71 72 12 . 7.9405838271
+72
+0 73 1 the
+73 74 2 embodiment
+74 75 3 2
+75 76 9 the
+76 77 10 embodiment
+77 78 11 1
+78 79 8 as
+79 80 6 same
+80 81 4 offers
+81 82 5 the
+82 83 7 advantages
+83 84 12 . 6.55428946599
+84
+0 85 1 the
+85 86 2 embodiment
+86 87 3 2
+87 88 4 offers
+88 89 9 the
+89 90 10 embodiment
+90 91 11 1
+91 92 8 as
+92 93 6 same
+93 94 7 advantages
+94 95 5 the
+95 96 12 . 4.17938371141
+96
+0 97 1 the
+97 98 2 embodiment
+98 99 3 2
+99 100 4 offers
+100 101 9 the
+101 102 10 embodiment
+102 103 11 1
+103 104 8 as
+104 105 7 advantages
+105 106 5 the
+106 107 6 same
+107 108 12 . 5.6892920285
+108

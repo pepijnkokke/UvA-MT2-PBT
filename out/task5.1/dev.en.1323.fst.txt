@@ -1,0 +1,380 @@
+0 1 1 optimum
+1 2 2 embodiments
+2 3 12 explained
+3 4 17 the
+4 5 18 drawings
+5 6 16 to
+6 7 15 reference
+7 8 14 with
+8 9 5 the
+9 10 6 present
+10 11 7 invention
+11 12 4 to
+12 13 3 according
+13 14 8 will
+14 15 9 be
+15 16 10 listed
+16 17 11 and
+17 18 13 hereinafter
+18 19 19 . 2.37316004566
+19
+0 20 1 optimum
+20 21 12 explained
+21 22 17 the
+22 23 18 drawings
+23 24 16 to
+24 25 15 reference
+25 26 14 with
+26 27 2 embodiments
+27 28 5 the
+28 29 6 present
+29 30 7 invention
+30 31 4 to
+31 32 3 according
+32 33 8 will
+33 34 9 be
+34 35 10 listed
+35 36 11 and
+36 37 13 hereinafter
+37 38 19 . 7.4483338609
+38
+0 39 1 optimum
+39 40 2 embodiments
+40 41 12 explained
+41 42 17 the
+42 43 18 drawings
+43 44 16 to
+44 45 15 reference
+45 46 14 with
+46 47 5 the
+47 48 6 present
+48 49 7 invention
+49 50 8 will
+50 51 4 to
+51 52 3 according
+52 53 9 be
+53 54 10 listed
+54 55 11 and
+55 56 13 hereinafter
+56 57 19 . 3.33745999672
+57
+0 58 12 explained
+58 59 17 the
+59 60 18 drawings
+60 61 16 to
+61 62 15 reference
+62 63 14 with
+63 64 1 optimum
+64 65 5 the
+65 66 6 present
+66 67 7 invention
+67 68 4 to
+68 69 3 according
+69 70 2 embodiments
+70 71 8 will
+71 72 9 be
+72 73 10 listed
+73 74 11 and
+74 75 13 hereinafter
+75 76 19 . 2.78489476679
+76
+0 77 12 explained
+77 78 17 the
+78 79 18 drawings
+79 80 16 to
+80 81 15 reference
+81 82 14 with
+82 83 1 optimum
+83 84 2 embodiments
+84 85 5 the
+85 86 6 present
+86 87 7 invention
+87 88 4 to
+88 89 3 according
+89 90 8 will
+90 91 9 be
+91 92 10 listed
+92 93 11 and
+93 94 13 hereinafter
+94 95 19 . 0.948546820242
+95
+0 96 1 optimum
+96 97 2 embodiments
+97 98 12 explained
+98 99 17 the
+99 100 18 drawings
+100 101 16 to
+101 102 15 reference
+102 103 14 with
+103 104 5 the
+104 105 6 present
+105 106 7 invention
+106 107 4 to
+107 108 3 according
+108 109 8 will
+109 110 9 be
+110 111 11 and
+111 112 10 listed
+112 113 13 hereinafter
+113 114 19 . 7.4483338609
+114
+0 115 1 optimum
+115 116 2 embodiments
+116 117 12 explained
+117 118 17 the
+118 119 18 drawings
+119 120 16 to
+120 121 15 reference
+121 122 14 with
+122 123 6 present
+123 124 5 the
+124 125 7 invention
+125 126 4 to
+126 127 3 according
+127 128 8 will
+128 129 9 be
+129 130 10 listed
+130 131 11 and
+131 132 13 hereinafter
+132 133 19 . 7.4483338609
+133
+0 134 12 explained
+134 135 17 the
+135 136 18 drawings
+136 137 16 to
+137 138 15 reference
+138 139 14 with
+139 140 5 the
+140 141 6 present
+141 142 7 invention
+142 143 1 optimum
+143 144 2 embodiments
+144 145 4 to
+145 146 3 according
+146 147 8 will
+147 148 9 be
+148 149 10 listed
+149 150 11 and
+150 151 13 hereinafter
+151 152 19 . 6.34972157223
+152
+0 153 12 explained
+153 154 17 the
+154 155 18 drawings
+155 156 16 to
+156 157 15 reference
+157 158 14 with
+158 159 1 optimum
+159 160 2 embodiments
+160 161 5 the
+161 162 6 present
+162 163 7 invention
+163 164 8 will
+164 165 4 to
+165 166 3 according
+166 167 9 be
+167 168 10 listed
+168 169 11 and
+169 170 13 hereinafter
+170 171 19 . 1.95939613474
+171
+0 172 12 explained
+172 173 17 the
+173 174 18 drawings
+174 175 16 to
+175 176 15 reference
+176 177 14 with
+177 178 5 the
+178 179 6 present
+179 180 7 invention
+180 181 4 to
+181 182 3 according
+182 183 1 optimum
+183 184 2 embodiments
+184 185 8 will
+185 186 9 be
+186 187 10 listed
+187 188 11 and
+188 189 13 hereinafter
+189 190 19 . 1.714992584
+190
+0 191 1 optimum
+191 192 12 explained
+192 193 17 the
+193 194 18 drawings
+194 195 16 to
+195 196 15 reference
+196 197 14 with
+197 198 5 the
+198 199 6 present
+199 200 7 invention
+200 201 8 will
+201 202 4 to
+202 203 3 according
+203 204 2 embodiments
+204 205 9 be
+205 206 10 listed
+206 207 11 and
+207 208 13 hereinafter
+208 209 19 . 7.4483338609
+209
+0 210 12 explained
+210 211 17 the
+211 212 18 drawings
+212 213 16 to
+213 214 14 with
+214 215 15 reference
+215 216 1 optimum
+216 217 2 embodiments
+217 218 5 the
+218 219 6 present
+219 220 7 invention
+220 221 4 to
+221 222 3 according
+222 223 8 will
+223 224 9 be
+224 225 10 listed
+225 226 11 and
+226 227 13 hereinafter
+227 228 19 . 7.4483338609
+228
+0 229 1 optimum
+229 230 2 embodiments
+230 231 12 explained
+231 232 17 the
+232 233 18 drawings
+233 234 16 to
+234 235 15 reference
+235 236 14 with
+236 237 5 the
+237 238 6 present
+238 239 7 invention
+239 240 4 to
+240 241 3 according
+241 242 8 will
+242 243 11 and
+243 244 9 be
+244 245 10 listed
+245 246 13 hereinafter
+246 247 19 . 5.25110928356
+247
+0 248 12 explained
+248 249 17 the
+249 250 18 drawings
+250 251 16 to
+251 252 15 reference
+252 253 14 with
+253 254 1 optimum
+254 255 2 embodiments
+255 256 5 the
+256 257 6 present
+257 258 7 invention
+258 259 4 to
+259 260 3 according
+260 261 9 be
+261 262 8 will
+262 263 10 listed
+263 264 11 and
+264 265 13 hereinafter
+265 266 19 . 6.06203949978
+266
+0 267 12 explained
+267 268 17 the
+268 269 18 drawings
+269 270 16 to
+270 271 15 reference
+271 272 14 with
+272 273 1 optimum
+273 274 5 the
+274 275 6 present
+275 276 7 invention
+276 277 8 will
+277 278 4 to
+278 279 3 according
+279 280 2 embodiments
+280 281 9 be
+281 282 10 listed
+282 283 11 and
+283 284 13 hereinafter
+284 285 19 . 3.64167137113
+285
+0 286 12 explained
+286 287 17 the
+287 288 18 drawings
+288 289 16 to
+289 290 14 with
+290 291 15 reference
+291 292 1 optimum
+292 293 2 embodiments
+293 294 5 the
+294 295 6 present
+295 296 7 invention
+296 297 8 will
+297 298 4 to
+298 299 3 according
+299 300 9 be
+300 301 10 listed
+301 302 11 and
+302 303 13 hereinafter
+303 304 19 . 7.4483338609
+304
+0 305 12 explained
+305 306 17 the
+306 307 18 drawings
+307 308 16 to
+308 309 15 reference
+309 310 14 with
+310 311 1 optimum
+311 312 2 embodiments
+312 313 5 the
+313 314 6 present
+314 315 7 invention
+315 316 8 will
+316 317 9 be
+317 318 4 to
+318 319 3 according
+319 320 10 listed
+320 321 11 and
+321 322 13 hereinafter
+322 323 19 . 6.75518668034
+323
+0 324 1 optimum
+324 325 2 embodiments
+325 326 12 explained
+326 327 17 the
+327 328 18 drawings
+328 329 16 to
+329 330 15 reference
+330 331 14 with
+331 332 5 the
+332 333 6 present
+333 334 7 invention
+334 335 8 will
+335 336 9 be
+336 337 10 listed
+337 338 4 to
+338 339 3 according
+339 340 11 and
+340 341 13 hereinafter
+341 342 19 . 2.84316367491
+342
+0 343 1 optimum
+343 344 2 embodiments
+344 345 12 explained
+345 346 17 the
+346 347 18 drawings
+347 348 16 to
+348 349 15 reference
+349 350 14 with
+350 351 5 the
+351 352 6 present
+352 353 7 invention
+353 354 8 will
+354 355 4 to
+355 356 3 according
+356 357 11 and
+357 358 9 be
+358 359 10 listed
+359 360 13 hereinafter
+360 361 19 . 5.83889594846
+361

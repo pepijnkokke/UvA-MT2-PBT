@@ -1,0 +1,17 @@
+0 1 1 a
+1 2 2 polysilicon
+2 3 3 pad
+3 4 4 211a
+4 5 5 is
+5 6 6 formed
+6 7 7 on
+7 8 8 impurity
+8 9 9 region
+9 10 10 203f
+10 11 11 and
+11 12 12 is
+12 13 13 electrically
+13 14 14 connected
+14 15 15 thereof
+15 16 16 .
+16

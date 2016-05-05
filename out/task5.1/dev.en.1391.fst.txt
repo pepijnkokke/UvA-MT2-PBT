@@ -1,0 +1,133 @@
+0 1 1 the
+1 2 2 lock
+2 3 3 arms
+3 4 4 24
+4 5 8 continuous
+5 6 11 the
+6 7 12 ribs
+7 8 13 23
+8 9 14 and
+9 10 15 23
+10 11 10 to
+11 12 9 relation
+12 13 7 in
+13 14 5 are
+14 15 6 formed
+15 16 16 ,
+16 17 17 respectively
+17 18 18 . 1.72519870271
+18
+0 19 1 the
+19 20 2 lock
+20 21 3 arms
+21 22 4 24
+22 23 8 continuous
+23 24 11 the
+24 25 12 ribs
+25 26 13 23
+26 27 14 and
+27 28 10 to
+28 29 9 relation
+29 30 15 23
+30 31 7 in
+31 32 5 are
+32 33 6 formed
+33 34 16 ,
+34 35 17 respectively
+35 36 18 . 1.77171871834
+36
+0 37 1 the
+37 38 2 lock
+38 39 3 arms
+39 40 4 24
+40 41 8 continuous
+41 42 11 the
+42 43 12 ribs
+43 44 13 23
+44 45 14 and
+45 46 10 to
+46 47 9 relation
+47 48 7 in
+48 49 5 are
+49 50 6 formed
+50 51 15 23
+51 52 16 ,
+52 53 17 respectively
+53 54 18 . 1.26089309458
+54
+0 55 1 the
+55 56 2 lock
+56 57 3 arms
+57 58 4 24
+58 59 8 continuous
+59 60 11 the
+60 61 12 ribs
+61 62 13 23
+62 63 14 and
+63 64 10 to
+64 65 9 relation
+65 66 5 are
+66 67 7 in
+67 68 6 formed
+68 69 15 23
+69 70 16 ,
+70 71 17 respectively
+71 72 18 . 6.20253551719
+72
+0 73 1 the
+73 74 2 lock
+74 75 3 arms
+75 76 4 24
+76 77 8 continuous
+77 78 11 the
+78 79 12 ribs
+79 80 13 23
+80 81 14 and
+81 82 15 23
+82 83 10 to
+83 84 9 relation
+84 85 7 in
+85 86 5 are
+86 87 6 formed
+87 88 17 respectively
+88 89 16 ,
+89 90 18 . 1.9978428978
+90
+0 91 1 the
+91 92 2 lock
+92 93 3 arms
+93 94 4 24
+94 95 8 continuous
+95 96 11 the
+96 97 12 ribs
+97 98 13 23
+98 99 14 and
+99 100 10 to
+100 101 9 relation
+101 102 15 23
+102 103 7 in
+103 104 5 are
+104 105 6 formed
+105 106 17 respectively
+106 107 16 ,
+107 108 18 . 2.17718382645
+108
+0 109 1 the
+109 110 2 lock
+110 111 3 arms
+111 112 4 24
+112 113 5 are
+113 114 8 continuous
+114 115 11 the
+115 116 12 ribs
+116 117 13 23
+117 118 14 and
+118 119 15 23
+119 120 10 to
+120 121 9 relation
+121 122 7 in
+122 123 6 formed
+123 124 16 ,
+124 125 17 respectively
+125 126 18 . 2.14209250664
+126

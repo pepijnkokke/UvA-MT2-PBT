@@ -1,0 +1,272 @@
+0 1 1 a
+1 2 2 polysilicon
+2 3 3 pad
+3 4 4 211a
+4 5 5 is
+5 6 8 impurity
+6 7 9 region
+7 8 10 203f
+8 9 11 and
+9 10 7 on
+10 11 6 formed
+11 12 12 is
+12 13 15 thereof
+13 14 13 electrically
+14 15 14 connected
+15 16 16 . 1.22886696887
+16
+0 17 1 a
+17 18 2 polysilicon
+18 19 3 pad
+19 20 4 211a
+20 21 5 is
+21 22 8 impurity
+22 23 9 region
+23 24 10 203f
+24 25 7 on
+25 26 11 and
+26 27 6 formed
+27 28 12 is
+28 29 15 thereof
+29 30 13 electrically
+30 31 14 connected
+31 32 16 . 8.10409905614
+32
+0 33 1 a
+33 34 2 polysilicon
+34 35 3 pad
+35 36 4 211a
+36 37 5 is
+37 38 8 impurity
+38 39 9 region
+39 40 10 203f
+40 41 7 on
+41 42 6 formed
+42 43 11 and
+43 44 12 is
+44 45 15 thereof
+45 46 13 electrically
+46 47 14 connected
+47 48 16 . 1.07235779738
+48
+0 49 1 a
+49 50 2 polysilicon
+50 51 3 pad
+51 52 4 211a
+52 53 5 is
+53 54 8 impurity
+54 55 9 region
+55 56 10 203f
+56 57 11 and
+57 58 7 on
+58 59 6 formed
+59 60 15 thereof
+60 61 12 is
+61 62 13 electrically
+62 63 14 connected
+63 64 16 . 6.71780469502
+64
+0 65 1 a
+65 66 2 polysilicon
+66 67 3 pad
+67 68 4 211a
+68 69 5 is
+69 70 8 impurity
+70 71 9 region
+71 72 10 203f
+72 73 11 and
+73 74 12 is
+74 75 7 on
+75 76 6 formed
+76 77 15 thereof
+77 78 13 electrically
+78 79 14 connected
+79 80 16 . 4.60759149468
+80
+0 81 1 a
+81 82 2 polysilicon
+82 83 3 pad
+83 84 4 211a
+84 85 5 is
+85 86 8 impurity
+86 87 9 region
+87 88 10 203f
+88 89 11 and
+89 90 7 on
+90 91 6 formed
+91 92 12 is
+92 93 13 electrically
+93 94 15 thereof
+94 95 14 connected
+95 96 16 . 5.90687447881
+96
+0 97 1 a
+97 98 2 polysilicon
+98 99 3 pad
+99 100 4 211a
+100 101 5 is
+101 102 8 impurity
+102 103 9 region
+103 104 10 203f
+104 105 7 on
+105 106 6 formed
+106 107 11 and
+107 108 15 thereof
+108 109 12 is
+109 110 13 electrically
+110 111 14 connected
+111 112 16 . 5.90687447881
+112
+0 113 1 a
+113 114 2 polysilicon
+114 115 3 pad
+115 116 4 211a
+116 117 5 is
+117 118 8 impurity
+118 119 10 203f
+119 120 9 region
+120 121 7 on
+121 122 6 formed
+122 123 11 and
+123 124 12 is
+124 125 15 thereof
+125 126 13 electrically
+126 127 14 connected
+127 128 16 . 8.10409905614
+128
+0 129 1 a
+129 130 2 polysilicon
+130 131 3 pad
+131 132 4 211a
+132 133 5 is
+133 134 8 impurity
+134 135 9 region
+135 136 10 203f
+136 137 7 on
+137 138 6 formed
+138 139 11 and
+139 140 12 is
+140 141 13 electrically
+141 142 15 thereof
+142 143 14 connected
+143 144 16 . 6.02465751446
+144
+0 145 1 a
+145 146 2 polysilicon
+146 147 3 pad
+147 148 4 211a
+148 149 5 is
+149 150 8 impurity
+150 151 9 region
+151 152 10 203f
+152 153 7 on
+153 154 6 formed
+154 155 12 is
+155 156 11 and
+156 157 15 thereof
+157 158 13 electrically
+158 159 14 connected
+159 160 16 . 6.02465751446
+160
+0 161 1 a
+161 162 2 polysilicon
+162 163 3 pad
+163 164 4 211a
+164 165 5 is
+165 166 8 impurity
+166 167 9 region
+167 168 7 on
+168 169 6 formed
+169 170 10 203f
+170 171 11 and
+171 172 12 is
+172 173 15 thereof
+173 174 13 electrically
+174 175 14 connected
+175 176 16 . 1.11108393321
+176
+0 177 1 a
+177 178 2 polysilicon
+178 179 3 pad
+179 180 4 211a
+180 181 5 is
+181 182 8 impurity
+182 183 9 region
+183 184 10 203f
+184 185 11 and
+185 186 7 on
+186 187 12 is
+187 188 15 thereof
+188 189 13 electrically
+189 190 14 connected
+190 191 6 formed
+191 192 16 . 8.10409905614
+192
+0 193 1 a
+193 194 2 polysilicon
+194 195 3 pad
+195 196 4 211a
+196 197 5 is
+197 198 10 203f
+198 199 8 impurity
+199 200 9 region
+200 201 11 and
+201 202 7 on
+202 203 6 formed
+203 204 12 is
+204 205 15 thereof
+205 206 13 electrically
+206 207 14 connected
+207 208 16 . 7.00548676748
+208
+0 209 1 a
+209 210 2 polysilicon
+210 211 3 pad
+211 212 4 211a
+212 213 5 is
+213 214 8 impurity
+214 215 9 region
+215 216 10 203f
+216 217 11 and
+217 218 12 is
+218 219 7 on
+219 220 6 formed
+220 221 13 electrically
+221 222 15 thereof
+222 223 14 connected
+223 224 16 . 8.10409905614
+224
+0 225 1 a
+225 226 2 polysilicon
+226 227 3 pad
+227 228 4 211a
+228 229 5 is
+229 230 8 impurity
+230 231 9 region
+231 232 10 203f
+232 233 7 on
+233 234 6 formed
+234 235 15 thereof
+235 236 11 and
+236 237 12 is
+237 238 13 electrically
+238 239 14 connected
+239 240 16 . 5.90687447881
+240
+0 241 1 a
+241 242 2 polysilicon
+242 243 3 pad
+243 244 4 211a
+244 245 5 is
+245 246 8 impurity
+246 247 9 region
+247 248 10 203f
+248 249 11 and
+249 250 7 on
+250 251 6 formed
+251 252 12 is
+252 253 13 electrically
+253 254 14 connected
+254 255 15 thereof
+255 256 16 . 4.63836315334
+256

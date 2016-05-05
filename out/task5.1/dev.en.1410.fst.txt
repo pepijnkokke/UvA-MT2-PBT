@@ -1,0 +1,322 @@
+0 1 1 next
+1 2 3 are
+2 3 10 the
+3 4 11 b1
+4 5 12 channel
+5 6 9 of
+6 7 6 transmitting
+7 8 7 call
+8 9 8 data
+9 10 5 for
+10 11 4 behaviors
+11 12 2 explained
+12 13 13 . 0.981705037626
+13
+0 14 1 next
+14 15 3 are
+15 16 10 the
+16 17 11 b1
+17 18 12 channel
+18 19 9 of
+19 20 7 call
+20 21 8 data
+21 22 6 transmitting
+22 23 5 for
+23 24 4 behaviors
+24 25 2 explained
+25 26 13 . 0.867042129304
+26
+0 27 1 next
+27 28 3 are
+28 29 10 the
+29 30 11 b1
+30 31 9 of
+31 32 12 channel
+32 33 6 transmitting
+33 34 7 call
+34 35 8 data
+35 36 5 for
+36 37 4 behaviors
+37 38 2 explained
+38 39 13 . 8.13944052187
+39
+0 40 1 next
+40 41 3 are
+41 42 10 the
+42 43 11 b1
+43 44 12 channel
+44 45 6 transmitting
+45 46 9 of
+46 47 7 call
+47 48 8 data
+48 49 5 for
+49 50 4 behaviors
+50 51 2 explained
+51 52 13 . 5.19500154271
+52
+0 53 1 next
+53 54 3 are
+54 55 10 the
+55 56 11 b1
+56 57 12 channel
+57 58 9 of
+58 59 6 transmitting
+59 60 7 call
+60 61 5 for
+61 62 8 data
+62 63 4 behaviors
+63 64 2 explained
+64 65 13 . 8.13944052187
+65
+0 66 1 next
+66 67 3 are
+67 68 11 b1
+68 69 10 the
+69 70 12 channel
+70 71 9 of
+71 72 6 transmitting
+72 73 7 call
+73 74 8 data
+74 75 5 for
+75 76 4 behaviors
+76 77 2 explained
+77 78 13 . 5.83685542888
+78
+0 79 1 next
+79 80 3 are
+80 81 10 the
+81 82 11 b1
+82 83 12 channel
+83 84 9 of
+84 85 8 data
+85 86 6 transmitting
+86 87 7 call
+87 88 5 for
+88 89 4 behaviors
+89 90 2 explained
+90 91 13 . 4.40177090359
+91
+0 92 1 next
+92 93 3 are
+93 94 11 b1
+94 95 10 the
+95 96 12 channel
+96 97 9 of
+97 98 7 call
+98 99 8 data
+99 100 6 transmitting
+100 101 5 for
+101 102 4 behaviors
+102 103 2 explained
+103 104 13 . 6.0599989802
+104
+0 105 1 next
+105 106 3 are
+106 107 10 the
+107 108 11 b1
+108 109 12 channel
+109 110 9 of
+110 111 7 call
+111 112 8 data
+112 113 5 for
+113 114 6 transmitting
+114 115 4 behaviors
+115 116 2 explained
+116 117 13 . 5.65453387209
+117
+0 118 1 next
+118 119 3 are
+119 120 10 the
+120 121 11 b1
+121 122 12 channel
+122 123 6 transmitting
+123 124 7 call
+124 125 9 of
+125 126 8 data
+126 127 5 for
+127 128 4 behaviors
+128 129 2 explained
+129 130 13 . 8.13944052187
+130
+0 131 1 next
+131 132 3 are
+132 133 10 the
+133 134 11 b1
+134 135 9 of
+135 136 7 call
+136 137 8 data
+137 138 12 channel
+138 139 6 transmitting
+139 140 5 for
+140 141 4 behaviors
+141 142 2 explained
+142 143 13 . 3.56472954337
+143
+0 144 1 next
+144 145 3 are
+145 146 9 of
+146 147 10 the
+147 148 11 b1
+148 149 12 channel
+149 150 6 transmitting
+150 151 7 call
+151 152 8 data
+152 153 5 for
+153 154 4 behaviors
+154 155 2 explained
+155 156 13 . 4.70545331739
+156
+0 157 1 next
+157 158 10 the
+158 159 11 b1
+159 160 12 channel
+160 161 3 are
+161 162 9 of
+162 163 6 transmitting
+163 164 7 call
+164 165 8 data
+165 166 5 for
+166 167 4 behaviors
+167 168 2 explained
+168 169 13 . 7.04082823321
+169
+0 170 1 next
+170 171 3 are
+171 172 12 channel
+172 173 10 the
+173 174 11 b1
+174 175 9 of
+175 176 6 transmitting
+176 177 7 call
+177 178 8 data
+178 179 5 for
+179 180 4 behaviors
+180 181 2 explained
+181 182 13 . 3.03957409405
+182
+0 183 1 next
+183 184 3 are
+184 185 10 the
+185 186 11 b1
+186 187 12 channel
+187 188 7 call
+188 189 8 data
+189 190 9 of
+190 191 6 transmitting
+191 192 5 for
+192 193 4 behaviors
+193 194 2 explained
+194 195 13 . 6.75314616076
+195
+0 196 1 next
+196 197 3 are
+197 198 10 the
+198 199 11 b1
+199 200 9 of
+200 201 6 transmitting
+201 202 7 call
+202 203 8 data
+203 204 12 channel
+204 205 5 for
+205 206 4 behaviors
+206 207 2 explained
+207 208 13 . 3.69678926539
+208
+0 209 1 next
+209 210 3 are
+210 211 9 of
+211 212 10 the
+212 213 11 b1
+213 214 12 channel
+214 215 7 call
+215 216 8 data
+216 217 6 transmitting
+217 218 5 for
+218 219 4 behaviors
+219 220 2 explained
+220 221 13 . 5.14370824832
+221
+0 222 1 next
+222 223 10 the
+223 224 11 b1
+224 225 12 channel
+225 226 3 are
+226 227 9 of
+227 228 7 call
+228 229 8 data
+229 230 6 transmitting
+230 231 5 for
+231 232 4 behaviors
+232 233 2 explained
+233 234 13 . 7.44629334131
+234
+0 235 1 next
+235 236 3 are
+236 237 12 channel
+237 238 10 the
+238 239 11 b1
+239 240 9 of
+240 241 7 call
+241 242 8 data
+242 243 6 transmitting
+243 244 5 for
+244 245 4 behaviors
+245 246 2 explained
+246 247 13 . 3.18361346427
+247
+0 248 1 next
+248 249 3 are
+249 250 10 the
+250 251 11 b1
+251 252 12 channel
+252 253 9 of
+253 254 6 transmitting
+254 255 5 for
+255 256 7 call
+256 257 8 data
+257 258 4 behaviors
+258 259 2 explained
+259 260 13 . 5.19500154271
+260
+0 261 1 next
+261 262 3 are
+262 263 11 b1
+263 264 12 channel
+264 265 10 the
+265 266 9 of
+266 267 6 transmitting
+267 268 7 call
+268 269 8 data
+269 270 5 for
+270 271 4 behaviors
+271 272 2 explained
+272 273 13 . 4.73824314021
+273
+0 274 1 next
+274 275 3 are
+275 276 10 the
+276 277 11 b1
+277 278 9 of
+278 279 7 call
+279 280 8 data
+280 281 6 transmitting
+281 282 12 channel
+282 283 5 for
+283 284 4 behaviors
+284 285 2 explained
+285 286 13 . 5.83685542888
+286
+0 287 1 next
+287 288 3 are
+288 289 10 the
+289 290 11 b1
+290 291 12 channel
+291 292 9 of
+292 293 6 transmitting
+293 294 7 call
+294 295 5 for
+295 296 4 behaviors
+296 297 8 data
+297 298 2 explained
+298 299 13 . 7.44629334131
+299

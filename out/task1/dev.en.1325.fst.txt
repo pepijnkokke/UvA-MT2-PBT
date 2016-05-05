@@ -1,0 +1,16 @@
+0 1 1 corresponding
+1 2 2 parts
+2 3 3 /
+3 4 4 programs
+4 5 5 are
+5 6 6 shown
+6 7 7 on
+7 8 8 the
+8 9 9 right
+9 10 10 side
+10 11 11 of
+11 12 12 each
+12 13 13 parts
+13 14 14 table
+14 15 15 .
+15

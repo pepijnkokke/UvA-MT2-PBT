@@ -1,0 +1,247 @@
+0 1 1 fig
+1 2 2 .
+2 3 3 8
+3 4 4 is
+4 5 8 the
+5 6 9 overall
+6 7 10 control
+7 8 11 procedure
+8 9 7 showing
+9 10 5 a
+10 11 6 flowchart
+11 12 12 . 0.0879257472569
+12
+0 13 1 fig
+13 14 2 .
+14 15 3 8
+15 16 4 is
+16 17 9 overall
+17 18 8 the
+18 19 10 control
+19 20 11 procedure
+20 21 7 showing
+21 22 5 a
+22 23 6 flowchart
+23 24 12 . 3.88563625025
+24
+0 25 1 fig
+25 26 2 .
+26 27 3 8
+27 28 4 is
+28 29 8 the
+29 30 9 overall
+30 31 10 control
+31 32 11 procedure
+32 33 5 a
+33 34 7 showing
+34 35 6 flowchart
+35 36 12 . 6.94590704495
+36
+0 37 1 fig
+37 38 2 .
+38 39 3 8
+39 40 4 is
+40 41 8 the
+41 42 9 overall
+42 43 10 control
+43 44 11 procedure
+44 45 7 showing
+45 46 6 flowchart
+46 47 5 a
+47 48 12 . 4.31481788498
+48
+0 49 1 fig
+49 50 2 .
+50 51 3 8
+51 52 4 is
+52 53 8 the
+53 54 9 overall
+54 55 10 control
+55 56 7 showing
+56 57 11 procedure
+57 58 5 a
+58 59 6 flowchart
+59 60 12 . 9.14313162228
+60
+0 61 1 fig
+61 62 2 .
+62 63 4 is
+63 64 3 8
+64 65 8 the
+65 66 9 overall
+66 67 10 control
+67 68 11 procedure
+68 69 7 showing
+69 70 5 a
+70 71 6 flowchart
+71 72 12 . 9.14313162228
+72
+0 73 1 fig
+73 74 2 .
+74 75 3 8
+75 76 4 is
+76 77 9 overall
+77 78 10 control
+78 79 8 the
+79 80 11 procedure
+80 81 7 showing
+81 82 5 a
+82 83 6 flowchart
+83 84 12 . 7.75683726116
+84
+0 85 1 fig
+85 86 2 .
+86 87 3 8
+87 88 4 is
+88 89 9 overall
+89 90 8 the
+90 91 10 control
+91 92 11 procedure
+92 93 7 showing
+93 94 6 flowchart
+94 95 5 a
+95 96 12 . 7.75683726116
+96
+0 97 1 fig
+97 98 2 .
+98 99 3 8
+99 100 4 is
+100 101 8 the
+101 102 10 control
+102 103 11 procedure
+103 104 9 overall
+104 105 7 showing
+105 106 5 a
+106 107 6 flowchart
+107 108 12 . 5.04878706006
+108
+0 109 1 fig
+109 110 2 .
+110 111 3 8
+111 112 4 is
+112 113 8 the
+113 114 9 overall
+114 115 10 control
+115 116 11 procedure
+116 117 5 a
+117 118 6 flowchart
+118 119 7 showing
+119 120 12 . 6.09860918456
+120
+0 121 1 fig
+121 122 3 8
+122 123 4 is
+123 124 2 .
+124 125 8 the
+125 126 9 overall
+126 127 10 control
+127 128 11 procedure
+128 129 7 showing
+129 130 5 a
+130 131 6 flowchart
+131 132 12 . 8.44998444172
+132
+0 133 3 8
+133 134 1 fig
+134 135 2 .
+135 136 4 is
+136 137 8 the
+137 138 9 overall
+138 139 10 control
+139 140 11 procedure
+140 141 7 showing
+141 142 5 a
+142 143 6 flowchart
+143 144 12 . 9.14313162228
+144
+0 145 2 .
+145 146 3 8
+146 147 1 fig
+147 148 4 is
+148 149 8 the
+149 150 9 overall
+150 151 10 control
+151 152 11 procedure
+152 153 7 showing
+153 154 5 a
+154 155 6 flowchart
+155 156 12 . 9.14313162228
+156
+0 157 1 fig
+157 158 2 .
+158 159 3 8
+159 160 4 is
+160 161 9 overall
+161 162 10 control
+162 163 11 procedure
+163 164 8 the
+164 165 7 showing
+165 166 5 a
+166 167 6 flowchart
+167 168 12 . 3.30832088522
+168
+0 169 1 fig
+169 170 2 .
+170 171 3 8
+171 172 4 is
+172 173 9 overall
+173 174 8 the
+174 175 10 control
+175 176 11 procedure
+176 177 5 a
+177 178 6 flowchart
+178 179 7 showing
+179 180 12 . 8.44998444172
+180
+0 181 1 fig
+181 182 2 .
+182 183 3 8
+183 184 4 is
+184 185 11 procedure
+185 186 8 the
+186 187 9 overall
+187 188 10 control
+188 189 7 showing
+189 190 5 a
+190 191 6 flowchart
+191 192 12 . 9.14313162228
+192
+0 193 1 fig
+193 194 2 .
+194 195 3 8
+195 196 4 is
+196 197 8 the
+197 198 10 control
+198 199 11 procedure
+199 200 9 overall
+200 201 7 showing
+201 202 6 flowchart
+202 203 5 a
+203 204 12 . 8.44998444172
+204
+0 205 1 fig
+205 206 2 .
+206 207 3 8
+207 208 4 is
+208 209 8 the
+209 210 9 overall
+210 211 10 control
+211 212 7 showing
+212 213 5 a
+213 214 6 flowchart
+214 215 11 procedure
+215 216 12 . 7.19722147323
+216
+0 217 1 fig
+217 218 2 .
+218 219 3 8
+219 220 4 is
+220 221 9 overall
+221 222 10 control
+222 223 11 procedure
+223 224 7 showing
+224 225 8 the
+225 226 5 a
+226 227 6 flowchart
+227 228 12 . 6.6582249725
+228

@@ -1,0 +1,252 @@
+0 1 8 the
+1 2 9 photosensor
+2 3 10 twice
+3 4 7 from
+4 5 4 reading
+5 6 5 output
+6 7 6 signals
+7 8 11 is
+8 9 14 fig
+9 10 15 .
+10 11 16 7
+11 12 13 in
+12 13 12 shown
+13 14 3 of
+14 15 1 a
+15 16 2 process
+16 17 17 . 4.21582445976
+17
+0 18 8 the
+18 19 9 photosensor
+19 20 10 twice
+20 21 7 from
+21 22 4 reading
+22 23 5 output
+23 24 6 signals
+24 25 11 is
+25 26 14 fig
+26 27 15 .
+27 28 13 in
+28 29 12 shown
+29 30 16 7
+30 31 3 of
+31 32 1 a
+32 33 2 process
+33 34 17 . 3.46205265738
+34
+0 35 8 the
+35 36 9 photosensor
+36 37 10 twice
+37 38 7 from
+38 39 4 reading
+39 40 5 output
+40 41 6 signals
+41 42 11 is
+42 43 14 fig
+43 44 13 in
+44 45 15 .
+45 46 12 shown
+46 47 16 7
+47 48 3 of
+48 49 1 a
+49 50 2 process
+50 51 17 . 6.988413182
+51
+0 52 8 the
+52 53 9 photosensor
+53 54 10 twice
+54 55 7 from
+55 56 4 reading
+56 57 5 output
+57 58 6 signals
+58 59 11 is
+59 60 3 of
+60 61 1 a
+61 62 2 process
+62 63 14 fig
+63 64 15 .
+64 65 16 7
+65 66 13 in
+66 67 12 shown
+67 68 17 . 6.29526600144
+68
+0 69 8 the
+69 70 9 photosensor
+70 71 10 twice
+71 72 7 from
+72 73 4 reading
+73 74 5 output
+74 75 6 signals
+75 76 11 is
+76 77 14 fig
+77 78 13 in
+78 79 12 shown
+79 80 15 .
+80 81 16 7
+81 82 3 of
+82 83 1 a
+83 84 2 process
+84 85 17 . 3.5226772792
+85
+0 86 8 the
+86 87 9 photosensor
+87 88 10 twice
+88 89 7 from
+89 90 4 reading
+90 91 5 output
+91 92 6 signals
+92 93 3 of
+93 94 1 a
+94 95 2 process
+95 96 11 is
+96 97 14 fig
+97 98 15 .
+98 99 16 7
+99 100 13 in
+100 101 12 shown
+101 102 17 . 0.110086713708
+102
+0 103 9 photosensor
+103 104 8 the
+104 105 10 twice
+105 106 7 from
+106 107 4 reading
+107 108 5 output
+108 109 6 signals
+109 110 11 is
+110 111 14 fig
+111 112 15 .
+112 113 16 7
+113 114 13 in
+114 115 12 shown
+115 116 3 of
+116 117 1 a
+117 118 2 process
+118 119 17 . 6.988413182
+119
+0 120 8 the
+120 121 9 photosensor
+121 122 10 twice
+122 123 7 from
+123 124 4 reading
+124 125 5 output
+125 126 6 signals
+126 127 11 is
+127 128 14 fig
+128 129 15 .
+129 130 12 shown
+130 131 13 in
+131 132 16 7
+132 133 3 of
+133 134 1 a
+134 135 2 process
+135 136 17 . 6.988413182
+136
+0 137 8 the
+137 138 9 photosensor
+138 139 10 twice
+139 140 7 from
+140 141 4 reading
+141 142 5 output
+142 143 6 signals
+143 144 3 of
+144 145 1 a
+145 146 2 process
+146 147 11 is
+147 148 14 fig
+148 149 15 .
+149 150 13 in
+150 151 12 shown
+151 152 16 7
+152 153 17 . 5.19665371277
+153
+0 154 9 photosensor
+154 155 8 the
+155 156 10 twice
+156 157 7 from
+157 158 4 reading
+158 159 5 output
+159 160 6 signals
+160 161 11 is
+161 162 14 fig
+162 163 15 .
+163 164 13 in
+164 165 12 shown
+165 166 16 7
+166 167 3 of
+167 168 1 a
+168 169 2 process
+169 170 17 . 6.988413182
+170
+0 171 10 twice
+171 172 8 the
+172 173 9 photosensor
+173 174 7 from
+174 175 4 reading
+175 176 5 output
+176 177 6 signals
+177 178 11 is
+178 179 14 fig
+179 180 15 .
+180 181 16 7
+181 182 13 in
+182 183 12 shown
+183 184 3 of
+184 185 1 a
+185 186 2 process
+186 187 17 . 5.60211882088
+187
+0 188 10 twice
+188 189 8 the
+189 190 9 photosensor
+190 191 7 from
+191 192 4 reading
+192 193 5 output
+193 194 6 signals
+194 195 11 is
+195 196 14 fig
+196 197 15 .
+197 198 13 in
+198 199 12 shown
+199 200 16 7
+200 201 3 of
+201 202 1 a
+202 203 2 process
+203 204 17 . 4.68582808901
+204
+0 205 8 the
+205 206 9 photosensor
+206 207 10 twice
+207 208 7 from
+208 209 4 reading
+209 210 5 output
+210 211 6 signals
+211 212 11 is
+212 213 14 fig
+213 214 13 in
+214 215 12 shown
+215 216 3 of
+216 217 1 a
+217 218 2 process
+218 219 15 .
+219 220 16 7
+220 221 17 . 6.988413182
+221
+0 222 8 the
+222 223 9 photosensor
+223 224 10 twice
+224 225 7 from
+225 226 4 reading
+226 227 5 output
+227 228 6 signals
+228 229 3 of
+229 230 1 a
+230 231 2 process
+231 232 11 is
+232 233 14 fig
+233 234 13 in
+234 235 15 .
+235 236 16 7
+236 237 12 shown
+237 238 17 . 5.60211882088
+238

@@ -1,0 +1,15 @@
+0 1 1 the
+1 2 2 use
+2 3 3 of
+3 4 4 a
+4 5 5 robot
+5 6 6 for
+6 7 7 deburring
+7 8 8 work
+8 9 9 is
+9 10 10 a
+10 11 11 known
+11 12 12 prior
+12 13 13 art
+13 14 14 .
+14

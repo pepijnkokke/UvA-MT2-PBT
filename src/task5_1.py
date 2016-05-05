@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
     # Convert English sentences to FSTs.
     with open(dev_en, 'r') as f:
-        sentences = parse_sentences(f)
+        sentences = parse_sentences(f)[s:s+n]
 
     for i, sentence in enumerate(sentences):
 
