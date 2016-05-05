@@ -52,9 +52,42 @@ def find_best_derivations_rec(all_arcs, state):
 
 def print_to_best_derivations(print_result, os = sys.stdout):
     for (js, es, p) in find_best_derivations(print_result):
+
+        constructing_phrase = False
+        finished_english_phrase = False
+        phrase = []
+        phrase_begin = 0
+        phrase_end = 0
+
         for i,j in enumerate(js):
+
             e = int(es[i])
-            os.write("{} |{}-{}| ".format(j, i, e))
+
+            if constructing_phrase:
+                if j == '<epsilon>' and finished_english_phrase == False:
+                    phrase_end = e
+                    continue
+                else:
+                    finished_english_phrase = True
+                    if e == 0:
+                        phrase.append(j)
+                        continue
+                    else:
+                        os.write("{} |{}-{}| ".format(' '.join(phrase), phrase_begin, phrase_end))
+                        phrase = []
+                        constructing_phrase = False
+                        finished_english_phrase = False
+
+            if j == '<epsilon>':
+                constructing_phrase = True
+                phrase_begin = e
+                phrase_end = e
+            else:
+                os.write("{} |{}-{}| ".format(j, e, e))
+
+        if constructing_phrase:
+            os.write("{} |{}-{}| ".format(' '.join(phrase), phrase_begin, phrase_end))
+
         os.write("\n")
 
 
