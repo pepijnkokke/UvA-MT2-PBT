@@ -88,10 +88,10 @@ if __name__ == "__main__":
     data_dir = os.path.realpath(os.getenv('DATA_DIR',
                    os.path.join(os.path.join(src_dir,'..'),'data')))
     out_dir = os.getenv('OUT_DIR', os.path.join(os.path.join(src_dir, '..'), 'out'))
-    task5_out_dir = os.path.join(out_dir, 'task5')
+    task5_1_out_dir = os.path.join(out_dir, 'task5.1')
 
     # Make sure the out/ directory exists.
-    mkdir_p(task5_out_dir)
+    mkdir_p(task5_1_out_dir)
 
     # Set the path to the input file (dev.en).
     dev_en = os.getenv('DEV_EN',os.path.join(data_dir,'dev.enpp.nbest'))
@@ -111,28 +111,32 @@ if __name__ == "__main__":
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        fst_txt_file = os.path.join(task5_out_dir,'dev.en.{}.fst.txt'.format(i))
+        fst_txt_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst.txt'.format(i))
         with open(fst_txt_file, 'w') as f: sentence_to_fst(sentence, f)
 
-        osyms_file = os.path.join(task5_out_dir,'dev.en.{}.osyms'.format(i))
+        osyms_file = os.path.join(task5_1_out_dir,'dev.en.{}.osyms'.format(i))
         with open(osyms_file, 'w') as f: sentence_to_osyms(sentence, f)
 
-        fst_file = os.path.join(task5_out_dir,'dev.en.{}.fst'.format(i))
+        fst_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst'.format(i))
         subprocess.call(['fstcompile',
                          '--keep_osymbols',
                          '--osymbols={}'.format(osyms_file),
                          fst_txt_file,fst_file])
 
+        subprocess.call(['fstpush','--push_weights=true', fst_file, fst_file])
+        subprocess.call(['fstdeterminize', fst_file, fst_file])
+        subprocess.call(['fstminimize', fst_file, fst_file])
+
         subprocess.call(['fstarcsort',
                          '--sort_type=olabel',
                          fst_file,fst_file])
 
-        dot_file = os.path.join(task5_out_dir, 'dev.en.{}.dot'.format(i))
+        dot_file = os.path.join(task5_1_out_dir, 'dev.en.{}.dot'.format(i))
         subprocess.call(['fstdraw',
                          '--portrait=true',
                          fst_file, dot_file])
 
-        png_file = os.path.join(task5_out_dir, 'dev.en.{}.png'.format(i))
+        png_file = os.path.join(task5_1_out_dir, 'dev.en.{}.png'.format(i))
         subprocess.call(['dot', '-Tpng', '-Gdpi=300', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")
