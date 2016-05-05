@@ -7,7 +7,7 @@ orientation = Portrait;
 ranksep = "0.4";
 nodesep = "0.25";
 0 [label = "0", shape = circle, style = bold, fontsize = 14]
-	0 -> 1 [label = "1:data/0.00097656", fontsize = 14];
+	0 -> 1 [label = "1:data/1.2422", fontsize = 14];
 1 [label = "1", shape = circle, style = solid, fontsize = 14]
 	1 -> 2 [label = "2:generating", fontsize = 14];
 2 [label = "2", shape = circle, style = solid, fontsize = 14]
@@ -17,8 +17,8 @@ nodesep = "0.25";
 4 [label = "4", shape = circle, style = solid, fontsize = 14]
 	4 -> 5 [label = "5:is", fontsize = 14];
 5 [label = "5", shape = circle, style = solid, fontsize = 14]
-	5 -> 6 [label = "6:also/0.03418", fontsize = 14];
-	5 -> 7 [label = "9:power-supply", fontsize = 14];
+	5 -> 6 [label = "6:also", fontsize = 14];
+	5 -> 7 [label = "9:power-supply/0.36816", fontsize = 14];
 6 [label = "6", shape = circle, style = solid, fontsize = 14]
 	6 -> 8 [label = "9:power-supply", fontsize = 14];
 7 [label = "7", shape = circle, style = solid, fontsize = 14]
@@ -30,28 +30,28 @@ nodesep = "0.25";
 10 [label = "10", shape = circle, style = solid, fontsize = 14]
 	10 -> 12 [label = "11:circuit", fontsize = 14];
 11 [label = "11", shape = circle, style = solid, fontsize = 14]
-	11 -> 13 [label = "8:to/0.13477", fontsize = 14];
+	11 -> 13 [label = "8:to/0.38965", fontsize = 14];
 	11 -> 14 [label = "12:7", fontsize = 14];
 12 [label = "12", shape = circle, style = solid, fontsize = 14]
 	12 -> 15 [label = "12:7", fontsize = 14];
 13 [label = "13", shape = circle, style = solid, fontsize = 14]
 	13 -> 16 [label = "7:connected", fontsize = 14];
 14 [label = "14", shape = circle, style = solid, fontsize = 14]
-	14 -> 17 [label = "6:also/0.00097656", fontsize = 14];
+	14 -> 17 [label = "6:also/4.5947", fontsize = 14];
 	14 -> 18 [label = "8:to", fontsize = 14];
-	14 -> 19 [label = "13:and", fontsize = 14];
+	14 -> 19 [label = "13:and/0.74414", fontsize = 14];
 15 [label = "15", shape = circle, style = solid, fontsize = 14]
 	15 -> 20 [label = "8:to", fontsize = 14];
-	15 -> 21 [label = "13:and/0.0625", fontsize = 14];
+	15 -> 21 [label = "13:and/1.085", fontsize = 14];
 16 [label = "16", shape = circle, style = solid, fontsize = 14]
 	16 -> 22 [label = "6:also", fontsize = 14];
 17 [label = "17", shape = circle, style = solid, fontsize = 14]
 	17 -> 23 [label = "8:to", fontsize = 14];
 18 [label = "18", shape = circle, style = solid, fontsize = 14]
-	18 -> 23 [label = "6:also", fontsize = 14];
+	18 -> 23 [label = "6:also/5.6934", fontsize = 14];
 	18 -> 24 [label = "7:connected", fontsize = 14];
 19 [label = "19", shape = circle, style = solid, fontsize = 14]
-	19 -> 21 [label = "6:also", fontsize = 14];
+	19 -> 21 [label = "6:also/4.9492", fontsize = 14];
 	19 -> 25 [label = "8:to", fontsize = 14];
 20 [label = "20", shape = circle, style = solid, fontsize = 14]
 	20 -> 26 [label = "7:connected", fontsize = 14];
@@ -63,20 +63,20 @@ nodesep = "0.25";
 	23 -> 28 [label = "7:connected", fontsize = 14];
 24 [label = "24", shape = circle, style = solid, fontsize = 14]
 	24 -> 29 [label = "6:also", fontsize = 14];
-	24 -> 30 [label = "13:and", fontsize = 14];
-	24 -> 31 [label = "15:the/0.020508", fontsize = 14];
+	24 -> 30 [label = "13:and/5.6934", fontsize = 14];
+	24 -> 31 [label = "15:the/2.2598", fontsize = 14];
 25 [label = "25", shape = circle, style = solid, fontsize = 14]
 	25 -> 32 [label = "7:connected", fontsize = 14];
 26 [label = "26", shape = circle, style = solid, fontsize = 14]
-	26 -> 33 [label = "13:and", fontsize = 14];
-	26 -> 34 [label = "15:the/0.25391", fontsize = 14];
+	26 -> 33 [label = "13:and/2.1104", fontsize = 14];
+	26 -> 34 [label = "15:the", fontsize = 14];
 27 [label = "27", shape = circle, style = solid, fontsize = 14]
 	27 -> 33 [label = "7:connected", fontsize = 14];
 28 [label = "28", shape = circle, style = solid, fontsize = 14]
 	28 -> 34 [label = "15:the", fontsize = 14];
 29 [label = "29", shape = circle, style = solid, fontsize = 14]
-	29 -> 35 [label = "13:and", fontsize = 14];
-	29 -> 36 [label = "15:the/0.00097656", fontsize = 14];
+	29 -> 35 [label = "13:and/1.9561", fontsize = 14];
+	29 -> 36 [label = "15:the", fontsize = 14];
 30 [label = "30", shape = circle, style = solid, fontsize = 14]
 	30 -> 33 [label = "6:also", fontsize = 14];
 31 [label = "31", shape = circle, style = solid, fontsize = 14]
@@ -90,7 +90,7 @@ nodesep = "0.25";
 35 [label = "35", shape = circle, style = solid, fontsize = 14]
 	35 -> 41 [label = "15:the", fontsize = 14];
 36 [label = "36", shape = circle, style = solid, fontsize = 14]
-	36 -> 42 [label = "13:and", fontsize = 14];
+	36 -> 42 [label = "13:and/4.5947", fontsize = 14];
 	36 -> 43 [label = "16:reset", fontsize = 14];
 37 [label = "37", shape = circle, style = solid, fontsize = 14]
 	37 -> 44 [label = "17:signal", fontsize = 14];
@@ -119,9 +119,9 @@ nodesep = "0.25";
 49 [label = "49", shape = circle, style = solid, fontsize = 14]
 	49 -> 55 [label = "16:reset", fontsize = 14];
 50 [label = "50", shape = circle, style = solid, fontsize = 14]
-	50 -> 53 [label = "13:and/0.19824", fontsize = 14];
-	50 -> 56 [label = "14:receives", fontsize = 14];
-	50 -> 57 [label = "18:/", fontsize = 14];
+	50 -> 53 [label = "13:and", fontsize = 14];
+	50 -> 56 [label = "14:receives/5", fontsize = 14];
+	50 -> 57 [label = "18://5", fontsize = 14];
 51 [label = "51", shape = circle, style = solid, fontsize = 14]
 	51 -> 58 [label = "14:receives", fontsize = 14];
 52 [label = "52", shape = circle, style = solid, fontsize = 14]
@@ -129,8 +129,8 @@ nodesep = "0.25";
 53 [label = "53", shape = circle, style = solid, fontsize = 14]
 	53 -> 60 [label = "14:receives", fontsize = 14];
 54 [label = "54", shape = circle, style = solid, fontsize = 14]
-	54 -> 60 [label = "14:receives/0.027344", fontsize = 14];
-	54 -> 61 [label = "18:/", fontsize = 14];
+	54 -> 60 [label = "14:receives", fontsize = 14];
+	54 -> 61 [label = "18://0.37012", fontsize = 14];
 55 [label = "55", shape = circle, style = solid, fontsize = 14]
 	55 -> 60 [label = "17:signal", fontsize = 14];
 56 [label = "56", shape = circle, style = solid, fontsize = 14]
@@ -140,18 +140,18 @@ nodesep = "0.25";
 58 [label = "58", shape = circle, style = solid, fontsize = 14]
 	58 -> 60 [label = "6:also", fontsize = 14];
 59 [label = "59", shape = circle, style = solid, fontsize = 14]
-	59 -> 60 [label = "14:receives/0.069336", fontsize = 14];
+	59 -> 60 [label = "14:receives/0.30469", fontsize = 14];
 	59 -> 63 [label = "18:/", fontsize = 14];
 60 [label = "60", shape = circle, style = solid, fontsize = 14]
 	60 -> 64 [label = "18:/", fontsize = 14];
 61 [label = "61", shape = circle, style = solid, fontsize = 14]
-	61 -> 64 [label = "14:receives", fontsize = 14];
-	61 -> 65 [label = "19:res/0.018555", fontsize = 14];
+	61 -> 64 [label = "14:receives/3.3672", fontsize = 14];
+	61 -> 65 [label = "19:res", fontsize = 14];
 62 [label = "62", shape = circle, style = solid, fontsize = 14]
 	62 -> 64 [label = "14:receives", fontsize = 14];
 63 [label = "63", shape = circle, style = solid, fontsize = 14]
-	63 -> 64 [label = "14:receives", fontsize = 14];
-	63 -> 65 [label = "19:res/0.09375", fontsize = 14];
+	63 -> 64 [label = "14:receives/4.9492", fontsize = 14];
+	63 -> 65 [label = "19:res", fontsize = 14];
 64 [label = "64", shape = circle, style = solid, fontsize = 14]
 	64 -> 66 [label = "19:res", fontsize = 14];
 65 [label = "65", shape = circle, style = solid, fontsize = 14]

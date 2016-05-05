@@ -15,6 +15,7 @@ import itertools
 import os
 import subprocess
 import sys
+import math
 
 
 def sentence_to_fst(sentence, os = sys.stdout):
@@ -29,7 +30,7 @@ def sentence_to_fst(sentence, os = sys.stdout):
                 os.write("0 {} {} {}\n".format(i + 1, indices[j] + 1, w))
             else:
                 if j == len(tokens) - 1:
-                    os.write("{} {} {} {} {}\n".format(i, i + 1, indices[j] + 1, w, feature_map['prob']))
+                    os.write("{} {} {} {} {}\n".format(i, i + 1, indices[j] + 1, w, -math.log(feature_map['prob'])))
                 else:
                     os.write("{} {} {} {}\n".format(i, i + 1, indices[j] + 1, w))
             i += 1
