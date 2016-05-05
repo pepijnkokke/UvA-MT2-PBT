@@ -65,17 +65,17 @@ if __name__ == "__main__":
     data_dir = os.getenv('DATA_DIR',os.path.join(os.path.join(src_dir,'..'),'data'))
     out_dir = os.getenv('OUT_DIR', os.path.join(os.path.join(src_dir, '..'), 'out'))
 
-    task1_out_dir = os.path.join(out_dir, 'task1')
-    task2_out_dir = os.path.join(out_dir, 'task2')
-    task3_out_dir = os.path.join(out_dir, 'task3')
+    task5_1_out_dir = os.path.join(out_dir, 'task5.1')
+    task5_2_out_dir = os.path.join(out_dir, 'task5.2')
+    task6_out_dir = os.path.join(out_dir, 'task6')
 
     # Make sure the out/ directory exists.
-    mkdir_p(task3_out_dir)
+    mkdir_p(task6_out_dir)
 
     # Set the path to the input file (dev.en).
     dev_en_fst\
-        = os.path.join(task1_out_dir,'dev.en')
-    grammar_fst            = os.path.join(task1_out_dir,'grammar')
+        = os.path.join(task5_1_out_dir,'dev.en')
+    grammar_fst            = os.path.join(task5_1_out_dir,'grammar')
 
     # Set the number of sentences to convert to FSTs.
     n = os.getenv('N',10)
@@ -86,38 +86,41 @@ if __name__ == "__main__":
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        dev_en_file = os.path.join(task1_out_dir,'dev.en.{}.fst'.format(i))
-        grammar_file = os.path.join(task2_out_dir,'grammar.{}.fst'.format(i))
+        dev_en_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst'.format(i))
+        grammar_file = os.path.join(task5_2_out_dir,'grammar.{}.fst'.format(i))
 
-        composed_file = os.path.join(task3_out_dir, 'composed.{}.fst'.format(i))
+        composed_file = os.path.join(task6_out_dir, 'composed.{}.fst'.format(i))
         subprocess.call(['fstcompose',
                          '--connect=false',
                          dev_en_file, grammar_file, composed_file])
 
-        isyms_file = os.path.join(task1_out_dir, 'dev.en.{}.osyms'.format(i))
+        isyms_file = os.path.join(task5_1_out_dir, 'dev.en.{}.osyms'.format(i))
 
-        shortest_file = os.path.join(task3_out_dir, 'shortest.{}.fst'.format(i))
+        shortest_file = os.path.join(task6_out_dir, 'shortest.{}.fst'.format(i))
         subprocess.call(['fstshortestpath',
                          '--nshortest=100',
                          composed_file, shortest_file ])
 
         # subprocess.call(['fstrmepsilon', shortest_file, shortest_file])
         # subprocess.call(['fstdisambiguate', shortest_file, shortest_file])
+
         subprocess.call(['fstrmepsilon', shortest_file, shortest_file])
         subprocess.call(['fstpush', '--push_weights=true', shortest_file, shortest_file])
+        # subprocess.call(['fstdeterminize', shortest_file, shortest_file])
+        # subprocess.call(['fstminimize', shortest_file, shortest_file])
 
         print_result = subprocess.check_output(['fstprint', shortest_file])
 
-        best_file = os.path.join(task3_out_dir, 'monotone.100best.{}'.format(i))
+        best_file = os.path.join(task6_out_dir, 'lattice.100best.{}'.format(i))
         with open(best_file, 'w') as f:
             print_to_best_derivations(print_result, f)
 
-        dot_file = os.path.join(task3_out_dir, 'shortest.{}.dot'.format(i))
+        dot_file = os.path.join(task6_out_dir, 'shortest.{}.dot'.format(i))
         subprocess.call(['fstdraw',
                          '--portrait=true',
                          shortest_file, dot_file])
 
-        png_file = os.path.join(task3_out_dir, 'shortest.{}.png'.format(i))
+        png_file = os.path.join(task6_out_dir, 'shortest.{}.png'.format(i))
         subprocess.call(['dot', '-Tpng','-Gdpi=300', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")
