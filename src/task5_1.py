@@ -98,7 +98,8 @@ if __name__ == "__main__":
     dev_en = os.getenv('DEV_EN',os.path.join(data_dir,'dev.enpp.nbest'))
 
     # Set the number of sentences to convert to FSTs.
-    n = os.getenv('N',10)
+    s = os.getenv('S', 1316)
+    n = os.getenv('N', 100)
 
     # Convert English sentences to FSTs.
     with open(dev_en, 'r') as f:
@@ -109,16 +110,18 @@ if __name__ == "__main__":
         if i >= n:
             break
 
+        j = i + s
+
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        fst_txt_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst.txt'.format(i))
+        fst_txt_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst.txt'.format(j))
         with open(fst_txt_file, 'w') as f: sentence_to_fst(sentence, f)
 
-        osyms_file = os.path.join(task5_1_out_dir,'dev.en.{}.osyms'.format(i))
+        osyms_file = os.path.join(task5_1_out_dir,'dev.en.{}.osyms'.format(j))
         with open(osyms_file, 'w') as f: sentence_to_osyms(sentence, f)
 
-        fst_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst'.format(i))
+        fst_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst'.format(j))
         subprocess.call(['fstcompile',
                          '--keep_osymbols',
                          '--osymbols={}'.format(osyms_file),
@@ -132,12 +135,12 @@ if __name__ == "__main__":
                          '--sort_type=olabel',
                          fst_file,fst_file])
 
-        dot_file = os.path.join(task5_1_out_dir, 'dev.en.{}.dot'.format(i))
+        dot_file = os.path.join(task5_1_out_dir, 'dev.en.{}.dot'.format(j))
         subprocess.call(['fstdraw',
                          '--portrait=true',
                          fst_file, dot_file])
 
-        png_file = os.path.join(task5_1_out_dir, 'dev.en.{}.png'.format(i))
+        png_file = os.path.join(task5_1_out_dir, 'dev.en.{}.png'.format(j))
         subprocess.call(['dot', '-Tpng', '-Gdpi=300', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")

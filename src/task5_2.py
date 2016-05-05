@@ -152,7 +152,8 @@ if __name__ == "__main__":
                                    os.path.join(data_dir,'rules.n-best.dev'))
 
     # Set the number of sentences to convert to FSTs.
-    n = os.getenv('N',10)
+    s = os.getenv('S', 1316)
+    n = os.getenv('N', 100)
 
     # Read the first N entries from DEV_EN.
     with open(dev_en, 'r') as f:
@@ -171,6 +172,8 @@ if __name__ == "__main__":
 
         if i >= n:
             break
+
+        j = i + s
 
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()

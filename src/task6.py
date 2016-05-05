@@ -10,6 +10,7 @@ import math
 import os
 import subprocess
 import sys
+import operator
 
 
 def find_best_derivations(print_data):
@@ -50,7 +51,7 @@ def find_best_derivations_rec(all_arcs, state):
     return results
 
 
-def print_to_best_derivations(print_result, os = sys.stdout):
+def best_derivations_alignments(print_result, os = sys.stdout):
     for (js, es, p) in find_best_derivations(print_result):
 
         constructing_phrase = False
@@ -91,6 +92,30 @@ def print_to_best_derivations(print_result, os = sys.stdout):
         os.write("\n")
 
 
+def find_best_derivation(print_result):
+    (js, _, _) = find_best_derivations(print_result)[0];
+    return ' '.join([x for x in js if x != '<epsilon>'])
+
+
+def find_best_translation(print_result):
+
+    score_map = {}
+
+    for (js, _, p) in find_best_derivations(print_result):
+
+        j = ' '.join([x for x in js if x != '<epsilon>'])
+
+        if j in score_map:
+            score_map[j] += p
+        else:
+            score_map[j] = p
+
+    score_items = score_map.items()
+    (translation, _) = sorted(score_items, key=operator.itemgetter(1))[0]
+
+    return translation
+
+
 if __name__ == "__main__":
 
     # Set the path to the src/, data/ and out/ directories.
@@ -110,26 +135,32 @@ if __name__ == "__main__":
         = os.path.join(task5_1_out_dir,'dev.en')
     grammar_fst            = os.path.join(task5_1_out_dir,'grammar')
 
+    best_derivations = []
+    best_translations = []
+
     # Set the number of sentences to convert to FSTs.
-    n = os.getenv('N',10)
+    s = os.getenv('S', 1316)
+    n = os.getenv('N', 100)
 
     # Iterate over fsts
-    for i in range(0,n):
+    for i in range(0, n):
+
+        j = s + i
 
         sys.stdout.write("\r{}/{}".format(i + 1, n))
         sys.stdout.flush()
 
-        dev_en_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst'.format(i))
-        grammar_file = os.path.join(task5_2_out_dir,'grammar.{}.fst'.format(i))
+        dev_en_file = os.path.join(task5_1_out_dir,'dev.en.{}.fst'.format(j))
+        grammar_file = os.path.join(task5_2_out_dir,'grammar.{}.fst'.format(j))
 
-        composed_file = os.path.join(task6_out_dir, 'composed.{}.fst'.format(i))
+        composed_file = os.path.join(task6_out_dir, 'composed.{}.fst'.format(j))
         subprocess.call(['fstcompose',
                          '--connect=false',
                          dev_en_file, grammar_file, composed_file])
 
-        isyms_file = os.path.join(task5_1_out_dir, 'dev.en.{}.osyms'.format(i))
+        isyms_file = os.path.join(task5_1_out_dir, 'dev.en.{}.osyms'.format(j))
 
-        shortest_file = os.path.join(task6_out_dir, 'shortest.{}.fst'.format(i))
+        shortest_file = os.path.join(task6_out_dir, 'shortest.{}.fst'.format(j))
         subprocess.call(['fstshortestpath',
                          '--nshortest=100',
                          composed_file, shortest_file ])
@@ -144,17 +175,30 @@ if __name__ == "__main__":
 
         print_result = subprocess.check_output(['fstprint', shortest_file])
 
-        best_file = os.path.join(task6_out_dir, 'lattice.100best.{}'.format(i))
+        best_file = os.path.join(task6_out_dir, 'lattice.100best.{}'.format(j))
         with open(best_file, 'w') as f:
-            print_to_best_derivations(print_result, f)
+            best_derivations_alignments(print_result, f)
 
-        dot_file = os.path.join(task6_out_dir, 'shortest.{}.dot'.format(i))
-        subprocess.call(['fstdraw',
-                         '--portrait=true',
-                         shortest_file, dot_file])
+        best_derivations.append(find_best_derivation(print_result))
+        best_translations.append(find_best_translation(print_result))
 
-        png_file = os.path.join(task6_out_dir, 'shortest.{}.png'.format(i))
-        subprocess.call(['dot', '-Tpng','-Gdpi=300', dot_file, '-o', png_file])
+        # dot_file = os.path.join(task6_out_dir, 'shortest.{}.dot'.format(j))
+        # subprocess.call(['fstdraw',
+        #                  '--portrait=true',
+        #                  shortest_file, dot_file])
+        #
+        # png_file = os.path.join(task6_out_dir, 'shortest.{}.png'.format(j))
+        # subprocess.call(['dot', '-Tpng','-Gdpi=300', dot_file, '-o', png_file])
 
     sys.stdout.write("\r")
     sys.stdout.flush()
+
+    best_derivations_file = os.path.join(task6_out_dir, 'lattice.der')
+    with open(best_derivations_file, 'w') as f:
+        for d in best_derivations:
+            f.write('{}\n'.format(d))
+
+    best_translations_file = os.path.join(task6_out_dir, 'lattice.trans')
+    with open(best_translations_file, 'w') as f:
+        for t in best_translations:
+            f.write('{}\n'.format(t))
